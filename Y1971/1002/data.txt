@@ -1,0 +1,10 @@
+name-last:  Ruth
+name-first:  A.
+name-nick: Babe
+ 
+birth-date: 1899-02-23
+ 
+death-date: 1971
+ 
+cemetery-name:  Hamilton Cemetery
+cemetery-place: US, TX, Retreat

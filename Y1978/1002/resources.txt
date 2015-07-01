@@ -1,0 +1,8 @@
+source-title:  The Pantagraph
+source-date: 1978-03-22  
+source-url:  newspapers.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-31
+contributor-email: timcopeland64@gmail.com

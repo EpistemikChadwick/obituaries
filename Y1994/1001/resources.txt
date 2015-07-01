@@ -1,0 +1,8 @@
+source-title:  The Galveston Daily News
+source-date: 1994-03-18  
+source-url:  newspapers.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-09
+contributor-email: timcopeland64@gmail.com

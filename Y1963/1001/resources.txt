@@ -1,0 +1,8 @@
+source-title:  Corsicana Daily Sun
+source-date: 1963-01-09  
+source-url:  newspapers.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-23
+contributor-email: timcopeland64@gmail.com

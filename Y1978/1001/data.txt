@@ -1,0 +1,13 @@
+name-last: Holland
+name-first: Orell
+name-given: Orell G.
+name-nick: Apple
+ 
+birth-date: 1901-06-29
+birth-place: US, PA, Kane
+ 
+death-date: 1978-07-27
+death-place: US, PA, North East
+ 
+cemetery-name:  Trinity Cemetery
+cemetery-place: US, PA, Erie

@@ -1,0 +1,8 @@
+name-last: James
+name-first: William
+name-given: William A.
+name-nick: Tony
+ 
+death-date: 1917-08-02
+death-place: US, OH, Magnetic Springs
+ 

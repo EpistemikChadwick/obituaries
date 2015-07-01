@@ -1,0 +1,5 @@
+name-last: Meaney
+name-first: Pat
+ 
+death-date: 1922-10-20
+death-place: US, PA, Philadelphia

@@ -1,0 +1,8 @@
+source-title:  The Progress
+source-date: 1964-06-23  
+source-url:  newspapers.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-22
+contributor-email: timcopeland64@gmail.com

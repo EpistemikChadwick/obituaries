@@ -1,0 +1,12 @@
+name-last: Crooks
+name-given: Dean Millard
+ 
+birth-date: 1925-03-06
+birth-place: US, PA, McKean Township
+ 
+death-date: 1976-10-04
+death-place: US, PA, Kittanning 
+ 
+military-country: US
+military-branch:  Navy
+military-conflict: World War II

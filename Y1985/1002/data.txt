@@ -1,0 +1,15 @@
+name-last: Cavanaugh
+name-first: William
+name-given: William J.
+ 
+birth-place: US, CT, Waterbury
+ 
+death-date: 1985-08-21
+death-place: US, RI, Providence
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Rhode Island Veterans Memorial Cemetery
+cemetery-place: US, RI, Exeter

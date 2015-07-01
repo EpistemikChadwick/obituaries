@@ -1,0 +1,6 @@
+name-last:  Cosgrove
+name-first:  Joe
+name-given: Joseph
+ 
+death-date: 1967-12-28
+death-place: US, CT, Waterbury

@@ -1,0 +1,13 @@
+name-last: Underwood
+name-first: Floyd
+name-given: Floyd A.
+name-nick: Mike
+ 
+birth-date: 1907-09-09
+birth-place: US, KS, De Kalb
+ 
+death-date: 1964-07-01
+death-place: US, KS, Wichita
+ 
+cemetery-name: Maplewood Memorial Lawn Cemetery 
+cemetery-place: US, KS, Emporia 

@@ -1,0 +1,10 @@
+name-last: Sprinkle
+name-first: Ross 
+name-given: Ross C.
+ 
+birth-date: 1883-08-22
+birth-place: US, OH, Waterloo
+ 
+death-date: 1960-11-28
+death-place: US, OH, Springfield
+ 

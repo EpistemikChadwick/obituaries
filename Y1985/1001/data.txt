@@ -1,0 +1,11 @@
+name-last: Pancoe
+name-first: Joseph
+ 
+birth-place: US, PA, Lansford
+ 
+death-date: 1985-03-30
+death-place: US, OH, Youngstown
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II

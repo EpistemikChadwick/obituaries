@@ -1,0 +1,7 @@
+name-last:  Crosby
+name-first:  Willie
+name-given: Willie Lee
+ 
+death-date: 1927-02-11
+death-place: US, TX, Gilmer 
+ 

@@ -1,0 +1,8 @@
+source-title:  The Brooklyn Daily Eagle
+source-date: 1943-07-08  
+source-url:  newspapers.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-31
+contributor-email: timcopeland64@gmail.com

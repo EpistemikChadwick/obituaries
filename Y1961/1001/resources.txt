@@ -1,0 +1,8 @@
+source-title:  The Galveston Daily News
+source-date: 1961-01-28  
+source-url:  newspapers.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-27
+contributor-email: timcopeland64@gmail.com

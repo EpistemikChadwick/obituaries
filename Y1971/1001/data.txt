@@ -1,0 +1,9 @@
+name-last: Slaughter
+name-given: W. Glenn
+ 
+death-date: 1971-07-25
+death-place: US, NC, Mebane 
+ 
+cemetery-name:  Alamance Memorial Park
+cemetery-place: US, NC, Burlington 
+ 

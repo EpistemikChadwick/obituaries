@@ -1,0 +1,16 @@
+name-last: Rushing
+name-given: Herbert E.
+name-nick: Doodle
+ 
+birth-date: 1907-04-17
+birth-place: US, MS, Hazlehurst
+ 
+death-date: 1973-08-23
+death-place: US, NV, Reno
+ 
+school-level: college
+school-name: St. Louis Uviversity
+ 
+cemetery-name:  Arlington Memorial Park
+cemetery-place: US, AR, El Dorado
+ 

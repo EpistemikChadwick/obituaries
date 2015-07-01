@@ -1,0 +1,16 @@
+name-last: Tagliente
+name-first: August
+name-given: August G. 
+ 
+birth-date: 1924-08-17
+birth-place: US, PA, Clearfield
+ 
+death-date: 1964-06-22
+death-place: US, PA, Clearfield
+ 
+military-country: US
+military-branch:  Army
+military-conflict: World War II
+ 
+cemetery-name:  Calvary Cemetery
+cemetery-place: US, PA, Clearfield

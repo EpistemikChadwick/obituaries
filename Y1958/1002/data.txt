@@ -1,0 +1,5 @@
+name-last:  Sterling
+name-first:  Kent
+ 
+death-date: 1958-11-14
+death-place: US, IN, Lafayette
