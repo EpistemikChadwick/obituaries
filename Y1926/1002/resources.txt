@@ -1,0 +1,8 @@
+source-title:  The Decatur Review
+source-date: 1926-07-05  
+source-url:  newspaperarchive.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-06-12
+contributor-email: timcopeland64@gmail.com

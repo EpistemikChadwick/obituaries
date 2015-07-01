@@ -1,0 +1,8 @@
+source-title: Louis Sigloch obit from the Pine Plains Register-Herald
+source-file-name: Louis Sigloch obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-24

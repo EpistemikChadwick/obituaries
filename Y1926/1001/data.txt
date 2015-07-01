@@ -1,0 +1,6 @@
+name-last: Regenold
+name-first: Ernest
+name-nick: Piggey
+ 
+death-date: 1926-07-03
+death-place: US, IN, Evansville

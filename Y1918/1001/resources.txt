@@ -1,0 +1,8 @@
+source-title: Jack Love obit in San Antonio Light
+source-file-name: Jack Love obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-23

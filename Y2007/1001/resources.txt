@@ -1,0 +1,9 @@
+source-title: Nick Vidnovic obit
+source-file-name: Nick Vidnovic obit.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-24
+ 

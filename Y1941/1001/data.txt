@@ -1,0 +1,6 @@
+name-last: Clark
+name-first: Charles
+name-given: Charles S.
+ 
+death-date: 1941-01-04
+ 

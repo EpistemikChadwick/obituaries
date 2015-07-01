@@ -1,0 +1,5 @@
+name-last: Love
+name-first: Jack
+ 
+death-place: US, AR, Russellville
+ 

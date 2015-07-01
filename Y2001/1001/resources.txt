@@ -1,0 +1,8 @@
+source-title: Tilio Panaranto obit
+source-file-name: Tilio Panaranto obit.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-25

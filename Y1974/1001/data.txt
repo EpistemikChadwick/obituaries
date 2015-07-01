@@ -1,0 +1,12 @@
+name-last: Lujack
+name-first: Stanley
+name-given: Stanley A.
+ 
+birth-place: US, PA, Connellsville
+ 
+death-date: 1974-08-18
+death-place: US, FL, Bradenton 
+ 
+military-country: US
+military-branch:  Navy
+military-conflict: World War II

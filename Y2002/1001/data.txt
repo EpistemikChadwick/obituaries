@@ -1,0 +1,17 @@
+name-last: Sigloch      
+name-first: Louis
+name-given: Louis Charles
+name-suffix: III
+ 
+birth-date: 1916-03-17
+birth-place: US, CA, Oakland
+ 
+death-date: 2002-12-31
+death-place: US, TX, Houston
+ 
+school-level: college
+school-name: Brown University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

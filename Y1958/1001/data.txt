@@ -1,0 +1,6 @@
+name-last:  Moraghan
+name-first:  Martin
+name-given: Martin J.
+ 
+death-date: 1958-04-01
+death-place: US, CT, Litchfield

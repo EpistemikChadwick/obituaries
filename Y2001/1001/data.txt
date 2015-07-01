@@ -1,0 +1,14 @@
+name-last: Panaranto
+name-first: Til
+name-given: Tilio
+ 
+birth-date: 1922-02-01
+birth-place: US, MI
+ 
+death-date: 2001-09-05
+death-place: US, FL, Melbourne
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

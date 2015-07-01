@@ -1,0 +1,13 @@
+name-last: Meyers
+name-first: Otto
+ 
+death-date: 1979-09-16
+death-place: US, CA, Santa Cruz
+ 
+military-country: US
+military-branch:  Army
+military-conflict: World War II
+ 
+cemetery-name:  Bayes Cemetery
+cemetery-place: US, OH, Wauseon
+ 

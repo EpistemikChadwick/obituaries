@@ -1,0 +1,20 @@
+name-last: Kunes
+name-first: Blaine
+name-given: Blaine W.
+ 
+birth-date: 1905-02-07
+birth-place: US, PA, Beech Creek
+ 
+death-date: 1986-08-21
+death-place: US, PA, Lock Haven
+ 
+school-level: secondary
+school-name:  Lock Haven HS
+school-place: US, PA, Lock Haven
+ 
+school-level: college
+school-name: Temple University
+ 
+cemetery-name: Hays-Fearon Cemetery
+cemetery-place: US, PA, Beech Creek
+ 

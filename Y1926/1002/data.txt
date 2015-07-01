@@ -1,0 +1,5 @@
+name-last: Regenold
+name-given: Ernest E.
+ 
+death-date: 1926-07-03
+death-place: US, IN, Evansville

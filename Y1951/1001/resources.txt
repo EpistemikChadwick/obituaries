@@ -1,0 +1,8 @@
+source-title: James Albert Murphy obit from Oct 2. 1951 Joplin Globe
+source-file-name: James Albert Murphy.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-15

@@ -1,0 +1,12 @@
+name-last: Murphy
+name-first: James
+name-given: James Albert
+ 
+birth-date: 1924-02-22
+birth-place: US, MO, Joplin
+ 
+death-date: 1951-09-30
+death-place: US, MO, Joplin
+ 
+cemetery-name: Hill Crest Cemetery
+cemetery-place: US, KS, Galena

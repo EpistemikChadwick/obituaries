@@ -1,0 +1,19 @@
+name-last: Vidnovic
+name-first: Nick
+ 
+birth-date: 1915-03-13
+birth-place: RS, Golubac, Ponikve
+ 
+death-date: 2007-05-02
+death-place: US, PA, McMurray
+ 
+school-level: secondary
+school-name:  McKeesport HS
+school-place: US, PA, McKeesport
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: McKeesport and Versailles Cemetery
+cemetery-place: US, PA, McKeesport
