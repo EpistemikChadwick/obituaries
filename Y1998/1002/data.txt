@@ -1,0 +1,17 @@
+name-last: Posipanka
+name-first: Raymond
+name-given: Raymond H.
+ 
+birth-date: 1927-03-16
+birth-place: US, OH, Cleveland
+ 
+death-date: 1998-02-18
+death-place: US, OH, Willoughby
+ 
+school-level: secondary
+school-name:  Cathedral Latin School
+school-place: US, OH, Cleveland
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1945-06-16 to 1946-12-02

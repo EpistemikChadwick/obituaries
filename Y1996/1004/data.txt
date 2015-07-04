@@ -1,0 +1,17 @@
+name-last: Owens
+name-first: Howard
+name-given: Howard Kinchen
+name-nick: Mickey
+ 
+birth-date: 1922-07-10
+birth-place: US, AL, Mobile
+ 
+death-date: 1996-07-28
+death-place: US, LA, Homer
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II
+ 
+cemetery-name: Resthaven Gardens of Memory and Mausoleum
+cemetery-place: US, LA, Baton Rouge

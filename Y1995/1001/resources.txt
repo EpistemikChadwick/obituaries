@@ -1,0 +1,8 @@
+source-title: Obit from Charlotte Observer
+source-file-name: Aaron Hartsoe obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-02

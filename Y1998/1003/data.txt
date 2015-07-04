@@ -1,0 +1,10 @@
+name-last: Rossi
+name-first: Marion
+name-given: Marion G.
+name-nick: Madeo
+ 
+birth-date: 1929-02-03
+birth-place: US, OH, Akron
+ 
+death-date: 1998-02-20
+death-place: US, OH, Akron

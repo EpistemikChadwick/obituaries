@@ -1,0 +1,14 @@
+name-last: Stafford
+name-first: Glenn
+name-given: Glenn William
+ 
+birth-date: 1915-01-16
+birth-place: US, NC, Taylorsville
+ 
+death-date: 1994-04-29
+death-place: US, FL, Fort Myers
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II
+ 

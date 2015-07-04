@@ -1,0 +1,19 @@
+name-last: Selbo
+name-first: Glen
+name-given: Glendon L.
+ 
+birth-date: 1926-03-29
+birth-place: US, WI, La Crosse
+ 
+death-date: 1995-05-29
+death-place: US, AZ, Sun City West
+ 
+school-level: college
+school-name: University of Wisconsin
+ 
+military-country: US
+military-branch: Navy
+military-conflict:  World War II # from 1944-07-01
+ 
+cemetery-name: National Memorial Cemetery of Arizona
+cemetery-place: US, AZ, Phoenix

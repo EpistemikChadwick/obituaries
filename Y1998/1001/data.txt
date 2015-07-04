@@ -1,0 +1,26 @@
+name-last: Dyer
+name-first: Bo
+name-given: Aubrey Leon
+name-suffix: Jr.
+ 
+birth-date: 1929-08-05
+birth-place: US, Al, Selma
+ 
+death-date: 1998-01-23
+death-place: US, GA, Trenton
+ 
+school-level: secondary
+school-name:  Baylor School
+school-place: US, TN, Chattanooga
+ 
+school-level: college
+school-name: Carson-Newman University
+ 
+school-level: college
+school-name: University of Tennessee at Chattanooga
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Lake Hills Memorial Gardens
+cemetery-place: US, GA, Trenton

@@ -1,0 +1,16 @@
+name-last: Stevenson
+name-first: Robert
+name-given: Robert Haynes
+ 
+birth-date: 1922-12-22
+birth-place: US, CA, San Diego
+ 
+death-date: 1997-10-11
+death-place: US, WA, Kennewick
+ 
+military-country: US
+military-branch: Navy
+military-conflict:  World War II # from 1942-11-27 to 1946-02-28
+ 
+cemetery-name: Desert Lawn Memorial Park
+cemetery-place: US, WA, Kennewick

@@ -1,0 +1,12 @@
+name-last: Lofland
+name-first: Charles
+name-given: Charles Joe
+name-suffix: Jr.
+ 
+birth-date: 1931-03-11
+birth-place: US, TX, Clarksville
+ 
+death-date: 1998-05-19
+ 
+military-country: US
+military-branch: Navy

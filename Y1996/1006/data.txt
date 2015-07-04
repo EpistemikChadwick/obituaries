@@ -1,0 +1,19 @@
+name-last: Morgan
+name-first: Thomas
+name-given: Thomas Ethan
+ 
+birth-date: 1936-06-01
+birth-place: US, PA, Hegins
+ 
+death-date: 1996-10-01
+death-place: US, PA, Bethlehem
+ 
+school-level: secondary
+school-name:  Hegins Township HS
+school-place: US, PA, Hegins
+ 
+school-level: college
+school-name: Lafayette College
+ 
+cemetery-name: Memorial Park Cemetery
+cemetery-place: US, PA, Bethlehem

@@ -1,0 +1,12 @@
+name-last: Kvadas
+name-first: Anthony
+name-given: Anthony John
+ 
+birth-date: 1917-02-24
+birth-place: US, CT, Granby
+ 
+death-date: 1998-04-12
+death-place: US, CT, Manchester
+ 
+cemetery-name: East Cemetery
+cemetery-place: US, CT, Manchester

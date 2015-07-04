@@ -1,0 +1,18 @@
+name-last: Stephens
+name-first: Robert
+name-given: Robert E.
+name-nick: Brud
+ 
+birth-date: 1907-11-29
+ 
+death-date: 1996-11-14
+ 
+school-level: secondary
+school-name:  Homestead HS
+school-place: US, PA, Homestead
+ 
+school-level: college
+school-name: Duquesne University
+ 
+cemetery-name: Jefferson Memorial Park
+cemetery-place: US, PA, Pleasant Hills

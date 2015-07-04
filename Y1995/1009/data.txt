@@ -1,0 +1,19 @@
+name-last: Arneberg
+name-first: Robert
+name-given: Robert Nelson
+ 
+birth-date: 1922-04-09
+ 
+death-date: 1995-10-14
+death-place: US, IL, Chicago
+ 
+school-level: secondary
+school-name:  Leo HS
+school-place: US, IL, Chicago
+ 
+military-country: US
+military-branch: Navy
+military-conflict:  World War II # from 1943-02-18 to 1946-01-17
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, IL, Worth

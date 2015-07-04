@@ -1,0 +1,18 @@
+name-last: Raffanti
+name-first: Donald
+name-given: Donald V.
+ 
+birth-date: 1913-05-02
+birth-place: US, CA, Jackson
+ 
+death-date: 1996-08-01
+death-place: US, CA, San Andreas
+ 
+school-level: college
+school-name: St. Mary’s College of California
+school-place: US, CA, Moraga
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1943-05-29 to 1946-02-23
+ 

@@ -1,0 +1,13 @@
+name-last: Liebhardt
+name-first: Terry
+name-given: Terrance F.
+ 
+birth-date: 1916-12-11
+birth-place: US, OH, Cleveland
+ 
+death-date: 1995-03-12
+death-place: US, OH, Cleveland
+ 
+military-country: US
+military-branch: Coast Guard
+military-conflict:  World War II

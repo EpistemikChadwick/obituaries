@@ -1,0 +1,14 @@
+name-last: Mohney
+name-first: Inal
+name-given: Inal J.
+name-suffix: Sr.
+ 
+birth-date: 1899-09-03
+birth-place: US, OH, Athens County
+ 
+death-date: 1975-06-24
+death-place: US, OH, Athens
+ 
+cemetery-name:  Hilltop Cemetery
+cemetery-place: US, OH, Millfield
+ 

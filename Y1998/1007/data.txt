@@ -1,0 +1,21 @@
+name-last: Oldfield
+name-first: Emil
+name-given: Emil Arthur
+ 
+birth-date: 1927-03-22
+birth-place: US, NJ, Jersey City
+ 
+death-date: 1998-06-20
+death-place: US, NJ, Edison
+ 
+school-level: college
+school-name:  Appalachian State University
+school-place: US, NC, Boone
+ 
+military-country: US
+military-branch: Navy
+military-conflict:  World War II
+ 
+military-country: US
+military-branch: Navy
+military-conflict:  Korean War

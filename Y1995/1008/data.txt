@@ -1,0 +1,20 @@
+name-last: Russell
+name-first: John
+name-given: John V.
+ 
+birth-date: 1926-06-29
+birth-place: US, PA, Pittsburgh
+ 
+death-date: 1995-09-20
+death-place: US, FL, Broward County
+ 
+school-level: secondary
+school-name: Fort Lauderdale HS
+school-place: US, FL, Fort Lauderdale
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1944-12-18 to 1946-08-24
+ 
+cemetery-name: Florida National Cemetery
+cemetery-place: US, FL, Bushnell

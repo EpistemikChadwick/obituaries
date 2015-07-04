@@ -1,0 +1,16 @@
+name-last: Jarmon
+name-first: Robert
+name-given: Robert Lafayette
+name-suffix: Jr.
+ 
+birth-date: 1922-10-11
+ 
+death-date: 1998-10-26
+death-place: US, TX, Midland County
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1942-12-30 to 1945-12-13
+ 
+cemetery-name: Resthaven Memorial Park
+cemetery-place: US, TX, Midland

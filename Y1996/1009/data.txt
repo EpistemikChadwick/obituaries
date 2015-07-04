@@ -1,0 +1,15 @@
+name-last: Eubanks
+name-first: Kenneth
+name-given: Kenneth F.
+ 
+birth-date: 1932-06-08
+ 
+death-date: 1996-11-20
+death-place: US, IL, Benton
+ 
+military-country: US
+military-branch: Marines
+military-conflict:  Korean War
+ 
+cemetery-name: Masonic & Odd Fellows Cemetery
+cemetery-place: US, IL, Benton

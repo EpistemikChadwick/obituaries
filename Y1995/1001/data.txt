@@ -1,0 +1,17 @@
+name-last: Hartsoe
+name-first: Aaron
+name-given: Aaron Worth
+name-suffix: Sr.
+ 
+birth-date: 1916-11-13
+birth-place: US, NC, Kings Mountain
+ 
+death-date: 1995-02-04
+death-place: US, SC, Columbia
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II
+ 
+cemetery-name: Philadelphia United Methodist Church Cemetery
+cemetery-place: US, SC, Fort Mill

@@ -1,0 +1,12 @@
+name-last: Demma
+name-first: Sam
+name-given: Salvadore Joseph
+ 
+birth-date: 1921-03-09
+birth-place: US, LA, Metairie
+ 
+death-date: 1995-07-27
+death-place: US, LA, New Orleans
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, LA, New Orleans

@@ -1,0 +1,9 @@
+source-title: Obit from Buffalo News
+source-file-name: Raymond Schuessler obit.pdf
+source-file-type: application/pdf
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-30

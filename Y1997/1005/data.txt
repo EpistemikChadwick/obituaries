@@ -1,0 +1,19 @@
+name-last: Doyle
+name-first: William
+name-given: William Otto
+name-nick: Pinky
+ 
+birth-date: 1917-04-05
+ 
+death-date: 1997-06-05
+ 
+school-level: secondary
+school-name:  Young HS
+school-place: US, TN, Knoxville
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1941-06-07 to 1945-12-22
+ 
+cemetery-name: Woodlawn Cemetery
+cemetery-place: US, TN, Knoxville

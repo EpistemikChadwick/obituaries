@@ -1,0 +1,16 @@
+name-last: Florence
+name-first: Tom
+name-given: Howard Thomas
+ 
+birth-date: 1923-09-19
+birth-place: US, KY,
+ 
+death-date: 1996-02-12
+death-place: US, OH, Warren County
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II
+ 
+cemetery-name: Miami Cemetery
+cemetery-place: US, OH, Corwin

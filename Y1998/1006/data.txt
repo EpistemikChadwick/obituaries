@@ -1,0 +1,11 @@
+name-last: Naumann
+name-first: Edward
+name-given: Edward F.
+ 
+birth-date: 1935-09-24
+ 
+death-date: 1998-05-22
+death-place: US, FL, Daytona Beach
+ 
+military-country: US
+military-branch: Army

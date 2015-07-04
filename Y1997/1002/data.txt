@@ -1,0 +1,14 @@
+name-last: Remsa
+name-first: Arthur
+name-given: Arthur F.
+ 
+birth-date: 1930-11-16
+ 
+death-date: 1997-04-25
+ 
+military-country: US
+military-branch: Marines
+military-conflict:  Korean War
+ 
+cemetery-name: George Washington Memorial Park
+cemetery-place: US, NJ, Paramus

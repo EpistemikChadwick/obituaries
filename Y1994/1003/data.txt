@@ -1,0 +1,24 @@
+name-last: Long
+name-first: Howard
+name-given: Howard Tunnell
+name-nick: Zip
+ 
+birth-date: 1905-09-11
+birth-place: US, PA, Philadelphia
+ 
+death-date: 1994-04-09
+death-place: US, DE, Lewes
+ 
+school-level: secondary
+school-name:  Episcopal Academy
+school-place: US, PA, Merion
+ 
+school-level: college
+school-name: University of Pennsylvania
+ 
+military-country: US
+military-branch: Navy
+military-conflict:  World War II
+ 
+cemetery-name: St. Peter’s Episcopal Churchyard
+cemetery-place: US, DE, Lewes

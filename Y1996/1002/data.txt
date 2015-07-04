@@ -1,0 +1,18 @@
+name-last: Limpert
+name-first: Daniel
+name-given: Daniel J.
+ 
+birth-date: 1921-03-12
+birth-place: US, OH, North Olmsted
+ 
+death-date: 1996-05-29
+death-place: US, OH, Cleveland
+ 
+school-level: secondary
+school-name:  North Olmsted HS
+school-place: US, OH, North Olmsted
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1942-08-01 to 1945-10-25
+ 

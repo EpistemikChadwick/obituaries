@@ -1,0 +1,9 @@
+name-last: Pfeiffer
+name-first: John
+name-given: John Florian
+ 
+birth-date: 1931-07-05
+birth-place: US, IL, Chicago
+ 
+death-date: 1997-05-19
+death-place: US, FL, St. Lucie County

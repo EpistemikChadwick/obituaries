@@ -1,0 +1,13 @@
+name-last: Dix
+name-first: Don
+name-given: Robert Donald
+ 
+alias-type: birth
+alias-last: Dick
+alias-given: Robert Donald
+ 
+birth-date: 1925-03-27
+birth-place: US, WV, Sandstone
+ 
+death-date: 1996-06-01
+death-place: US, NC, Asheville

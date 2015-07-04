@@ -1,0 +1,23 @@
+name-last: Johnson
+name-first: James
+name-given: James Kenneth
+ 
+birth-date: 1916-05-30
+birth-place: US, AZ,
+ 
+death-date: 1997-08-22
+death-place: US, NV, Las Vegas
+ 
+school-level: college
+school-name: University of Arizona
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II
+ 
+military-country: US
+military-branch: Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Arlington National Cemetery
+cemetery-place: US, VA, Arlington

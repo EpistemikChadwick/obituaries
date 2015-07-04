@@ -1,0 +1,10 @@
+name-last: Dumbach
+name-first: Joseph
+name-given: Joseph J.
+name-suffix: Sr.
+ 
+birth-date: 1928-12-04
+birth-place: US, NY, Glendale
+ 
+death-date: 1995-04-05
+death-place: US, PA, Allentown

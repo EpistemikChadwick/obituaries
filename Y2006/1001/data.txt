@@ -1,0 +1,15 @@
+name-last: Volk
+name-first: Bob
+name-given: Robert Bruce
+ 
+birth-date: 1956-12-01
+birth-place: US, MN, St. Paul
+ 
+death-date: 2006-04-12
+death-place:  US, CA, Mission Viejo
+ 
+school-level: college
+school-name:  Oral Roberts University
+ 
+cemetery-name: Ascension Cemetery
+cemetery-place: US, CA, Lake Forest

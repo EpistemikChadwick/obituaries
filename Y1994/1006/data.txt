@@ -1,0 +1,19 @@
+name-last: Heinen
+name-first: Jack
+name-given: John Joseph
+ 
+birth-date: 1928-08-05
+birth-place: US, OH, Cleveland
+ 
+death-date: 1994-06-15
+death-place: US, OH, Cleveland
+ 
+school-level: secondary
+school-name:  University School
+school-place: US, OH, Shaker Heights
+ 
+school-level: college
+school-name: Stanford University
+ 
+military-country: US
+military-branch: Army

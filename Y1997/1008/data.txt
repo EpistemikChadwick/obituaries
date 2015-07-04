@@ -1,0 +1,17 @@
+name-last: Foss
+name-first: Richard
+name-given: Richard W.
+name-suffix: Jr.
+ 
+birth-date: 1921-07-15
+birth-place: US, NY, New York
+ 
+death-date: 1997-11-22
+death-place: US, CT, Middletown
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1942-09-17 to 1945-11-09
+ 
+cemetery-name: Riverside Cemetery
+cemetery-place: US, CT, Old Saybrook

@@ -1,0 +1,16 @@
+name-last: Schuessler
+name-given: Raymond
+ 
+birth-date: 1918-08-09
+birth-place: US, NY, Buffalo
+ 
+death-date: 1996-11-09
+death-place: US, FL, DeLand
+ 
+school-level: college
+school-name: University at Buffalo, the State University of New York
+school-place: US, NY, Buffalo
+ 
+cemetery-name: Deltona Memorial Gardens
+cemetery-place: US, FL, Orange City
+ 

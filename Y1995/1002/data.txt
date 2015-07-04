@@ -1,0 +1,16 @@
+name-last: Ellison
+name-first: Leonard
+name-given: Leonard R.
+ 
+birth-date: 1913-05-15
+birth-place: US, WI, Blair
+ 
+death-date: 1995-02-08
+death-place: US, WI, Whitehall
+ 
+school-level: secondary
+school-name:  Blair HS
+school-place: US, WI, Blair
+ 
+cemetery-name: Zion Lutheran Cemetery
+cemetery-place: US, WI, Blair

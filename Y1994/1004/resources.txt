@@ -1,0 +1,10 @@
+source-title: Obit from Baltimore Sun
+source-file-name: Glenn Stafford obit.docx
+source-file-type: application/docx
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-05
+ 

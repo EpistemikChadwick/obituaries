@@ -1,0 +1,10 @@
+source-title: Obit from Cleveland Plain Dealer
+source-file-name: Daniel Limpert obit.pdf
+source-file-type: application/pdf
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-31
+ 

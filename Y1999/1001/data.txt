@@ -1,0 +1,16 @@
+name-last: Cornish
+name-first: Thomas
+name-given: Thomas H.
+ 
+birth-date: 1916-11-14
+ 
+death-date: 1999-01-30
+death-place: US, KS, Junction City
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II
+ 
+cemetery-name: Highland Cemetery
+cemetery-place: US, KS, Junction City
+ 

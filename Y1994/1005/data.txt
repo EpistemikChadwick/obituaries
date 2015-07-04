@@ -1,0 +1,16 @@
+name-last: Barnicle
+name-first: Thomas
+name-given: Thomas Joseph
+ 
+birth-date: 1942-08-04
+birth-place: US, MA, Fitchburg
+ 
+death-date: 1994-06-07
+death-place: US, MA, Barre
+ 
+school-level: secondary
+school-name:  Notre Dame Preparatory School
+school-place: US, MA, Fitchburg
+ 
+cemetery-name: Riverside Cemetery
+cemetery-place: US, MA, Barre

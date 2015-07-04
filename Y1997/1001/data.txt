@@ -1,0 +1,22 @@
+name-last: Tomasello
+name-first: Theron
+name-given: Theron R.
+ 
+birth-date: 1914-02-17
+birth-place: US, FL, Milton
+ 
+death-date: 1997-02-04
+death-place: US, FL, Palm Beach County
+ 
+school-level: secondary
+school-name:  Palm Beach HS
+school-place: US, FL, Palm Beach
+ 
+school-level: college
+school-name: Oglethorpe University
+school-place: US, GA, Atlanta
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War II # from 1941-05-21 to ?
+ 

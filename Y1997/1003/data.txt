@@ -1,0 +1,12 @@
+name-last: Needham
+name-first: Bobby
+name-given: Bobby James
+ 
+birth-date: 1933-01-29
+birth-place: US, TX, Dripping Springs
+ 
+death-date: 1997-05-05
+death-place: US, TX, Dripping Springs
+ 
+cemetery-name: Phillips Cemetery
+cemetery-place: US, TX, Dripping Springs

@@ -1,0 +1,15 @@
+name-last: Perry
+name-first: Robert
+name-given: Robert Donald
+ 
+birth-date: 1926-07-05
+birth-place: US, MA,
+ 
+death-date: 1993-10-27
+death-place: US, CA, Santa Clara County
+ 
+school-level: college
+school-name: Boston College
+ 
+cemetery-name: Oak Hill Memorial Park
+cemetery-place: US, CA, San Jose

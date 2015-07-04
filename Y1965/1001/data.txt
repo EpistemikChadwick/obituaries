@@ -1,0 +1,21 @@
+name-last: Ginglardi
+name-first: Henry
+name-given: Henry A.
+name-nick: Hank
+ 
+birth-date: 1900-07-19
+birth-place: US, UT, Salt Lake City
+ 
+death-date: 1965-02-25
+death-place:  US, CA, San Diego
+ 
+school-level: secondary
+school-name:  San Diego HS
+school-place: US, CA, San Diego
+ 
+military-country: US
+military-branch: Army
+military-conflict:  World War I # from 1918-10-21 to ?
+ 
+cemetery-name: Fort Rosecrans National Cemetery
+cemetery-place: US, CA, San Diego
