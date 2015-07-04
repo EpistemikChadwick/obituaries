@@ -1,0 +1,19 @@
+name-last: Kries
+name-first: Bernie
+name-given: Bernard J.
+ 
+birth-date: 1929-10-27
+birth-place: US, IL, Grayville
+ 
+death-date: 2015-06-09
+death-place:  US, FL, Tequesta
+ 
+school-level: secondary
+school-name:  Cooley HS
+school-place: US, MI, Detroit
+ 
+school-level: college
+school-name: Michigan State University
+ 
+cemetery-name: Cremated
+ 

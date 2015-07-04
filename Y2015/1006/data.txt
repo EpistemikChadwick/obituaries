@@ -1,0 +1,14 @@
+name-last: Ackerman
+name-first: Harry
+ 
+birth-date: 1929-11-29
+birth-place: US, IL, Carmi
+ 
+death-date: 2015-05-19
+death-place:  US, IL, Carmi
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Big Prairie Cemetery
+cemetery-place: US, IL, Carmi

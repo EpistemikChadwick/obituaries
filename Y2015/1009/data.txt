@@ -1,0 +1,12 @@
+name-last: Korczowski
+name-first: Tommy
+name-given: Thomas Marcel
+ 
+death-date: 2015-06-17
+ 
+school-level: college
+school-name: The College of William & Mary
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

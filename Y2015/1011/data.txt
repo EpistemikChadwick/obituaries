@@ -1,0 +1,14 @@
+name-last: Knutson
+name-first: Ken
+name-given: Kenneth R.
+ 
+birth-date: 1940-11-01
+birth-place: US, WI, Kenosha
+ 
+death-date: 2015-06-21
+death-place:  US, WI, Holmen
+ 
+school-level: secondary
+school-name:  Mary D. Bradford HS
+school-place: US, WI, Kenosha
+ 

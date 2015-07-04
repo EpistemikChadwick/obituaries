@@ -1,0 +1,9 @@
+name-last: Moreno
+name-first: Hank
+name-given: Henry Flores
+ 
+birth-date: 1933-05-02
+birth-place: US, CA, Stockton
+ 
+death-date: 2015-06-11
+death-place:  US, CA, Stockton

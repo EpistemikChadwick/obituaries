@@ -1,0 +1,17 @@
+name-last: Dutt
+name-first: Karl
+name-given: Karl Frederick
+ 
+birth-place: US, PA, Wilson Borough
+ 
+death-date: 2015-06-23
+death-place:  US, PA, Bethlehem
+ 
+school-level: college
+school-name: Lafayette College
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Easton Cemetery
+cemetery-place: US, PA, Easton

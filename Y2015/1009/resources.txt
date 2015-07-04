@@ -1,0 +1,8 @@
+source-title: Virginian Pilot
+source-date: 2015-06-27
+source-url: http://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=thomas-marcel-korczowski&pid=175168983&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-27

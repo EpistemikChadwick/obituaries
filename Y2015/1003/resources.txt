@@ -1,0 +1,8 @@
+source-title: Recordnet.cm
+source-date: 2015-06-18
+source-url: http://www.recordnet.com/article/20150618/OBITUARIES/306189992
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-02

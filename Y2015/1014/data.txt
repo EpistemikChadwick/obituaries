@@ -1,0 +1,12 @@
+name-last: Basco
+name-first: Quintin
+name-given: Quintin J.
+ 
+birth-date: 1930-04-04
+birth-place: US, OH, Barberton
+ 
+death-date: 2015-06-24
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

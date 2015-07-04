@@ -1,0 +1,17 @@
+name-last: Segrist
+name-first: Kal
+name-given: Kal Hill
+name-suffix: Jr.
+ 
+birth-date: 1931-04-14
+birth-place: US, TX, Greenville
+ 
+death-date: 2015-06-26
+death-place: US, TX, Lubbock
+ 
+school-level: secondary
+school-name:  Adamson HS
+school-place: US, TX, Dallas
+ 
+school-level: college
+school-name: University of Texas

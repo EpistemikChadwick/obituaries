@@ -1,0 +1,20 @@
+name-last: Jackson
+name-first: Jim
+name-given: James C.
+name-suffix: Jr.
+ 
+birth-date: 1935-04-28
+birth-place: US, PA, Pittsburgh
+ 
+death-date: 2015-06-24
+ 
+school-level: secondary
+school-name:  Brentwood HS
+school-place: US, PA, Pittsburgh
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Crown Memorial Park
+cemetery-place: US, NC, Pineville
+ 

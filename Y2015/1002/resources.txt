@@ -1,0 +1,12 @@
+source-title: Dallas Morning News
+source-date: 2015-07-01
+source-url: http://www.legacy.com/obituaries/dallasmorningnews/obituary.aspx?n=Kal-Segrist&pid=175196570
+ 
+source-title: Lubbock Online
+source-date: 2015-06-27
+source-url: http://lubbockonline.com/filed-online/2015-06-27/former-texas-tech-baseball-coach-kal-segrist-dies-84#.VY8CYLcw83y
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-02

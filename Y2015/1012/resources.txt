@@ -1,0 +1,8 @@
+source-title: Smith Funeral Home
+source-date: 2015-06-27
+source-url: http://www.georgejsmithandson.com/book-of-memories/2180300/McCormick-Ronald/obituary.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-27

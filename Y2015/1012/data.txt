@@ -1,0 +1,15 @@
+name-last: McCormick
+name-first: Ronald
+name-given: Ronald Patrick
+ 
+birth-date: 1933-01-24
+birth-place: US, CT, Bridgeport
+ 
+death-date: 2015-06-26
+death-place:  US, CT, Branford
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, CT, Milford

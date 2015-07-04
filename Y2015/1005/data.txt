@@ -1,0 +1,16 @@
+name-last: Lanthorn
+name-first: Gene
+name-given: Eugene Gerald
+ 
+birth-date: 1949-12-30
+birth-place: US, MT, Hamilton
+ 
+death-date: 2015-06-13
+death-place:  US, CA, Lewiston
+ 
+school-level: secondary
+school-name:  Wy’East HS
+school-place: US, OR, Odell
+ 
+school-level: college
+school-name: Western Oregon University

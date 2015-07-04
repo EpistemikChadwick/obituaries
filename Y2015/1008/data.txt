@@ -1,0 +1,16 @@
+name-last: Hamilton
+name-first: Darryl
+name-given: Darryl Quinn
+ 
+birth-date: 1964-12-05
+birth-place: US, LA, Baton Rouge
+ 
+death-date: 2015-06-21
+ 
+school-level: secondary
+school-name:  University HS
+school-place: US, LA, Baton Rouge
+ 
+school-level: college
+school-name: Nicholls State University
+ 

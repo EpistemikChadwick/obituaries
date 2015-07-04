@@ -1,0 +1,8 @@
+name-last: Nacci
+name-first: Edward
+name-given: Edward A.
+ 
+birth-date: 1925-12-11
+birth-place: US, RI, Providence
+ 
+death-date: 2015-06-30

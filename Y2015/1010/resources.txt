@@ -1,0 +1,8 @@
+source-title: Morning Call
+source-date: 2015-06-27
+source-url: http://www.legacy.com/obituaries/mcall/obituary.aspx?n=Karl-F-Dutt&pid=175170308
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-27

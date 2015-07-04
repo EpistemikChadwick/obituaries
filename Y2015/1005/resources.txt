@@ -1,0 +1,8 @@
+source-title: Dalles Chronicle
+source-date: 2015-06-28
+source-url: http://www.thedalleschronicle.com/news/2015/jun/19/lanthorn-passes-away-calif/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-28

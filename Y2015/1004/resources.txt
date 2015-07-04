@@ -1,0 +1,8 @@
+source-title: Goodwin Funeral Home
+source-date: 2015-06-28
+source-url: http://goodwinfuneralhome.com/obituaries/bernard-j-bernie-kries/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-28

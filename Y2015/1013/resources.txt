@@ -1,0 +1,8 @@
+source-title: Charlotte Observer
+source-date: 2015-06-25
+source-url: http://www.legacy.com/obituaries/charlotte/obituary.aspx?n=james-jackson&pid=175155824&fhid=4562&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-27

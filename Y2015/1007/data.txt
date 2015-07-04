@@ -1,0 +1,14 @@
+name-last: Olshefski
+name-first: Richard
+ 
+birth-date: 1928-03-27
+birth-place:  US, PA, Wilkes-Barre
+ 
+death-date: 2015-06-14
+death-place:  US, IL, Bourbonnais
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Cremated
