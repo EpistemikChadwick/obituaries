@@ -1,0 +1,21 @@
+name-last: Megill
+name-first: Joe
+name-given: Joseph Schuyler
+ 
+birth-date: 1919-10-06
+birth-place: US, NJ, Long Branch
+ 
+death-date: 2014-04-11
+death-place: US, NJ, Long Branch
+ 
+school-level: secondary
+school-name:  Long Branch HS
+school-place: US, NJ, Long Branch
+ 
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: Brigadier General William C. Doyle Veterans Memorial Cemetery
+cemetery-place: US, NJ, Wrightstown

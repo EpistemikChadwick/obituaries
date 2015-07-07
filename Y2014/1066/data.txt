@@ -1,0 +1,23 @@
+name-last: Mullenix
+name-first: Junior
+name-given: William Junior
+ 
+birth-date: 1940-09-18
+birth-place: US, MO, Putnam County
+ 
+death-date: 2014-03-16
+death-place: US, MO, Kansas City
+ 
+school-level: secondary
+school-name:  Livonia HS
+school-place: US, Mo, Livonia
+ 
+school-level: college
+school-name: Hannibal-LaGrange University
+school-place: US, MO, Hannibal
+ 
+school-level: college
+school-name: University of Wyoming
+ 
+cemetery-name: Resthaven Memorial Gardens
+cemetery-place: US, MO, Trenton

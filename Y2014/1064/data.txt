@@ -1,0 +1,8 @@
+name-last: Banse
+name-first: Dick
+name-given: Richard K.
+ 
+birth-date: 1937-09-23
+ 
+death-date: 2014-03-20
+death-place: US, WI, Polk

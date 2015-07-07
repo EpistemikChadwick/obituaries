@@ -1,0 +1,8 @@
+source-title: Steed-Todd Funeral Home
+source-date: 2014-03-19
+source-url: http://www.steedtodd.com/services.asp?locid=18&page=odetail&id=33236
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-19

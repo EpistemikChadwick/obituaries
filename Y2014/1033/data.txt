@@ -1,0 +1,11 @@
+name-last: Smith
+name-first: Dave
+name-given: David Wilmer
+ 
+birth-date: 1933-08-23
+birth-place: US, MD, Smithville
+ 
+death-date: 2014-04-14
+ 
+cemetery-name: Chester Cemetery
+cemetery-place: US, MD, Chestertown

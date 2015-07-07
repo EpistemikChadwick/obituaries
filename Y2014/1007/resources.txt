@@ -1,0 +1,8 @@
+source-title: Sellers & Smith Funeral Home
+source-date: 2014-04-07
+source-url: http://www.sellerssmithfh.com/sitemaker/sites/Seller1/obit.cgi?user=1278399Coleman
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-07

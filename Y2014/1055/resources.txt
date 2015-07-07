@@ -1,0 +1,8 @@
+source-title: News Tribune
+source-date: 2014-03-31
+source-url: http://www.newstribune.com/obituaries/2014/mar/30/ken-paschal/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-31

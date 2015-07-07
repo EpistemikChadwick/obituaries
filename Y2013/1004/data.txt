@@ -1,0 +1,19 @@
+name-last: Hurley
+name-first: Jim
+name-given: James F.
+name-suffix: Jr.
+ 
+birth-date: 1926-10-14
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2013-10-09
+ 
+school-level: college
+school-name: Iona College
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+ 
+cemetery-name: Resurrection Catholic Cemetery
+cemetery-place: US, KS, Lenexa

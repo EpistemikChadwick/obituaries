@@ -1,0 +1,23 @@
+name-last: Hyde
+name-first: James
+name-given: James A.
+ 
+birth-date: 1923-12-18
+birth-place: US, NY, Mohawk
+ 
+death-date: 2014-03-29
+death-place: US, NY, New Hartford
+ 
+school-level: secondary
+school-name:  Clinton Central HS
+school-place: US, NY, Clinton
+ 
+school-level: college
+school-name: University of North Carolina
+ 
+school-level: college
+school-name: Duke University
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II

@@ -1,0 +1,14 @@
+name-last: Layton
+name-given: Lester Lee
+ 
+birth-date: 1921-11-18
+birth-place: US, OK, Nardin
+ 
+death-date: 2014-03-01
+ 
+school-level: college
+school-name: University of Oklahoma
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II

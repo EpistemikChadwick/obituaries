@@ -1,0 +1,8 @@
+source-title: NBCDFW.com
+source-date: 2014-04-21
+source-url: http://www.nbcdfw.com/news/local/Dallas-Newspaper-Publisher-William-Blair-Sr-Dies-255938601.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-21

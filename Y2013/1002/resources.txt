@@ -1,0 +1,9 @@
+source-title: News Mirror
+source-date: 2014-04-17
+source-url: http://www.newsmirror.net/obituaries/article_5830cfe2-c64b-11e3-be37-001a4bcf887a.html
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-20

@@ -1,0 +1,8 @@
+source-title: Duncan Banner
+source-date: 2014-04-15
+source-url: http://www.duncanbanner.com/obituaries/x493464703/John-Henry-Kaiser
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-20

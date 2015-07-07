@@ -1,0 +1,8 @@
+source-title: The Press of Atlantic City
+source-date: 2014-03-06
+source-url: http://www.pressofatlanticcity.com/obituaries/dietrich-william-j-jr/article_b52728bc-9f00-579a-8d2b-0a5016a9ac45.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-09

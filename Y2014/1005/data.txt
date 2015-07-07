@@ -1,0 +1,23 @@
+name-last: Carrow
+name-first: Rex
+name-given: Rexford E.
+ 
+birth-date: 1927-02-04
+birth-place: US, MI, Mount Pleasant
+ 
+death-date: 2014-04-01
+death-place: US, MI, Lansing
+ 
+school-level: secondary
+school-name:  Grand Ledge HS
+school-place: US, MI, Ground Ledge
+ 
+school-level: college
+school-name: Michigan State
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Oakwood Cemetery
+cemetery-place: US, MI, Ground Ledge
+ 

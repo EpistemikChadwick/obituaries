@@ -1,0 +1,8 @@
+source-title: Shelters Funeral Home
+source-date: 2014-03-16
+source-url: http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2453370&fh_id=14075
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-16

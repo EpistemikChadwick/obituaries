@@ -1,0 +1,16 @@
+name-last: Underwood
+name-first: George
+name-given: George Dillard
+ 
+birth-date: 1950-12-01
+birth-place: US, WV, Mill Creek
+ 
+death-date: 2014-04-03
+death-place: US, WV, Lake
+ 
+school-level: secondary
+school-name:  Logan HS
+school-place: US, WV, Logan
+ 
+cemetery-name: Highland Memory Gardens
+cemetery-place: US, WV, Pecks Mill

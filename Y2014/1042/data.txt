@@ -1,0 +1,15 @@
+name-last: Whetstone
+name-first: Craig
+name-given: Eddie Craig
+ 
+birth-date: 1932-07-22
+birth-place: US, LA, Shreveport
+ 
+death-date: 2014-04-12
+death-place: US, LA, West Monroe
+ 
+military-country: US
+military-conflict: Korean War
+ 
+cemetery-name: Oak Ridge Cemetery
+cemetery-place: US, LA, Oak Ridge

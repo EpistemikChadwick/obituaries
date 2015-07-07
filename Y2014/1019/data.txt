@@ -1,0 +1,7 @@
+name-last: Martinez
+name-first: Javier
+name-nick: Escopeta
+ 
+death-date: 2014-04-07
+death-place: MX, Oaxaca, Oaxaca
+ 

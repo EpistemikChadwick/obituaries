@@ -1,0 +1,8 @@
+source-title: Bryant Funeral Home
+source-date: 2014-03-23
+source-url: http://bryantfuneralhomeandcrematory.com/fh/obituaries/obituary.cfm?o_id=2459436&fh_id=12932
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-23

@@ -1,0 +1,19 @@
+name-last: Deeds
+name-first: Bob
+name-given: Robert W.
+name-nick: Good
+name-suffix: Jr.
+ 
+birth-date: 1930-05-05
+birth-place: US, NJ, Rockaway
+ 
+death-date: 2014-03-15
+death-place: US, NJ, Rockaway
+ 
+school-level: secondary
+school-name:  Rockaway HS
+school-place: US, NJ, Rockaway
+ 
+military-country: US
+military-branch: Marines
+military-conflict: Korean War

@@ -1,0 +1,8 @@
+source-title: John N. Santeiu & Son Funeral Home
+source-date: 2014-03-31
+source-url: http://www.santeiufuneralhome.com/fh/obituaries/obituary.cfm?o_id=2463449&fh_id=12070
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-31

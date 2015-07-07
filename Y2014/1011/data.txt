@@ -1,0 +1,18 @@
+name-last: Henry
+name-first: Bill
+ 
+birth-date: 1927-10-15
+birth-place: US, TX, Alice
+ 
+death-date: 2014-04-11
+death-place: US, TX, Round Rock
+ 
+school-level: secondary
+school-name:  Pasadena HS
+school-place: US, TX, Pasadena
+ 
+school-level: college
+school-name: University of Houston
+ 
+cemetery-name: South Park Cemetery
+cemetery-place: US, TX, Pearland

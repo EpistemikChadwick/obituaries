@@ -1,0 +1,9 @@
+source-title: Columbus Dispatch
+source-date: 2014-02-13
+source-url: http://www.legacy.com/obituaries/dispatch/obituary.aspx?n=John-Sherrod&pid=169639750
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-02-13
+

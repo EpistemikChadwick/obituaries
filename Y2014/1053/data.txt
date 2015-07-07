@@ -1,0 +1,17 @@
+name-last: Lerchen
+name-first: George
+name-given: George E.
+ 
+birth-date: 1922-12-01
+birth-place: US, MI, Detroit
+ 
+death-date: 2014-03-26
+ 
+school-level: secondary
+school-name:  Western HS
+school-place: US, MI, Detroit
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+ 

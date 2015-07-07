@@ -1,0 +1,11 @@
+name-last: Haynes
+name-given: William Wayne
+ 
+birth-date: 1928-06-15
+birth-place: US, NC, Cliffside
+ 
+death-date: 2014-03-20
+death-place: US, SC, Beaufort
+ 
+cemetery-name: Mountain Rest Cemetery
+cemetery-place: US, NC, Kings Mountain

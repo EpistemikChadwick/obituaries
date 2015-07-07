@@ -1,0 +1,17 @@
+name-last: Asplin
+name-first: Abbott
+name-given: P. Abbott
+ 
+birth-date: 1917
+birth-place: US, PA, Lehighton
+ 
+death-date: 2014-04-16
+ 
+school-level: college
+school-name: Franklin & Marshall College
+school-place: US, PA, Lancaster
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+ 

@@ -1,0 +1,8 @@
+source-title: Snyder Funeral Home
+source-date: 2014-04-20
+source-url: http://www.kearneyasnyderfuneralhome.com/p-abbott-asplin/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-20

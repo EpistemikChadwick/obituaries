@@ -1,0 +1,8 @@
+source-title: Pensacola News Journal
+source-date: 2014-04-05
+source-url: http://www.legacy.com/obituaries/pensacolanewsjournal/obituary.aspx?n=Charles-Williamson&pid=170492636
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-07

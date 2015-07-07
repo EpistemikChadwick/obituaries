@@ -1,0 +1,8 @@
+source-title: Killeen Daily Herald
+source-date: 2014-03-30
+source-url: http://kdhnews.com/obituaries/gabriel-gonzalez-acosta/article_907291a6-b7c3-11e3-aff1-0017a43b2370.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-31

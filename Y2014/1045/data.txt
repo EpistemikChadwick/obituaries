@@ -1,0 +1,11 @@
+name-last: Goreski
+name-first: Frank
+ 
+birth-date: 1924-12-03
+birth-place: US, PA, Scranton
+ 
+death-date: 2014-04-24
+ 
+military-country: US
+military-branch: Army
+military-conflict: Korean War

@@ -1,0 +1,8 @@
+source-title: FHN Funeral Homes
+source-date: 2014-04-20
+source-url: http://www.fhnfuneralhome.com/obituaries/David-Smith-10/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-20

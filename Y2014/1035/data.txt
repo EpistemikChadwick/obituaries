@@ -1,0 +1,9 @@
+name-last: Solari
+name-first: Dennis
+name-given: Dennis Aaron
+ 
+birth-place: US, CA Stockton
+ 
+death-date: 2014-04-12
+death-place: US, CA, Sacramento
+ 

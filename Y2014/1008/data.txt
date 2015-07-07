@@ -1,0 +1,16 @@
+name-last: Coss
+name-first: Ray
+name-given: Ray Dell
+ 
+birth-date: 1929-07-01
+birth-place: US, MO, Cossville
+ 
+death-date: 2014-04-08
+ 
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+ 
+cemetery-name: Nashville Cemetery
+cemetery-place: US, MO, Nashville
+ 

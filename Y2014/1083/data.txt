@@ -1,0 +1,8 @@
+name-last: Lore
+name-first: Bill
+name-given: William Pickens
+ 
+birth-date: 1930-12-29
+birth-place: US, NC, Smithfield
+ 
+death-date: 2014-02-27

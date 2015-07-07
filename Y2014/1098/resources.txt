@@ -1,0 +1,12 @@
+source-title: MeaningfulFunerals.net
+source-date: 2014-03-09
+source-url: http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2447626&fh_id=14091
+ 
+source-title: Springfield News-Sun
+source-date: 2014-03-09
+source-url: http://www.legacy.com/obituaries/springfield/obituary.aspx?n=Brandon-YOUNG&pid=170066029
+
+ contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-09

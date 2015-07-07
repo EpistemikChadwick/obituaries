@@ -1,0 +1,13 @@
+source-title: The News & Observer
+source-date: 2013-10-05
+source-url: http://www.legacy.com/obituaries/newsobserver/obituary.aspx?n=Frank-Steinbach&pid=167336402#fbLoggedOut
+ 
+contributor-last: Nemec
+contributor-first: Ray
+contributor-email: basebalray@aol.com
+contributor-role: source
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-10

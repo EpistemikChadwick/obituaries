@@ -1,0 +1,16 @@
+name-last: Harrington
+name-first: Fred
+name-given: Charles Fred
+ 
+birth-date: 1922-07-26
+birth-place: US, NC, Monroe
+ 
+death-date: 2014-04-04
+death-place: US, NC, Trinity
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: Floral Garden Memorial Park
+cemetery-place: US, NC, High Point

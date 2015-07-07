@@ -1,0 +1,8 @@
+source-title: Billings Gazette
+source-date: 2014-03-06
+source-url: http://billingsgazette.com/lifestyles/announcements/obituaries/fredrick-a-farnsworth-jr/article_1f760223-1bf4-5e2e-80df-91aa981c15e2.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-09

@@ -1,0 +1,20 @@
+name-last: Cofer
+name-first: Troyce
+name-given: Troyce John
+ 
+birth-date: 1920-05-22
+birth-place: US, GA, Norcross
+ 
+death-date: 2014-03-17
+death-place: US, GA, Decatur
+ 
+school-level: secondary
+school-name:  Norcross HS
+school-place: US, GA, Norcross
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: Floral Hills Memory Gardens
+cemetery-place: US, GA, Tucker

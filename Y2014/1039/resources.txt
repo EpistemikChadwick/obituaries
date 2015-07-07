@@ -1,0 +1,8 @@
+source-title: The Logan Banner
+source-date: 2014-04-05
+source-url: http://www.legacy.com/obituaries/loganbanner/obituary.aspx?n=George-Underwood&pid=170504929
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-07

@@ -1,0 +1,11 @@
+name-last: Simon
+name-first: Jack
+name-given: John H.
+ 
+birth-date: 1938-05-22
+ 
+death-date: 2014-04-20
+ 
+school-level: college
+school-name: University of Wisconsin-Madison
+ 

@@ -1,0 +1,8 @@
+source-title: The Sun Herald
+source-date: 2014-03-25
+source-url: http://www.legacy.com/obituaries/sunherald/obituary.aspx?n=Albert-Bullock&pid=170353170
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-25

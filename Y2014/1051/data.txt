@@ -1,0 +1,18 @@
+name-last: Swenson
+name-first: George
+name-given: George A.
+name-nick: Swede
+ 
+birth-date: 1921-07-18
+birth-place: US, NJ, East Orange
+ 
+death-date: 2014-03-29
+death-place: US, NJ, Morris Plains
+ 
+school-level: secondary
+school-name:  Morristown HS
+school-place: US, NJ, Morristown
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II

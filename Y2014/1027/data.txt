@@ -1,0 +1,24 @@
+name-last: Reilly
+name-first: Gene
+name-given: Eugene M.
+ 
+birth-date: 1943-12-01
+birth-place: US, CT, Hartford
+ 
+death-date: 2014-04-13
+death-place: US, RI, Providence
+ 
+school-level: secondary
+school-name:  Bulkeley HS
+school-place: US, CT, Hartford
+ 
+school-level: college
+school-name: Central Connecticut State University
+school-place: US, CT, New Britain
+ 
+military-country: US
+military-branch: Army
+military-conflict: Vietnam War
+ 
+cemetery-name: Mount St. Benedict Cemetery
+cemetery-place: US, CT, Bloomfield

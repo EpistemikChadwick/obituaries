@@ -1,0 +1,11 @@
+name-last: Wade
+name-first: Bob
+name-given: Robert Steven
+ 
+birth-date: 1936-03-29
+birth-place: US, OK, Tipton
+ 
+death-date: 2014-03-11
+ 
+military-country: US
+military-branch: Army

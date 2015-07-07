@@ -1,0 +1,10 @@
+name-last: Buky
+name-first: Stan
+name-given: Stanley V.
+ 
+death-date: 2014-03-16
+ 
+school-level: secondary
+school-name:  Avondale HS
+school-place: US, GA, Avondale Estates
+ 

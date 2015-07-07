@@ -1,0 +1,24 @@
+name-last: Saporito
+name-first: Joe
+name-given: Joseph Peter
+name-nick: Jo Jo
+ 
+birth-date: 1918-04-16
+birth-place: US, IL, Rockford
+ 
+death-date: 2014-04-16
+death-place: US, IL, Rockford
+ 
+meta-height:  68
+meta-weight: 160
+ 
+school-level: secondary
+school-name:  St. Thomas HS
+school-place: US, IL, Rockford
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: Calvary Catholic Cemetery
+cemetery-place: US, IL, Winnebago

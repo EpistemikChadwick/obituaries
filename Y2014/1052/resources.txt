@@ -1,0 +1,8 @@
+source-title: Moultrie Observer
+source-date: 2014-03-29
+source-url: http://www.moultrieobserver.com/obituaries/x1316962895/Hinton-Edward-Hank-Spain
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-31

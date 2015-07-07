@@ -1,0 +1,8 @@
+source-title: News Item
+source-date: 2014-04-25
+source-url: http://www.legacy.com/obituaries/newsitem/obituary.aspx?n=Walter-Kanaskie&pid=170786458
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-26

@@ -1,0 +1,12 @@
+name-last: Gage
+name-first: Jack
+name-given: Idus David
+ 
+birth-date: 1925-06-14
+birth-place: US, AK, Barling
+ 
+death-date: 2014-03-19
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II

@@ -1,0 +1,14 @@
+name-last: Santi
+name-first: Len
+name-given: Leandro J.
+ 
+birth-date: 1916-04-15
+ 
+death-date: 2014-03-16
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: Lawn Haven Memorial Gardens Cemetery
+cemetery-place: US, NM, Clovis

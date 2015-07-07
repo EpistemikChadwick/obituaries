@@ -1,0 +1,15 @@
+name-last: Round
+name-first: Charles
+name-given: Charles Allen
+ 
+birth-date: 1930-11-18
+birth-place: US, OK, Ardmore
+ 
+death-date: 2014-03-05
+death-place: US, TX, Temple
+ 
+military-country: US
+military-branch: Air Force
+ 
+cemetery-name: Cathedral in the Pines Cemetery
+cemetery-place: US, TX, Tyler

@@ -1,0 +1,8 @@
+source-title: The News Star
+source-date: 2014-04-14
+source-url: http://www.legacy.com/obituaries/thenewsstar/obituary.aspx?n=Eddie-Whetstone&pid=170636763
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-14

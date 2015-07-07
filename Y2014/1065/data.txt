@@ -1,0 +1,16 @@
+name-last: Francis
+name-first: Wilson
+name-given: Wilson Guy
+ 
+birth-date: 1919-04-04
+birth-place: US, ME, Corea
+ 
+death-date: 2014-03-06
+ 
+school-level: secondary
+school-name:  Higgins Classical Institute
+school-place: US, ME, Charleston
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II

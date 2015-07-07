@@ -1,0 +1,19 @@
+name-last: Williamson
+name-first: Jim
+name-given: Charles J.
+ 
+birth-date: 1946-08-16
+birth-place: US, FL, Pensacola
+ 
+death-date: 2014-04-02
+ 
+school-level: secondary
+school-name:  Milton HS
+school-place: US, FL, Milton
+ 
+school-level: college
+school-name: Pensacola Junior College
+school-place: US, FL, Pensacola
+ 
+cemetery-name: Bayview Memorial Park
+cemetery-place: US, FL, Pensacola

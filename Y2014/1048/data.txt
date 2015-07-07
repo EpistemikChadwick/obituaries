@@ -1,0 +1,12 @@
+name-last: Francis
+name-first: John
+name-given: John P.
+name-suffix: Jr.
+ 
+birth-date: 1927-03-23
+ 
+death-date: 2014-03-28
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II

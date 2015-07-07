@@ -1,0 +1,17 @@
+name-last: Litton
+name-first: Ray
+name-given: Raymond M.
+ 
+birth-date: 1931-07-08
+ 
+death-date: 2014-04-12
+ 
+school-level: secondary
+school-name:  Allen Military Academy
+school-place: US, TX, Bryan
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Cook-Walden Capital Parks Cemetery and Mausoleum
+cemetery-place: US, TX, Pflugerville

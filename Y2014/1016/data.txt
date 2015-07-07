@@ -1,0 +1,16 @@
+name-last: Laprise
+name-first: Roger
+name-given: Roger Joseph
+ 
+birth-date: 1945-12-08
+birth-place: US, ME, Sanford
+ 
+death-date: 2014-03-31
+death-place: US, ME, Scarborough
+ 
+school-level: secondary
+school-name:  St. Ignatius HS
+school-place: US, ME, Sanford
+ 
+cemetery-name: Notre Dame Cemetery
+cemetery-place: US, ME, Springvale

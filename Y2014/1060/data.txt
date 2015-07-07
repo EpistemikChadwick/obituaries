@@ -1,0 +1,19 @@
+name-last: Watson
+name-first: Carl
+name-given: Carl A.
+name-nick: Zeke
+ 
+birth-date: 1933-05-05
+birth-place: US, DE, Georgetown
+ 
+death-date: 2014-03-22
+death-place: US, DE, Seaford
+ 
+meta-throws: left
+ 
+school-level: secondary
+school-name:  Federalsburg HS
+school-place: US, MD, Federalsburg
+ 
+military-country: US
+military-branch: Army

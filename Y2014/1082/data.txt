@@ -1,0 +1,16 @@
+name-last: McKray
+name-first: Rich
+name-given: Richard Allen
+ 
+birth-date: 1937
+birth-place: US, CA, Redding
+ 
+death-date: 2014-03-12
+ 
+school-level: secondary
+school-name:  Anderson Union HS
+school-place: US, CA, Anderson
+ 
+military-country: US
+military-branch: Air Force
+ 

@@ -1,0 +1,10 @@
+name-last: Acosta
+name-first: Gabriel
+name-given: Gabriel Gonzalez
+ 
+birth-date: 1940-08-16
+birth-place: MX, Coahuila, Torreon
+ 
+death-date: 2014-03-26
+death-place: US, TX, Houston
+ 

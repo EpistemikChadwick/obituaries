@@ -1,0 +1,7 @@
+name-last: de Paula
+name-first: Luis
+name-given: Luis Rafael
+name-matrilineal: Valenzuela
+ 
+death-date: 2014-03-08
+death-place: DO, DN, Santo Domingo

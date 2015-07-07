@@ -1,0 +1,8 @@
+source-title: Yucatan.com
+source-date: 2014-04-07
+source-url: http://yucatan.com.mx/deportes/beisbol-nacional/fallece-el-escopeta-martinez-sr-en-oaxaca
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-08

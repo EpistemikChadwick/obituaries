@@ -1,0 +1,14 @@
+name-last: Sweet
+name-first: James
+name-given: James Monroe
+ 
+birth-date: 1923-11-15
+ 
+death-date: 2014-03-14
+death-place: US, KY, Paducah
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Burkley Cemetery
+cemetery-place: US, KY, Burkley

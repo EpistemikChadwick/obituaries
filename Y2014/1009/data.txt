@@ -1,0 +1,16 @@
+name-last: Hafner
+name-first: Whitey
+name-given: Ronald Raymond
+ 
+birth-date: 1938-01-31
+birth-place: US, OH, Toledo
+ 
+death-date: 2014-04-04
+death-place: US, OH, Toledo
+ 
+school-level: secondary
+school-name:  Macomber HS
+school-place: US, OH, Toledo
+ 
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, OH, Toledo

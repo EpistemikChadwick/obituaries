@@ -1,0 +1,8 @@
+source-title: Boothbay Register
+source-date: 2014-03-17
+source-url: http://www.boothbayregister.com/article/wilson-g-francis-jane-francis/30190
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-23

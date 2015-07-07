@@ -1,0 +1,8 @@
+source-title: Daily Review
+source-date: 2014-03-18
+source-url: http://www.legacy.com/obituaries/thedailyreview/obituary.aspx?n=Scott-Taylor&pid=170235137
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-18

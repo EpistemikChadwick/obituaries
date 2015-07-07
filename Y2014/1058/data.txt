@@ -1,0 +1,21 @@
+name-last: Shannahan
+name-first: Regis
+name-given: Regis Xavier
+ 
+birth-date: 1929-03-27
+birth-place: US, NY, Buffalo
+ 
+death-date: 2014-03-23
+death-place: US, CT, Hartford
+ 
+school-level: secondary
+school-name:  Brooklyn Preparatory HS
+school-place: US, NY, Brooklyn
+ 
+school-level: college
+school-name: St. John’s University
+school-place: US, NY, Queens
+ 
+cemetery-name: West Meadow Cemetery
+cemetery-place: US, CT, Newington
+ 

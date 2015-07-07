@@ -1,0 +1,8 @@
+source-title: Plain Dealer
+source-date: 2014-04-14
+source-url: http://obits.cleveland.com/obituaries/cleveland/obituary.aspx?pid=170640853
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-14

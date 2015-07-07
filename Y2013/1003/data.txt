@@ -1,0 +1,20 @@
+name-last: Atwater
+name-first: Paul
+name-given: Paul G.
+ 
+birth-date: 1920-08-25
+birth-place: US, IN, Elkhart
+ 
+death-date: 2013-01-30
+death-place: US, IN, Elkhart
+ 
+school-level: secondary
+school-name:  Elkhart HS
+school-place: US, IN, Elkhart
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+ 
+cemetery-name: Rice Cemetery
+cemetery-place: US, IN, Elkhart

@@ -1,0 +1,17 @@
+name-last: Boeschen
+name-first: Vernon
+name-given: Vernon W.
+ 
+birth-date: 1930-11-04
+birth-place: US, IL, Venedy
+ 
+death-date: 2014-04-13
+death-place: US, IL, Belleville
+ 
+military-country: US
+military-branch: Navy
+military-conflict: Korean War
+ 
+cemetery-name: Valhalla Gardens of Memory
+cemetery-place: US, IL, Belleville
+ 

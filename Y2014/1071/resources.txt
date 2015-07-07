@@ -1,0 +1,8 @@
+source-title: Times Recorder
+source-date: 2014-03-22
+source-url: http://www.legacy.com/obituaries/zanesvilletimesrecorder/obituary.aspx?n=William-Cope&pid=170285631
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-23

@@ -1,0 +1,11 @@
+name-last: Metz
+name-first: John
+name-given: John Howard
+ 
+birth-date: 1919
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2013-09-24
+ 
+military-country: US
+military-branch: Navy

@@ -1,0 +1,24 @@
+name-last: Zins
+name-first: Tom
+name-given: Arnold G.
+ 
+birth-date: 1931-08-28
+birth-place: US, MA, Haverhill
+ 
+death-date: 2014-03-30
+death-place: US, MA, Haverhill
+ 
+school-level: secondary
+school-name:  Haverhill HS
+school-place: US, MA, Haverhill
+ 
+school-level: college
+school-name: Amherst College
+ 
+military-country: US
+military-branch: Navy
+military-conflict: Korean War
+ 
+cemetery-name: Walnut Cemetery
+cemetery-place: US, MA, Haverhill
+ 

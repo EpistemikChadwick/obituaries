@@ -1,0 +1,19 @@
+name-last: Satalich
+name-first: Adolph
+name-given: Adolph Thomas
+ 
+birth-date: 1930-11-18
+ 
+death-date: 2014-03-24
+death-place: US, WA, Vancouver
+ 
+school-level: secondary
+school-name:  Central Catholic HS
+school-place: US, OR, Portland
+ 
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+ 
+cemetery-name: Park Hill Cemetery
+cemetery-place: US, WA, Vancouver

@@ -1,0 +1,9 @@
+
+source-title: Whitman-Kanapaux Funeral Home
+source-date: 2014-03-18
+source-url: http://www.rockawayfuneral.com/obituaries/obituary-listings?obId=90207#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-18

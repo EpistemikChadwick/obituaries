@@ -1,0 +1,8 @@
+source-title: Courier Press
+source-date: 2014-04-18
+source-url: http://www.legacy.com/obituaries/courierpress/obituary.aspx?n=John-Mills&pid=170689718
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-20

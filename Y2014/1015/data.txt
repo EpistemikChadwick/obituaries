@@ -1,0 +1,20 @@
+name-last: Koripsky
+name-first: Joe
+name-given: Joseph P.
+ 
+birth-date: 1921-12-17
+birth-place: US, CT, Bridgeport
+ 
+death-date: 2014-04-05
+death-place: US, CT, Stratford
+ 
+school-level: secondary
+school-name:  Harding HS
+school-place: US, CT, Bridgeport
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+ 
+cemetery-name: St. Michael Cemetery
+cemetery-place: US, CT, Stratford

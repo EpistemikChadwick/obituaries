@@ -1,0 +1,8 @@
+source-title: Arizona Daily Star
+source-date: 2014-03-11
+source-url: http://www.legacy.com/obituaries/tucson/obituary.aspx?n=antonio-l-morales-tony&pid=170130202&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-12

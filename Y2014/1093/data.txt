@@ -1,0 +1,17 @@
+name-last: Farnsworth
+name-first: Fred
+name-given: Fredrick A.
+name-suffix: Jr.
+ 
+birth-date: 1933-06-06
+birth-place: US, NV, Ely
+ 
+death-date: 2014-03-01
+death-place: US, NY, Wright
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Mountview Cemetery
+cemetery-place: US, MT, Billings
+ 

@@ -1,0 +1,8 @@
+source-title: Scranton Times
+source-date: 2014-04-13
+source-url: http://www.legacy.com/obituaries/thetimes-tribune/obituary.aspx?n=Robert-Meckwood&pid=170629923
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-14

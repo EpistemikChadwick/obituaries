@@ -1,0 +1,13 @@
+name-last: Marino
+name-first: Dom
+name-given: Domenic P.
+ 
+birth-date: 1924-11-23
+birth-place: US, MA, Boston
+ 
+death-date: 2014-04-21
+death-place: US, MA, Boston
+ 
+cemetery-name: Winthrop Cemetery
+cemetery-place: US, MA, Winthrop
+

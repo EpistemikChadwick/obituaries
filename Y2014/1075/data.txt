@@ -1,0 +1,17 @@
+name-last: Scott
+name-first: Leo
+name-given: Leo Caudill
+name-nick: Scotty
+ 
+birth-date: 1923-03-26
+birth-place: US, VA, Goodwins Ferry
+ 
+death-date: 2014-03-14
+death-place: US, VA, McCoy
+ 
+cemetery-name: Scott-Albert Cemetery
+cemetery-place: US, VA, McCoy
+  
+military-country: US
+military-branch: Army
+military-conflict: World War II

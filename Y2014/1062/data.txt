@@ -1,0 +1,18 @@
+name-last: Bullock
+name-first: Albert
+name-given: Albert Monroe
+ 
+birth-date: 1934-12-17
+birth-place: US, MS, Meridian
+ 
+death-date: 2014-03-19
+death-place: US, MS, Gulfport
+ 
+school-level: college
+school-name: University of Mississippi
+ 
+military-country: US
+military-branch: Marines
+ 
+cemetery-name: Biloxi National Cemetery
+cemetery-place: US, MS, Biloxi

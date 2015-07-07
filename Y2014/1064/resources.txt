@@ -1,0 +1,8 @@
+source-title: Shimon Funeral Home
+source-date: 2014-03-20
+source-url: http://www.shimonfuneralhome.com/HartfordWiFuneralHomeObituaries/Richard-Banse
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-23

@@ -1,0 +1,16 @@
+name-last: Morrison
+name-first: Jimmy
+name-given: James H.
+ 
+birth-date: 1967-10-28
+birth-place: US, IL, Carbondale
+ 
+death-date: 2014-04-12
+death-place: US, IL, Anna
+ 
+school-level: secondary
+school-name:  Anna-Jonesboro Community HS
+school-place: US, IL, Anna
+ 
+cemetery-name: Busby Cemetery
+cemetery-place: US, IL, Goreville

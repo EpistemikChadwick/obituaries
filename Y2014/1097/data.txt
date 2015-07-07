@@ -1,0 +1,11 @@
+name-last: VanGaver
+name-first: Greg
+name-given: Gregory
+ 
+birth-date: 1952-02-19
+birth-place: US, WA, Seattle
+ 
+death-date: 2014-01-13
+ 
+school-level: college
+school-name: Gonzaga University

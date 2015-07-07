@@ -1,0 +1,20 @@
+name-last: Spain
+name-first: Hank
+name-given: Hinton Edward
+ 
+birth-date: 1925-05-28
+birth-place: US, GA, Lilburn
+ 
+death-date: 2014-03-28
+death-place: US, GA, Moultrie
+ 
+school-level: secondary
+school-name:  South Dekalb HS
+school-place: US, GA, Atlanta
+ 
+military-country: US
+military-branch: Marines
+military-conflict: World War II
+ 
+cemetery-name: Westview Cemetery
+cemetery-place: US, GA, Moultrie

@@ -1,0 +1,22 @@
+name-last: Morales
+name-first: Tony
+name-given: Antonio L.
+ 
+birth-date: 1924-09-26
+birth-place: US, AZ, Douglas
+ 
+death-date: 2014-03-07
+death-place: US, CA, San Diego
+ 
+meta-throws: left
+ 
+school-level: secondary
+school-name:  Douglas HS
+school-place: US, AZ, Douglas
+ 
+school-level: college
+school-name: University of Arizona
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II

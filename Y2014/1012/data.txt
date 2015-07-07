@@ -1,0 +1,19 @@
+name-last: Kaiser
+name-first: John
+name-given: John Henry
+ 
+birth-date: 1928-02-16
+birth-place: US, OK, Ada
+ 
+death-date: 2014-04-14
+death-place: US, OK, Duncan
+ 
+school-level: secondary
+school-name:  Byng HS
+school-place: US, OK, Ada
+ 
+military-country: US
+military-branch: Navy
+
+cemetery-name:  New Bethel Cemetery
+cemetery-place: US, OK, Byng

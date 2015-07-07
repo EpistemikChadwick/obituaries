@@ -1,0 +1,25 @@
+name-last: Cope
+name-first: Bill
+name-given: William Eugene
+ 
+birth-date: 1923-10-24
+birth-place: US, OH, Zanesville
+ 
+death-date: 2014-03-21
+death-place: US, OH, Zanesville
+ 
+school-level: secondary
+school-name:  Lash HS
+school-place: US, OH, Zanesville
+ 
+school-level: secondary
+school-name:  Glenford HS
+school-place: US, OH, Glenford
+ 
+school-level: college
+school-name: The Ohio State University
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+ 

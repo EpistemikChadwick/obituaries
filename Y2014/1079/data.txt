@@ -1,0 +1,12 @@
+name-last: Adrian
+name-first: Bill
+name-given: William N.
+ 
+birth-date: 1931-09-21
+birth-place: US, MI, Pointe Aux Barques Township
+ 
+death-date: 2014-03-13
+ 
+military-country: US
+military-branch: Army
+military-conflict: Korean War

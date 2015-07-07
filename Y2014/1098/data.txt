@@ -1,0 +1,20 @@
+name-last: Young
+name-first: Brandon
+name-given: Brandon Hubbard
+ 
+birth-date: 1982-06-08
+birth-place: US, OH, Steubenville
+ 
+death-date: 2014-03-04
+death-place: US, PA, Pittsburgh
+ 
+school-level: secondary
+school-name: North HS
+school-place: US, OH, Springfield
+ 
+school-level: college
+school-name: Muscatine Community College
+school-place: US, IA, Muscatine
+ 
+cemetery-name: Union Cemetery
+cemetery-place: US,OH, Steubenville

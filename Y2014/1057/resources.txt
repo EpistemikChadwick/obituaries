@@ -1,0 +1,8 @@
+source-title: The Observer-Dispatch
+source-date: 2014-03-31
+source-url: http://www.legacy.com/obituaries/uticaod/obituary.aspx?n=James-Hyde&pid=170435725
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-31

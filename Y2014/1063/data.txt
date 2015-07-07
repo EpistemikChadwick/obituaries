@@ -1,0 +1,11 @@
+name-last: McKinney
+name-first: Albert
+name-given: Albert Taylor
+ 
+birth-date: 1932-07-04
+ 
+death-date: 2014-03-21
+death-place: US, NC, New Bern
+ 
+military-country: US
+military-branch: Navy

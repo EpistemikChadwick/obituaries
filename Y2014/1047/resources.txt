@@ -1,0 +1,8 @@
+source-title: Caggiano Funeral Home
+source-date: 2014-04-27
+source-url: http://www.caggianofuneralhome.com/obits/obituary.php?id=566599
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-27

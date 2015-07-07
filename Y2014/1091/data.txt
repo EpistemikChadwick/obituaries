@@ -1,0 +1,14 @@
+name-last: Cronin
+name-first: James
+name-given: James Thatcher
+ 
+birth-date: 1925-01-01
+birth-place: US, MI, Grosse Pointe
+ 
+death-date: 2014-03-09
+death-place: US, SC, Simpsonville
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+ 

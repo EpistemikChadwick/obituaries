@@ -1,0 +1,19 @@
+name-last: Becker
+name-first: Bob
+name-given: Robert J.
+ 
+birth-date: 1927-03-26
+birth-place: US, WI, Kenosha
+ 
+death-date: 2014-03-05
+death-place: US, WI, Spooner
+ 
+school-level: secondary
+school-name:  Kenosha HS
+school-place: US, WI, Kenosha
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Spooner City Veterans Memorial Cemetery
+cemetery-place: US, WI, Spooner

@@ -1,0 +1,10 @@
+name-last:  Marrero
+name-first:  Connie
+name-given: Conrado
+
+
+birth-date: 1911-04-25
+birth-place: CU, Villa Clara, Sagua La Grande
+
+death-date: 2014-04-23
+death-place: CU, La Habana, Havana

@@ -1,0 +1,11 @@
+name-last: Browning
+name-first: Leroy
+name-given: Euel Leroy
+ 
+birth-date: 1930-01-18
+ 
+death-date: 2014-03-20
+ 
+school-level: secondary
+school-name:  Orlando HS
+school-place: US, FL, Orlando

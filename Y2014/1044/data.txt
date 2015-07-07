@@ -1,0 +1,5 @@
+name-last: Arndt
+name-first: Larry
+name-given: Larry Wayne
+ 
+death-date: 2014-01-03

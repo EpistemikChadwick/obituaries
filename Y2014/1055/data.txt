@@ -1,0 +1,19 @@
+name-last: Paschal
+name-first: Ken
+ 
+birth-date: 1933-04-04
+birth-place: US, MO, Osage County
+ 
+death-date: 2014-03-28
+death-place: US, MO, Columbia
+ 
+school-level: secondary
+school-name:  Linn HS
+school-place: US, MO, Linn
+ 
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+ 
+cemetery-name: St. George Cemetery
+cemetery-place: US, MO, Linn

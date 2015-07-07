@@ -1,0 +1,18 @@
+name-last: Lawrence
+name-first: Clarence
+name-nick: Jitts
+ 
+birth-date: 1928-07-07
+birth-place: US, WI, Waukesha
+ 
+death-date: 2014-03-09
+ 
+school-level: secondary
+school-name:  Waukesha HS
+school-place: US, WI, Waukesha
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Prairie Home Cemetery
+cemetery-place: US, WI, Waukesha

@@ -1,0 +1,17 @@
+name-last: Mills
+name-first: Dick
+name-given: John Richard
+ 
+birth-date: 1923-08-28
+birth-place: US, IN, Evansville
+ 
+death-date: 2014-04-16
+death-place: US, IN, Evansville
+ 
+school-level: secondary
+school-name:  Benjamin Bosse HS
+school-place: US, IN, Evansville
+ 
+cemetery-name: Sunset Memorial Park Cemetery
+cemetery-place: US, IN, Evansville
+ 

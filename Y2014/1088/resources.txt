@@ -1,0 +1,8 @@
+source-title: Ledger
+source-date: 2014-03-12
+source-url: http://www.legacy.com/obituaries/theledger/obituary.aspx?n=john-robert-addison&pid=170132137&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-12

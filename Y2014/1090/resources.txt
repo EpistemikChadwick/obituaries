@@ -1,0 +1,8 @@
+source-title: Lodi News-Sentinel
+source-date: 2014-03-11
+source-url: http://www.legacy.com/obituaries/lodinews/obituary.aspx?n=Joseph-Ortiz&pid=170111167
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-11

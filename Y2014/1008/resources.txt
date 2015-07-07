@@ -1,0 +1,8 @@
+source-title: Joplin Globe
+source-date: 2014-04-10
+source-url: http://www.joplinglobe.com/obituaries/x1535560658/Ray-D-Coss
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-10

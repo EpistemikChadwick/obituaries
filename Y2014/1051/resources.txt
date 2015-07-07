@@ -1,0 +1,8 @@
+source-title: Doyle Funeral Home
+source-date: 2014-03-31
+source-url: http://doylefh.com/home.aspx#obituary.aspx?MemberId=132745
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-31

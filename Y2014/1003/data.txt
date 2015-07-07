@@ -1,0 +1,19 @@
+name-last: Blair
+name-first: Bill
+name-given: William
+ 
+birth-date: 1921-10-17
+birth-place: US, TX, Dallas
+ 
+death-date: 2014-04-20
+ 
+school-level: secondary
+school-name:  Booker T. Washington HS
+school-place: US, TX, Dallas
+ 
+school-level: college
+school-name: Prairie View A&M University
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II

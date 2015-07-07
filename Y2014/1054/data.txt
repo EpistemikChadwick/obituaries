@@ -1,0 +1,11 @@
+name-last: Ruberto
+name-first: Sonny
+name-given: John
+ 
+death-date: 2014-03-24
+death-place: US, FL, Ave Maria
+ 
+school-level: secondary
+school-name:  Curtis HS
+school-place: US, NY, Staten Island
+ 

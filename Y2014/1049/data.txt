@@ -1,0 +1,21 @@
+name-last: Stark
+name-first: Jeff
+name-given: Jeffrey Martin
+ 
+birth-date: 1963-01-08
+ 
+death-date: 2014-03-23
+death-place: US, CA, Fresno
+ 
+school-level: secondary
+school-name:  Bullard HS
+school-place: US, CA, Fresno
+ 
+school-level: college
+school-name: Fresno City College
+school-place: US, CA, Fresno
+ 
+school-level: college
+school-name: California State University Fresno
+school-place: US, CA, Fresno
+

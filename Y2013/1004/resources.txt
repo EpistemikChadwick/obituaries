@@ -1,0 +1,12 @@
+source-title: Kansas City Star
+source-date: 2013-10-11
+source-url: http://www.legacy.com/obituaries/kansascity/obituary.aspx?n=JAMES-HURLEY&pid=167479120
+ 
+contributor-last: Nemec
+contributor-first: Ray
+contributor-role: source
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-12

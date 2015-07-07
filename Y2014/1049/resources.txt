@@ -1,0 +1,8 @@
+source-title: Fresno Bee
+source-date: 2014-04-02
+source-url: http://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=jeffrey-stark&pid=170456622&fhid=10705&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-02

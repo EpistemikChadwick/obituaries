@@ -1,0 +1,9 @@
+name-last: Rohs
+name-first: Norm
+name-given: Norman E.
+ 
+death-date: 2014-04-18
+ 
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, MO, Affton
+ 

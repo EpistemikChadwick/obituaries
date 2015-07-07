@@ -1,0 +1,13 @@
+name-last: Vestal
+name-first: Dan
+name-given: Daniel Wilson
+ 
+birth-date: 1939-03-07
+birth-place: US, NC, Yadkin County
+ 
+death-date: 2014-04-17
+death-place: US, NC, Winston-Salem
+ 
+cemetery-name: Becks Baptist Church Cemetery
+cemetery-place: US, NC, Winston-Salem
+ 

@@ -1,0 +1,20 @@
+name-last: Kress
+name-first: Charlie
+name-given: Charles Steven
+ 
+birth-date: 1921-12-09
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2014-03-04
+death-place: US, WA, Colville
+ 
+school-level: secondary
+school-name:  Frankford HS
+school-place: US, PA, Philadelphia
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: Perham Cemetery
+cemetery-place: US, MN, Perham

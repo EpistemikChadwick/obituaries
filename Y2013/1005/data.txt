@@ -1,0 +1,13 @@
+name-last: Steinbach
+name-first: Frank
+name-given: Frank M.
+ 
+birth-date: 1926-05-14
+birth-place: US, NY, Bronx
+ 
+death-date: 2013-10-03
+death-place: US, NC, Fuquay-Varina
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

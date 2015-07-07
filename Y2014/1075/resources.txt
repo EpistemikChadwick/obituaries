@@ -1,0 +1,8 @@
+source-title: Roanoke.com
+source-date: 2014-03-16
+source-url: http://www.roanoke.com/obituaries/scott-leo-caudill/article_8e2ef78c-ca7c-54b5-b20d-424ab4c7f1b6.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-16

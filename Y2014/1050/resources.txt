@@ -1,0 +1,8 @@
+source-title: Eagle Tribune
+source-date: 2014-04-01
+source-url: http://www.eagletribune.com/obituaries/x1316964196/Arnold-G-Tom-Zins-82
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-31

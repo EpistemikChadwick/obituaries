@@ -1,0 +1,8 @@
+source-title: Frampton Funeral Home
+source-date: 2014-03-26
+source-url: http://www.framptom.com/obituaries/Carl-Watson-2/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-25

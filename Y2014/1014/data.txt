@@ -1,0 +1,15 @@
+name-last: Kenney
+name-first: Art
+name-given: Arthur J.
+ 
+birth-place: US, MA, Milford
+ 
+death-date: 2014-03-12
+death-place: US, NH, Littleton
+ 
+school-level: college
+school-name: Holy Cross
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II

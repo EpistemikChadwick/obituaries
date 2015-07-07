@@ -1,0 +1,21 @@
+name-last: Kanaskie
+name-first: Wally
+name-given: Walter J.
+ 
+birth-date: 1924-06-27
+birth-place: US, PA, Shamokin
+ 
+death-date: 2014-04-24
+death-place: US, PA, Danville
+ 
+school-level: secondary
+school-name:  Shamokin HS
+school-place: US, PA, Shamokin
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: All Saints Cemetery
+cemetery-place: US, PA, Elysburg
+ 

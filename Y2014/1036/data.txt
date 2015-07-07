@@ -1,0 +1,13 @@
+name-last: Stonehill
+name-first: Jim
+name-given: James S.
+ 
+birth-date: 1927
+birth-place: US, IL, Chicago
+ 
+death-date: 2014-03-23
+death-place: US, CA, Cambria
+ 
+military-country: US
+military-branch: Air Force
+ 

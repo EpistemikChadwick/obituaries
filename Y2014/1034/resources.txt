@@ -1,0 +1,8 @@
+source-title: Times Record
+source-date: 2014-04-14
+source-url: http://swtimes.com/sports/baseball-barling-darling-dies-82
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-14

@@ -1,0 +1,24 @@
+name-last: Palmer
+name-first: I.B.
+name-given: Isaac B.
+ 
+birth-date: 1924-06-11
+birth-place: US, AR, Greenbrier
+ 
+death-date: 2014-04-22
+ 
+school-level: secondary
+school-name:  Conway HS
+school-place: US, AR, Conway
+ 
+school-level: college
+school-name: University of Central Arkansas
+school-place: US, AR, Conway
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II
+ 
+cemetery-name: Resthaven Memorial Park
+cemetery-place: US, TX, Lubbock
+ 

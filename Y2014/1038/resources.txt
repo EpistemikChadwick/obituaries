@@ -1,0 +1,9 @@
+source-title: Seattle Times
+source-date: 2014-04-13
+source-url: http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Donald-Toraason&pid=170633716
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-14

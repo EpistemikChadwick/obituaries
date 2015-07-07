@@ -1,0 +1,10 @@
+name-last: Barbisan
+name-first: Reno
+name-given: Reno Norpheo
+ 
+birth-date: 1929
+birth-place: CA, NS, New Waterford
+ 
+death-date: 2014-03-17
+death-place: US, ID, Idaho Falls
+ 

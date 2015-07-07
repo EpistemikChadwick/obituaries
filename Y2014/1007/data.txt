@@ -1,0 +1,19 @@
+name-last: Coleman
+name-first: Jerome
+name-given: Jerome Elder
+ 
+birth-date: 1958-05-10
+birth-place: US, GA, Newnan
+ 
+death-date: 2014-03-31
+death-place: US, GA, LaGrange
+ 
+school-level: secondary
+school-name:  Newnan HS
+school-place: US, GA, Newnan
+ 
+school-level: college
+school-name: Jacksonville State
+ 
+cemetery-name: Sunset Cemetery
+cemetery-place: US, GA, Newnan

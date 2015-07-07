@@ -1,0 +1,14 @@
+source-title: Cacicha.com
+source-date: 2014-03-09
+source-url: http://cachicha.com/2014/03/muere-ex-prospecto-del-beisbol-tras-golpiza-en-carcel-la-victoria/
+ 
+source-title: Listin Diario
+source-date: 2014-03-01
+source-url: http://www.listin.com.do/el-deporte/2014/2/28/312563/Ex-prospectoEscogido-y-Tampa-Bay-habria-recibido-golpiza-en-La-Victoria-y
+ 
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-09

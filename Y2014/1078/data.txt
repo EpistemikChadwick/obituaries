@@ -1,0 +1,8 @@
+name-last: Bulling
+name-first: Bud
+name-given: Terry
+ 
+birth-date: 1952-12-15
+ 
+death-date: 2014-03-08
+ 

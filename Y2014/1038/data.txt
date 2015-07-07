@@ -1,0 +1,12 @@
+name-last: Toraason
+name-first: Donald
+name-given: Donald Gilbert
+ 
+birth-date: 1917-12-27
+birth-place: US, WI, Blair
+ 
+death-date: 2014-04-07
+ 
+military-country: US
+military-branch: Navy
+military-conflict: World War II

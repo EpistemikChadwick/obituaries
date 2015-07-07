@@ -1,0 +1,19 @@
+name-last:  Cihocki
+name-first:   Al
+name-given: Albert Joseph
+name-nick: Doc
+name-nick: Yogi
+
+birth-date: 1924-05-07
+birth-place: US, PA, Nanticoke
+
+death-date: 2014-03-27
+death-place: US, PA, Nanticoke
+
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II
+
+cemetery-name:  St. Faustina/Holy Trinity Cemetery
+cemetery-place: US, PA, Sheatown
+

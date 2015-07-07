@@ -1,0 +1,23 @@
+name-last: Meckwood
+name-first: Bob
+name-given: Robert M.
+ 
+birth-place: US, PA, Scranton
+ 
+death-date: 2014-04-11
+death-place: US, PA, Scranton
+ 
+school-level: secondary
+school-name:  Scranton Preparatory School
+school-place: US, PA, Scranton
+ 
+school-level: college
+school-name: University of Scranton
+school-place: US, PA, Scranton
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: St. Catherine's Cemetery
+cemetery-place: US, PA, Moscow
+ 

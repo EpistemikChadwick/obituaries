@@ -1,0 +1,8 @@
+source-title:  Wilkes-Barre Times Leader
+source-date: 2014-03-30 
+source-url:  http://www.legacy.com/obituaries/timesleader/obituary.aspx?n=al-yogi-j-cihocki-doc&pid=170420863
+
+contributor-last:  Rod
+contributor-first: Nelson
+contributor-date:  2014-03-20
+contributor-email: r**n@g....com

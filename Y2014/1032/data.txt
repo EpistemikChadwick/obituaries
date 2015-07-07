@@ -1,0 +1,11 @@
+name-last: Sherrod
+name-first: John
+ 
+birth-date: 1977-08-31
+birth-place: US, MO, St. Louis
+ 
+death-date: 2014-02-08
+ 
+school-level: college
+school-name: Allegheny College
+school-place: US, PA, Meadville

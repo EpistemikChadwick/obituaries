@@ -1,0 +1,8 @@
+source-title: The Oregonian
+source-date: 2014-04-02
+source-url: http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=Adolph-Satalich&pid=170475023
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-03

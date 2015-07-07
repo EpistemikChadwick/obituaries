@@ -1,0 +1,8 @@
+source-title: St. Louis Post-Dispatch
+source-date: 2014-04-20
+source-url: http://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Norman-Rohs&pid=170721156
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-04-20

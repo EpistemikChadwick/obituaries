@@ -1,0 +1,10 @@
+name-last:  Balser
+name-first:  Edward
+name-given: Edward P.
+name-nick:  Boo
+
+birth-date: 1928-10-30
+birth-place: US, MA, Worcester
+
+death-date: 2014-03-11
+death-place: US, MA, Worcester

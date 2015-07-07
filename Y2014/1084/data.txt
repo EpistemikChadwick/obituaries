@@ -1,0 +1,25 @@
+name-last: Medley
+name-first: Carl
+name-given: Daniel Carl
+ 
+birth-date: 1926-11-27
+birth-place: US, MS, Paden
+ 
+death-date: 2014-01-29
+death-place: US, TX, Humble
+ 
+school-level: secondary
+school-name:  Paden HS
+school-place: US, MS, Paden
+ 
+school-level: college
+school-name: Delta State University
+school-place: US, MS, Cleveland
+ 
+school-level: college
+school-name: Copiah-Lincoln Community College
+school-place: US, MS, Wesson
+ 
+military-country: US
+military-branch: Army
+military-conflict: World War II

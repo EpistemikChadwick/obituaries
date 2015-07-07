@@ -1,0 +1,12 @@
+name-last: Taylor
+name-first: Scott
+ 
+birth-date: 1946-02-15
+birth-place: US, PA, South Williamsport
+ 
+death-date: 2014-03-15
+death-place: US, PA, Athens
+ 
+school-level: college
+school-name: Mansfield University
+school-place: US, PA, Mansfield

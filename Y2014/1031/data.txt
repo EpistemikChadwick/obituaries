@@ -1,0 +1,16 @@
+name-last: Schmidt
+name-first: Chet
+name-given: Chester
+ 
+birth-date: 1935-09-16
+birth-place: US, CA, Bakersfield
+ 
+death-date: 2014-03-30
+death-place: US, NC, Asheville
+ 
+military-country: US
+military-branch: Army
+ 
+cemetery-name: Western Carolina State Veterans Cemetery
+cemetery-place: US, NC, Black Mountain
+ 

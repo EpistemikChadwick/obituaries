@@ -1,0 +1,15 @@
+name-last: DiFabio
+name-given: Joseph P.
+ 
+death-date: 2014-03-21
+death-place: US, NJ, Cranford
+ 
+school-level: secondary
+school-name:  Cranford HS
+school-place: US, NJ, Cranford
+ 
+school-level: college
+school-name: Delta State University
+ 
+cemetery-name: Rosedale Memorial Park
+cemetery-place: US, NJ, Linden

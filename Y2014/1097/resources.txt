@@ -1,0 +1,17 @@
+source-title: Bonney-Watson Funeral Home
+source-date: 2014-03-09
+source-url: http://bonneywatson.com/obituaries/detail.html?id=4900
+ 
+source-title: Zags in Professional Sports
+source-date: 2014-03-09
+source-url: http://www.gozags.com/ViewArticle.dbml?ATCLID=205183208
+
+ contributor-last: Nemec
+contributor-first: Ray
+contributor-email: basebalray@aol.com
+contributor-role: source
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-09

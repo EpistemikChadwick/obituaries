@@ -1,0 +1,8 @@
+source-title: Everson Funeral Home
+source-date: 2014-03-09
+source-url: http://www.eversonfh.com/ObituaryDisplay.aspx?ID=776
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-09

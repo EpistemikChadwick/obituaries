@@ -1,0 +1,8 @@
+source-title: Post Register
+source-date: 2014-03-26
+source-url: http://www.legacy.com/obituaries/postregister/obituary.aspx?n=Reno-Barbisan&pid=170371641
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-03-26

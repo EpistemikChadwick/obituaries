@@ -1,0 +1,13 @@
+name-last: Smith
+name-first: Hal
+name-nick: Barling Darling
+ 
+birth-date: 1931-06-01
+birth-place: US, AR, Barling
+ 
+death-date: 2014-04-12
+ 
+school-level: secondary
+school-name:  Fort Smith HS
+school-place: US, AR, Fort Smith
+ 

@@ -1,0 +1,14 @@
+name-last: Dietrich
+name-first: Bill
+name-given: William John
+name-suffix: Jr.
+ 
+birth-date: 1934-11-19
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2014-03-02
+ 
+school-level: secondary
+school-name:  Frankford HS
+school-place: US, PA, Philadelphia
+ 

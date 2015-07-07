@@ -1,0 +1,16 @@
+name-last: Ellefson
+name-first: Jon
+ 
+birth-date: 1953-09-12
+birth-place: US, ND, Williston
+ 
+death-date: 2014-03-06
+death-place: US, MN, Burnsville
+ 
+school-level: secondary
+school-name:  Williston HS
+school-place: US, ND, Williston
+ 
+school-level: college
+school-name: Williston State College
+school-place: US, ND, Williston
