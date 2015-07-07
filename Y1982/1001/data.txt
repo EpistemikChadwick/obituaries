@@ -1,0 +1,17 @@
+name-last: Novotney
+name-first: Clarence
+name-given: Clarence F.
+
+birth-date: 1921-01-04
+birth-place: US, IL, Streator
+
+death-date: 1982-07-07
+death-place: US, IL, Hines
+
+military-country: US
+military-branch:  Navy
+military-conflict: World War II
+
+cemetery-name:  St. Stephen's Cemetery
+cemetery-place: US, IL, Streator
+

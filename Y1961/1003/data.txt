@@ -1,0 +1,15 @@
+name-last:  Smith
+name-first:  Edwin
+name-given: Edwin F.
+
+birth-date: 1923-09-19
+
+death-date: 1961-10-05
+death-place: US, VA, Richmond
+
+military-country: US
+military-branch:  Army
+military-conflict: World War II
+
+cemetery-name:  Highland Burial Park
+cemetery-place: US, VA, Danville

@@ -1,0 +1,10 @@
+name-last:  Althausen
+name-first:  Carl
+name-given: Carl J.
+name-nick: Chuck
+
+death-date: 1977-01-01
+death-place: US, CT, Bridgeport
+
+cemetery-name:  Saint Michael's Cemetery
+cemetery-place: US, CT, Bridgeport

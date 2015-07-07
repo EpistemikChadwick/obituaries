@@ -1,0 +1,5 @@
+name-last: Sullivan
+name-first: George
+
+death-date: 1941-03-09
+death-place: CA, ON, Kingston

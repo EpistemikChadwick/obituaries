@@ -1,0 +1,8 @@
+source-title: The Evening Sun (Hanover PA) 
+source-date: 1939-03-15  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-04
+contributor-email: timcopeland64@gmail.com

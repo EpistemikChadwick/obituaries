@@ -1,0 +1,15 @@
+name-last:  Edmunds
+name-first:  Merle
+name-suffix: Sr. 
+
+birth-date: 1891-05-17
+birth-place: US, TX, Gonzales
+
+death-date: 1979-02-19
+
+military-country: US
+military-conflict: World War I
+
+cemetery-name:  Park Hill Cemetery and Mausoleum
+cemetery-place: US, IL, Bloomington
+

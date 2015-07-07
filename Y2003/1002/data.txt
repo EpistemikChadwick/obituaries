@@ -1,0 +1,15 @@
+name-last:  Murray
+name-first:  Tommy
+name-given: Tommy Wayne
+
+birth-place: US, TX, Marshall
+
+death-date: 2003-06-13
+death-place: US, SC, Greenwood
+
+military-country: US
+military-branch:  Army
+
+cemetery-name:  Oakbrook Memorial Park
+cemetery-place: US, SC, Greenwood
+

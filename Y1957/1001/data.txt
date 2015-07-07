@@ -1,0 +1,8 @@
+name-last: Villeman
+name-first: George
+
+death-date: 1957-07-16
+death-place: US, NY, Syracuse
+
+cemetery-name:  Assumption Cemetery
+cemetery-place: US, NY, Syracuse

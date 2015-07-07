@@ -1,0 +1,7 @@
+name-last: Stanfield
+name-first: Scott
+
+death-date: 1950-07-05
+death-place: US, TX, Monahans
+
+cemetery-place: US, TX, Snyder

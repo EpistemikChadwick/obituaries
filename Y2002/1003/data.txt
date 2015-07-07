@@ -1,0 +1,18 @@
+name-last: Thompson
+name-first: Quentin
+name-given: Quentin Mitchell
+name-nick: Cooty
+
+death-date: 2002-05-17
+death-place: US, CA, Orinda
+
+school-level: secondary
+school-name:  Oakland HS
+school-place: US, CA, Oakland
+
+school-level: college
+school-name: Stanford University
+
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

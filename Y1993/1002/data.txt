@@ -1,0 +1,17 @@
+name-last: Stanton
+name-first: Frank
+name-given: Frank D.
+
+birth-date: 1914-08-01
+birth-place: US, MN, Minneapolis
+
+death-date: 1993-12-22
+death-place: US, AZ, Scottsdale
+
+school-level: secondary
+school-name:  DeLaSalle HS
+school-place: US, MN, Minneapolis
+
+school-level: college
+school-name: University of Minnesota
+

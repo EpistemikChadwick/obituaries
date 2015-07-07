@@ -1,0 +1,5 @@
+name-last: Pollan
+name-first: Wayne
+
+death-date: 1934-06-10
+death-place: US, TX, El Paso

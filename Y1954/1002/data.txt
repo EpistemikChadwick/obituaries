@@ -1,0 +1,14 @@
+name-last: Geib
+name-first: William
+
+birth-place: US, OH, Walnut Creek
+
+death-date: 1954-06-02
+death-place: US, OH, Dover 
+
+military-country: US
+military-branch:  Navy
+military-conflict: World War I
+
+cemetery-name:  Evergreen Memorial Park
+cemetery-place: US, OH, New Philadelphia

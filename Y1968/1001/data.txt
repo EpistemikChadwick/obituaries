@@ -1,0 +1,9 @@
+name-last: St. Martin
+name-first: Victor
+name-given: Victor N. 
+
+birth-place: CA, QC, Saint-Joseph-de-Sorel
+
+death-date: 1968-08-20
+death-place: US, MD, Baltimore
+

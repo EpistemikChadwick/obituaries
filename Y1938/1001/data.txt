@@ -1,0 +1,22 @@
+name-last: Marhefka
+name-first: Tony
+name-given: Anthony T.
+
+death-date: 1938-05-19
+death-place: US, PA, Shamokin
+
+school-level: secondary
+school-name: Shamokin High School 
+school-place: US, PA, Shamokin
+
+school-level: college
+school-name: Bloomsburg University 
+school-place: US, PA, Bloomsburg
+
+
+military-country: US
+military-branch:  Navy
+military-conflict: World War I
+
+cemetery-name:  Saint Stanislaus
+cemetery-place: US, PA, East Coal Township

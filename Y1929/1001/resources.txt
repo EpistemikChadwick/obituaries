@@ -1,0 +1,8 @@
+source-title:  The News-Herald
+source-date: 1925-01-25  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-22
+contributor-email: timcopeland64@gmail.com

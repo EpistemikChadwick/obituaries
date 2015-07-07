@@ -1,0 +1,8 @@
+source-title: Unknown newspaper clipping dated June 19, 1979
+source-file-name: Jankow+James+6+18+79.jpg
+source-file-type: application/jpg
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-13

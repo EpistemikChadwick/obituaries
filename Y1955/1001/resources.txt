@@ -1,0 +1,8 @@
+source-title:  Miami Daily News-Record
+source-date: 1955-10-10  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-26
+contributor-email: timcopeland64@gmail.com

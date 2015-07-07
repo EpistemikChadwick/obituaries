@@ -1,0 +1,12 @@
+name-last: Moss
+name-first: Darvin
+name-given: Darvin Glenn
+
+birth-date: 1935-07-29
+birth-place: US, SC, Cherokee Falls
+
+death-date: 1993-03-31
+death-place: US, NC, Kings Mountain
+
+cemetery-name:  Mountain Rest Cemetery
+cemetery-place: US, NC, Kings Mountain

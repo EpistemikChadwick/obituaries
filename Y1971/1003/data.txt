@@ -1,0 +1,13 @@
+name-last:  Crowder
+name-first:  Ned
+name-given: Edward Francis
+
+birth-date: 1884-02-12
+birth-place: US, KY, Louisville
+
+death-date: 1971-10-16
+death-place: US, OH, Zanesville
+
+cemetery-name:  Greenwood Cemetery
+cemetery-place: US, OH, Zanesville
+

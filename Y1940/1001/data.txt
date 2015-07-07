@@ -1,0 +1,5 @@
+name-last:  Gibson
+name-given: James Clyde 
+
+death-date: 1940-11-07
+death-place: US, PA, Sharon 

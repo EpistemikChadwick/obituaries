@@ -1,0 +1,15 @@
+name-last: Krueger 
+name-first: Walter
+name-given: Walter A.
+name-nick: Butch
+
+birth-date: 1893-02-01
+birth-place: US, IL, Freeport
+
+death-date: 1977-04-14
+death-place: US, IL, Freeport 
+
+meta-bats:  right
+
+cemetery-name:  Oakland Cemetery
+cemetery-place: US, IL, Freeport

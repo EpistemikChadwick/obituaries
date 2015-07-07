@@ -1,0 +1,7 @@
+name-last:  Weaver
+name-first:  Howard
+name-given: Howard A.
+name-nick: Hod
+
+death-date: 1968-08-07
+death-place: US, PA, Montoursville

@@ -1,0 +1,8 @@
+source-title:  The Times Recorder
+source-date: 1971-10-17  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-12
+contributor-email: timcopeland64@gmail.com

@@ -1,0 +1,8 @@
+source-title:  The Bee
+source-date: 1961-10-06  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-17
+contributor-email: timcopeland64@gmail.com

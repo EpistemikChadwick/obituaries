@@ -1,0 +1,8 @@
+source-title: Scott Stanfield obit from the July 7, 1950 Amarillo Daily News
+source-file-name: Scott Stanfield obit – Amarillo Daily News – 19500707.docx
+source-file-type: application/docx
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-14

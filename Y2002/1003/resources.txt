@@ -1,0 +1,13 @@
+source-title: SFGate.com
+source-date: 2002-05-22
+source-url: http://www.sfgate.com/news/article/THOMPSON-Quentin-M-Cooty-2834016.php
+
+source-title: Alumni.Stanford.edu
+source-date: 2002-11
+source-url: https://alumni.stanford.edu/get/page/magazine/article/?article_id=37737
+
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-06

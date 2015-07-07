@@ -1,0 +1,8 @@
+source-title: Cincinnati Enquirer
+source-date: 2004-05-21
+source-url: http://www.enquirer.com/editions/2004/05/21/loc_o.hesketh.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-28

@@ -1,0 +1,15 @@
+name-last: Saum
+name-first: Lewis
+name-given: Lewis Oliver
+
+birth-date: 1933-12-19
+birth-place: US, ND, Stanley
+
+death-date: 2014-06-23
+death-place: US, CA, Chico
+
+school-level: college
+school-name: Minot State University
+
+military-country: US
+military-branch: Army

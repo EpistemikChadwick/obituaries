@@ -1,0 +1,12 @@
+source-title:  Shamokin News-Dispatch
+source-date: 1938-05-23  
+source-url:  newspapers.com
+
+source-title:  Shamokin News-Dispatch
+source-date: 1938-05-20  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-11
+contributor-email: timcopeland64@gmail.com

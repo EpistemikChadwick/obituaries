@@ -1,0 +1,9 @@
+name-last:  Hallman
+name-first:  Richard Francis
+
+death-date: 1951-04-12
+death-place: US, PA, East Coventry Township
+
+school-level: secondary
+school-name:  Spring City High School
+school-place: US, PA, Spring City

@@ -1,0 +1,13 @@
+name-last:  Trexler
+name-first:  Richard
+name-given: Richard Floyd
+
+birth-date: 1894-11-30
+birth-place: US, NC, Rowan County
+
+death-date: 1967-03-12
+death-place: US, VA, Danville
+
+cemetery-name:  Highland Burial Park
+cemetery-place: US, VA, Danville
+

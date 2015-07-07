@@ -1,0 +1,17 @@
+name-last: Martinez
+name-first: Raymond
+name-given: Raymond Simon
+
+birth-date: 1926-02-18
+birth-place: US, CA, Colton
+
+death-date: 1987-07-30
+death-place: US, CA, Loma Linda
+
+military-country: US
+military-branch:  Army
+military-conflict: World War II
+
+cemetery-name:  Riverside National Cemetery
+cemetery-place: US, CA, Riverside
+

@@ -1,0 +1,14 @@
+name-last: Vilk
+name-first: Joe
+name-given: Joseph Albert
+name-suffix: Jr.
+
+birth-place: US, PA, Footedale
+
+death-date: 1979-07-15
+death-place: US, OH, Cleveland
+
+school-level: secondary
+school-name:  German Township HS,
+school-place: US, PA, McClellandtown
+

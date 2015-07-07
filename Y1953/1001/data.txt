@@ -1,0 +1,10 @@
+name-last:  Lamb
+name-first:  David
+name-given: David Edwin
+
+death-date: 1953-08-02
+death-place: US, KS, Basehor 
+
+military-country: US
+military-conflict: World War I
+

@@ -1,0 +1,15 @@
+name-last: Hart
+name-given: Guy C.
+
+birth-place: US, OK, Shawnee
+
+death-date: 1974-04-16
+death-place: US, CA, Santa Cruz
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II 
+
+cemetery-name: Felton Cemetery 
+cemetery-place: US, CA, Felton 
+

@@ -1,0 +1,23 @@
+name-last:  Maness
+name-first:  Oscar
+name-given: Oscar Grover
+name-nick: Doc
+
+birth-place: US, NC, Moore County
+
+death-date: 1976-03-31
+death-place: US, NC, Burlington 
+
+
+school-level: secondary
+school-name:  E.M. Holt HS
+school-place: US, NC, Burlington
+
+school-level: college
+school-name: Elon University
+
+military-country: US
+military-conflict: World War II
+
+cemetery-name: Alamance Memorial Park 
+cemetery-place: US, NC, Burlington 

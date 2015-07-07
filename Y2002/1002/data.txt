@@ -1,0 +1,16 @@
+name-last: Hays
+name-first: Edward
+name-nick: Ben
+
+birth-place: US, RI, Providence
+
+death-date: 2002-04-25
+death-place: US, RI, Warwick
+
+school-level: secondary
+school-name:  Hope HS
+school-place: US, RI, Providence
+
+cemetery-name:  St. Francis Cemetery
+cemetery-place: US, RI, Pawtucket 
+

@@ -1,0 +1,8 @@
+source-title:  The Gaffney Ledger
+source-date: 1999-06-28  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-20
+contributor-email: timcopeland64@gmail.com

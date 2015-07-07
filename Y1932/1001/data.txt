@@ -1,0 +1,10 @@
+name-last: Mills
+name-first: Samuel
+name-given: Samuel W.
+
+death-date: 1932-12-17
+death-place: US, OH, Zanesville 
+
+cemetery-name:  Asbury Chapel Cemetery
+cemetery-place: US, OH, Mount Perry
+

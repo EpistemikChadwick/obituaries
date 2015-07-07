@@ -1,0 +1,8 @@
+source-title:  Arizona Republic
+source-date: 1968-12-22  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-10
+contributor-email: timcopeland64@gmail.com

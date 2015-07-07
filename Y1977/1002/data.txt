@@ -1,0 +1,8 @@
+name-last: Luntsford
+name-first: Lynn
+name-given: Lynn J.
+
+birth-place: US, GA, Athens
+
+death-date: 1977-05-16
+death-place: US, TN, Kingsport 

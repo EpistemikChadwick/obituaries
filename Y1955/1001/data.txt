@@ -1,0 +1,13 @@
+name-last: Littledave
+name-given: Clifford Joseph
+
+death-date: 1955-10-09
+death-place: US, OK, Miami
+
+school-level: secondary
+school-name:  Miami High School
+school-place: US, OK, Miami
+
+military-country: US 
+military-conflict: Korean War
+

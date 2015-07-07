@@ -1,0 +1,10 @@
+name-last:  Robb
+name-first:  Clay
+name-given: Clay Ellsworth
+
+death-date: 1953-12-29
+death-place: US, IN, McCordsville 
+
+cemetery-name: Mt. Zion Cemetery 
+cemetery-place: US, IN, Fortville 
+

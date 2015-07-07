@@ -1,0 +1,8 @@
+source-title:  Pottstown Mercury
+source-date: 1952-01-17  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-05
+contributor-email: timcopeland64@gmail.com

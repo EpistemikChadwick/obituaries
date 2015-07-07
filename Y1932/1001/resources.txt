@@ -1,0 +1,8 @@
+source-title:  The Zanesville Signal
+source-date: 1932-12-17  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-10
+contributor-email: timcopeland64@gmail.com

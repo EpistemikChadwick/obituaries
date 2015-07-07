@@ -1,0 +1,8 @@
+source-title: The Hancock Democrat (Greenfield IN) 
+source-date: 1953-12-31  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-05
+contributor-email: timcopeland64@gmail.com

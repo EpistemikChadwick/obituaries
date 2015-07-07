@@ -1,0 +1,10 @@
+name-last:  Titlow
+name-first:  Frank
+name-given: William Franklin
+
+death-date: 1961-05-12
+death-place: US, WV, Oak Hill 
+
+cemetery-name:  Highland Memorial Park
+cemetery-place: US, WV, Oak Hill
+

@@ -1,0 +1,14 @@
+name-last: Hesketh
+name-given: Thomas Fleetwood
+name-suffix: Jr.
+
+death-date: 2004-05-18
+death-place: US, OH, Cincinnati
+
+school-level: secondary
+school-name: Woodward HS
+school-place: US, OH, Cincinnati
+
+school-level: college
+school-name: Michigan State University
+

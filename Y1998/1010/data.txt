@@ -1,0 +1,15 @@
+name-last: Twibell
+name-first: Rex
+
+birth-date: 1918-05-15
+birth-place: US, MO, Archie
+
+death-date: 1998-12-09
+death-place: US, AR, Rogers 
+
+military-country: US
+military-branch:  Army
+military-conflict: World War II
+
+cemetery-name:  Mount Olive Cemetery
+cemetery-place: US, MO, Raytown

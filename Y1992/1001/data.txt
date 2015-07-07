@@ -1,0 +1,9 @@
+name-last: Zimmerman
+name-first: Robert
+name-given: Robert C.
+
+birth-place: US, PA, Hazleton
+
+death-date: 1992-07-13
+death-place: US, PA, Allentown  
+

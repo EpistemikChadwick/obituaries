@@ -1,0 +1,6 @@
+name-last: Chellew
+name-first: Robert
+name-nick: Red
+
+death-date: 1942-12-03
+death-place: US, PA, Harrisburg

@@ -1,0 +1,8 @@
+source-title:  Standard-Speaker
+source-date: 1992-07-15  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-06-01
+contributor-email: timcopeland64@gmail.com

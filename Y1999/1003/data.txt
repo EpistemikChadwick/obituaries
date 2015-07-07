@@ -1,0 +1,21 @@
+name-last: Wells
+name-first: Buddy
+name-given: Buddy Lawrence
+
+birth-place: US, SC, Pacolet Mills
+
+death-date: 1999-06-26
+death-place: US, SC, Spartanburg
+
+school-level: college
+school-name: Spartanburg Methodist College
+
+school-level: college
+school-name: Limestone College
+
+military-country: US
+military-branch:  Army
+
+cemetery-name:  Frederick Memorial Gardens
+cemetery-place: US, SC, Gaffney
+

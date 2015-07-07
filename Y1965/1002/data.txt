@@ -1,0 +1,11 @@
+name-last:  Holman
+name-given: Walter Ernest
+
+birth-date: 1905-12-17
+birth-place: US, TX, Claude
+
+death-date: 1965-11-08
+
+school-level: secondary
+school-name:  Amarillo HS
+school-place: US, TX, Amarillo

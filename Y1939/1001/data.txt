@@ -1,0 +1,6 @@
+name-last: Harkins
+name-given: Charles F. 
+name-nick: Poppy
+
+death-date: 1939-03-15
+death-place: US, PA, York 

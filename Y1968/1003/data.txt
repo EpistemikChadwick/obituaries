@@ -1,0 +1,13 @@
+name-last: Reddell
+name-first: LeRoy
+name-given: LeRoy E.
+name-nick: Corky
+
+birth-place: US, AZ, Phoenix
+
+death-date: 1968-12-18
+death-place: US, AZ, Scottsdale
+
+cemetery-name:  Green Acres Memorial Gardens
+cemetery-place: US, AZ, Scottsdale
+

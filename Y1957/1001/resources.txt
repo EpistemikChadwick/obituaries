@@ -1,0 +1,8 @@
+source-title:  The Post-Standard
+source-date: 1957-07-18  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-15
+contributor-email: timcopeland64@gmail.com

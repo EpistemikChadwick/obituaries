@@ -1,0 +1,11 @@
+name-last: Drischel
+name-given: Benjamin F.
+
+birth-date: 1858
+birth-place: US, IN, Cambridge City
+
+death-date: 1941-02-09
+death-place: US, IN, Richmond
+
+cemetery-name: Riverside Cemetery 
+cemetery-place: US, IN, Cambridge City

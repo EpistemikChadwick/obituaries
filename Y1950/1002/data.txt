@@ -1,0 +1,13 @@
+name-last:  Rhoads
+name-first: Elton 
+name-given: Elton E.
+
+birth-date: 1885-08-02
+birth-place: US, IL, Paris
+
+death-date: 1950-10-17
+death-place: US, IL, Pekin
+
+cemetery-name:  Lakeview Cemetery
+cemetery-place: US, IL, Pekin
+

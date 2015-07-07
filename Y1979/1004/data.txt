@@ -1,0 +1,16 @@
+name-last: Jankow
+name-first: James
+name-given: James B.
+
+birth-date: 1945-07-28
+birth-place: US, MI, Detroit
+
+death-date: 1979-06-18
+death-place: US, MI, Temperance
+
+school-level: secondary
+school-name:  Bedford HS
+school-place: US, MI, Temperance
+
+cemetery-name: Whiteford Union Cemetery
+cemetery-place: US, MI, Lambertville

@@ -1,0 +1,10 @@
+name-last: Grosskopf
+name-first: Lowell
+name-given: Lowell G.
+
+birth-date: 1925-11-15
+birth-place: US, WI, Tilleda
+
+death-date: 1970-05-18
+death-place: US, WI, Neenah
+

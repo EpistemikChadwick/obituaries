@@ -1,0 +1,11 @@
+name-last: Bartle
+name-given: Richard Stephen
+
+birth-date: 1926-01-01
+birth-place: US, OR, Portland
+
+death-date: 2013-02-03
+
+cemetery-name: Willamette National Cemetery
+cemetery-place: US, OR, Portland
+

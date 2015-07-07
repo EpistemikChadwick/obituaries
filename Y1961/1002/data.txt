@@ -1,0 +1,5 @@
+name-last: Hendrix
+name-first: Luke
+
+death-date: 1961-12-30
+death-place: US, TN, Lawrenceburg

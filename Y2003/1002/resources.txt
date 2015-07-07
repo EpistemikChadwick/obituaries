@@ -1,0 +1,8 @@
+source-title:  The Index-Journal
+source-date: 2003-06-14  
+source-url:  newspapers.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-16
+contributor-email: timcopeland64@gmail.com

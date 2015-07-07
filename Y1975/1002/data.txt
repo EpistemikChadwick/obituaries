@@ -1,0 +1,13 @@
+name-last: Butler
+name-given: Frank A.
+
+birth-place: US, NY, Waterford
+
+death-date: 1975-11-19
+death-place: US, NY, Troy
+
+school-level: college
+school-name: Union College 
+
+cemetery-name:  St. Peter's Cemetery
+cemetery-place: US, NY, Troy

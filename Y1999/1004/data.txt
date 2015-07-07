@@ -1,0 +1,16 @@
+name-last: Horton
+name-given: Claude Edward
+name-suffix: Sr.
+
+birth-date: 1911-06-05
+birth-place: US, TX, Fort Worth 
+
+death-date: 1999-09-18
+death-place: US, TX, Fort Worth 
+
+military-country: US
+military-branch:  Army
+military-conflict: World War II
+
+cemetery-name:  Mount Olivet Cemetery
+cemetery-place: US, TX, Fort Worth

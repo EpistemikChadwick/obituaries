@@ -1,0 +1,8 @@
+source-title: Kingsport News 
+source-date: 1977-05-18  
+source-url:  ancestry.com
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-10
+contributor-email: timcopeland64@gmail.com

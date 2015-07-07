@@ -1,0 +1,6 @@
+name-last: Dwyer
+name-first: Ray
+
+death-date: 1962-10-10
+death-place: US, CA, Watsonville
+

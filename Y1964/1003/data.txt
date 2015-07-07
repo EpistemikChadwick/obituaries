@@ -1,0 +1,12 @@
+name-last:  Ogden
+name-first:  Joseph
+name-given: Joseph Pinter
+
+birth-place: US, AR, Blufton
+
+death-date: 1964-06-20
+death-place: US, TX, Livingston 
+
+cemetery-name:  Harlingen Cemetery
+cemetery-place: US, TX, Harlingen
+
