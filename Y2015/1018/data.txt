@@ -1,0 +1,13 @@
+name-last: Curry
+name-first: Bill
+name-given: William Jackson
+ 
+death-date: 2015-05-29
+death-place: US, AR, Hot Springs
+ 
+school-level: secondary
+school-name:  Upper Chichester HS
+school-place: US, PA, Upper Chichester Township
+ 
+military-country: US
+military-branch:  Army

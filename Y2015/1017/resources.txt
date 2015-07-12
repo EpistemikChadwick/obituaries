@@ -1,0 +1,12 @@
+source-title: Connie Swensson death notification email
+source-file-name: Connie Swensson death notification.docx
+source-file-type: application/docx
+ 
+source-title: DenverPost.com
+source-date: 2015-07-01
+source-url: http://www.legacy.com/obituaries/denverpost/obituary.aspx?n=Conrad-Swensson&pid=175193190
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-02

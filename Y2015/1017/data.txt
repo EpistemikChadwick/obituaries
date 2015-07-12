@@ -1,0 +1,10 @@
+name-last: Swensson
+name-first: Connie
+name-given: Conrad
+
+birth-date: 1931
+ 
+death-date: 2015-06-25
+death-place:  US, CO, Denver
+ 
+cemetery-name: Cremated

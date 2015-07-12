@@ -1,0 +1,10 @@
+name-last: Opperman
+name-first: Doug
+name-given: Douglas A.
+ 
+birth-date: 1925-05-16
+ 
+death-date: 2015-06-30
+ 
+cemetery-name: Christ Our Redeemer Catholic Cemetery
+cemetery-place: US, PA, Pittsburgh

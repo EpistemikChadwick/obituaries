@@ -1,0 +1,8 @@
+source-title: New York Times
+source-date: 2015-07-10
+source-url: http://www.nytimes.com/2015/07/10/sports/football/ken-stabler-is-dead-at-69-led-raiders-to-nfl-title.html?_r=0
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-11

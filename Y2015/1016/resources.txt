@@ -1,0 +1,8 @@
+source-title: Pittsburgh Post-Gazette
+source-date: 2015-07-03
+source-url: http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=DOUGLAS-A-OPPERMAN-DOUG&pid=175209983
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-11

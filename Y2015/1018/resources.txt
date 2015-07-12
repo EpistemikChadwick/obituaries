@@ -1,0 +1,8 @@
+source-title: Delaware County Times
+source-date: 2015-06-20
+source-url: http://www.delcotimes.com/opinion/20150620/ed-gebhart-a-man-long-gone-but-not-forgotten
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-28

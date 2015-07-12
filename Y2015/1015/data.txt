@@ -1,0 +1,14 @@
+name-last: Stabler
+name-first: Ken
+name-given: Kenneth Michael
+name-nick: The Snake
+ 
+birth-date: 1945-12-25
+birth-place: US, AL, Foley
+ 
+death-date: 2015-07-08
+death-place:  US, MS, Gulfport
+ 
+school-level: college
+school-name: University of Alabama
+ 
