@@ -1,0 +1,19 @@
+name-last: Roberts
+name-first: Thomas
+name-given: Thomas L.
+ 
+birth-date: 1928-03-03
+birth-place: US, MO, Millwood
+ 
+death-date: 2015-06-27
+death-place:  US, MO, Silex
+ 
+school-level: secondary
+school-name:  Assumption HS
+school-place: US, MO, O’Fallon
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: St. Alphonsus Cemetery
+cemetery-place: US, MO, Silex

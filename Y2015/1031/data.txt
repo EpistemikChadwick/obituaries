@@ -1,0 +1,11 @@
+name-last: Zugay
+name-first: Joseph
+name-nick: Yako
+ 
+birth-date: 1929-01-15
+birth-place: US, PA, Logstown
+ 
+death-date: 2015-03-08
+ 
+cemetery-name: Mount Olivet Cemetery
+cemetery-place: US, PA, Aliquippa

@@ -1,0 +1,8 @@
+source-title: Dial-Murray Funeral Home
+source-date: 2015-07-11
+source-url: http://www.dial-murrayfuneralhome.com/home/index.cfm/obituaries/view/fh_id/10839/id/3236115
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-11

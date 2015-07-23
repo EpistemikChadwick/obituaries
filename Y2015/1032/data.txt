@@ -1,0 +1,9 @@
+name-last: Pitcher
+name-first: Gary
+name-given: Gary Lee
+ 
+birth-date: 1939-05-08
+birth-place: US, MI, Royal Oak
+ 
+death-date: 2015-07-02
+ 

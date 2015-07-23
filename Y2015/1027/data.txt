@@ -1,0 +1,12 @@
+name-last: Skarzynski
+name-first: John
+name-given: John E.
+name-nick: Skeets
+ 
+birth-place: US, NJ, South Amboy
+ 
+death-date: 2015-07-06
+death-place:  US, NJ, Perth Amboy
+ 
+cemetery-name: Sacred Heart Cemetery
+cemetery-place: US, NJ, Parlin

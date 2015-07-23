@@ -1,0 +1,13 @@
+name-last: Francone
+name-first: Nick
+name-given: Nick Rocco
+ 
+birth-date: 1937-02-22
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2015-06-27
+death-place:  US, CA, South Pasadena
+ 
+school-level: secondary
+school-name:  Alhambra HS
+school-place: US, CA, Alhambra

@@ -1,0 +1,22 @@
+name-last: Groeschen
+name-first: Leo
+name-given: Leo John
+ 
+birth-date: 1928-07-21
+ 
+death-date: 2015-07-05
+death-place:  US, KY, Edgewood
+ 
+school-level: secondary
+school-name:  Newport Catholic HS
+school-place: US, KY, Newport
+ 
+school-level: college
+school-name: Xavier University
+ 
+military-country: US
+military-conflict:  Korean War
+ 
+cemetery-name: St. Stephen Cemetery
+cemetery-place: US, KY, Fort Thomas
+ 

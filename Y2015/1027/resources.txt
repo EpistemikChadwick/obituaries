@@ -1,0 +1,8 @@
+source-title: Home News Tribune
+source-date: 2015-07-09
+source-url: http://www.legacy.com/obituaries/mycentraljersey/obituary.aspx?n=John-E-Skarzynski-Skeets&pid=175247491
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-12

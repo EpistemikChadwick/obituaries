@@ -1,0 +1,15 @@
+name-last: Reed
+name-first: David
+name-given: David Duane
+ 
+birth-date: 1936-07-30
+birth-place: US, MI, Battle Creek
+ 
+death-date: 2015-07-05
+ 
+school-level: secondary
+school-name:  Battle Creek Central HS
+school-place: US, MI, Battle Creek
+ 
+cemetery-name: Lynnhurst Cemetery
+cemetery-place: US, TN, Knoxville

@@ -1,0 +1,16 @@
+name-last: Williams
+name-first: Ed
+name-given: Charles Edwin
+ 
+birth-date: 1929
+birth-place: US, PA, Oil City
+ 
+death-date: 2015-07-02
+death-place:  US, MO, Cape Girardeau
+ 
+school-level: secondary
+school-name:  Cranberry HS
+school-place: US, PA, Seneca
+ 
+school-level: college
+school-name: Pennsylvania State University

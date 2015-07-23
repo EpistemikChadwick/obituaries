@@ -1,0 +1,14 @@
+name-last: DeRenzo
+name-first: Carmine
+ 
+birth-place: US, NY, Staten Island
+ 
+death-date: 2015-07-04
+death-place:  US, NY, Staten Island
+ 
+school-level: secondary
+school-name:  Curtis HS
+school-place: US, NY, Staten Island
+ 
+cemetery-name: St. Peter's Cemetery
+cemetery-place: US, NY, Staten Island

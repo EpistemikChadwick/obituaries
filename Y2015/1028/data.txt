@@ -1,0 +1,19 @@
+name-last: Ganem
+name-first: Al
+name-given: Albert
+ 
+birth-date: 1926-05-31
+ 
+death-date: 2015-07-04
+death-place:  US, CA, San Francisco
+ 
+school-level: secondary
+school-name:  Washington HS
+school-place: US, CA, San Francisco
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, CA, Colma

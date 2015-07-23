@@ -1,0 +1,19 @@
+name-last: Johnson
+name-first: Joe
+name-given: Joseph Elman
+ 
+birth-date: 1984-08-10
+birth-place: US, SC, Charleston
+ 
+death-date: 2015-07-07
+death-place: US, SC, Berkeley County
+ 
+school-level: secondary
+school-name:  Berkeley HS
+school-place: US, SC, Moncks Corner
+ 
+school-level: college
+school-name: The Citadel
+ 
+school-level: college
+school-name: Louisburg College

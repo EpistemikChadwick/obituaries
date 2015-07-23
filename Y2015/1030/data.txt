@@ -1,0 +1,19 @@
+name-last: Timme
+name-first: Paul
+name-given: Roland Paul
+name-suffix: Jr.
+ 
+birth-date: 1939-12-06
+birth-place: US, TX, Houston
+ 
+death-date: 2015-07-07
+death-place:  US, TX, Lufkin
+ 
+school-level: college
+school-name: Rice University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Largent Cemetery
+cemetery-place: US, TX, Lufkin

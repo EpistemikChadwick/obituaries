@@ -1,0 +1,16 @@
+name-last: Sullivan
+name-first: Dan
+name-given: Daniel L.
+ 
+birth-date: 1928-06-17
+birth-place: US, WI, Appleton
+ 
+death-date: 2015-07-08
+death-place:  US, WI, Appleton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, WI, Appleton

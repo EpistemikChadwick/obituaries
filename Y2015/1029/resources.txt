@@ -1,0 +1,8 @@
+source-title: Appleton Post-Crescent
+source-date: 2015-07-10
+source-url: http://www.legacy.com/obituaries/postcrescent/obituary.aspx?n=Daniel-L-Sullivan&pid=175255488
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-12

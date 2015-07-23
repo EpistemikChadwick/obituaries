@@ -1,0 +1,10 @@
+name-last: Nauert
+name-first: Jerry
+ 
+birth-date: 1939-05-24
+ 
+death-date: 2015-07-02
+ 
+school-level: college
+school-name: University of Missouri
+ 
