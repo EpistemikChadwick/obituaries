@@ -1,0 +1,11 @@
+name-last: Horn
+name-first: Bryon
+name-given: Bryon Lee
+ 
+birth-date: 1959-03-28
+birth-place: US, OH, Hamilton
+ 
+death-date: 2015-07-08
+ 
+school-level: college
+school-name: Eastern Michigan University

@@ -1,0 +1,16 @@
+name-last: Walters
+name-first: Ray
+name-given: Raymond Lamarne
+name-suffix: Sr.
+ 
+birth-date: 1924-04-03
+birth-place: US, GA, Atlanta
+ 
+death-date: 2015-07-14
+ 
+school-level: college
+school-name: University of North Carolina
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

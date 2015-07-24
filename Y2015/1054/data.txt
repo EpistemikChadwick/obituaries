@@ -1,0 +1,12 @@
+name-last: Mendoza
+name-first: George
+name-given: George Pasqual
+ 
+birth-date: 1923-04-23
+birth-place: PT, Azores, Salao
+ 
+death-date: 2015-07-12
+ 
+school-level: secondary
+school-name:  McClymonds HS
+school-place: US, CA, Oakland

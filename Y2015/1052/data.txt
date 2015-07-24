@@ -1,0 +1,12 @@
+name-last: Ardizoia
+name-first: Rugger
+name-given: Rinaldo
+ 
+birth-place: IT, ,
+ 
+death-date: 2015-07-19
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

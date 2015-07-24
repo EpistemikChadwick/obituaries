@@ -1,0 +1,12 @@
+name-last: Collins
+name-first: Elmer
+name-given: Elmer E.
+ 
+birth-date: 1928-01-02
+birth-place: US, VA, Henry County
+ 
+death-date: 2015-07-04
+death-place:  US, NC, Greensboro
+ 
+cemetery-name: Roselawn Burial Park
+cemetery-place: US, VA, Martinsville

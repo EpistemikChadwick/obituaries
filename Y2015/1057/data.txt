@@ -1,0 +1,11 @@
+name-last: LaFever
+name-first:  Greg
+ 
+birth-date: 1963-08-07
+ 
+death-date: 2015-07-20
+death-place:  US, OK, Midwest City
+ 
+school-level: secondary
+school-name:  Putnam City West HS
+school-place: US, OK, Oklahoma City

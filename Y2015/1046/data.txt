@@ -1,0 +1,20 @@
+name-last: McHugh
+name-first: Eddie
+name-given: Edward J.
+ 
+birth-date: 1929-03-23
+birth-place: US, CT, Bristol
+ 
+death-date: 2015-07-14
+death-place:  US, CT, New Britain
+ 
+meta-bats: Right
+ 
+school-level: college
+school-name: Yale University
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, CT, Bristol

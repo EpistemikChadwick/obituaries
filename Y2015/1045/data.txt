@@ -1,0 +1,19 @@
+name-last: Vance
+name-first: Kenneth
+name-given: Kenneth R.
+ 
+birth-date: 1925-09-02
+birth-place: US, IN, Washington
+ 
+death-date: 2015-07-13
+ 
+school-level: secondary
+school-name:  Washington HS
+school-place: US, IN, Washington
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Sugarland Memorial Gardens
+cemetery-place: US, IN, Washington

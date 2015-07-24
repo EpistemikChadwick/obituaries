@@ -1,0 +1,12 @@
+name-last: Lively
+name-first: Buddy
+name-given: Everett Adrian
+ 
+birth-date: 1925-02-14
+birth-place: US, AL, Birmingham
+ 
+death-date: 2015-07-12
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

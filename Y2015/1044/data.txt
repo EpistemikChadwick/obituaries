@@ -1,0 +1,20 @@
+name-last: Williamson
+name-first: Art
+name-given: Arthur Harrison
+ 
+birth-date: 1924-02-10
+birth-place: US, SC, Red Bank
+ 
+death-date: 2015-07-10
+death-place:  US, SC, Charleston
+ 
+school-level: secondary
+school-name:  Lexington HS
+school-place: US, SC, Lexington
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Green lawn Memorial Gardens
+cemetery-place: US, SC, Walterboro

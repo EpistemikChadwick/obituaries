@@ -1,0 +1,20 @@
+name-last: Heckenberg
+name-first: Dean
+name-given: Dean Ervin
+ 
+birth-date: 1924-07-12
+birth-place: US, IA, Eddyville
+ 
+death-date: 2015-07-14
+death-place:  US, IA, Ottumwa
+ 
+school-level: secondary
+school-name:  Eddyville HS
+school-place: US, IA, Eddyville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, IA, Ottumwa

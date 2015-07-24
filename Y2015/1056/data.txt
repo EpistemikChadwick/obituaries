@@ -1,0 +1,9 @@
+name-last: Pereyra
+name-first: Miguel
+name-matrilineal: Castro
+ 
+birth-date: 1944-10-17
+birth-place: MX, Tabasco, Centro
+ 
+death-date: 2015-07-02
+death-place:  MX, Tabasco, Villahermosa

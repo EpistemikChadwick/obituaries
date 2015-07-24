@@ -1,0 +1,5 @@
+name-last: South
+name-first: George
+ 
+death-date: 1963-02-09
+death-place:  US, CA, Redding

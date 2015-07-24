@@ -1,0 +1,9 @@
+source-title: Frank Barnes obit
+source-file-name: Frank Barnes obit.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-18
+ 

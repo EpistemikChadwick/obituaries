@@ -1,0 +1,8 @@
+source-title: Hartford Courant
+source-date: 2015-07-16
+source-url: http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=Edward-J-McHugh&pid=175300580
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-16

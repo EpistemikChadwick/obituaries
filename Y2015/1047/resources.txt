@@ -1,0 +1,8 @@
+source-title: Citizens' Voice
+source-date: 2015-07-18
+source-url: http://www.legacy.com/obituaries/citizensvoice/obituary.aspx?n=John-T-Zavada&pid=175314662
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-18

@@ -1,0 +1,12 @@
+source-title: Dignity Memorial.com
+source-date: 2015-07-11
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Robert-MacKinnon&lc=1031&pid=175246272&mid=6511077
+ 
+source-title: Buffalo News
+source-date: 2015-07-07
+source-url: http://www.buffalonews.com/sports/canisius-mens-basketball/bob-mackinnon-a-canisius-coaching-legend-dies-at-87-20150707
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-11

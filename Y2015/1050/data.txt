@@ -1,0 +1,16 @@
+name-last: Wiebel
+name-first: Mel
+name-given: Melvin F.
+ 
+birth-date: 1922-11-15
+birth-place: US, IA, Lowden
+ 
+death-date: 2015-07-15
+death-place:  US, IA, Wheatland
+ 
+school-level: secondary
+school-name:  Lowden HS
+school-place: US, IA, Lowden
+ 
+cemetery-name: Trinity Lutheran Cemetery
+cemetery-place: US, IA, Lowden

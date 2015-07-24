@@ -1,0 +1,8 @@
+source-title: Finger Lakes Times
+source-date: 2015-07-09
+source-url: http://www.legacy.com/obituaries/fltimes/obituary.aspx?n=Eldon-Olschewske-Jim&pid=175252476
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-13

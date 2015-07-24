@@ -1,0 +1,19 @@
+name-last: Zavada
+name-first: John
+name-given: John T.
+ 
+birth-place: US, PA, Wilkes-Barre
+ 
+death-date: 2015-07-15
+death-place:  US, PA, Wilkes-Barre
+ 
+school-level: secondary
+school-name:  Coughlin HS
+school-place: US, PA, Wilkes-Barre
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Denison Cemetery
+cemetery-place: US, PA, Swoyersville

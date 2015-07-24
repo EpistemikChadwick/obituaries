@@ -1,0 +1,12 @@
+source-title: Bob Gauci memorial from Los Angeles Harbor College baseball media guide
+source-file-name: Bob Gauci memorial.png
+source-file-type: application/png
+ 
+source-title: Daily Breeze
+source-date: 2008-02-13
+source-url: http://www.dailybreeze.com/general-news/20080213/hurst-gets-25-years-to-life-for-murder
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-15

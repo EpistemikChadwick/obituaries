@@ -1,0 +1,5 @@
+name-last: Smith
+name-given: Richard A.
+ 
+death-date: 2012-02-19
+death-place:  US, OR, Medford

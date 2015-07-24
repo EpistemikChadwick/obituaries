@@ -1,0 +1,13 @@
+name-last: Gauci
+name-first: Bob
+ 
+birth-date: 1960-06-02
+ 
+death-date: 2005-02-08
+death-place: US, CA, Torrance
+
+school-level: college
+school-name: Los Angeles Harbor College
+ 
+school-level: college
+school-name: Loyola Marymount University

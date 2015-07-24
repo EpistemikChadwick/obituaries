@@ -1,0 +1,8 @@
+source-title: Sacramento Bee
+source-date: 2015-07-23
+source-url: http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=Eugene-A-Roenspie&pid=175333329
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-23

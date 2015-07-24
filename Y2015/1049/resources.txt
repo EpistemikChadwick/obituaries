@@ -1,0 +1,8 @@
+source-title: Ottumwa Post
+source-date: 2015-07-15
+source-url: http://www.ottumwaeveningpost.com/9437/128290/a/obituaries-dean-heckenberg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-19

@@ -1,0 +1,23 @@
+name-last: Olschewske
+name-first: Jim
+name-given: Eldon
+ 
+birth-date: 1919-10-01
+birth-place: US, NY, Seneca Falls
+ 
+death-date: 2015-07-07
+ 
+school-level: secondary
+school-name:  Waterloo HS
+school-place: US, NY, Waterloo
+ 
+school-level: college
+school-name: Rochester Institute of Technology
+school-place: US, NY, Rochester
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: West Fayette Church Cemetery
+cemetery-place: US, NY, Fayette

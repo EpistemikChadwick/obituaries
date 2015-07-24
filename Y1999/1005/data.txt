@@ -1,0 +1,10 @@
+name-last: Doenig
+name-first: Fred
+name-given: Fred A.
+name-suffix: Jr.
+name-nick: Iron Mike
+ 
+death-date: 1999-09-20
+ 
+cemetery-name: Good Ground Cemetery
+cemetery-place: US, NY, Hampton Bays

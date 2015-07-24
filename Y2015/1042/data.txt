@@ -1,0 +1,19 @@
+name-last: Keane
+name-first: Thomas
+name-given: Thomas E.
+ 
+birth-date: 1932-04-13
+birth-place: US, NY, Wellsville
+ 
+death-date: 2015-07-13
+ 
+school-level: secondary
+school-name:  Bradford HS
+school-place: US, PA, Bradford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Willow Dale Cemetery
+cemetery-place: US, PA, Bradford

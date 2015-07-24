@@ -1,0 +1,11 @@
+name-last: Duckett
+name-first: Mahlon
+ 
+birth-date: 1922-12-20
+ 
+death-date: 2015-07-12
+death-place:  US, PA, Philadelphia
+ 
+school-level: secondary
+school-name:  Overbrook HS
+school-place: US, PA, Philadelphia

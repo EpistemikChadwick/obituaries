@@ -1,0 +1,11 @@
+name-last: Roenspie
+name-first: Gene
+name-given: Eugene Albert
+ 
+birth-date: 1930-01-02
+birth-place: US, CA, Elk Grove
+ 
+death-date: 2015-07-17
+ 
+military-country: US
+military-conflict:  Korean War

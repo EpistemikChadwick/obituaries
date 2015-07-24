@@ -1,0 +1,8 @@
+source-title: Bradford Era
+source-date: 2015-07-15
+source-url: http://www.legacy.com/obituaries/bradfordera/obituary.aspx?n=Thomas-Keane&pid=175290757
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-15

@@ -1,0 +1,16 @@
+name-last: Mims
+name-first: Jimbo
+name-given: James Alton
+name-suffix: Jr.
+ 
+birth-date: 1960-01-28
+birth-place: US, SC, Hartsville
+ 
+death-date: 2015-07-19
+death-place:  US, SC, Mt. Pleasant
+ 
+school-level: college
+school-name: Charleston Southern University
+ 
+cemetery-name: Limestone Baptist Church Cemetery
+cemetery-place: US, SC, Dorchester

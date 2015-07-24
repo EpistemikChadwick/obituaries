@@ -1,0 +1,9 @@
+source-title: Fred Doenig obit
+source-file-name: Fred A Doenig.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-15
+ 

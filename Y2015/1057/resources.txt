@@ -1,0 +1,8 @@
+source-title: The Oklahoman
+source-date: 2015-07-23
+source-url: http://www.legacy.com/obituaries/oklahoman/obituary.aspx?n=GREG-LAFEVER&pid=175347602
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-23

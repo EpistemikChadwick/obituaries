@@ -1,0 +1,8 @@
+source-title: Fuller Metz Funeral Home
+source-date: 2015-07-13
+source-url: http://www.fullermetz.com/obituaries/Bryon-L-Horn-5212495803/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-13

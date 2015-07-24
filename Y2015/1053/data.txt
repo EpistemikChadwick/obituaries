@@ -1,0 +1,8 @@
+name-last: Calaicone
+name-first: Fred
+name-given: Frederick W.
+name-nick: Fritz
+ 
+birth-place: US, NY, Bronx
+ 
+death-date: 2015-07-19

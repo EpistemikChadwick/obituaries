@@ -1,0 +1,19 @@
+name-last: Stedman
+name-first: Vaughn
+name-given: Vaughn Adair
+ 
+birth-date: 1932-08-27
+birth-place: US, ME, Hartland
+ 
+death-date: 2015-07-14
+death-place:  US, ME, Augusta
+ 
+school-level: secondary
+school-name:  Hartland Academy
+school-place: US, ME, Hartland
+ 
+school-level: college
+school-name: Boston University
+ 
+military-country: US
+military-branch:  Army

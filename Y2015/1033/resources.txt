@@ -1,0 +1,8 @@
+source-title: Martinsville Bulletin
+source-date: 2015-07-07
+source-url: http://www.martinsvillebulletin.com/obituaries/collins-elmer-e/article_d9261ac0-34ed-5e70-a212-7f4da0dff837.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-13

@@ -1,0 +1,8 @@
+source-title: Central Maine
+source-date: 2015-07-18
+source-url: http://obituaries.centralmaine.com/obituaries/MaineToday-CentralMaine/obituary.aspx?n=Vaughn-A-Stedman&pid=175314050
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-18

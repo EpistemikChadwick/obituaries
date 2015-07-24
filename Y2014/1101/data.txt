@@ -1,0 +1,9 @@
+name-last: Barnes
+name-first: Frank
+ 
+death-date: 2014-10-19
+death-place:  US, MS, Greenville
+ 
+cemetery-name: Delta Memorial Gardens
+cemetery-place: US, MS, Greenville
+ 

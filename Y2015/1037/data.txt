@@ -1,0 +1,19 @@
+name-last: Latessa
+name-first: Ernie
+name-given: Ernest R.
+ 
+birth-place: US, RI, Providence
+ 
+death-date: 2015-06-08
+death-place:  US, FL, Delray Beach
+ 
+school-level: secondary
+school-name:  La Salle Academy
+school-place: US, RI, Providence
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Rhode Island Veterans Memorial Cemetery
+cemetery-place: US, RI, Exeter
+ 

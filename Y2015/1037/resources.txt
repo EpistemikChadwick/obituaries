@@ -1,0 +1,8 @@
+source-title: Wellesley Townsman
+source-date: 2015-07-13
+source-url: http://www.legacy.com/obituaries/wickedlocal-wellesley/obituary.aspx?n=ernest-r-latessa&pid=175276049&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-14

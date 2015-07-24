@@ -1,0 +1,11 @@
+name-last: Matarazzo
+name-given: Leonard
+ 
+birth-date: 1928-09-12
+birth-place: US, PA, New Castle
+ 
+death-date: 2015-06-19
+ 
+military-country: US
+military-branch:  Navy
+ 

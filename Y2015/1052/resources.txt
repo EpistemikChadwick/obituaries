@@ -1,0 +1,8 @@
+source-title: SFGate.com
+source-date: 2015-07-21
+source-url: http://www.sfgate.com/sports/article/Rinaldo-Ardizoia-one-time-big-leaguer-6396206.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-21
