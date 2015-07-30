@@ -1,0 +1,8 @@
+name-last: Iwashita
+name-first: Morimichi
+ 
+birth-date: 1931-12-09
+ 
+death-date: 2015-01-18
+death-place:  JP, Tokyo, Tokyo
+ 

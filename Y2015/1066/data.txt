@@ -1,0 +1,14 @@
+name-last: Weatherly
+name-first: Dick
+name-given: Richard D.
+ 
+birth-place: US, IA, Des Moines
+ 
+death-date: 2015-07-25
+ 
+school-level: secondary
+school-name:  North HS
+school-place: US, IA, Des Moines
+ 
+school-level: college
+school-name: University of Iowa

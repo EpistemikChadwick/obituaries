@@ -1,0 +1,15 @@
+name-last: Hogan
+name-first: Richard
+name-given: Richard W.
+ 
+birth-place: US, RI, Providence
+ 
+death-date: 2015-07-22
+death-place:  US, RI, Greenville
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: St. Ann's Cemetery
+cemetery-place: US, RI, Cranston

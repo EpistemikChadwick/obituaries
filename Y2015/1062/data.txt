@@ -1,0 +1,19 @@
+name-last: Werner
+name-first: Hank
+name-given: Henry John
+ 
+birth-date: 1913-10-25
+birth-place: US, IL, Chicago
+ 
+death-date: 2015-07-25
+ 
+school-level: secondary
+school-name:  Lane Tech
+school-place: US, IL, Chicago
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Elmwood Memorial Park
+cemetery-place: US, TX, Abilene

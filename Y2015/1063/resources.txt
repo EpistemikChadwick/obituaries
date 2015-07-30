@@ -1,0 +1,8 @@
+source-title: Cincinnati Enquirer
+source-date: 2015-07-28
+source-url: http://www.legacy.com/obituaries/cincinnati/obituary.aspx?n=Robert-C-BLACK&pid=175377031
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-28

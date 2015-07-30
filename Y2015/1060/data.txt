@@ -1,0 +1,6 @@
+name-last: Imoto
+name-first: Takashi
+ 
+death-date: 2015-01-21
+death-place:  JP, Chiba, Matsudo
+ 

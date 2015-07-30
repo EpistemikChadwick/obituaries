@@ -1,0 +1,8 @@
+source-title: Nikkan Sports
+source-date: 2015-01-21
+source-url: http://www.nikkansports.com/baseball/news/f-bb-tp0-20150121-1424487.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-25

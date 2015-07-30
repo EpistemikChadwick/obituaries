@@ -1,0 +1,11 @@
+name-last: Black
+name-first: Bob
+name-given: Robert C.
+ 
+birth-place: US, OH, New Paris
+ 
+death-date: 2015-07-25
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

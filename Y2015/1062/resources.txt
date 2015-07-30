@@ -1,0 +1,12 @@
+source-title: Abilene Reporter-News
+source-date: 2015-07-26
+source-url: http://www.legacy.com/obituaries/reporternews/obituary.aspx?n=Henry-Werner&pid=175366849
+ 
+source-title: Elliott-Hamil Funeral Home
+source-date: 2015-07-26
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Henry-Werner&lc=7503&pid=175364567&mid=6531273
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-26

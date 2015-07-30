@@ -1,0 +1,17 @@
+name-last: Burgher
+name-first: Bill
+name-given: Joseph William
+ 
+birth-date: 1925-01-01
+birth-place: US, ID, Wilder
+ 
+death-date: 2015-07-20
+death-place:  US, OR, Coos Bay
+ 
+school-level: secondary
+school-name:  Ontario HS
+school-place: US, OR, Ontario
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

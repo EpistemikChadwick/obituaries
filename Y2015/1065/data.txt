@@ -1,0 +1,12 @@
+name-last: Reese
+name-first: Guy
+name-nick: Red
+ 
+birth-date: 1932-12-28
+birth-place: US, IA, Des Moines
+ 
+death-date: 2015-07-27
+ 
+school-level: secondary
+school-name:  East HS
+school-place: US, IA, Des Moines
