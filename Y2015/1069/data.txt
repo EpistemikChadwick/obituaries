@@ -1,0 +1,15 @@
+name-last: Stadvec
+name-first: Bob
+name-given: Albert Robert
+ 
+death-date: 2015-07-31
+ 
+school-level: college
+school-name: University of Akron
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Ohio Western Reserve National Cemetery
+cemetery-place: US, OH, Rittman

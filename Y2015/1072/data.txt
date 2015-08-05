@@ -1,0 +1,9 @@
+name-last: Pokorski
+name-first: Tom
+name-nick: Pork
+ 
+birth-date: 1953-10-30
+birth-place: US, OH, Cleveland
+ 
+death-date: 2015-07-18
+death-place:  US, HI, Hilo

@@ -1,0 +1,12 @@
+name-last: Pierce
+name-first: Billy
+name-given: Walter W.
+
+birth-date: 1927-04-02
+ 
+death-date: 2015-07-31
+death-place:  US, IL, Palos Heights
+ 
+cemetery-name: Chapel Hill Gardens South
+cemetery-place: US, IL, Oak Lawn
+ 

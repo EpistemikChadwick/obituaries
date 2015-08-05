@@ -1,0 +1,8 @@
+source-title: Akron Beacon Journal
+source-date: 2015-08-02
+source-url: http://www.legacy.com/obituaries/ohio/obituary.aspx?n=Albert-Robert-Stadvec&pid=175417367
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-02

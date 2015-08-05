@@ -1,0 +1,22 @@
+name-last: Bowers
+name-first: Buzz
+name-given: Charles Phillip
+ 
+birth-date: 1929-04-21
+birth-place: US, MA, Waltham
+ 
+death-date: 2015-07-31
+death-place:  US, MA, Orleans
+ 
+school-level: secondary
+school-name:  Wayland HS
+school-place: US, MA, Wayland
+ 
+school-level: college
+school-name: Michigan State University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: North Cemetery
+cemetery-place: US, MA, Wayland

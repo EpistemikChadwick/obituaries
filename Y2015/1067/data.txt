@@ -1,0 +1,16 @@
+name-last: Vance
+name-first: Randy
+name-given: Claude Randall
+ 
+birth-date: 1935-04-14
+birth-place: US, OH, Marion
+ 
+death-date: 2015-07-24
+death-place:  US, OH, Mansfield
+ 
+school-level: secondary
+school-name:  Galion HS
+school-place: US, OH, Galion
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,20 @@
+name-last: Ardizoia
+name-first: Rugger
+name-given: Rinaldo Joseph
+ 
+birth-date: 1919-11-20
+birth-place: IT, Novara, Oleggio
+ 
+death-date: 2015-07-19
+death-place: US, CA, San Francisco
+ 
+school-level: secondary
+school-name:  Commerce HS
+school-place: US, CA, San Francisco
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Italian Cemetery
+cemetery-place: US, CA, Colma

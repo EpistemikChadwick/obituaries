@@ -1,0 +1,22 @@
+name-last: Nordberg
+name-first: Bill
+name-given:  William Arthur
+name-nick: The Swede
+name-nick: Fireball Bill
+ 
+birth-date: 1926-06-18
+birth-place: US, MA, Norwood
+ 
+death-date: 2015-07-29
+ 
+school-level: secondary
+school-name:  Mansfield HS
+school-place: US, MA, Mansfield
+ 
+school-level: college
+school-name: Springfield College
+school-place: US, MA, Springfield
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

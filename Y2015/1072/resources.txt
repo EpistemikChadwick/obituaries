@@ -1,0 +1,8 @@
+source-title: Homelani Memorial Park
+source-date: 2015-08-02
+source-url: http://www.homelanimemorialpark.com/obituaries/Tom-Pokorski/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-02

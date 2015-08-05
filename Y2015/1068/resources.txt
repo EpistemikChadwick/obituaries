@@ -1,0 +1,8 @@
+source-title: Duggan’s Serra Mortuary
+source-date: 2015-08-01
+source-url: http://www.duggans-serra.com/obituary/Rinaldo-Joseph-Ardizoia/San-Francisco-CA/1530167
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-21

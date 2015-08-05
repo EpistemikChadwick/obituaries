@@ -1,0 +1,16 @@
+name-last: Russell
+name-first: Duke
+name-given: Charles William
+ 
+birth-date: 1926-01-16
+birth-place: US, CA, Los Angeles
+ 
+death-place:  2015-07-30
+ 
+school-level: secondary
+school-name:  Hollywood HS
+school-place: US, CA, Los Angeles
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

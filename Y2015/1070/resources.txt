@@ -1,0 +1,8 @@
+source-title: Wayland Town Crier
+source-date: 2015-08-02
+source-url: http://www.legacy.com/obituaries/wickedlocal-wayland/obituary.aspx?n=Charles-P-Bowers&pid=175417837
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-02
