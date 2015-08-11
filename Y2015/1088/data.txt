@@ -1,0 +1,5 @@
+name-last: Kiritoshi
+name-first: Takeshi
+ 
+death-date: 2015-06-15
+death-place:  JP, Hyogo, Takarazuka

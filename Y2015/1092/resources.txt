@@ -1,0 +1,8 @@
+source-title: Las Vegas Review-Journal
+source-date: 2015-08-09
+source-url: http://obits.reviewjournal.com/obituaries/lvrj/obituary.aspx?pid=175462849
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-09

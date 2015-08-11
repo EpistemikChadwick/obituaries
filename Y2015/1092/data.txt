@@ -1,0 +1,6 @@
+name-last: Skaza
+name-first: Stan
+
+death-date: 2015-08-04
+death-place:  US, NV, Las Vegas
+ 

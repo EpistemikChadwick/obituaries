@@ -1,0 +1,20 @@
+name-last: Quinn
+name-first: Mel
+name-given: Milward T.
+ 
+birth-date: 1922-10-08
+birth-place: US, MA, Braintree
+ 
+death-date: 2015-08-08
+death-place:  US, VA, Roanoke
+ 
+school-level: secondary
+school-name:  Thayer Academy
+school-place: US, MA, Braintree
+ 
+school-level: college
+school-name: Boston University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

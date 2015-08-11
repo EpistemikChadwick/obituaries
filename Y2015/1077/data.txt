@@ -1,0 +1,17 @@
+name-last: Corbett
+name-first: Jack
+name-given: John A.
+name-suffix: Jr.
+ 
+birth-date: 1932-11-26
+birth-place: US, NJ,
+ 
+death-date: 2015-07-29
+death-place:  US, OR, Portland
+ 
+school-level: secondary
+school-name:  Westfield HS
+school-place: US, NJ, Westfield
+ 
+school-level: college
+school-name: University of Michigan

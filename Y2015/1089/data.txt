@@ -1,0 +1,4 @@
+name-last: Miyazaki
+name-first: Takeshi
+ 
+death-date: 2015-05-22

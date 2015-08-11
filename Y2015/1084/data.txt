@@ -1,0 +1,15 @@
+name-last: Shepherd
+name-first: Ray
+name-given: Arthur Ray
+ 
+birth-date: 1962-02-23
+ 
+death-date: 2015-08-03
+death-place:  US, FL, Port St. Lucie
+ 
+school-level: college
+school-name: Gordon State College
+school-place: US, GA, Barnesville
+ 
+school-level: college
+school-name: University of South Carolina Aiken

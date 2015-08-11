@@ -1,0 +1,12 @@
+name-last: Chadderton
+name-first: Fred
+name-given: Fred Wesley
+name-suffix: III
+ 
+death-date: 2015-08-05
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Calverton National Cemetery
+cemetery-place: US, NY, Calverton

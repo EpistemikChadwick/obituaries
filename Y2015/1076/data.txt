@@ -1,0 +1,12 @@
+name-last: Seward
+name-first: Wally
+name-given: Walter E.
+name-suffix: Jr.
+ 
+birth-date: 1932-07-01
+birth-place: US, MA, Everett
+ 
+death-date: 2015-07-30
+ 
+cemetery-name: Serenity Meadows Memorial Park
+cemetery-place: US, FL, Riverview

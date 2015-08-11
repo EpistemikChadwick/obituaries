@@ -1,0 +1,16 @@
+name-last: Kollman
+name-first: William
+name-given: William Kent
+ 
+birth-date: 1948-02-20
+birth-place: US, OH, Bedford
+ 
+death-date: 2015-08-03
+death-place:  US, OH, Lebanon
+ 
+school-level: secondary
+school-name:  Chamberlin HS
+school-place:  US, OH, Twinsburg
+ 
+school-level: college
+school-name: University of Michigan

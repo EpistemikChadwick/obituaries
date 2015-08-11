@@ -1,0 +1,12 @@
+name-last: Frentz
+name-first: Bill
+name-given: William C.
+ 
+birth-date: 1934-05-21
+ 
+death-date: 2015-08-01
+death-place:  US, CT, Cos Cob
+ 
+school-level: college
+school-name: University of Illinois
+ 

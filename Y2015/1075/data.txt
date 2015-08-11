@@ -1,0 +1,15 @@
+name-last: Gottschalk
+name-first: Gene
+name-given: Eugene
+ 
+birth-date: 1922-11-01
+birth-place: US, NC, Putnam
+ 
+death-date: 2015-08-01
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Guilford Memorial Park
+cemetery-place: US, NC, Greensboro

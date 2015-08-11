@@ -1,0 +1,8 @@
+source-title: Hoskins Funeral Homes
+source-date: 2015-08-09
+source-url: http://www.hoskinsfh.com/home/index.cfm/obituaries/view/fh_id/13201/id/3264499
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-09

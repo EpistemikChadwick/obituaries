@@ -1,0 +1,12 @@
+source-title: Spokesman-Review
+source-date: 2015-08-04
+source-url: http://www.spokesman.com/stories/2015/aug/04/jack-spring-former-major-league-pitcher-dies/
+ 
+source-title: Hennessey Funeral Home
+source-date: 2015-08-09
+source-url: http://www.hennesseyfuneralhomes.com/obituaries/Jack-Spring/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-09

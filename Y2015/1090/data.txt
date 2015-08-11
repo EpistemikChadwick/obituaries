@@ -1,0 +1,16 @@
+name-last: Spring
+name-first: Jack
+name-given: Jack Russell
+ 
+birth-date: 1933-03-11
+birth-place: US, WA, Spokane
+ 
+death-date: 2015-08-02
+death-place:  US, WA, Spokane Valley
+ 
+school-level: secondary
+school-name:  Lewis and Clark HS
+school-place: US, WA, Spokane
+
+school-level: college
+school-name: Washington State University

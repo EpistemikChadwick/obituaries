@@ -1,0 +1,10 @@
+name-last: Loftin
+name-first: Bobby
+name-given: Robert T.
+name-suffix: Jr.
+ 
+death-date: 2015-08-03
+ 
+school-level: secondary
+school-name:  Lee HS
+school-place: US, FL, Jacksonville

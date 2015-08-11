@@ -1,0 +1,4 @@
+name-last: Miyawaki
+name-first: Satoshi
+ 
+death-date: 2015-07-08

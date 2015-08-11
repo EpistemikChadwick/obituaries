@@ -1,0 +1,12 @@
+source-title: The Telegraph
+source-date: 2015-08-07
+source-url: http://www.legacy.com/obituaries/macon/obituary.aspx?n=Arthur-Shepherd-Ray&pid=175435504
+ 
+source-title: LastingMemories.com
+source-date: 2015-08-07
+source-url: http://www.lastingmemories.com/arthur-ray-shepherd-jr/about
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-07

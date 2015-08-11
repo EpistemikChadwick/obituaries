@@ -1,0 +1,8 @@
+source-title: GreenwichTime
+source-date: 2015-08-06
+source-url: http://www.legacy.com/obituaries/greenwichtime/obituary.aspx?n=William-Frentz&pid=175441847
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-07

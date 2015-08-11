@@ -1,0 +1,16 @@
+name-last: Fazzio
+name-first: Fred
+name-given: Frederick
+ 
+birth-date: 1925-03-17
+birth-place: US, CA, Daly City
+ 
+death-date: 2015-07-27
+death-place:  US, CA, Santa Rosa
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Italian Cemetery
+cemetery-place: US, CA, Colma
+ 

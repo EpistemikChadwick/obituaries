@@ -1,0 +1,16 @@
+name-last: Gibbons
+name-first: Dirk
+name-given: Walter Lee
+ 
+birth-date: 1928-10-13
+birth-place: US, FL, Tampa
+ 
+death-date: 2015-07-24
+ 
+school-level: secondary
+school-name:  Middleton HS
+school-place: US, FL, Tampa
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

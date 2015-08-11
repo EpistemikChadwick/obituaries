@@ -1,0 +1,6 @@
+name-last: Shirasaka
+name-first: Choei
+ 
+death-date: 2015-07-08
+death-place:  JP, Hyogo, Nishinomiya
+ 
