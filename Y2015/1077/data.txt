@@ -7,7 +7,7 @@ birth-date: 1932-11-26
 birth-place: US, NJ,
  
 death-date: 2015-07-29
-death-place:  US, OR, Portland
+death-place:  US, ME, Portland
  
 school-level: secondary
 school-name:  Westfield HS
