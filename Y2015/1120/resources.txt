@@ -1,0 +1,8 @@
+source-title: Lynner Funeral Home
+source-date: 2015-08-26
+source-url: http://jhlynner.com/obits/3580.htm
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-26

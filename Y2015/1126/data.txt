@@ -1,0 +1,16 @@
+name-last: Van Nordheim
+name-first: Ed
+name-given: Edward L.
+ 
+birth-date: 1926-04-15
+birth-place: US, NE, Hastings
+ 
+death-date: 2015-08-14
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Greenlawn Memorial Park Cemetery
+cemetery-place:  US, NC, Wilmington
+ 

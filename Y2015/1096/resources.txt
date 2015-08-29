@@ -1,0 +1,8 @@
+source-title: Forest Home Funerals
+source-date: 2015-08-12
+source-url: http://foresthomefunerals.com/obituaries/ronald-a-ronnie-raasch/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-12

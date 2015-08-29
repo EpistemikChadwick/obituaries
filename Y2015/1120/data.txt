@@ -1,0 +1,20 @@
+name-last: Lovsness
+name-first: Reed
+name-given: Reed O.
+ 
+birth-date: 1925-05-01
+birth-place: US, MN, Cottonwood
+ 
+death-date: 2015-08-21
+death-place:  US, MN, Minneota
+ 
+school-level: secondary
+school-name:  Cottonwood HS
+school-place: US, MN, Cottonwood
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Lucas Cemetery
+cemetery-place: US, MN, Normania
+ 

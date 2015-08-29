@@ -1,0 +1,14 @@
+name-last: Chandler
+name-first: Jack
+name-given: Jack Wiley
+ 
+birth-date: 1923-01-24
+ 
+death-date: 2015-08-15
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Jefferson Memorial Gardens
+cemetery-place: US, AL, Birmingham

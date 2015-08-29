@@ -1,0 +1,12 @@
+name-last: Perechinsky
+name-first: Raymond
+name-given: Raymond J.
+ 
+death-date: 2015-08-18
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Riverhurst Cemetery
+cemetery-place:  US, NY, Endwell

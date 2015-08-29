@@ -1,0 +1,12 @@
+name-last: Muirhead
+name-first: Alex
+name-given: Alexander
+name-suffix: Jr.
+ 
+birth-date: 1927-04-11
+birth-place: US, IL, Libertyville
+ 
+death-date: 2015-08-15
+ 
+military-country: US
+military-branch:  Army

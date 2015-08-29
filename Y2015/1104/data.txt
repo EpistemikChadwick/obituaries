@@ -1,0 +1,6 @@
+name-last: Ozark
+name-first: Norm
+name-given: Norwood W.
+ 
+death-date: 2015-08-11
+ 

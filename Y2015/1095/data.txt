@@ -1,0 +1,16 @@
+name-last: Baird
+name-first: Dick
+name-given: Richard C.
+ 
+birth-date: 1918-02-14
+birth-place: US, NE, Warsaw
+ 
+death-date: 2015-08-10
+death-place:  US, LA, Lafayette
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Beauregard Cemetery
+cemetery-place: US, LA, DeRidder

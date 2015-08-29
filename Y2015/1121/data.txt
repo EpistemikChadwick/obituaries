@@ -1,0 +1,12 @@
+name-last: Sichko
+name-first: Mike
+name-given: Michael
+ 
+birth-date: 1924-02-26
+ 
+death-date: 2015-08-16
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

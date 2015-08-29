@@ -1,0 +1,13 @@
+name-last: Tornay
+name-first: Tony
+name-given: Anthony
+name-nick: Nini
+ 
+birth-date: 1929-10-06
+birth-place: US, CA, San Francisco
+ 
+death-date: 2015-06-22
+ 
+school-level: secondary
+school-name:  Galileo HS
+school-place: US, CA, San Francisco

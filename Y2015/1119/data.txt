@@ -1,0 +1,16 @@
+name-last: Path
+name-first: Bill
+name-given: William R.
+ 
+birth-date: 1928-10-14
+birth-place: US, OH, Toledo
+ 
+death-date: 2015-08-22
+death-place:  US, OH, Sylvania
+ 
+school-level: secondary
+school-name:  Libbey HS
+school-place: US, OH, Toledo
+ 
+cemetery-name: Toledo Memorial Park
+cemetery-place: US, OH, Sylvania

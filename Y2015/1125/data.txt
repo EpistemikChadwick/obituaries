@@ -1,0 +1,15 @@
+name-last: Shore
+name-first: Jeff
+ 
+birth-date: 1966-06-02
+birth-place: US, FL, Miami
+ 
+death-date: 2015-08-21
+death-place:  US, NC, Matthews
+ 
+school-level: college
+school-name: University of North Carolina at Charlotte
+ 
+cemetery-name: Westview Gardens
+cemetery-place: US, NC, Bessemer City
+ 

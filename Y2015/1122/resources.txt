@@ -1,0 +1,8 @@
+source-title: Pocono Record
+source-date: 2015-08-26
+source-url: http://www.poconorecord.com/article/20150820/OBITUARIES/150829982/0/tablet&template=tabletart
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-26

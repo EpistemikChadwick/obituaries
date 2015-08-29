@@ -1,0 +1,19 @@
+name-last: Yates
+name-first: Mickey
+name-given: Mickey Don
+ 
+birth-date: 1944-12-16
+birth-place: US, TX, Santa Anna
+ 
+death-date: 2015-08-23
+death-place:  US, TX, Fort Worth
+ 
+school-level: secondary
+school-name:  Paschal HS
+school-place: US, TX, Fort Worth
+ 
+school-level: college
+school-name: Texas Christian University
+ 
+cemetery-name: Greenwood Memorial Park
+cemetery-place: US, TX, Fort Worth

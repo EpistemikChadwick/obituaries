@@ -1,0 +1,8 @@
+source-title: DignityMemorial.com
+source-date: 2015-08-17
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=John-Allen&lc=9789&pid=175470210&uuid=a9ee3e1c-17d3-4d7c-93f8-4c1030185dd2
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-17

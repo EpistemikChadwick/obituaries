@@ -1,0 +1,8 @@
+source-title: Poughkeepsie Journal
+source-date: 2015-08-17
+source-url: http://www.legacy.com/obituaries/poughkeepsiejournal/obituary.aspx?n=Henry-Hoysradt&pid=175511415
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-17

@@ -1,0 +1,20 @@
+name-last: Bishop
+name-first: Richard
+name-given: Richard Allen
+ 
+birth-date: 1924-07-15
+birth-place: US, OH, Lima
+ 
+death-date: 2015-08-17
+death-place:  US, OH, Lima
+ 
+school-level: secondary
+school-name:  Lima Central HS
+school-place: US, OH, Lima
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Gethsemani Cemetery
+cemetery-place: US, OH, Lima

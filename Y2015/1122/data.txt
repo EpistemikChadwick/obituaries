@@ -1,0 +1,14 @@
+name-last: Eppley
+name-first: Daniel
+name-given: Daniel J.
+ 
+birth-place: US, PA, East Stroudsburg
+ 
+death-date: 2015-08-18
+ 
+school-level: secondary
+school-name:  East Stroudsburg HS
+school-place: US, PA, East Stroudsburg
+ 
+military-country: US
+military-branch:  Air Force

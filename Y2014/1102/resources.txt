@@ -1,0 +1,12 @@
+source-title: Diario Libre
+source-date: 2015-08-05
+source-url: http://www.diariolibre.com/deportes/falleci-el-cieguito-dore-ex-jugador-del-licey-BMDL732641
+
+source-title: Listin Diario
+source-date: 2015-08-12
+source-url: http://www.listindiario.com/el-deporte/2014/8/11/333327/Murio-Carlos-Dore
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-17

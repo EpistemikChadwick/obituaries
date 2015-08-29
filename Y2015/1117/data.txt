@@ -1,0 +1,18 @@
+name-last: Niven
+name-first: Bill
+name-given: William Edward
+ 
+birth-date: 1928-01-13
+birth-place: US, NC, Anson County
+ 
+death-date: 2015-08-19
+death-place:  US, NC, Lexington
+ 
+school-level: secondary
+school-name:  Morven HS
+school-place: US, NC, Morven
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 

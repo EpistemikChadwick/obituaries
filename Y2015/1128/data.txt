@@ -1,0 +1,6 @@
+name-last: Izquierdo
+name-first: Hank
+name-given: Enrique
+ 
+death-date: 2015-08-01
+ 

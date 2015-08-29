@@ -1,0 +1,9 @@
+source-title: Harrison Funeral Home
+source-date: 2015-08-26
+source-url: http://www.harrisonfuneral.com/book-of-memories/2231068/Colombo-Michael/service-details.php
+source-url: http://www.harrisonfuneral.com/book-of-memories/2231068/Colombo-Michael/obituary.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-26

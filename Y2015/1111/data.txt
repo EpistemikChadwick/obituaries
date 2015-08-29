@@ -1,0 +1,19 @@
+name-last: Propst
+name-first: Jake
+name-given: William Jacob
+
+birth-date: 1920-07-31
+birth-place: US, MS, Columbus
+  
+death-date: 2015-08-14
+death-place:  US, MS, Columbus
+ 
+school-level: college
+school-name: University of Mississippi
+ 
+cemetery-name: Friendship Cemetery
+cemetery-place: US, MS, Columbus
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

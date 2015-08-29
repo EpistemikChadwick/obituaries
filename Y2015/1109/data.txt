@@ -1,0 +1,16 @@
+name-last: Boyd
+name-first: Ken
+name-given: Kenneth L.
+ 
+birth-date: 1929-11-29
+birth-place: US, TX, Lubbock
+ 
+death-date: 2015-08-17
+ 
+school-level: secondary
+school-name:  South Gate HS
+school-place: US, CA, South Gate
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

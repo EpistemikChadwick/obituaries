@@ -1,0 +1,5 @@
+name-last: Matsuhashi
+name-first: Yoshiki
+ 
+death-date: 2015-02-22
+death-place:  JP, Nagano, Nagano

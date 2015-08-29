@@ -1,0 +1,6 @@
+name-last: Nishimura
+name-first: Sadao
+ 
+death-date: 2015-08-03
+death-place:  JP, Fukuoka, Fukuoka
+ 

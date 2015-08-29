@@ -1,0 +1,12 @@
+source-title: Dispatch
+source-date: 2015-08-18
+source-url: http://cdispatch.com/news/article.asp?aid=44011
+
+source-title: Memorial Funeral Home
+source-date: 2015-08-19
+source-url: http://www.memorialfuneral.net/?pagetype=obitlink&obit_id=1642325
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-19

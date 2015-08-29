@@ -1,0 +1,8 @@
+source-title: Sponichi Annex
+source-date: 2015-02-23
+source-url: http://www.sponichi.co.jp/baseball/news/2015/02/23/kiji/K20150223009861900.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-19

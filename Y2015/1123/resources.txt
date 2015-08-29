@@ -1,0 +1,8 @@
+source-title: Star-Telegram
+source-date: 2015-08-25
+source-url: http://www.legacy.com/obituaries/dfw/obituary.aspx?n=Ernest-Jeanes-Wilemon-Zeke&pid=175626388
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-26

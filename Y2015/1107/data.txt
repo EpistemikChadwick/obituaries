@@ -1,0 +1,19 @@
+name-last: Farmer
+name-first: Zach
+name-given: Zachary David
+ 
+birth-date: 1994-07-27
+birth-place: US, OH, Georgetown
+ 
+death-date: 2015-08-04
+death-place:  US, OH, Columbus
+ 
+school-level: secondary
+school-name:  Piketon HS
+school-place: US, OH, Piketon
+ 
+school-level: college
+school-name: Ohio State University
+ 
+cemetery-name: Mound Cemetery
+cemetery-place: US, OH, Piketon

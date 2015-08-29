@@ -1,0 +1,14 @@
+name-last: Olesko
+name-first: Jerry
+name-given: Gerald R.
+
+birth-date: 1933-11-18
+
+death-date: 2015-08-10
+ 
+school-level: secondary
+school-name:  St. Andrew HS
+school-place: US, MI, Detroit
+ 
+school-level: college
+school-name: University of Detroit

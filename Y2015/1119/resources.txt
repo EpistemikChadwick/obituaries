@@ -1,0 +1,8 @@
+source-title: Toledo Blade
+source-date: 2015-08-24
+source-url: http://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=William-Path&pid=175566031
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-24

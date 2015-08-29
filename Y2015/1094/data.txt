@@ -1,0 +1,19 @@
+name-last: Crimmins
+name-first: Mark
+ 
+birth-date: 1929-01-03
+birth-place: US, MN, Stillwater
+ 
+death-date: 2015-08-08
+death-place:  US, MN, Stillwater
+ 
+school-level: secondary
+school-name:  Stillwater HS
+school-place: US, MN, Stillwater
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Fairview Cemetery
+cemetery-place: US, MN, Stillwater

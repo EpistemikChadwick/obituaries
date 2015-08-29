@@ -1,0 +1,20 @@
+name-last: Hoysradt
+name-first: Henry
+name-given: Henry R.
+name-nick: Pat
+
+birth-date: 1918-05-17
+ 
+death-date: 2015-08-13
+death-place:  US, CT, Sharon
+ 
+school-level: secondary
+school-name:  Pine Plains HS
+school-place: US, NY, Pine Plains
+ 
+school-level: secondary
+school-name:  Berkshire School
+school-place: US, MA, Sheffield
+ 
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, NY, Pine Plains

@@ -1,0 +1,14 @@
+name-last: Raasch
+name-first: Ronnie
+name-given: Ronald A.
+ 
+death-date: 2015-08-10
+ 
+meta-bats: Left
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Wisconsin Memorial Park
+cemetery-place: US, WI, Brookfield

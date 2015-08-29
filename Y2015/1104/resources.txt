@@ -1,0 +1,8 @@
+source-title: Bradenton Herald
+source-date: 2015-08-15
+source-url: http://www.legacy.com/obituaries/bradenton/obituary.aspx?n=norwood-w-ozark&pid=175508868&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-17

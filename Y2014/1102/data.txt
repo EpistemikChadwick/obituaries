@@ -1,0 +1,10 @@
+name-last: Dore
+name-first: Carlos
+name-given: Carlos Jose
+name-matrilineal: Bourdier
+ 
+birth-date: 1932-10-08
+birth-place: DO, , Santiago
+ 
+death-date: 2014-08-04
+death-place:  DO, , Santo Domingo

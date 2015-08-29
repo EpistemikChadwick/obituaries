@@ -1,0 +1,16 @@
+name-last: Thomas
+name-first: Bud
+name-given: John Tillman
+ 
+birth-date: 1929-03-10
+birth-place: US, MO, Sedalia
+ 
+death-date: 2015-08-15
+death-place:  US, MO, Sedalia
+ 
+school-level: secondary
+school-name:  Smith-Cotton HS
+school-place: US, MO, Sedalia
+ 
+cemetery-name: Memorial Park Cemetery
+cemetery-place: US, MO, Sedalia

@@ -1,0 +1,8 @@
+source-title: East Lawn Elk Grove Mortuary
+source-date: 2015-08-19
+source-url: http://www.eastlawn.com/obituary/Alexander-Muirhead/Sacramento-CA/1537252
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-19

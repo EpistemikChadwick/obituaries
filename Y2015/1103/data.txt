@@ -1,0 +1,20 @@
+name-last: Allen
+name-first: Wayne
+name-given: John Wayne
+ 
+birth-date: 1922-03-17
+birth-place: US, TX, Roscoe
+ 
+death-date: 2015-08-09
+death-place:  US, TX, Paris
+ 
+school-level: secondary
+school-name:  Paris HS
+school-place: US, TX, Paris
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Meadowbrook Gardens
+cemetery-place: US, TX, Paris

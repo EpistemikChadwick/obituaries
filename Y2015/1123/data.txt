@@ -1,0 +1,20 @@
+name-last: Wilemon
+name-first: Zeke
+name-given: Ernest Jeanes
+ 
+birth-date: 1925-09-04
+birth-place: US, TX, Maypearl
+ 
+death-date: 2015-08-23
+death-place:  US, TX, Arlington
+ 
+school-level: secondary
+school-name:  Arlington HS
+school-place: US, TX, Arlington
+ 
+school-level: college
+school-name: University of Texas at Arlington
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

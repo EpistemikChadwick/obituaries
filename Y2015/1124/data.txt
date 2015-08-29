@@ -1,0 +1,15 @@
+name-last: Colombo
+name-first: Michael
+name-given: Michael F.
+ 
+birth-date: 1925-10-29
+ 
+death-date: 2015-08-22
+death-place:  US, FL, West Palm Beach
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Gate of Heaven Cemetery
+cemetery-place: US, NY, Hawthorne

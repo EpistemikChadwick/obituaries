@@ -1,0 +1,23 @@
+name-last: Brookbank
+name-first: William
+name-given: William Caldwell
+ 
+birth-date: 1921
+ 
+death-date: 2015-08-12
+death-place:  US, NY, Syracuse
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Vietnam War
+ 
+cemetery-name: Greenlawn Memorial Cemetery
+cemetery-place: US, NY, Warners

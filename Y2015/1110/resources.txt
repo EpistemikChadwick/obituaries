@@ -1,0 +1,8 @@
+source-title: Lima News
+source-date: 2015-08-19
+source-url: http://www.legacy.com/obituaries/limaohio/obituary.aspx?n=Richard-Bishop&pid=175531643
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-19

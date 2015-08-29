@@ -1,0 +1,19 @@
+name-last: Grenkoski
+name-first: Ed
+name-given: Edwin A.
+ 
+birth-date: 1927-09-03
+birth-place: US, MI, Saginaw
+ 
+death-date: 2015-08-18
+death-place: 
+ 
+school-level: secondary
+school-name:  Saginaw HS
+school-place: US, MI, Saginaw
+ 
+school-level: college
+school-name: University of Michigan
+ 
+military-country: US
+military-branch:  Army

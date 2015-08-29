@@ -1,0 +1,12 @@
+name-last: Simon
+name-first: Jerry
+name-given: Jerome
+ 
+birth-date: 1929-07-15
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2015-08-08
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

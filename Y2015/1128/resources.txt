@@ -1,0 +1,8 @@
+source-title: BeisbolMundial.com
+source-date: 2015-08-26
+source-url: http://www.beisbolmundial.com/563_esquina-latina/3257528_fallecio-enrique-hank-izquierdo.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-26

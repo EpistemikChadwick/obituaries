@@ -1,0 +1,16 @@
+name-last: Mattison
+name-first: Glen
+name-given: Glen Gilbert
+ 
+birth-date: 1941-03-10
+birth-place: US, MN, Minneapolis
+ 
+death-date: 2015-08-05
+death-place:  US, WA, Burien
+ 
+school-level: secondary
+school-name:  West Seattle HS
+school-place: US, WA, Seattle
+ 
+school-level: college
+school-name: Seattle University

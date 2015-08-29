@@ -1,0 +1,5 @@
+name-last: Yasuhara
+name-first: Tatsuyoshi
+ 
+death-date: 2015-04-01
+death-place:  JP, Tokyo, Tokyo
