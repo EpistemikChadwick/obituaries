@@ -1,0 +1,17 @@
+name-last: Wertz
+name-first: Ray
+name-given: H. Ray
+ 
+birth-place: US, PA, Newport
+ 
+death-date: 1942-02-26
+death-place:  US, PA, Philadelphia
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Newport HS
+school-place: US, PA, Newport
+ 
+cemetery-name: Newport Cemetery
+cemetery-place: US, PA, Newport

@@ -1,0 +1,20 @@
+name-last: Callahan
+name-first: Dan
+ 
+birth-date: 1958-09-11
+birth-place: US, IL, Springfield
+ 
+death-date: 2010-11-15
+death-place:  US, IL, Carterville
+ 
+school-level: secondary
+school-name:  Springfield HS
+school-place: US, IL, Springfield
+ 
+school-level: college
+school-name: University of New Orleans
+ 
+school-level: college
+school-name: Quincy University
+school-place: US, IL, Quincy
+ 

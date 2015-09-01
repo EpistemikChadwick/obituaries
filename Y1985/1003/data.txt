@@ -1,0 +1,14 @@
+name-last: Warren
+name-first: Dallas
+name-given: Dallas H.
+ 
+birth-place: US, OK,
+ 
+death-date: 1985-01-24
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Fort Rosecrans National Cemetery
+cemetery-place: US, CA, San Diego

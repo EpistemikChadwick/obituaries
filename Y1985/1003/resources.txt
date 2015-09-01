@@ -1,0 +1,9 @@
+source-title: Dallas Warren obit
+source-file-name: Dallas Warren obit.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-27
+ 

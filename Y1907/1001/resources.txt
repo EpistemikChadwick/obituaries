@@ -1,0 +1,8 @@
+source-title: Story of Joe Briskey’s death
+source-file-name: 19030903 – Biloxi Daily Herald Joe Briskey Death.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-26

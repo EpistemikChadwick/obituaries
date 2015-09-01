@@ -1,0 +1,13 @@
+source-title: J. M Dunbar Funeral Home & Crematory
+source-date: 2015-07-26
+source-url: http://www.jmdunbar.com/home/index.cfm/obituaries/view/fh_id/14274/id/2241905
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-26
+ 
+contributor-last: Hall
+contributor-first: John
+contributor-email: j03.john@gmail.com
+contributor-role: source

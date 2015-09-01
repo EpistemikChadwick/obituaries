@@ -1,0 +1,5 @@
+name-last: Briskey
+name-given: Joseph L.
+ 
+death-date: 1907-09-01
+death-place:  US, GA, Tybee Island

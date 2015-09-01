@@ -1,0 +1,8 @@
+name-last: Trexler
+name-given: Frank James
+ 
+death-date: 1974-11-06
+death-place:  US, VA, Richmond
+ 
+cemetery-name: Westhampton Memorial Park
+cemetery-place: US, VA, Richmond

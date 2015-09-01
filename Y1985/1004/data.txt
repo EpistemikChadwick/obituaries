@@ -1,0 +1,12 @@
+name-last: Preston
+name-first: Art
+ 
+death-date: 1985-11-13
+death-place:  US, CA, Pine Valley
+ 
+school-level: secondary
+school-name:  Grossmont HS
+school-place: US, CA, El Cajon
+ 
+school-level: college
+school-name: San Diego State University

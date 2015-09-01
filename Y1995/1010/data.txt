@@ -1,0 +1,4 @@
+name-last: Cook
+name-first: Art
+ 
+death-date: 1995

@@ -1,0 +1,5 @@
+name-last: Rea
+name-first: Shayne
+ 
+death-date: 1994-07-07
+death-place:  US, MI, Pontiac

@@ -1,0 +1,11 @@
+name-last: Wigman
+name-first: Ozzie
+name-given: Oscar
+ 
+death-date: 1996-04
+ 
+meta-bats: Right
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

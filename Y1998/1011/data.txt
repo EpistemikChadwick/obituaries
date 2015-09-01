@@ -1,0 +1,22 @@
+name-last: Longacre
+name-first: Edgar
+name-given: Edgar Thorp
+ 
+birth-place: US, NJ, Swedesboro
+ 
+death-date: 1998-07-12
+death-place:  US, NJ, Atco
+ 
+school-level: secondary
+school-name:  Swedesboro HS
+school-place: US, NJ, Swedesboro
+ 
+school-level: college
+school-name: University of Pennsylvania
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Woodbury Memorial Park
+cemetery-place: US, NJ, Woodbury

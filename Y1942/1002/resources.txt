@@ -1,0 +1,9 @@
+source-title: Ray Wertz obit from March 7, 1942 Gettysburg Star & Sentinel
+source-file-name: Ray Wertz obit 19420307 Gettysburg Star & Sentinel.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-01
+ 

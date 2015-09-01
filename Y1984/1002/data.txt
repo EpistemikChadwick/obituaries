@@ -1,0 +1,19 @@
+name-last: Souza
+name-first: George
+name-given: George J.
+ 
+birth-place: US, RI, Providence
+ 
+death-date: 1984-06-09
+death-place:  US, RI, Warwick
+ 
+school-level: secondary
+school-name:  Classical HS
+school-place: US, RI, Providence
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Rhode Island Veterans Memorial Cemetery
+cemetery-place: US, RI, Exeter

@@ -1,0 +1,15 @@
+name-last: Pearl
+name-first: Robert
+name-given: Robert L.
+ 
+birth-date: 1937-01-07
+birth-place: US, MO, Louisiana
+ 
+death-date: 2001-11-05
+death-place:  US, IA, North Liberty
+ 
+school-level: college
+school-name: University of Iowa
+ 
+cemetery-name: Oakland Cemetery
+cemetery-place: US, IA, Keokuk

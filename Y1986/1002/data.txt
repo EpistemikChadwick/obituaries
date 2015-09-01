@@ -1,0 +1,6 @@
+name-last: Stalcup
+name-first: Pete
+name-given: Marion
+ 
+death-date: 1986-01-06
+ 

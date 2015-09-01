@@ -1,0 +1,13 @@
+name-last: Bright
+name-first: Jack
+name-given: John C.
+ 
+birth-date: 1928-06-18
+ 
+death-date: 2013-09-14
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, SC, Spartanburg

@@ -1,0 +1,8 @@
+name-last: LeClair
+name-first: Keith
+ 
+death-date: 2006-07-17
+death-place:  US, SC, Greenville
+ 
+school-level: college
+school-name: Western Carolina University

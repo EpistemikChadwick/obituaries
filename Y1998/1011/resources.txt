@@ -1,0 +1,8 @@
+source-title: Philly.com
+source-date: 1998-07-15
+source-url: http://articles.philly.com/1998-07-15/news/25735659_1_first-minor-league-season-atco-semipro
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-26

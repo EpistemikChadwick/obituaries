@@ -1,0 +1,26 @@
+name-last: Szewczyk
+name-first: Walter
+name-given: Walter S.
+ 
+alias-type: baseball
+alias-last: Sheftic
+ 
+birth-date: 1916-10-17
+birth-place: US, PA, Boswell
+ 
+death-date: 1993-05-12
+death-place:  US, PA, Jennerstown
+ 
+school-level: secondary
+school-name:  Boswell HS
+school-place: US, PA, Boswell
+ 
+school-level: college
+school-name: Villanova University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Stanislaus Cemetery
+cemetery-place: US, PA, Boswell

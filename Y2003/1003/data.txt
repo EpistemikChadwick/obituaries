@@ -1,0 +1,16 @@
+name-last: Olbrys
+name-first: Zyggy
+name-given: Zygmunt Peter
+ 
+birth-date: 1918-09-14
+birth-place: US, CT, New London
+ 
+death-date: 2003-12-25
+ 
+school-level: secondary
+school-name:  Chapman Technical HS
+school-place: US, CT, New London
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

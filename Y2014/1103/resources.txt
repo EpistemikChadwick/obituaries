@@ -1,0 +1,8 @@
+source-title: Bucks County Courier Times
+source-date: 2014-07-06
+source-url: http://www.buckscountycouriertimes.com/obituaries/bcct/william-e-koszarek-sr/article_0a1b6751-aca4-5edf-8dcf-7ef5295d5976.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-24

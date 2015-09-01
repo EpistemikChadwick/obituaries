@@ -1,0 +1,8 @@
+source-title: Daily Gate City
+source-date: 2001-11-09
+source-url: http://www.dailygate.com/article_7f47f9d3-4d9e-58c7-b80e-f8c28ed43c80.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-26
