@@ -1,0 +1,8 @@
+source-title: Wilson-Little Funeral Home
+source-date: 2015-09-27
+source-url: https://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=3315012&fh_id=14204
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-27

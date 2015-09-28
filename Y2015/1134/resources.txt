@@ -1,0 +1,8 @@
+source-title: Belleville News-Democrat
+source-date: 2015-09-02
+source-url: http://www.legacy.com/obituaries/belleville/obituary.aspx?n=richard-n-horton&pid=175721967&fhid=11741&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-02

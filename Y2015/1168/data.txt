@@ -1,0 +1,16 @@
+name-last: Roath
+name-first: W. C.
+name-given: William J.
+ 
+birth-date: 1924-10-23
+birth-place: US, OK, Dibble
+ 
+death-date: 2015-09-21
+death-place:  US, OK, Purcell
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Dibble Cemetery
+cemetery-place: US, OK, Dibble

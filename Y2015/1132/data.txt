@@ -1,0 +1,15 @@
+name-last: Ferguson
+name-first: Bruce
+name-given: Bruce Anthony
+ 
+death-date: 2015-08-24
+ 
+school-level: secondary
+school-name:  Sahuaro HS
+school-place: US, AZ, Tucson
+ 
+school-level: college
+school-name: Yavapai College
+ 
+school-level: college
+school-name: University of Arizona

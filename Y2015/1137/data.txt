@@ -1,0 +1,11 @@
+name-last: Sunderland
+name-first: Wayne
+name-given: E. Wayne
+ 
+birth-date: 1928-03-09
+birth-place: US, VT, Middlebury
+ 
+death-date: 2015-08-19
+ 
+military-country: US
+military-branch:  Navy

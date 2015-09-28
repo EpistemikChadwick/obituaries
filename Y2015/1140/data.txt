@@ -1,0 +1,19 @@
+name-last: Weber
+name-first: Joseph
+name-given: Joseph William
+ 
+birth-date: 1921-03-04
+birth-place: US, NY, Rochester
+ 
+death-date: 2015-09-03
+death-place:  US, NJ, Toms River
+ 
+school-level: secondary
+school-name:  Edison Technical School
+school-place: US, NY, Rochester
+ 
+school-level: college
+school-name: Syracuse University
+ 
+military-country: US
+military-conflict:  World War II

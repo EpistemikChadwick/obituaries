@@ -1,0 +1,19 @@
+name-last: Richardson
+name-first: Bill
+name-given: William C.
+ 
+birth-date: 1933-07-08
+birth-place: US, MA, Millville
+ 
+death-date: 2015-09-02
+ 
+school-level: secondary
+school-name:  Grafton HS
+school-place: US, MA, Grafton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Worcester County Memorial Park
+cemetery-place: US, MA, Paxton

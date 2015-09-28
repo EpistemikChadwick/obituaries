@@ -1,0 +1,12 @@
+name-last: McKeithan
+name-first: Malcolm
+name-given: Malcolm Luther
+name-suffix: Jr.
+ 
+birth-date: 1929-09-19
+birth-place: US, NC, Raeford
+ 
+death-date: 2015-09-03
+ 
+cemetery-name: Woodlawn Memorial Park
+cemetery-place: US, SC, Greenville

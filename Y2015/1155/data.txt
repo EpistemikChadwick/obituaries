@@ -1,0 +1,10 @@
+name-last: Dyer
+name-first: Bo
+name-given: James Calhoun
+ 
+birth-date: 1929-07-03
+ 
+death-date: 2015-09-10
+ 
+cemetery-name: Moore Memorial Gardens Cemetery
+cemetery-place: US, TX, Arlington

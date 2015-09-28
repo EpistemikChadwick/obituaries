@@ -1,0 +1,16 @@
+name-last: Howerton
+name-first: Cart
+name-given: Carlson Shepherd
+name-suffix: Sr.
+ 
+birth-date: 1927-10-23
+birth-place: US, NC, Greensboro
+ 
+death-date: 2015-09-18
+ 
+school-level: secondary
+school-name:  Greensboro HS
+school-place: US, NC, Greensboro
+ 
+military-country: US
+military-branch:  Army

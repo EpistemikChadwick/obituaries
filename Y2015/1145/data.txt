@@ -1,0 +1,8 @@
+name-last: Andujar
+name-first: Joaquin
+ 
+birth-place: DO, San Pedro de Macoris, San Pedro de Macoris
+ 
+death-date: 2015-09-08
+death-place:  DO, ,
+ 

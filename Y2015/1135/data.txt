@@ -1,0 +1,20 @@
+name-last: Boak
+name-first: William
+name-given: William J.
+ 
+birth-date: 1933-08-19
+birth-place: US, PA, Mt. Jackson
+ 
+death-date: 2015-08-23
+death-place:  US, PA, Pittsburgh
+ 
+school-level: secondary
+school-name:  New Castle HS
+school-place: US, PA, New Castle
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Lucy Cemetery
+cemetery-place: US, PA, New Castle

@@ -1,0 +1,8 @@
+source-title: Shreveport Times
+source-date: 2015-09-04
+source-url: http://www.legacy.com/obituaries/shreveporttimes/obituary.aspx?n=Bobby-Greene&pid=175734465
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-04

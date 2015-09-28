@@ -1,0 +1,8 @@
+source-title: Nola.com
+source-date: 2015-09-15
+source-url: http://www.nola.com/lsu/index.ssf/2015/09/former_lsu_ace_randy_wiles_die.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-15

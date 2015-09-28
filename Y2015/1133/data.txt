@@ -1,0 +1,13 @@
+name-last: Cowan
+name-first: Frank
+name-given: Frank N.
+ 
+birth-date: 1936-08-15
+birth-place: US, VA, Danville
+ 
+death-date: 2015-08-28
+ 
+school-level: secondary
+school-name:  George Washington HS
+school-place: US, VA, Danville
+ 

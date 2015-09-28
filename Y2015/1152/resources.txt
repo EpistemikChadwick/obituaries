@@ -1,0 +1,8 @@
+source-title: Baltimore Sun
+source-date: 2015-09-13
+source-url: http://www.baltimoresun.com/news/obituaries/bs-md-ob-john-rommel-20150913-story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-15

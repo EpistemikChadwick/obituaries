@@ -1,0 +1,12 @@
+name-last: Rozman
+name-first: Ron
+name-given: Ronald J.
+ 
+birth-date: 1932-01-18
+ 
+death-date: 2015-09-05
+ 
+school-level: secondary
+school-name:  Detroit Catholic Central HS
+school-place: US, MI, Novi
+ 

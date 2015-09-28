@@ -1,0 +1,8 @@
+source-title: Spartanburg Herald-Journal
+source-date: 2015-09-21
+source-url: http://www.legacy.com/obituaries/spartanburg/obituary.aspx?n=robert-white-brown-bobby&pid=175887626&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-21

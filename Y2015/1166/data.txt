@@ -1,0 +1,10 @@
+name-last: Young
+name-first: Walter
+ 
+death-date: 2015-09-19
+death-place:  US, MS, Purvis
+ 
+school-level: secondary
+school-name:  Purvis HS
+school-place: US, MS, Purvis
+ 

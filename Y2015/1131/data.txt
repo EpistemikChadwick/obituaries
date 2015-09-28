@@ -1,0 +1,16 @@
+name-last: Spaziano
+name-first: Al
+name-given: Alfred Victor
+ 
+birth-date: 1920-11-20
+birth-place: US, RI, Providence
+ 
+death-date: 2015-08-30
+death-place:  US, RI, Providence
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Highland Memorial Park
+cemetery-place: US, RI, Johnston

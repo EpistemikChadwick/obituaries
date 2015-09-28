@@ -1,0 +1,13 @@
+name-last: Schultz
+name-first: Barney
+name-given: George Warren
+ 
+birth-date: 1926
+birth-place: US, NJ, Beverly
+ 
+death-date: 2015-09-06
+death-place:  US, NJ, Willingboro
+ 
+school-level: secondary
+school-name:  Burlington HS
+school-place: US, NJ, Burlington

@@ -1,0 +1,20 @@
+name-last: Enright
+name-first: Bill
+name-given: Thomas William
+name-nick: Diz
+ 
+birth-place: US, IN, Hammond
+ 
+death-date: 2015-09-14
+death-place:  US, IN, Munster
+ 
+school-level: secondary
+school-name:  Catholic Central HS
+school-place: US, IN, Hammond
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Elmwood Cemetery
+cemetery-place: US, IN, Hammond

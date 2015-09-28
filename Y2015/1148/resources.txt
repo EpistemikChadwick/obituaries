@@ -1,0 +1,8 @@
+source-title: New Haven Register
+source-date: 2015-09-13
+source-url: http://www.legacy.com/obituaries/nhregister/obituary.aspx?n=WILLIAM-M-KUCHAR&pid=175817068
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-15

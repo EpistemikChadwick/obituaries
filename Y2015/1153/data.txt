@@ -1,0 +1,24 @@
+name-last: Hayden
+name-first: Irv
+name-given: Irven Wesley
+name-suffix: Jr.
+ 
+birth-date: 1921-05-13
+birth-place: US, MO, Edgerton
+ 
+death-date: 2015-09-10
+death-place:  US, KS, Atwood
+ 
+school-level: secondary
+school-name:  Atwood HS
+school-place: US, KS, Atwood
+ 
+school-level: college
+school-name: University of Kansas
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Fairview Cemetery
+cemetery-place: US, KS, Atwood

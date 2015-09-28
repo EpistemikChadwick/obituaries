@@ -1,0 +1,19 @@
+name-last: Suhr
+name-first: Dick
+name-given: Richard Harris
+ 
+birth-date: 1933-04-17
+birth-place: US, WY, Sheridan
+ 
+death-date: 2015-07-22
+ 
+school-level: secondary
+school-name:  Johnson County HS
+school-place: US, WY, Buffalo
+ 
+school-level: college
+school-name: University of Wyoming
+ 
+military-country: US
+military-branch:  Navy
+

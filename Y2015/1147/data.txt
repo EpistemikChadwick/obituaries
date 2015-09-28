@@ -1,0 +1,20 @@
+name-last: Curlee
+name-first: Jack
+name-given: Jack Douglas
+ 
+birth-date: 1922-03-22
+birth-place: US, AL, Birmingham
+ 
+death-date: 2015-09-10
+death-place: 
+ 
+school-level: secondary
+school-name:  Ensley HS
+school-place: US, AL, Birmingham
+ 
+school-level: college
+school-name: Auburn University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

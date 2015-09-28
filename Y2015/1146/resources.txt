@@ -1,0 +1,12 @@
+source-title: Hickey Memorial Chapels
+source-date: 2015-09-09
+source-url: http://www.hickeyfuneral.com/?pagetype=obitlink&obit_id=1652934
+
+source-title: Chicago Tribune
+source-date: 2015-09-08
+source-url: http://www.chicagotribune.com/suburbs/daily-southtown/news/ct-sta-kadner-stranczek-st-0909-20150908-story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-08

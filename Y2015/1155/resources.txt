@@ -1,0 +1,8 @@
+source-title: Star-Telegram
+source-date: 2015-09-11
+source-url: http://www.legacy.com/obituaries/dfw/obituary.aspx?n=James-Calhoun-Dyer-Bo&pid=175798140
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-18

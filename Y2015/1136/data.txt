@@ -1,0 +1,20 @@
+name-last: Jenkins
+name-first: Willie
+name-given: William Franklin
+name-suffix: Jr.
+ 
+birth-date: 1929-03-20
+birth-place: US, VA, Norfolk
+ 
+death-date: 2015-08-22
+ 
+school-level: secondary
+school-name:  Maury HS
+school-place: US, VA, Norfolk
+ 
+school-level: college
+school-name: Old Dominion University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

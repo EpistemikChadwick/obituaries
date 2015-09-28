@@ -1,0 +1,12 @@
+name-last: Moseley
+name-first: Dick
+name-given: Richard
+ 
+birth-date: 1933-08-01
+birth-place: US, MI, Detroit
+ 
+death-date: 2015-08-25
+death-place:  US, WI, Green Bay
+ 
+school-level: college
+school-name:  Eastern Michigan University

@@ -1,0 +1,17 @@
+name-last: Brown
+name-first: Bobby
+name-given: Robert White
+ 
+birth-date: 1926-10-23
+birth-place: US, SC, Spartanburg County
+ 
+death-date: 2015-09-20
+death-place:  US, SC, Clinton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Goucher Baptist Church Cemetery
+cemetery-place: US, SC, Gaffney
+ 

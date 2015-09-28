@@ -1,0 +1,8 @@
+source-title: Seattle Times
+source-date: 2015-09-15
+source-url: http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Richard-Harris-Suhr&pid=175821573
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-15

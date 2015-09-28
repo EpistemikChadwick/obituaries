@@ -1,0 +1,16 @@
+name-last: Kuchar
+name-first: Bill
+name-given: William M.
+ 
+birth-date: 1959-02-11
+birth-place: US, CT, New Haven
+ 
+death-date: 2015-09-11
+death-place:  US, CT, Hamden
+ 
+school-level: secondary
+school-name:  Hamden HS
+school-place: US, CT, Hamden
+ 
+cemetery-name: All Saints Cemetery
+cemetery-place: US, CT, North Haven

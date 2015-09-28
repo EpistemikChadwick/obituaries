@@ -1,0 +1,15 @@
+name-last: Perkins
+name-first: Robert
+name-given: Robert E.
+ 
+birth-date: 1938-07-23
+ 
+death-date: 2015-09-04
+death-place:  US, FL, Panacea
+ 
+school-level: secondary
+school-name:  Leon HS
+school-place: US, FL, Tallahassee
+ 
+cemetery-name: Wakulla United Methodist Church Cemetery.
+cemetery-place: US, FL, Wakulla

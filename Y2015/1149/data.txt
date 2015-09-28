@@ -1,0 +1,17 @@
+name-last: Hall
+name-first: Doug
+name-given: Douglas Russell
+ 
+birth-date: 1932-11-08
+birth-place: US, NY, Ilion
+ 
+death-date: 2015-09-11
+death-place:  US, ME, Scarborough
+ 
+school-level: secondary
+school-name:  Ilion HS
+school-place: US, NY, Ilion
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

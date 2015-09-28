@@ -1,0 +1,16 @@
+name-last: Miller
+name-first: Ralph
+name-given: Ralph A.
+ 
+birth-date: 1928-07-13
+birth-place: US, MI, Kalamazoo
+ 
+death-date: 2015-09-16
+death-place:  US, MI, Portage
+ 
+school-level: secondary
+school-name:  State HS
+school-place: US, MI, Kalamazoo
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,8 @@
+source-title: St. Louis Post-Dispatch
+source-date: 2015-09-08
+source-url: http://www.stltoday.com/sports/baseball/professional/cardinal-beat/colorful-cardinals-ace-andujar-dies/article_73c373a7-042f-5343-a9e3-29c094ebbf07.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-08

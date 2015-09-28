@@ -1,0 +1,13 @@
+name-last: Monchak
+name-given: Alex
+ 
+birth-place: US, NJ, Bayonne
+ 
+death-date: 2015-09-12
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Arlington National Cemetery
+cemetery-place: US, VA, Arlington

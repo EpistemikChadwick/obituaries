@@ -1,0 +1,19 @@
+name-last: Perdue
+name-first: Tom
+name-given: Thomas Henry
+ 
+birth-date: 1941-01-18
+birth-place: US, WV, Huntington
+ 
+death-date: 2015-09-16
+death-place:  US, NC, Greenville
+ 
+school-level: secondary
+school-name:  Vinson HS
+school-place: US, WV, Huntington
+ 
+school-level: college
+school-name: The Ohio State University
+ 
+cemetery-name: Ridgewood Cemetery
+cemetery-place: US, OH, Wellston

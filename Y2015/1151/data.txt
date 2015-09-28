@@ -1,0 +1,7 @@
+name-last: Wiles
+name-first: Randy
+ 
+death-date: 2015-09-15
+ 
+school-level: college
+school-name: Louisiana State University

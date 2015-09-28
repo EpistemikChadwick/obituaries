@@ -1,0 +1,8 @@
+source-title: Noga Funeral Home
+source-date: 2015-09-02
+source-url: http://nogafuneralhome.com/i.php?id=5814
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-02

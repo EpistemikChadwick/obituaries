@@ -1,0 +1,14 @@
+name-last: Etheridge
+name-first: Bobby
+ 
+birth-date: 1941-11-25
+birth-place: US, MS, Greenville
+ 
+death-date: 2015-09-19
+death-place:  US, MS, Rolling Fork
+ 
+school-level: college
+school-name: Mississippi State University
+ 
+school-level: college
+school-name: Mississippi Delta Community College

@@ -1,0 +1,8 @@
+source-title: A. A. Mariani & Son
+source-date: 2015-09-02
+source-url: http://www.marianiandson.com/obituaries/Alfred-Spaziano/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-02

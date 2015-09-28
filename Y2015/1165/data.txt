@@ -1,0 +1,17 @@
+name-last: Rhyne
+name-first: Ken
+name-given: Kenneth Eugene
+name-suffix: Jr.
+ 
+birth-date: 1948-08-30
+birth-place: US, GA, Moultrie
+ 
+death-date: 2015-09-10
+death-place:  US, TX, Plano
+ 
+school-level: secondary
+school-name:  High Point Central HS
+school-place: US, NC, High Point
+ 
+school-level: college
+school-name: Pfeiffer University

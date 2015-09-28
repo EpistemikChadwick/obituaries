@@ -1,0 +1,23 @@
+name-last: Hughes
+name-first: Jim
+name-given: James A.
+ 
+birth-date: 1934-10-21
+birth-place: US, TX, Prosper
+ 
+death-date: 2015-09-06
+death-place:  US, TX, Prosper
+ 
+school-level: secondary
+school-name:  Prosper
+school-place: US, TX, Prosper
+ 
+school-level: college
+school-name: Sam Houston State University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Walnut Grove Cemetery
+cemetery-place: US, TX, Prosper
+ 

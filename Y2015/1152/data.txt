@@ -1,0 +1,17 @@
+name-last: Rommel
+name-first: John
+name-given: John A.
+name-nick: Fox
+ 
+birth-place: US, MD, Baltimore
+ 
+death-date: 2015-09-08
+death-place:  US, MD, Towson
+ 
+school-level: secondary
+school-name: Towson HS
+school-place: US, MD, Towson
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

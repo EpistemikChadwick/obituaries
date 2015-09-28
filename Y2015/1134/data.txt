@@ -1,0 +1,19 @@
+name-last: Horton
+name-first: Rich
+name-given: Richard Nathan
+ 
+birth-date: 1931-12-11
+birth-place: US, IL, East St. Louis
+ 
+death-date: 2015-08-31
+death-place:  US, IL, Maryville
+ 
+school-level: secondary
+school-name:  East St. Louis HS
+school-place: US, IL, East St. Louis
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Sunset Hill Memorial Estates
+cemetery-place: US, IL, Glen Carbon

@@ -1,0 +1,8 @@
+source-title: Smith Family Funeral Home
+source-date: 2015-09-22
+source-url: http://smithfamilyfuneralhome.com/port-huron/obituaries/?id=17170
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-22

@@ -1,0 +1,15 @@
+name-last: Witucki
+name-first: Ron
+name-given: Ronald James
+name-nick: Gabby
+ 
+birth-date: 1934-07-19
+birth-place: US, MI, Bay City
+ 
+death-date: 2015-09-07
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Mt. Hope Cemetery
+cemetery-place: US, MI, Port Huron

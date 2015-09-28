@@ -1,0 +1,8 @@
+source-title: Arizona Daily Star
+source-date: 2015-08-27
+source-url: http://www.legacy.com/obituaries/tucson/obituary.aspx?n=Bruce-Anthony-Ferguson&pid=175658958
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-02

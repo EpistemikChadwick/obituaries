@@ -1,0 +1,15 @@
+name-last: Stranczek 
+name-first: Chester
+name-given: Chester K.
+ 
+birth-date: 1929-11-19
+
+death-date: 2015-09-05
+death-place:  US, FL, Boca Raton
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Benedict Catholic Cemetery
+cemetery-place: US, Il, Crestwood

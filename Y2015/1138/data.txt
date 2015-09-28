@@ -1,0 +1,11 @@
+name-last: Greene
+name-first: Bobby
+name-given: Bobby L.
+ 
+birth-date: 1927-08-06
+birth-place: US, LA, Shreveport
+ 
+death-date: 2015-09-03
+ 
+cemetery-name: Forest Park Cemetery
+cemetery-place: US, LA, Shreveport
