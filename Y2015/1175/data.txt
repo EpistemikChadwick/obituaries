@@ -1,0 +1,19 @@
+name-last: Bulick
+name-first: Chuck
+name-given: Charles
+ 
+birth-date: 1931-08-09
+birth-place: US, WV, Pierce
+ 
+death-date: 2015-09-26
+ 
+school-level: secondary
+school-name:  East Technical HS
+school-place: US, OH, Cleveland
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: All Souls Cemetery
+cemetery-place: US, OH, Chardon

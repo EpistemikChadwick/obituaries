@@ -1,0 +1,13 @@
+name-last: Cobb
+name-first: George
+name-given: George M.
+ 
+birth-date: 1945-04-20
+birth-place: US, PA, Easton
+ 
+death-date: 2015-09-24
+death-place:  US, PA, Easton
+ 
+school-level: secondary
+school-name:  Wilson Area HS
+school-place: US, PA, Easton

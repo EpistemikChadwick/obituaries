@@ -1,0 +1,17 @@
+name-last: Thibodeaux
+name-first: Johnnie
+name-given: Johnnie Paul
+name-suffix: Jr.
+ 
+death-date: 2005-06-17
+death-place:  US, LA, Lake Charles
+ 
+school-level: secondary
+school-name:  Alfred M. Barbe HS
+school-place: US, LA, Lake Charles
+ 
+school-level: college
+school-name: Louisiana State University
+ 
+cemetery-name: Consolata Cemetery
+cemetery-place: US, LA, Lake Charles

@@ -1,0 +1,20 @@
+name-last: Patlen
+name-first: Donald
+name-given: Donald Julius
+name-suffix: Sr.
+ 
+birth-date: 1933
+birth-place: US, NJ, Passaic
+ 
+death-date: 2015-09-24
+death-place:  US, NJ, Denville
+ 
+school-level: college
+school-name: Fairleigh Dickinson University
+school-place: US, NJ, Teaneck
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Clove Cemetery
+cemetery-place: US, NJ, Wantage

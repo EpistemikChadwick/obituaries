@@ -1,0 +1,16 @@
+name-last: Miller
+name-first: Jack
+name-given: John E.
+name-suffix: Jr.
+ 
+birth-date: 1923-07-22
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2015-09-21
+ 
+school-level: college
+school-name: West Chester University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

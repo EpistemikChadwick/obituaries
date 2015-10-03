@@ -1,0 +1,8 @@
+name-last: Moore
+name-first: George
+name-given: George R.
+ 
+birth-place: US, MA, Cambridge
+ 
+death-date: 1948-11-18
+death-place:  US, MA, Hyannis

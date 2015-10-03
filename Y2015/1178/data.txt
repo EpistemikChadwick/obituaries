@@ -1,0 +1,19 @@
+name-last: Caputo
+name-first: John
+name-given: John A.
+ 
+birth-date: 1925
+ 
+death-date: 2015-09-30
+death-place:  US, NY, Saratoga Springs
+ 
+school-level: secondary
+school-name:  Ballston Spa HS
+school-place: US, NY, Ballston Spa
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary's Cemetery
+cemetery-place: US, NY, Ballston

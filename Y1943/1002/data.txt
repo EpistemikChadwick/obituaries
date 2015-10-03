@@ -1,0 +1,9 @@
+name-last: Vaught
+name-first: Clarence
+name-nick: Big Chief
+ 
+birth-date: 1881-05-31
+birth-place: US, IL, Morrisonville
+ 
+death-date: 1943-05-06
+death-place:  US, IL, Springfield

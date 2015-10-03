@@ -1,0 +1,15 @@
+name-last: Ferguson
+name-first: John
+name-given: John C.
+ 
+birth-date: 1942-07-04
+birth-place: US, NJ, Passaic
+ 
+death-date: 2015-09-18
+death-place:  US, TN, Fairfield Glade
+ 
+school-level: college
+school-name: East Stroudsburg University
+ 
+cemetery-name: St. John Neumann Cemetery
+cemetery-place: US, PA, Chalfont

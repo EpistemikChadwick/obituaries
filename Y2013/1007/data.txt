@@ -1,0 +1,7 @@
+name-last: McMahon
+name-first: Pat
+name-given: William
+ 
+birth-date: 1944-04-20
+ 
+death-date: 2013-12-22

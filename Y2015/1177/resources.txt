@@ -1,0 +1,8 @@
+source-title: Express Times
+source-date: 2015-09-29
+source-url: http://obits.lehighvalleylive.com/obituaries/etpa/obituary.aspx?n=George-M-Cobb&pid=175970393
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-02

@@ -1,0 +1,8 @@
+source-title: Bucks County Courier Times
+source-date: 2015-09-22
+source-url: http://www.buckscountycouriertimes.com/obituaries/intell/john-c-ferguson/article_2c4b2fb0-5f73-5f2a-937f-68e034bdf4e1.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-09-28

@@ -1,0 +1,26 @@
+name-last: Garland
+name-first: Jimmy
+name-given: James Nathaniel
+name-suffix: Jr.
+ 
+birth-date: 1949-12-13
+birth-place: US, DC, Washington
+ 
+death-date: 2015-09-22
+death-place:  US, NC, Winston-Salem
+ 
+school-level: secondary
+school-name:  James Madison HS
+school-place: US, VA, Vienna
+ 
+school-level: college
+school-name: Louisburg College
+ 
+school-level: college
+school-name: East Tennessee State University
+ 
+school-level: college
+school-name: University of Florida
+ 
+cemetery-name: Forsyth Memorial Park
+cemetery-place: US, NC, Winston-Salem

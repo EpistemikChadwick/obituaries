@@ -1,0 +1,9 @@
+name-last: Kelley
+name-first: Thomas
+name-given: Thomas H.
+ 
+birth-date: 1944-01-05
+birth-place: US, CT, Manchester
+ 
+death-date: 2015-09-25
+death-place:  US, SC, Myrtle Beach

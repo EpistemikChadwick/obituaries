@@ -1,0 +1,16 @@
+name-last: Mersinger
+name-first: Ross
+name-given: Francis Ross
+ 
+birth-date: 1943-06-19
+birth-place: US, MD, Baltimore
+ 
+death-date: 2015-09-27
+ 
+school-level: secondary
+school-name:  Loyola HS
+school-place: US, MD, Towson
+ 
+school-level: college
+school-name: University of Maryland
+ 

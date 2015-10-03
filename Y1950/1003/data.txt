@@ -1,0 +1,11 @@
+name-last: Van Dresser
+name-first: William
+ 
+birth-place: US, TN, Memphis
+ 
+death-date: 1950-09-13
+death-place:  US, FL, Tampa
+ 
+school-level: secondary
+school-name:  Memphis Military Academy
+school-place: US, TN, Memphis
