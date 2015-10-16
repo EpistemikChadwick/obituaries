@@ -1,0 +1,21 @@
+name-last: Neeman
+name-first: Cal
+name-given: Calvin Amandus
+ 
+birth-place: US, IL, Valmeyer
+ 
+death-date: 2015-10-01
+ 
+school-level: secondary
+school-name:  Dupo HS
+school-place: US, IL, Dupo
+ 
+school-level: college
+school-name: Illinois Wesleyan University
+ 
+military-country: US
+military-conflict:  Korean War
+ 
+cemetery-name: Our Lady Cemetery
+cemetery-place: US, MO, Lake St. Louis
+ 

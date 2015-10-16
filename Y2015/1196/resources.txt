@@ -1,0 +1,12 @@
+source-title: Scalia Funeral Home
+source-date: 2015-10-09
+source-url: http://www.scaliahome.com/obituaries/Joseph-Rosania/#!/Obituary
+
+source-title: Star-Ledger
+source-date: 2015-10-08
+source-url: http://obits.nj.com/obituaries/starledger/obituary.aspx?n=joseph-rosania&pid=176049846&fhid=4713&eid=sp_ommatch&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-09

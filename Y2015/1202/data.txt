@@ -1,0 +1,15 @@
+name-last: Ball
+name-first: George
+name-given: George Edward
+ 
+birth-date: 1930-11-20
+ 
+death-date: 2015-10-09
+death-place: US, LA, Metairie
+ 
+school-level: secondary
+school-name:  Holy Cross School
+school-place: US, LA, New Orleans
+ 
+cemetery-name: St. Patrick Cemetery #1
+cemetery-place: US, LA, New Orleans

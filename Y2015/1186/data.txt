@@ -1,0 +1,16 @@
+name-last: Baker
+name-first: Jerry
+name-given: Gerald
+ 
+birth-date: 1944-05-09
+birth-place: US, WA, Seattle
+ 
+death-date: 2015-09-24
+death-place: 
+ 
+school-level: secondary
+school-name:  West Seattle HS
+school-place: US, WA, Seattle
+ 
+school-level: college
+school-name: Washington State University

@@ -1,0 +1,14 @@
+name-last: Rowe
+name-first: Richard
+name-given: Richard E.
+ 
+birth-date: 1940-11-06
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2015-09-30
+ 
+school-level: college
+school-name: California State University, Los Angeles
+ 
+military-country: US
+military-branch:  Army

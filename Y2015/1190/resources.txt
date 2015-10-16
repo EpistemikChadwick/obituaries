@@ -1,0 +1,8 @@
+source-title: Muskegon Chronicle
+source-date: 2015-10-06
+source-url: http://obits.mlive.com/obituaries/muskegon/obituary.aspx?n=FREDERICK-A-STORCK&pid=176018599
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-06

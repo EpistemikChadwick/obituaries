@@ -1,0 +1,8 @@
+source-title: Washington Post
+source-date: 2015-10-07
+source-url: https://www.washingtonpost.com/sports/harry-gallatin-hall-of-fame-nba-basketball-player-dies-at-88/2015/10/07/7c37d12e-6d3e-11e5-9bfe-e59f5e244f92_story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-09

@@ -1,0 +1,23 @@
+name-last: DeWitt
+name-first: John
+name-given: John U.
+ 
+birth-date: 1928-10-06
+birth-place: US, TX, Waco
+ 
+death-date: 2015-10-04
+death-place:  US, TX, Dallas
+ 
+school-level: secondary
+school-name:  Waco HS
+school-place: US, TX, Waco
+ 
+school-level: college
+school-name: Texas A&M University
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Dallas-Fort Worth National Cemetery
+cemetery-place: US, TX, Dallas

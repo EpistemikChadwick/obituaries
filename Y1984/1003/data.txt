@@ -1,0 +1,13 @@
+name-last: Savin
+name-first: Henry
+name-given: Henry S.
+ 
+death-date: 1984-04-27
+death-place:  US, CA, Chula Vista
+ 
+school-level: secondary
+school-name:  San Diego HS
+school-place: US, CA, San Diego
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, CA, San Diego

@@ -1,0 +1,17 @@
+name-last: Jenkins
+name-first: Bob
+name-given: Robert Calvin
+ 
+birth-date: 1931-08-15
+birth-place: US, MD, Hagerstown
+ 
+death-date: 2015-10-05
+death-place: US, FL, Beverly Hills
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War
+ 
+cemetery-name: Florida National Cemetery
+cemetery-place: US, FL, Bushnell
+ 

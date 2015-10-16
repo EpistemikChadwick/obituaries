@@ -1,0 +1,8 @@
+source-title: Pioneer Press
+source-date: 2015-10-04
+source-url: http://www.legacy.com/obituaries/twincities/obituary.aspx?n=Robert-Joseph-CUNNINGHAM&pid=176007976
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-04

@@ -1,0 +1,9 @@
+name-last: Edge
+name-first: Justin
+name-given: Justin William
+ 
+birth-date: 1920-12-08
+birth-place: US, WI, White Oak Springs
+ 
+death-date: 2015-10-07
+death-place:  US, IA, Davenport

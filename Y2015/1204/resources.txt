@@ -1,0 +1,8 @@
+source-title: Gazette Xtra
+source-date: 2015-10-12
+source-url: http://www.gazettextra.com/20151006/sidney_c_sid_kenseth_edgerton_wi_1932_2015
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-12

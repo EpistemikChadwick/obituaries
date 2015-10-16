@@ -1,0 +1,16 @@
+name-last: Seiber
+name-first: Jim
+name-given: James Edward
+ 
+birth-date: 1928-02-01
+birth-place: US, TN, Knoxville
+ 
+death-date: 2015-10-03
+death-place:  US, TN, Maryville
+ 
+school-level: college
+school-name: University of Tennessee
+ 
+military-country: US
+military-branch:  National Guard
+military-conflict:  Korean War

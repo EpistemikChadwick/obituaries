@@ -1,0 +1,8 @@
+source-title: Island Funeral Home
+source-date: 2015-10-05
+source-url: http://www.islandfuneralhome.ca/obits/obituary.php?id=571605
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-05

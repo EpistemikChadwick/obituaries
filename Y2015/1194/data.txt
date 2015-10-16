@@ -1,0 +1,19 @@
+name-last: Gallatin
+name-first: Harry
+name-given: Harry Junior
+name-nick: The Horse
+ 
+birth-date: 1927-04-26
+birth-place: US, IL, Roxana
+ 
+death-date: 2015-10-07
+death-place:  US, IL, Edwardsville
+ 
+meta-height: 78
+ 
+school-level: college
+school-name: Truman State University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

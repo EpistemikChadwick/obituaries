@@ -1,0 +1,8 @@
+source-title: Shreveport Times
+source-date: 2015-10-03
+source-url: http://www.legacy.com/obituaries/shreveporttimes/obituary.aspx?n=A-J-Crain&pid=175996487
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-03

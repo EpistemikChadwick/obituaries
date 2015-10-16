@@ -1,0 +1,13 @@
+name-last: Lamb
+name-first: Don
+name-given: Donald S.
+ 
+birth-place: US, MO, St. Louis
+ 
+death-date: 2015-08-01
+ 
+school-level: college
+school-name: University of Missouri
+ 
+military-country: US
+military-branch:  Army

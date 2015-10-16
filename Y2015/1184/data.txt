@@ -1,0 +1,14 @@
+name-last: Michalec
+name-first: Jim
+ 
+birth-date: 1929-09-24
+birth-place: US, TX, Lavaca County
+ 
+death-date: 2015-10-01
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Memory Lawn Memorial Park
+cemetery-place: US, TX, Martindale
+ 

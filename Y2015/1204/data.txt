@@ -1,0 +1,12 @@
+name-last: Kenseth
+name-first: Sid
+name-given: Sidney C.
+ 
+birth-date: 1932-04-15
+birth-place: US, WI, Edgerton
+ 
+death-date: 2015-10-03
+death-place:  US, WI, Madison
+ 
+military-country: US
+military-branch:  Navy

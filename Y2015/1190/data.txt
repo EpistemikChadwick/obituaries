@@ -1,0 +1,16 @@
+name-last: Storck
+name-first: Fred
+name-given: Frederick A.
+ 
+birth-date: 1928-03-17
+birth-place: US, MI, Muskegon
+ 
+death-date: 2015-10-04
+death-place:  US, MI, Muskegon
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, MI, Muskegon

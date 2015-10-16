@@ -1,0 +1,12 @@
+name-last: Chalfant
+name-first: John
+name-given: John Milton
+ 
+birth-date: 1927-04-22
+ 
+death-date: 2015-09-22
+death-place:  US, IN, Fort Wayne
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

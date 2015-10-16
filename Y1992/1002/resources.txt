@@ -1,0 +1,8 @@
+source-title: Francis Lash obit
+source-file-name: Francis Lash obit.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-03

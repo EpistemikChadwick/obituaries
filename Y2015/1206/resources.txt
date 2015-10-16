@@ -1,0 +1,8 @@
+source-title: Lohud.com
+source-date: 2015-10-09
+source-url: http://www.lohud.com/story/news/crime/2015/10/08/yonkers-baseball-prospect-mike-nolan-dies/73590350/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-12

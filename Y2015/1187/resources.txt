@@ -1,0 +1,8 @@
+source-title: Orange County Register
+source-date: 2015-10-05
+source-url: http://obits.ocregister.com/obituaries/orangecounty/obituary.aspx?n=Ed-Sukla&pid=176011735
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-05

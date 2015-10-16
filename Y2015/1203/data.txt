@@ -1,0 +1,12 @@
+name-last: Willis
+name-first: John
+name-given: John William
+name-suffix: Sr.
+ 
+birth-date: 1958-10-23
+ 
+death-date: 2015-10-06
+ 
+school-level: secondary
+school-name:  Kecoughtan HS
+school-place: US, VA, Hampton

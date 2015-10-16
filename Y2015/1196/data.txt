@@ -1,0 +1,19 @@
+name-last: Rosania
+name-first: Joseph
+name-given: Joseph A.
+ 
+birth-date: 1935-01-08
+birth-place: US, NJ, Bloomfield
+
+death-date: 2015-10-02
+death-place:  US, NY, Staten Island
+ 
+school-level: secondary
+school-name:  Bloomfield HS
+school-place: US, NJ, Bloomfield
+ 
+school-level: college
+school-name: George Washington University
+ 
+cemetery-name: Fairview Cemetery
+cemetery-place: US, NJ, Westfield

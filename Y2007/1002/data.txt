@@ -1,0 +1,13 @@
+name-last: Dobberstein
+name-first: Arthur
+name-given: Arthur W.
+ 
+birth-date: 1923-01-25
+birth-place: US, IL, Spring Valley
+ 
+death-date: 2007-05-12
+death-place:  US, NC, Brevard
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

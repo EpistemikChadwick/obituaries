@@ -1,0 +1,10 @@
+name-last: Dumler
+name-first: Carl
+ 
+birth-place: US, KS,
+ 
+death-date: 1987-07-06
+death-place:  US, CA, San Diego
+ 
+cemetery-name: Mount Hope Cemetery
+cemetery-place: US, CA, San Diego

@@ -1,0 +1,14 @@
+name-last: Chance
+name-first: Dean
+name-given: Wilmer Dean
+ 
+birth-date: 1941-06-01
+birth-place: US, OH, Wooster
+ 
+death-date: 2015-10-11
+death-place:  US, OH, Wooster
+ 
+school-level: secondary
+school-name:  Northwestern HS
+school-place: US, OH, West Salem
+ 

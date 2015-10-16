@@ -1,0 +1,15 @@
+name-last: Nolan
+name-first: Mike
+ 
+death-date: 2015-10-08
+death-place:  US, NY, Bronx
+
+meta-height: 79
+meta-throws: Left
+
+school-level: secondary
+school-name:  Saunders Trades and Technical HS
+school-place: US, NY, Yonkers
+ 
+school-level: college
+school-name: Oklahoma City University

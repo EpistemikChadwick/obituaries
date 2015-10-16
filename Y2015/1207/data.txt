@@ -1,0 +1,12 @@
+name-last: Capece
+name-first: Vince
+name-given: Vincent Eugene
+ 
+birth-date: 1932-01-07
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2015-10-09
+ 
+cemetery-name: Pisgah United Methodist Church Cemetery
+cemetery-place: US, FL, Tallahassee
+ 

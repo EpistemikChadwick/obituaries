@@ -1,0 +1,10 @@
+name-last: Cunningham
+name-first: Robert
+name-given: Robert Joseph
+ 
+death-date: 2015-09-26
+death-place:  US, MN, St. Paul
+ 
+school-level: secondary
+school-name:  Harding HS
+school-place: US, MN, St. Paul

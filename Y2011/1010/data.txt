@@ -1,0 +1,14 @@
+name-last: Wadewitz
+name-first: Ozzie
+name-given: Oswin A.
+ 
+birth-place: US, WI, Slinger
+ 
+death-date: 2011-10-17
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Arlington Memorial Park
+cemetery-place: US, GA, Sandy Springs

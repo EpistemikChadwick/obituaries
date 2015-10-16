@@ -1,0 +1,8 @@
+source-title: Peoria Journal Star
+source-date: 2015-10-09
+source-url: http://www.legacy.com/obituaries/pjstar/obituary.aspx?n=Justin-Edge&pid=176059040
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-09

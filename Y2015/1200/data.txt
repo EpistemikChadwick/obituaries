@@ -1,0 +1,11 @@
+name-last: Marr
+name-first: John
+name-given: John James
+ 
+birth-date: 1935-07-29
+birth-place: US, MD, Baltimore
+ 
+death-date: 2015-10-06
+ 
+cemetery-name: Reedy Creek Baptist Church Cemetery
+cemetery-place: US, SC, Marion

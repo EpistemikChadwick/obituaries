@@ -1,0 +1,16 @@
+name-last: McDermid
+name-first: Murray
+name-given: James Murray
+name-nick: Spud
+ 
+birth-date: 1930-07-16
+birth-place: CA, ON, Tehkummah
+ 
+death-date: 2015-09-28
+death-place:  CA, ON, Mindemoya
+ 
+meta-bats:  Right
+meta-throws: Left
+ 
+cemetery-name: Providence Bay Cemetery
+cemetery-place: CA, ON, Providence Bay

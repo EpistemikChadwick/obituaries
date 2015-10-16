@@ -1,0 +1,12 @@
+name-last: Sukla
+name-first: Eddie
+name-given: Edward Anthony
+ 
+birth-date: 1943-03-03
+birth-place: US, CA, Long Beach
+ 
+death-date: 2015-09-24
+ 
+school-level: secondary
+school-name:  Huntington Beach HS
+school-place: US, CA, Huntington Beach

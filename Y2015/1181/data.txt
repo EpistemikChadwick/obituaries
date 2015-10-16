@@ -1,0 +1,7 @@
+name-last: Goulet
+name-first: Jean-Paul
+name-given: Jean-Paul
+ 
+birth-date: 1931
+ 
+death-date: 2015-10-01

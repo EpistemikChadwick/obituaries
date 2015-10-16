@@ -1,0 +1,9 @@
+name-last: Strickler
+name-first: John
+name-given: John Raymond
+ 
+birth-date: 1944-08-11
+birth-place: US, PA, Lebanon
+ 
+death-date: 2015-10-09
+death-place:  US, PA, Womelsdorf
