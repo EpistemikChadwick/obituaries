@@ -1,0 +1,8 @@
+source-title: TVN-2.com
+source-date: 2015-08-23
+source-url: http://www.tvn-2.com/nacionales/panama/Fallece-Rene-Picota-reconocido-narrador_0_4284321543.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-20

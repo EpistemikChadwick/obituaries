@@ -1,0 +1,10 @@
+name-last: Laslo
+name-first: Lou
+name-given: Louis J.
+ 
+birth-date: 1942-05-05
+birth-place: Us, MI, Tecumseh
+ 
+death-date: 2015-10-11
+death-place:  US, OH, Maumee
+ 

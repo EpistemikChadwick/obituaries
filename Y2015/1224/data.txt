@@ -1,0 +1,20 @@
+name-last: Wortman
+name-first: Bob
+name-given: Robert Vincent
+ 
+birth-date: 1927-12-03
+birth-place: US, OH, Findlay
+ 
+death-date: 2015-10-20
+death-place:  US, OH, Findlay
+ 
+school-level: secondary
+school-name:  Findlay HS
+school-place: US, OH, Findlay
+ 
+school-level: college
+school-name: University of Findlay
+school-place: US, OH, Findlay
+ 
+military-country: US
+military-branch:  Army

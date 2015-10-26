@@ -1,0 +1,8 @@
+source-title: Boza & Roel Funeral Home
+source-date: 2015-10-20
+source-url: http://www.bozaroel.com/obituaries/Harold-Schacker/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-20

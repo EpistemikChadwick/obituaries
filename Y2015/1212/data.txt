@@ -1,0 +1,10 @@
+name-last: Hancock
+name-first: Garry
+name-given: Ronald Garry
+ 
+birth-date: 1954-01-23
+ 
+death-date: 2015-10-10
+ 
+cemetery-name: Serenity Meadows Memorial Park
+cemetery-place: US, FL, Riverview

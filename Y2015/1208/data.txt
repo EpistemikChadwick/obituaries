@@ -1,0 +1,19 @@
+name-last: Burlingame
+name-first: Mark
+name-given: Mark R.
+name-nick: Burls
+ 
+birth-date: 1955-03-26
+birth-place: US, NY, Little Falls
+ 
+death-date: 2015-10-12
+ 
+school-level: secondary
+school-name:  Guilderland HS
+school-place: US, NY, Guilderland Center
+ 
+school-level: college
+school-name: SUNY Oneonta
+ 
+cemetery-name: Prospect Hill Cemetery
+cemetery-place: US, NY, Guilderland Center

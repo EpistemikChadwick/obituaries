@@ -1,0 +1,12 @@
+source-title: Vandenberg Funeral Homes
+source-date: 2015-10-20
+source-url: http://www.vandenbergfuneralhome.com/obituaries/Charles-Koney-Chuck/#!/Obituary
+
+source-title: ESPN.go.com
+source-date: 2015-10-20
+source-url: http://espn.go.com/boston/mlb/story/_/id/13904205/chuck-koney-boston-red-sox-scout-dies-age-90
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-20

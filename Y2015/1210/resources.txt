@@ -1,0 +1,8 @@
+source-title: Hartsell Funeral Home
+source-date: 2015-10-19
+source-url: http://www.hartsellfh.com/sitemaker/sites/HARTSE1/obit.cgi?user=86245484_RAuten
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-19

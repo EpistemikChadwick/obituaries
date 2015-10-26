@@ -1,0 +1,11 @@
+name-last: Schacker
+name-first: Harold
+ 
+birth-date: 1925-04-06
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2015-10-02
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

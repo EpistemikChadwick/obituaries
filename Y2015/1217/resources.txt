@@ -1,0 +1,8 @@
+source-title: Dallas Morning News
+source-date: 2015-10-18
+source-url: http://www.legacy.com/obituaries/dallasmorningnews/obituary.aspx?pid=176144267
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-20

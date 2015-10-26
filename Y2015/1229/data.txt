@@ -1,0 +1,16 @@
+name-last: Tsitouris
+name-first: John
+name-given: John Philip
+ 
+birth-date: 1936-05-05
+birth-place: US, NC, Monroe
+ 
+death-date: 2015-10-22
+death-place:  US, NC, Monroe
+ 
+school-level: secondary
+school-name:  Benton Heights HS
+school-place: US, NC, Monroe
+ 
+cemetery-name: Lakeland Memorial Park.
+cemetery-place: US, NC, Monroe

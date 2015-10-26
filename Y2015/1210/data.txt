@@ -1,0 +1,17 @@
+name-last: Auten
+name-first: Beetle
+name-given: Robert Eugene
+ 
+birth-date: 1933-10-10
+ 
+death-date: 2015-10-14
+ 
+school-level: secondary
+school-name:  Hartsell HS
+school-place: US, NC, Concord
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: West Concord Cemetery
+cemetery-place: US, NC, Concord

@@ -1,0 +1,8 @@
+source-title: Tributes.com
+source-date: 2015-10-19
+source-url: http://www.tributes.com/obituary/show/Charles-H.-Beverly-102935355
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-19

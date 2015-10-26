@@ -1,0 +1,11 @@
+name-last: Koehler
+name-first: James
+name-given: James Phillip
+ 
+birth-date: 1982-11-16
+ 
+death-date: 2015-10-15
+death-place:  US, KY, Louisville
+ 
+school-level: college
+school-name: Rutgers University

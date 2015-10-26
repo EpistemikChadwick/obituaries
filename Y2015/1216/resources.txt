@@ -1,0 +1,8 @@
+source-title: Televisa.com
+source-date: 2015-10-20
+source-url: http://deportes.televisa.com/beisbol/2015-10-14/muere-chito-garcia/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-20

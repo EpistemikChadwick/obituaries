@@ -1,0 +1,12 @@
+name-last: Garcia
+name-first: Chito
+name-given: Luis
+ 
+birth-date: 1924-01-18
+birth-place: MX, Veracruz, Veracruz
+ 
+death-date: 2015-10-14
+death-place:  MX, , Mexico City
+ 
+military-country: MX
+military-branch:  Navy

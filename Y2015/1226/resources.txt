@@ -1,0 +1,8 @@
+source-title: Herald Tribune
+source-date: 2015-10-22
+source-url: http://www.legacy.com/obituaries/heraldtribune/obituary.aspx?n=Edward-F-Howell&pid=176163412
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-22

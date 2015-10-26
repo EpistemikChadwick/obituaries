@@ -1,0 +1,10 @@
+name-last: Braganca
+name-first: Joe
+name-given: Joseph P.
+ 
+birth-date: 1930-08-08
+ 
+death-date: 2015-10-18
+ 
+cemetery-name: Notre Dame Cemetery
+cemetery-place: US, RI, Pawtucket

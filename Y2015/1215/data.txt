@@ -1,0 +1,4 @@
+name-last: Picota
+name-first: Rene
+ 
+death-date: 2015-08-21

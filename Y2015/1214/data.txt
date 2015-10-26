@@ -1,0 +1,9 @@
+name-last: Sheridan
+name-first: Neill
+name-given: Neill Rawlins
+ 
+birth-date: 1921-11-20
+birth-place: US, CA, Sacramento
+ 
+death-date: 2015-10-15
+death-place:  US, CA, Antioch

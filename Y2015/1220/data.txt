@@ -1,0 +1,9 @@
+name-last: Fell
+name-first: Jerry
+name-given: Gerard Raymond
+ 
+birth-date: 1950-10-03
+birth-place: US, MD, Baltimore
+ 
+death-date: 2015-10-14
+death-place:  US, TX, Fairview

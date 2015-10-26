@@ -1,0 +1,18 @@
+name-last: Howell
+name-first: Eddie
+name-given: Edward F.
+ 
+birth-date: 1945-01-24
+birth-place: US, MA, Boston
+ 
+death-date: 2015-10-14
+death-place:  US, FL, Sarasota
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Sarasota HS
+school-place: US, FL, Sarasota
+ 
+school-level: college
+school-name: Florida State University

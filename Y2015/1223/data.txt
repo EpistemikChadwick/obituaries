@@ -1,0 +1,28 @@
+name-last: Spradlin
+name-first: Sonny
+name-given: R. E.
+name-suffix: Jr.
+ 
+birth-date: 1930-06-30
+birth-place: US, AR, Louann
+ 
+death-date: 2015-10-17
+ 
+school-level: secondary
+school-name:  Kilgore HS
+school-place: US, TX, Kilgore
+ 
+school-level: college
+school-name: Kilgore College
+school-place: US, TX, Kilgore
+ 
+school-level: college
+school-name: University of Texas
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Rusk County Memorial Gardens
+cemetery-place: US, TX, Henderson
+ 

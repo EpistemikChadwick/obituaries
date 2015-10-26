@@ -1,0 +1,16 @@
+name-last: Zwick
+name-first: Roland
+name-given: Roland John
+ 
+birth-date: 1926-01-13
+birth-place: US, PA, Scranton
+ 
+death-date: 2015-10-15
+death-place:  US, CA, Santa Cruz
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Santa Cruz Memorial Park
+cemetery-place: US, CA, Santa Cruz

@@ -1,0 +1,15 @@
+name-last: Aceto
+name-first: Roger
+name-given: V. Roger
+ 
+birth-date: 1936-09-10
+birth-place: US, WI, South Milwaukee
+ 
+death-date: 2015-10-23
+death-place:  US, IA, Des Moines
+ 
+school-level: college
+school-name: Drake University
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,23 @@
+name-last: Buchanan
+name-first: Jerry
+name-given: George J.
+ 
+birth-date: 1931-03-03
+birth-place: US, TX, Dallas
+ 
+death-date: 2015-10-14
+ 
+school-level: secondary
+school-name:  Woodrow Wilson HS
+school-place: US, TX, Dallas
+ 
+school-level: college
+school-name: Southern Methodist University
+ 
+school-level: college
+school-name: Drury University
+school-place: US, MO, Springfield
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

@@ -1,0 +1,7 @@
+name-last: Embry
+name-first: Wiley
+name-given: Wiley B.
+ 
+birth-place: US, IN, Indianapolis
+ 
+death-date: 2015-10-11

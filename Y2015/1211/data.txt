@@ -1,0 +1,19 @@
+name-last: Beverly
+name-first: Charlie
+name-given: Charles H.
+ 
+birth-date: 1929-09-25
+birth-place: US, GA, Cogdell
+ 
+death-date: 2015-10-14
+ 
+school-level: secondary
+school-name:  Waycross HS
+school-place: US, GA, Waycross
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Moore Cemetery
+cemetery-place: US, GA, Bickley

@@ -1,0 +1,8 @@
+source-title: William W. Tripp & Cheetham Funeral Homes
+source-date: 2015-10-20
+source-url: http://www.trippfuneralhome.com/home/index.cfm/obituaries/view/fh_id/13628/id/3354211
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-20

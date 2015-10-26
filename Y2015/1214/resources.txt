@@ -1,0 +1,12 @@
+source-title: SFGate.com
+source-date: 2015-10-16
+source-url: http://www.sfgate.com/giants/article/Neill-Sheridan-dies-said-to-have-hit-613-foot-6573371.php
+
+source-title: LastingMemories.com
+source-date: 2015-10-20
+source-url: http://www.lastingmemories.com/neill-rawlins-sheridan/obituaries
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-20

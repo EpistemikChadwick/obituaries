@@ -1,0 +1,8 @@
+name-last: Koney
+name-first: Chuck
+name-given: Charles E.
+ 
+birth-date: 1925-10-08
+
+death-date: 2015-10-12
+death-place:  US, IL, Orland Park
