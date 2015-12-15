@@ -1,0 +1,9 @@
+source-title: Marlan Gary Funeral Home
+source-date: 2015-11-06
+source-url: http://www.thechapelofpeace.com/eddie-j-milner-jr/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-06
+ 

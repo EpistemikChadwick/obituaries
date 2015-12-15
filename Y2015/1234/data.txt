@@ -1,0 +1,18 @@
+name-last: Walden
+name-first: George
+name-given: George F.
+ 
+birth-date: 1928-04-06
+birth-place: US, MO, St. Louis
+ 
+death-date: 2015-10-24
+ 
+school-level: secondary
+school-name:  Blewett HS
+school-place: US, MO, St. Louis
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Bellefontaine Cemetery
+cemetery-place: US, MO, St. Louis

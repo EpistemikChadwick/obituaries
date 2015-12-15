@@ -1,0 +1,19 @@
+name-last: Tokarchik
+name-first: Larry
+name-given: Lawrence
+ 
+birth-date: 1930-02-25
+birth-place: US, NY, Binghamton
+ 
+death-date: 2015-10-31
+ 
+school-level: secondary
+school-name:  Johnson City HS
+school-place: US, NY, Johnson City
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Cyril Slovak Catholic Cemetery
+cemetery-place: US, NY, Binghamton
+ 

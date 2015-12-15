@@ -1,0 +1,20 @@
+name-last: Wall
+name-first: Ollie
+name-given: Ollie Louis
+name-suffix: Sr.
+ 
+birth-date: 1928-12-08
+birth-place: US, NC, Wake County
+ 
+death-date: 2015-11-04
+death-place:  US, NC, Raleigh
+ 
+school-level: secondary
+school-name:  Knightdale HS
+school-place: US, NC, Knightdale
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: New Knightdale Baptist Church Cemetery
+cemetery-place: US, NC, Knightdale

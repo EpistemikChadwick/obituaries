@@ -1,0 +1,24 @@
+name-last: Moffitt
+name-first: Dennis
+name-given: Dennis E.
+ 
+birth-date: 1929-03-28
+birth-place: US, CA, Visalia
+ 
+death-date: 2015-11-07
+ 
+school-level: secondary
+school-name:  Visalia HS
+school-place: US, CA, Visalia
+ 
+school-level: college
+school-name: College of the Sequoias
+school-place: US, CA, Visalia
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Exeter District Cemetery
+cemetery-place: US, CA, Exeter
+ 

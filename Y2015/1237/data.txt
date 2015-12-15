@@ -1,0 +1,13 @@
+name-last: King
+name-first: Ronnie
+name-given: Ronald Anthony
+
+birth-place: US, CA, Sacramento
+ 
+death-date: 2015-10-26
+death-place:  US, CA, Sacramento
+ 
+school-level: secondary
+school-name:  Christian Brothers HS
+school-place: US, CA, Sacramento
+ 

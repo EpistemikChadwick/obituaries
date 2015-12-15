@@ -1,0 +1,22 @@
+name-last: Besana
+name-first: Fred
+name-given: Frederick Cyril
+
+birth-date: 1930-04-05
+
+death-date: 2015-11-07
+ 
+school-level: secondary
+school-name:  Lincoln HS
+school-place: US, CA, Lincoln
+ 
+school-level: college
+school-name: Sierra College
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+
+cemetery-name: Roseville Cemetery
+cemetery-place: US, CA, Roseville
+

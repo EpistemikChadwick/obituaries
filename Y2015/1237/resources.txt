@@ -1,0 +1,12 @@
+source-title: Sacramento Bee
+source-date: 2015-10-26
+source-url: http://www.sacbee.com/sports/article41508519.html
+
+source-title: Sacramento Bee
+source-date: 2015-10-30
+source-url: http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=Ronald-Anthony-KING&pid=176277372
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-27

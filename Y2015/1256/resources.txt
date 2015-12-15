@@ -1,0 +1,8 @@
+source-title: News Tribune
+source-date: 2015-11-08
+source-url: http://www.legacy.com/obituaries/tribnet/obituary.aspx?n=EARL-BIRNEL&pid=176390836
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-08

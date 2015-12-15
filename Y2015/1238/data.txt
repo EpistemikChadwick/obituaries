@@ -1,0 +1,13 @@
+name-last: Lisinski
+name-first: Donald
+name-given: Donald John
+ 
+birth-date: 1929-04-03
+birth-place: US, WI, Milwaukee
+ 
+death-date: 2015-10-26
+death-place:  US, GA, Brunswick
+ 
+military-country: US
+military-branch:  Army
+ 

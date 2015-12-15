@@ -1,0 +1,8 @@
+source-title: Valley News Dispatch
+source-date: 2015-11-01
+source-url: http://www.legacy.com/obituaries/triblive-valley-news-dispatch/obituary.aspx?n=Aloysius-J-Pierwsza&pid=176290682
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-01

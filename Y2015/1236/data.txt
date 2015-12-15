@@ -1,0 +1,10 @@
+name-last: Brooks
+name-first: Hubert
+ 
+birth-date: 1930-04-14
+ 
+death-date: 2015-10-25
+ 
+cemetery-name: Salem Cemetery
+cemetery-place: US, AR, East End
+ 

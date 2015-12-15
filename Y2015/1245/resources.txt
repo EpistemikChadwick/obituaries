@@ -1,0 +1,8 @@
+source-title: Binghamton Press & Sun-Bulletin
+source-date: 2015-11-02
+source-url: http://www.legacy.com/obituaries/pressconnects/obituary.aspx?n=Lawrence-Tokarchik&pid=176302519
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-02

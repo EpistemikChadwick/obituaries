@@ -1,0 +1,9 @@
+name-last: Garcia
+name-given: Louis
+ 
+birth-date: 1929-06-23
+ 
+death-date: 2015-10-23
+ 
+school-level: college
+school-name: University of Florida

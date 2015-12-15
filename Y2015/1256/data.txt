@@ -1,0 +1,21 @@
+name-last: Birnel
+name-first: Earl
+name-given: Earl Lester
+ 
+birth-date: 1926-10-18
+birth-place: US, WA, Tacoma
+ 
+death-date: 2015-10-31
+death-place:  US, WA, Tacoma
+ 
+school-level: secondary
+school-name:  Stadium HS
+school-place: US, WA, Tacoma
+ 
+school-level: college
+school-name: University of Puget Sound
+school-place: US, WA, Tacoma
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,7 @@
+name-last: Barone
+name-first: Richard
+ 
+birth-date: 1932-10-13
+ 
+death-date: 2015-04-23
+ 

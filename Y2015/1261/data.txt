@@ -1,0 +1,14 @@
+name-last: McAlister
+name-first: Jim
+name-given: James W.
+ 
+birth-place: US, NC, Reidsville
+ 
+death-date: 2015-11-04
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: West End Cemetery
+cemetery-place: US, VA, Wytheville

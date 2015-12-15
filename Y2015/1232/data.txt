@@ -1,0 +1,24 @@
+name-last: Pfeifer
+name-first: Tony
+name-suffix: Jr.
+name-nick: Red
+ 
+birth-date: 1931-12-01
+birth-place: US, KS, Hays
+ 
+death-date: 2015-10-20
+death-place:  US, KS, Hays
+ 
+school-level: secondary
+school-name:  Hays HS
+school-place: US, KS, Hays
+ 
+school-level: college
+school-name: Fort Hays State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, KS, Hays

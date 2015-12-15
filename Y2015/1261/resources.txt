@@ -1,0 +1,8 @@
+source-title: SWVAToday.com
+source-date: 2015-11-07
+source-url: http://www.swvatoday.com/obituaries/article_f756b2b1-fb29-5128-9a31-77f7846a6c15.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-09

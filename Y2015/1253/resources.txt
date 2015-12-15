@@ -1,0 +1,8 @@
+source-title: Honolulu Star-Advertiser
+source-date: 2015-10-17
+source-url: http://obits.staradvertiser.com/2015/10/17/carlos-bimbo-antonio-diaz-diaz-jr/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-08

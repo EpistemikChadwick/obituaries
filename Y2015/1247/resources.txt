@@ -1,0 +1,8 @@
+source-title: Milford Daily News
+source-date: 2015-11-03
+source-url: http://www.legacy.com/obituaries/milforddailynews/obituary.aspx?n=Robert-L-Stoico&pid=176317017
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-03

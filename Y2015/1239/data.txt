@@ -1,0 +1,15 @@
+name-last: Panella
+name-first: Joe
+name-given: Joseph Lawrence
+ 
+birth-date: 1940-10-02
+birth-place: US, CA, Oakland
+ 
+death-date: 2015-10-21
+ 
+school-level: secondary
+school-name:  St. Elizabeth HS
+school-place: US, CA, Oakland
+ 
+school-level: college
+school-name: San Francisco State University

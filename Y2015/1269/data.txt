@@ -1,0 +1,20 @@
+name-last: Owen
+name-given: George
+name-suffix: V
+ 
+birth-date: 1926-10-30
+birth-place: US, MA, Milton
+ 
+death-date: 2015-11-09
+ 
+school-level: secondary
+school-name:  Milton Academy
+school-place: US, MA, Milton
+ 
+school-level: college
+school-name: Williams College
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 

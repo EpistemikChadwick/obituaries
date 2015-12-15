@@ -1,0 +1,20 @@
+name-last: Staley
+name-first: Tom
+name-given: Thomas E.
+ 
+birth-date: 1926
+birth-place: US, NE, Omaha
+ 
+death-date: 2015-11-08
+death-place:  US, IL, Joliet
+ 
+school-level: secondary
+school-name:  Creighton Prep School
+school-place: US, NE, Omaha
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Abraham Lincoln National Cemetery
+cemetery-place: US, IL, Elwood

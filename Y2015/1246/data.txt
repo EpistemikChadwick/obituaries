@@ -1,0 +1,16 @@
+name-last: Cardey
+name-first: Jack
+name-given: Jack Norman
+ 
+birth-date: 1922-08-30
+birth-place: US, WI, Potosi
+ 
+death-date: 2015-10-28
+death-place:  US, WI, Lancaster
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Van Buren Cemetery
+cemetery-place: US, WI, Potosi

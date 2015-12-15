@@ -1,0 +1,10 @@
+name-last: Anzalone
+name-first: Frank
+ 
+death-date: 2015-11-08
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: National Memorial Cemetery of Arizona
+cemetery-place: US, AZ, Phoenix

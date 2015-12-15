@@ -1,0 +1,13 @@
+name-last: Kelly
+name-first: Shannon
+ 
+birth-date: 1949
+ 
+death-date: 2015
+ 
+school-level: secondary
+school-name:  Fortuna HS
+school-place: US, CA, Fortuna
+ 
+military-country: US
+military-branch:  Air Force

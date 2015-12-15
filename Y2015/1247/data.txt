@@ -1,0 +1,19 @@
+name-last: Stoico
+name-first: Robert
+name-given: Robert L.
+ 
+birth-place: US, MA, Milford
+ 
+death-date: 2015-11-01
+death-place:  US, MA, Milford
+ 
+school-level: secondary
+school-name:  Milford HS
+school-place: US, MA, Milford
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Sacred Heart Cemetery
+cemetery-place: US, MA, Milford
+ 

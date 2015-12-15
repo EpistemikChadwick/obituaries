@@ -1,0 +1,22 @@
+name-last: Gulvas
+name-first: Joe
+name-given: Joseph
+name-suffix: Sr.
+ 
+birth-date: 1928-02-23
+birth-place: US, IN, Whiting
+ 
+death-date: 2015-10-26
+death-place:  US, IN, Hammond
+ 
+school-level: secondary
+school-name:  Clark HS
+school-place: US, IN, Hammond
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. John-St. Joseph Cemetery
+cemetery-place: US, IN, Hammond
+ 

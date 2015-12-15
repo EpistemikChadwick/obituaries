@@ -1,0 +1,20 @@
+name-last: Percy
+name-first: Lou
+ 
+alias-type: birth
+alias-last: Pierwsza
+alias-first: Lou
+alias-given: Aloysius J.
+ 
+birth-date: 1926-01-26
+birth-place: US, PA, New Kensington
+ 
+death-date: 2015-10-29
+death-place:  US, FL, Ormond Beach
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, PA, Lower Burrell

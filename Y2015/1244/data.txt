@@ -1,0 +1,15 @@
+name-last: Kolesar
+name-first: Mike
+name-given: Michael A.
+ 
+birth-date: 1914-09-29
+birth-place: US, MI, Ironwood
+ 
+death-date: 2015-10-27
+ 
+military-country: US
+military-branch: Marines
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary's Catholic Cemetery
+cemetery-place: US, CA, Sacramento

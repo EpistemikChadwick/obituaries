@@ -1,0 +1,8 @@
+source-title: Panama City News Herald
+source-date: 2015-11-09
+source-url: http://www.legacy.com/obituaries/newsherald/obituary.aspx?n=William-Arthur-Brightwell-Bill&pid=176395360
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-09

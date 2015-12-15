@@ -1,0 +1,20 @@
+name-last: Milner
+name-first: Eddie
+name-given: Eddie James
+name-suffix: Jr.
+ 
+birth-date: 1955-05-21
+birth-place: US, OH, Columbus
+ 
+death-date: 2015-11-02
+death-place:  US, OH, Cincinnati
+ 
+school-level: secondary
+school-name:  Marion-Franklin HS
+school-place: US, OH, Columbus
+ 
+school-level: college
+school-name: Central State University
+ 
+cemetery-name: Glen Rest Memorial Estate
+cemetery-place: US, OH, Reynoldsburg

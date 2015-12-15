@@ -1,0 +1,16 @@
+name-last: Zumrick
+name-first: Robert
+name-given: Robert T.
+ 
+birth-date: 1927-12-29
+birth-place: US, OH, Youngstown
+ 
+death-date: 2015-10-17
+death-place:  US, OH, Cleveland
+ 
+school-level: secondary
+school-name:  East HS
+school-place: US, OH, Youngstown
+ 
+military-country: US
+military-branch:  Army

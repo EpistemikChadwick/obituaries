@@ -1,0 +1,8 @@
+source-title: Baran Funeral Home
+source-date: 2015-10-29
+source-url: http://www.baranfh.com/obits/obituary.php?id=575963
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-29

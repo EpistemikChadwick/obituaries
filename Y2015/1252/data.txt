@@ -1,0 +1,15 @@
+name-last: Harding
+name-first: Ray
+name-given: B. Ray
+ 
+birth-date: 1928-12-23
+birth-place: US, IL, Metropolis
+ 
+death-date: 2015-11-04
+death-place:  US, IN, Anderson
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: East Maplewood Cemetery
+cemetery-place: US, IN, Anderson

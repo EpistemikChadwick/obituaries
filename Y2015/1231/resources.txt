@@ -1,0 +1,8 @@
+source-title: Vaschak-Kirila Funeral Home
+source-date: 2015-10-26
+source-url: http://www.vaschak-kirilafh.com/notices/Robert-Zumrick/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-26

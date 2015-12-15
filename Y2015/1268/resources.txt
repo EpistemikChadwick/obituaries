@@ -1,0 +1,8 @@
+source-title: Brunswick Funeral Service
+source-date: 2015-11-13
+source-url: http://www.brunswickfuneralservice.com/shallotte/obituaries/406
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-13

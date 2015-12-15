@@ -1,0 +1,8 @@
+source-title: Buffalo News
+source-date: 2015-11-04
+source-url: http://www.buffalonews.com/city-region/kenneth-w-fremming-20151104
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-09

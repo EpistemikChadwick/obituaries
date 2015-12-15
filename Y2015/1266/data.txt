@@ -1,0 +1,23 @@
+name-last: Anderson
+name-first: Jay
+name-given: Jay Forrest
+ 
+birth-date: 1951-04-21
+birth-place: US, CA, Montebello
+ 
+death-date: 2015-11-06
+death-place:  US, CA, Chico
+ 
+school-level: secondary
+school-name:  Chico HS
+school-place: US, CA, Chico
+ 
+school-level: college
+school-name: Butte College
+school-place: US, CA, Oroville
+ 
+school-level: college
+school-name: San Diego State University
+ 
+cemetery-name: Glen Oaks Memorial Park
+cemetery-place: US, CA, Chico

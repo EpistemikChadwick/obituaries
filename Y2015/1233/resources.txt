@@ -1,0 +1,8 @@
+source-title: Staten Island Advance
+source-date: 2015-01-16
+source-url: http://www.silive.com/obituaries/index.ssf/2015/01/charles_bamberger_94.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-26

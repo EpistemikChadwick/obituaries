@@ -1,0 +1,9 @@
+name-last: Schrieber
+name-first: Harry
+name-given: Harry
+ 
+birth-date: 1940
+birth-place: PL, ,
+ 
+death-date: 2015-11-03
+death-place:  US, AZ, Scottsdale

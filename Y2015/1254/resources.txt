@@ -1,0 +1,8 @@
+source-title: San Jose Mercury News
+source-date: 2015-04-26
+source-url: http://www.legacy.com/obituaries/mercurynews/obituary.aspx?pid=174712075
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-08

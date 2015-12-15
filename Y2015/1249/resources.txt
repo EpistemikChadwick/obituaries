@@ -1,0 +1,8 @@
+source-title: Schrader Funeral Homes
+source-date: 2015-11-06
+source-url: http://www.schrader.com/?pagetype=obitlink&obit_id=1694645
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-06

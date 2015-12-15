@@ -1,0 +1,16 @@
+name-last: Siebern
+name-first: Norm
+name-given: Norman
+ 
+birth-date: 1933-07-26
+birth-place: US, MO, St. Louis
+ 
+death-date: 2015-10-30
+death-place:  US, FL, Naples
+ 
+school-level: college
+school-name: Missouri State University
+ 
+military-country: US
+military-branch:  Army
+ 

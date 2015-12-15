@@ -1,0 +1,15 @@
+name-last: Edwards
+name-first: Don
+name-given: Don Luther
+ 
+birth-date: 1934-11-05
+ 
+death-date: 2015-11-05
+death-place:  US, OK, Ponca City
+ 
+school-level: secondary
+school-name:  Ponca City HS
+school-place: US, OK, Ponca City
+ 
+military-country: US
+military-branch:  Air Force

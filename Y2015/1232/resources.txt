@@ -1,0 +1,8 @@
+source-title: Hays Memorial Chapel
+source-date: 2015-10-26
+source-url: http://www.haysmemorial.com/notices/Tony-Red-PfeiferJr
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-26

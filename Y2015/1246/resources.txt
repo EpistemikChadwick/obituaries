@@ -1,0 +1,8 @@
+source-title: THOnline.com
+source-date: 2015-10-31
+source-url: http://www.thonline.com/obituaries/article_45e388c8-0e8a-5b88-96b6-7e2c25860d21.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-02

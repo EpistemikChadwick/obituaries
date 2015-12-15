@@ -1,0 +1,17 @@
+name-last: Fremming
+name-first: Kenneth
+name-given: Kenneth W.
+ 
+birth-date: 1929-05-14
+birth-place: US, NY, Buffalo
+ 
+death-date: 2015-11-01
+death-place:  US, NY, Kenmore
+ 
+school-level: secondary
+school-name:  Fosdick-Masten Park HS
+school-place: US, NY, Buffalo
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

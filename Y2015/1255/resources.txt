@@ -1,0 +1,8 @@
+source-title: Eureka Times-Standard
+source-date: 2015-11-08
+source-url: http://www.legacy.com/obituaries/times-standard/obituary.aspx?n=Shannon-Kelly&pid=176391178
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-08

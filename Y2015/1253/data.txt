@@ -1,0 +1,9 @@
+name-last: Diaz
+name-first: Carlos
+name-given: Carlos Antonio
+name-nick: Bimbo
+ 
+birth-date: 1958-01-07
+birth-place: US, HI, Honolulu
+ 
+death-date: 2015-09-28

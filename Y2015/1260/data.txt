@@ -1,0 +1,8 @@
+name-last: Graham
+name-first: Sam
+name-given: Samuel R.
+name-suffix: Sr.
+
+birth-date: 1952-11-30
+ 
+death-date: 2015-10-22

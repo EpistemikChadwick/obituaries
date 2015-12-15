@@ -1,0 +1,12 @@
+name-last: Helfrich
+name-first: Tim
+name-given: Timothy J.
+ 
+birth-date: 1941-10-03
+ 
+death-date: 2015-10-27
+death-place:  US, OH, Dayton
+ 
+school-level: secondary
+school-name:  Northwestern HS
+school-place: US, OH, Springfield

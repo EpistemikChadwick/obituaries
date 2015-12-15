@@ -1,0 +1,16 @@
+name-last: Brightwell
+name-first: Bill
+name-given: William Arthur
+name-suffix: Jr.
+ 
+birth-date: 1926-06-23
+birth-place: US, AL, Montgomery
+ 
+death-date: 2015-11-07
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Lynn Haven Cemetery
+cemetery-place: US, FL, Lynn Haven

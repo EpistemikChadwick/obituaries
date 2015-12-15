@@ -1,0 +1,6 @@
+name-last: Hanson
+name-first: Tommy
+ 
+death-date: 2015-11-09
+death-place:  US, GA, Atlanta
+ 
