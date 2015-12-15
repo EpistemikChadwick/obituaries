@@ -1,0 +1,8 @@
+source-title: Sierra Vista Herald
+source-date: 2015-11-23
+source-url: http://www.svherald.com/sports/former-negro-league-fort-huachuca-player-mccoy-dies-at-age/article_6fa786ec-8e7d-11e5-ad44-9b53b8e33305.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-23

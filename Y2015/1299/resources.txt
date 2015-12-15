@@ -1,0 +1,8 @@
+source-title: Henneke Funeral Home
+source-date: 2015-11-24
+source-url: http://www.hennekefuneralhome.com/services.asp?page=odetail&id=751&locid=0#.VlT_GRbovF4
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-24

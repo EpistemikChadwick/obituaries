@@ -1,0 +1,17 @@
+name-last: Stuckey
+name-first: Luther
+name-given: Luther Thomas
+name-suffix: Jr.
+ 
+birth-date: 1919-11-08
+birth-place: US, AR, Prattsville
+ 
+death-date: 2015-11-12
+death-place:  US, AR, Fayetteville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Philadelphia Cemetery
+cemetery-place: US, AR, Prattsville

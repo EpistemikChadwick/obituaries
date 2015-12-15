@@ -1,0 +1,14 @@
+name-last: Smith
+name-first: Al
+name-given: Alan William
+ 
+birth-place: US, CT, Greenwich
+ 
+death-date: 2015-11-13
+ 
+school-level: secondary
+school-name:  Greenwich HS
+school-place: US, CT, Greenwich
+ 
+school-level: college
+school-name: University of Connecticut

@@ -1,0 +1,14 @@
+name-last: Genovese
+name-first: George
+ 
+death-date: 2015-11-15
+death-place:  US, CA, Burbank
+ 
+school-level: secondary
+school-name:  Port Richmond HS
+school-place: US, NY, Staten Island
+ 
+ 
+military-country: US
+military-conflict:  World War II
+ 

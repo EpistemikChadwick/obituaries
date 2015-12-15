@@ -1,0 +1,8 @@
+source-title: Ponder Funeral Home
+source-date: 2015-11-24
+source-url: http://www.ponderfuneralhome.com/home/index.cfm/obituaries/view/fh_id/12093/id/3389255
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-24

@@ -1,0 +1,8 @@
+source-title: Minnich Funeral Home
+source-date: 2015-11-24
+source-url: http://www.minnichfh.com/obituary/Paul-Ears-McNeal/Hagersotwn-MD/1563802
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-24

@@ -1,0 +1,19 @@
+name-last: McDaniel
+name-first: Bob
+name-given: Robert C.
+ 
+birth-date: 1933-04-05
+birth-place: US, TX, Fort Worth
+ 
+death-date: 2015-11-15
+death-place:  US, FL, Merritt Island
+ 
+school-level: secondary
+school-name:  North Side HS
+school-place: US, TX, Fort Worth
+ 
+school-level: college
+school-name: Texas Christian University
+ 
+military-country: US
+military-branch:  Army

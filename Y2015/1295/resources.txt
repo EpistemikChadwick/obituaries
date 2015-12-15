@@ -1,0 +1,8 @@
+source-title: Ketusky Funeral Home
+source-date: 2015-11-23
+source-url: http://www.ketusky.com/obituaries/George-Resavy/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-23

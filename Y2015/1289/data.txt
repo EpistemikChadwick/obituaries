@@ -1,0 +1,20 @@
+name-last: Shrigley
+name-first: Richard
+name-given: Richard Ray
+ 
+birth-date: 1931-02-26
+birth-place: US, PA, West Elizabeth
+ 
+death-date: 2015-11-08
+death-place:  US, CA, Carlsbad
+ 
+school-level: secondary
+school-name:  Elizabeth HS
+school-place: US, PA, Elizabeth
+ 
+school-level: college
+school-name: Presbyterian College
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War

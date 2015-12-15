@@ -1,0 +1,14 @@
+name-last: Balzli
+name-first: Jack
+name-given: Jack R.
+name-suffix: Sr.
+ 
+death-date: 2015-11-13
+death-place:  US, AL, Mobile
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Mobile Memorial Gardens
+cemetery-place: US, AL, Mobile

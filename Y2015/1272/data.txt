@@ -1,0 +1,15 @@
+name-last: Anders
+name-first: Joe
+ 
+birth-date: 1921-02-27
+birth-place: US, NC, Transylvania County
+ 
+death-date: 2015-11-14
+death-place: US, SC, Anderson
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Robinson Memorial Gardens
+cemetery-place: US, SC, Easley

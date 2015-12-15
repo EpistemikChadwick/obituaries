@@ -1,0 +1,14 @@
+name-last: Forisch
+name-first: Bob
+name-given: Robert W.
+ 
+birth-date: 1920-08-02
+ 
+death-date: 2015-11-03
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Brooklyn Heights Cemetery
+cemetery-place: US, OH, Brooklyn Heights

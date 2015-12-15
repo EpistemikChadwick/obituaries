@@ -1,0 +1,10 @@
+name-last: Donovan
+name-first: Charlie
+name-given: Charles
+ 
+death-date: 2015-11-05
+ 
+school-level: secondary
+school-name:  Westmont HS
+school-place: US, IL, Westmont
+ 

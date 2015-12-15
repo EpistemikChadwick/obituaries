@@ -1,0 +1,8 @@
+name-last: Kearns
+name-first: Dick
+name-given: Richard
+ 
+birth-date: 1943-07-24
+ 
+death-date: 2015-11-13
+death-place:  US, NH, Hooksett

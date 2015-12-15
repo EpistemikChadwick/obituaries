@@ -1,0 +1,8 @@
+source-title: UPI.com
+source-date: 2015-11-18
+source-url: http://www.upi.com/Top_News/World-News/2015/11/18/Former-Pittsburgh-Pirates-prospect-dies-after-plane-crashes-into-Colombian-church/8751447849138/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-23

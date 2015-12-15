@@ -1,0 +1,8 @@
+source-title: Daily Herald
+source-date: 2015-11-10
+source-url: http://www.dailyherald.com/article/20151109/news/151108907/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-16

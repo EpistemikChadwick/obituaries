@@ -1,0 +1,6 @@
+name-last: Cobos
+name-first: Marcos
+ 
+birth-date: 1931-08-31
+ 
+death-date: 2015-11-13

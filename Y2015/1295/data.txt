@@ -1,0 +1,22 @@
+name-last: Resavy
+name-first: George
+name-given: George Thomas
+ 
+birth-date: 1933-03-25
+birth-place: US, PA, Duryea
+ 
+death-date: 2015-11-21
+ 
+school-level: secondary
+school-name:  Duryea HS
+school-place: US, PA, Duryea
+ 
+school-level: college
+school-name: Millersville University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Bernard Cemetery
+cemetery-place: US, NJ, Bridgewater
+ 

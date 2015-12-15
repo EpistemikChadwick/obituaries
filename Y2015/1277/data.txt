@@ -1,0 +1,24 @@
+name-last: Mitchell
+name-first: Farrell
+name-given: Farrell J.
+ 
+birth-date: 1930-10-14
+birth-place: US, IL, Naples
+ 
+death-date: 2015-11-12
+death-place:  US, IL, Jacksonville
+ 
+school-level: secondary
+school-name:  Jacksonville HS
+school-place: US, IL, Jacksonville
+ 
+school-level: college
+school-name: Western Illinois University
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War
+ 
+cemetery-name: Memorial Lawn Cemetery
+cemetery-place: US, IL, Jacksonville
+ 

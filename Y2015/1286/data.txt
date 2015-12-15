@@ -1,0 +1,19 @@
+name-last: Walsh
+name-first: John
+name-given: John R.
+ 
+birth-date: 1926-10-17
+birth-place: US, CT, Norwich
+ 
+death-date: 2015-11-16
+ 
+school-level: college
+school-name: Arnold College
+school-place: US, CT, Milford
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Windsor Veterans Memorial Cemetery
+cemetery-place: US, CT, Windsor

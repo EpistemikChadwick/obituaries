@@ -1,0 +1,21 @@
+name-last: Sorrels
+name-first: Bill
+name-given: William Pickens
+name-suffix: Sr.
+ 
+birth-date: 1929-05-24
+birth-place: US, SC, Greenville
+ 
+death-date: 2015-11-05
+death-place:  US, NC, Wadesboro
+ 
+school-level: secondary
+school-name:  Cool Springs HS
+school-place: US, NC, Forest City
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Eastview Cemetery
+cemetery-place: US, NC, Wadesboro

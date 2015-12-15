@@ -1,0 +1,8 @@
+source-title: Cleveland Plain Dealer
+source-date: 2015-11-13
+source-url: http://obits.cleveland.com/obituaries/cleveland/obituary.aspx?n=robert-w-forisch&pid=176481168
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-13

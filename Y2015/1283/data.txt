@@ -1,0 +1,9 @@
+name-last: Castillo
+name-first: Carmelo
+ 
+birth-date: 1958-06-08
+birth-place: DO, San Pedro de Macoris, San Pedro de Macoris
+ 
+death-date: 2015-11-15
+death-place:  DO, National District, Santa Domingo
+

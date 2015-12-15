@@ -1,0 +1,13 @@
+name-last: Royster
+name-first: Willie
+name-given: Willie A.
+ 
+birth-date: 1954-04-11
+birth-place: US, VA, Clarksville
+ 
+death-date: 2015-11-23
+death-place:  US, NJ, Ocean View
+ 
+cemetery-name: Calvary Baptist Cemetery
+cemetery-place: US, NJ, Ocean View
+ 

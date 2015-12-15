@@ -1,0 +1,16 @@
+name-last: Hodson
+name-first: Carl
+name-given: Carl Dean
+ 
+birth-date: 1931-01-13
+birth-place: US, IL, Milan
+ 
+death-date: 2015-11-17
+death-place:  US, IL, Moline
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Rock Island Memorial Park Cemetery
+cemetery-place: US, IL, Rock Island

@@ -1,0 +1,8 @@
+source-title: Cincinnati Enquirer
+source-date: 2015-11-13
+source-url: http://www.cincinnati.com/story/sports/mlb/reds/2015/11/13/longtime-reds-scout-jeff-barton-dead-50/75701346/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-13

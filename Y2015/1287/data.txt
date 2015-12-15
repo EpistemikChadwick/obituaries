@@ -1,0 +1,16 @@
+name-last: Moran
+name-first: Ed
+name-given: Edwin
+name-nick: Biggie
+ 
+birth-date: 1928-06-04
+birth-place: US, NY, Harrison
+ 
+death-date: 2015-11-16
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: St. Peter’s Cemetery
+cemetery-place: US, NY, Poughkeepsie

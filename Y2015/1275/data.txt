@@ -1,0 +1,12 @@
+name-last: Bronk
+name-first: Frank
+name-given: Francis Leonard
+ 
+birth-date: 1931-07-20
+birth-place: US, WI, Custer
+ 
+death-date: 2015-11-11
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

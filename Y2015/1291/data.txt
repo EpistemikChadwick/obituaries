@@ -1,0 +1,21 @@
+name-last: Stump
+name-first: Jim
+name-given: James Gilbert
+ 
+birth-date: 1932-02-10
+birth-place: US, MI, Lansing
+ 
+death-date: 2015-11-19
+death-place:  US, MI, Lansing
+ 
+school-level: secondary
+school-name:  St. Mary Cathedral HS
+school-place: US, MI, Lansing
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Joseph Catholic Cemetery
+cemetery-place: US, MI, Lansing
+ 

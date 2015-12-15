@@ -1,0 +1,8 @@
+source-title: Tennessean
+source-date: 2015-11-15
+source-url: http://www.legacy.com/obituaries/tennessean/obituary.aspx?n=Francis-Leonard-Bronk&pid=176505118
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-16

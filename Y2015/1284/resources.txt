@@ -1,0 +1,8 @@
+source-title: Fairfield Citizen
+source-date: 2015-11-18
+source-url: http://www.legacy.com/obituaries/fairfieldcitizenonline/obituary.aspx?n=Alan-Smith&pid=176541969
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-18

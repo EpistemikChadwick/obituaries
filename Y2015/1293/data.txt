@@ -1,0 +1,8 @@
+name-last: Galvez
+name-first: Jordan
+name-matrilineal: Ortiz
+name-nick: El Prospe
+ 
+death-date: 2015-11-17
+death-place:  CO, Chocoin, Acandi
+

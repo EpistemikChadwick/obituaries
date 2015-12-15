@@ -1,0 +1,9 @@
+source-title: McKeesport Daily News
+source-date: 2015-11-23
+source-url: http://www.legacy.com/obituaries/triblive-daily-news/obituary.aspx?n=Richard-R-Shrigley&pid=176598239
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-23

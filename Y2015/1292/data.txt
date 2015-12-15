@@ -1,0 +1,13 @@
+name-last: Johnson
+name-first: Ken
+name-given: Kenneth Travis
+name-suffix: Sr.
+ 
+birth-date: 1933-06-16
+birth-place: US, FL, West Palm Beach
+ 
+death-date: 2015-11-21
+death-place:  US, LA, Pineville
+ 
+military-country: US
+military-branch:  Army

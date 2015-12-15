@@ -1,0 +1,8 @@
+source-title: Nelson-Berna Funeral Home
+source-date: 2015-11-16
+source-url: http://www.nelsonberna.com/sitemaker/sites/Nelson2/obit.cgi?user=50693316_LStuckeySr
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-16

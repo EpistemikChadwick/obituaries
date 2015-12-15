@@ -1,0 +1,8 @@
+source-title: Listindiario.com
+source-date: 2015-11-17
+source-url: http://www.listindiario.com/el-deporte/2015/11/17/396437/fallece-carmelo-castillo-exjugador-de-grandes-ligas
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-17

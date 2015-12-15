@@ -1,0 +1,17 @@
+name-last: McNeal
+name-first: Paul
+name-nick: Ears
+ 
+birth-date: 1928-01-29
+ 
+death-date: 2015-11-14
+ 
+school-level: secondary
+school-name:  Massanutten Military Academy
+school-place: US, VA, Woodstock
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Rose Hill Cemetery
+cemetery-place: US, MD, Hagerstown

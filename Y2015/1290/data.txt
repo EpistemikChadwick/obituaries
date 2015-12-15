@@ -1,0 +1,10 @@
+name-last: Nieberding
+name-first: Dick
+name-given: Richard J.
+name-suffix: Sr.
+ 
+death-date: 2015-11-19
+death-place:  US, KY, Edgewood
+ 
+military-country: US
+military-branch:  Army

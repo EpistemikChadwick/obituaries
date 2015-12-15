@@ -1,0 +1,8 @@
+source-title: Lansing State Journal
+source-date: 2015-11-22
+source-url: http://www.legacy.com/obituaries/lsj/obituary.aspx?n=James-Stump&pid=176585436
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-23

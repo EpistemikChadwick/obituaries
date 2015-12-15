@@ -1,0 +1,23 @@
+name-last: Edwards
+name-first: Bob
+name-given: James Robert
+ 
+birth-date: 1923-10-04
+birth-place: US, NC, Dallas
+ 
+death-date: 2015-11-12
+death-place:  US, SC, Greenville
+ 
+school-level: secondary
+school-name:  New Hanover HS
+school-place: US, NC, Wilmington
+ 
+school-level: college
+school-name: North Carolina State University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Greenlawn Memorial Park
+cemetery-place: US, NC, Wilmington

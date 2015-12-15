@@ -1,0 +1,8 @@
+source-title: Town Talk
+source-date: 2015-11-22
+source-url: http://www.legacy.com/obituaries/thetowntalk/obituary.aspx?n=Kenneth-Travis-Johnson&pid=176602448
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-23

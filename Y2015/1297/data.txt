@@ -1,0 +1,13 @@
+name-last: Sterrett
+name-first: Robert
+name-given: Robert J.
+ 
+birth-date: 1934-04-25
+birth-place: US, MI, Detroit
+ 
+death-date: 2015-11-17
+death-place:  US, MI, Charlevoix
+ 
+school-level: secondary
+school-name:  Wilbur Wright HS
+school-place: US, MI, Detroit
