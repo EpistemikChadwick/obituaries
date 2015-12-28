@@ -1,0 +1,13 @@
+name-last: Jonietz
+name-first: Ben
+name-given: Ben F.
+name-suffix: Jr.
+ 
+birth-date: 1938-02-14
+birth-place: US, TX, San Antonio
+ 
+death-date: 2015-11-29
+ 
+school-level: secondary
+school-name:  Central Catholic HS
+school-place: US, TX, San Antonio

@@ -1,0 +1,18 @@
+name-last: Lammers
+name-first: LaMont
+name-given: LaMont G.
+ 
+birth-date: 1930-06-05
+ 
+death-date: 2015-12-03
+death-place:  US, WI, Cedar Grove
+ 
+school-level: secondary
+school-name:  Cedar Grove HS
+school-place: US, WI, Cedar Grove
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Presbyterian Cemetery
+cemetery-place:  US, WI, Cedar Grove

@@ -1,0 +1,13 @@
+name-last: Fabris
+name-first: Bruno
+name-given: Bruno Carlo
+ 
+birth-date: 1927-08-22
+ 
+death-date: 2015-11-21
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: All Saints Catholic Cemetery and Mausoleum
+cemetery-place: US, IL, Des Plaines

@@ -1,0 +1,16 @@
+name-last: Sharpe
+name-first: Cory
+name-given: Corwin DeWayne
+ 
+birth-date: 1935-03-10
+birth-place: US, IN, Redkey
+ 
+death-date: 2015-11-28
+ 
+school-level: secondary
+school-name:  Bell HS
+school-place: US, CA, Bell
+ 
+military-country: US
+military-branch:  Marines
+ 

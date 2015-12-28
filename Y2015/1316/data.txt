@@ -1,0 +1,12 @@
+name-last: Willis
+name-first: Bob
+name-given: Robert G.
+ 
+birth-date: 1935-08-25
+birth-place: US, IL, Belvidere
+ 
+death-date: 2015-12-02
+death-place:  US, IL, Rockford
+ 
+cemetery-name: Belvidere Cemetery
+cemetery-place: US, IL, Belvidere

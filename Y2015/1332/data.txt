@@ -1,0 +1,9 @@
+name-last: Gil
+name-first: Gustavo
+ 
+birth-date: 1939
+birth-place: VE, Distrito Federal, Caracas
+ 
+death-date: 2015-12-08
+death-place:  US, AZ, Phoenix
+ 

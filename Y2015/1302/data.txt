@@ -1,0 +1,23 @@
+name-last: McDonald
+name-first: Mike
+
+name-given: Michael D.
+ 
+birth-date: 1947-01-03
+birth-place: US, IL, Pekin
+ 
+death-date: 2015-11-14
+death-place: US, IL, Peoria
+ 
+school-level: secondary
+school-name:  Pekin HS
+school-place: US, IL, Pekin
+ 
+school-level: college
+school-name: Spoon River College
+ 
+school-level: college
+school-name: Bradley University
+ 
+cemetery-name: Hirstein Cemetery
+cemetery-place: US, IL, Hirstein

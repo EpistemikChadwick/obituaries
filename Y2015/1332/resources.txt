@@ -1,0 +1,8 @@
+source-title: El Emergente
+source-date: 2015-12-08
+source-url: http://www.elemergente.com/2015/12/murio-el-gran-gustavo-gil.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-10

@@ -1,0 +1,10 @@
+name-last: Holt
+name-first: Bert
+ 
+birth-date: 1933-07-06
+birth-place: US, CA, Chico
+ 
+death-date: 2015-12-04
+ 
+school-level: college
+school-name: California State University, Fresno

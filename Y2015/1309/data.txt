@@ -1,0 +1,17 @@
+name-last: Cockroft
+name-first: Joe
+name-given: Joseph J.
+ 
+birth-date: 1936-07-27
+birth-place: US, MA, Lawrence
+ 
+death-date: 2015-11-25
+death-place: 
+ 
+school-level: secondary
+school-name:  Lawrence HS
+school-place: US, MA, Lawrence
+ 
+military-country: US
+military-branch: Army 
+ 

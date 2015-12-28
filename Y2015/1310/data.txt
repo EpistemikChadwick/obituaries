@@ -1,0 +1,16 @@
+name-last: Schmidt       
+name-first: Frank
+name-given: Frank G.
+ 
+birth-date: 1927-05-23
+birth-place: US, IL, Chicago
+ 
+death-date: 2015-11-26
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Windridge Memorial Park
+cemetery-place: US, IL, Cary
+ 

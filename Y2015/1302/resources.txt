@@ -1,0 +1,12 @@
+source-title: Journal Star
+source-date: 2015-11-15
+source-url: http://www.pjstar.com/article/20151115/SPORTS/151119544
+
+source-title: Knapp-Johnson Funeral Home
+source-date: 2015-11-18
+source-url: http://hosting-4422.tributes.com/obituary/show/Mike-D.-McDonald-103015619
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-16

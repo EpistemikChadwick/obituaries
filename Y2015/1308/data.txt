@@ -1,0 +1,20 @@
+name-last: Hritz
+name-first: George
+name-given: George Andrew
+ 
+birth-date: 1922-12-28
+birth-place: US, PA, Punxsutawney
+ 
+death-date: 2015-11-28
+death-place:  US, PA, Pittsburgh
+ 
+school-level: secondary
+school-name:  Punxsutawney HS
+school-place: US, PA, Punxsutawney
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Deer Creek Cemetery
+cemetery-place: US, PA, Cheswick

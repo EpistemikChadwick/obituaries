@@ -1,0 +1,8 @@
+source-title: Columbus Dispatch
+source-date: 2015-12-10
+source-url: http://www.legacy.com/obituaries/dispatch/obituary.aspx?n=Thomas-Charles-Byrne&pid=176829949
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-10

@@ -1,0 +1,12 @@
+name-last: Musselman
+name-first: Harry
+name-given: Harry E.
+ 
+birth-place: US, PA, Altoona
+ 
+death-date: 2015-11-27
+death-place:  US, NJ, Avenel
+ 
+school-level: secondary
+school-name:  Port Richmond HS
+school-place: US, NY, Staten Island

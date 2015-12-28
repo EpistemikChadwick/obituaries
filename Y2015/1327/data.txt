@@ -1,0 +1,14 @@
+name-last: Kaufman
+name-first: George
+name-given: George Frederick
+name-nick: Jiggs
+ 
+birth-date: 1924-10-31
+birth-place: US, MI, St. Clair Shores
+ 
+death-date: 2015-12-07
+ 
+school-level: secondary
+school-name:  Lakeview HS
+school-place: US, MI, St. Clair Shores
+ 

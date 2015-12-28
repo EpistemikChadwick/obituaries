@@ -1,0 +1,18 @@
+name-last: Tidd
+name-first: Marvin
+name-given: Marvin E.
+ 
+birth-date: 1944-02-23
+birth-place: US, IL, Oquawka
+ 
+death-date: 2015-11-29
+death-place:  US, TX, Texas City
+ 
+meta-throws: Right
+ 
+school-level: secondary
+school-name:  Rockridge HS
+school-place: US, IL, Taylor Ridge
+ 
+school-level: college
+school-name: Western Illinois University

@@ -1,0 +1,14 @@
+name-last: DeCello
+name-first: Angelo
+name-given: Angelo R.
+name-suffix: Jr.
+ 
+birth-date: 1928-08-13
+birth-place: US, PA, Duquesne
+ 
+death-date: 2015-11-27
+death-place:  US, PA, Clairton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

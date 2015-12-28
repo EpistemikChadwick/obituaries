@@ -1,0 +1,15 @@
+name-last: Schambon
+name-first: Bill
+name-given: Clarence William
+ 
+birth-date: 1925-12-10
+birth-place: US, IL, East St. Louis
+ 
+death-date: 2015-12-10
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Houston National Cemetery
+cemetery-place: US, TX, Houston

@@ -1,0 +1,8 @@
+source-title: Deming Headlight
+source-date: 2015-12-10
+source-url: http://www.legacy.com/obituaries/demingheadlight/obituary.aspx?n=Ryan-McDermott&pid=176830568
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-10

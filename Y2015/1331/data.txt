@@ -1,0 +1,16 @@
+name-last: Hartz
+name-first: Chappie
+name-given: Charles F.
+ 
+birth-date: 1931-02-24
+birth-place: US, PA, Connellsville
+ 
+death-date: 2015-12-09
+death-place:  US, PA, Connellsville
+ 
+school-level: secondary
+school-name:  Connellsville HS
+school-place: US, PA, Connellsville
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, PA, Connellsville

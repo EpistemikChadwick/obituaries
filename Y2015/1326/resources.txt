@@ -1,0 +1,8 @@
+source-title: StamfordAdvocate
+source-date: 2015-12-10
+source-url: http://www.legacy.com/obituaries/stamfordadvocate/obituary.aspx?n=Nicholas-DeMaio&pid=176813365
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-10

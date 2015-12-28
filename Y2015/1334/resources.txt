@@ -1,0 +1,8 @@
+source-title: El Dia
+source-date: 2015-12-10
+source-url: http://eldia.com.do/fallece-exlanzador-ramon-pintacora-de-los-santos/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-10

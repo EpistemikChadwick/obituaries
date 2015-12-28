@@ -1,0 +1,9 @@
+name-last: Mazzola
+name-first: James
+name-given: James Joseph
+ 
+birth-date: 1931-09-05
+birth-place: US, MI, Detroit
+ 
+death-date: 2015-11-23
+death-place:  US, FL, Sebring

@@ -1,0 +1,17 @@
+name-last: Postolese
+name-first: Frederick
+name-given: Frederick J.
+ 
+birth-date: 1924-07-04
+birth-place: US, NY, Buffalo
+ 
+death-date: 2015-12-07
+death-place:  US, NY, Cheektowaga
+ 
+school-level: secondary
+school-name:  Kensington HS
+school-place: US, NY, Buffalo
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

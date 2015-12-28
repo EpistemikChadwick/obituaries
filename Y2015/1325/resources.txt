@@ -1,0 +1,8 @@
+source-title: Visalia Times-Delta
+source-date: 2015-12-08
+source-url: http://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=Bert-Holt&pid=176803525
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-08

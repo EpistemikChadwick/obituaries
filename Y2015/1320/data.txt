@@ -1,0 +1,14 @@
+name-last: Pena
+name-first: Ricky
+name-given: Richard
+ 
+birth-date: 1955-02-02
+ 
+death-date: 2015-12-02
+ 
+school-level: secondary
+school-name:  Brackenridge HS
+school-place: US, TX, San Antonio
+ 
+school-level: college
+school-name: University of Texas-Pan American

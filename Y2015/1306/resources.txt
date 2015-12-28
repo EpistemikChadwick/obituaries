@@ -1,0 +1,8 @@
+source-title: Pittsburgh Tribune Review
+source-date: 2015-11-28
+source-url: http://www.legacy.com/obituaries/triblive-pittsburgh-tribune-review/obituary.aspx?n=Angelo-R-DeCello&pid=176683293
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-28

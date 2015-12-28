@@ -1,0 +1,21 @@
+name-last: DeMaio
+name-first: Nick
+name-given: Nicholas M.
+name-suffix: Jr.
+ 
+birth-date: 1931-09-14
+birth-place: US, CT, Stamford
+ 
+death-date: 2015-12-06
+ 
+school-level: secondary
+school-name:  J. M. Wright Technical HS
+school-place: US, CT, Stamford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. John Cemetery
+cemetery-place: US, CT, Darien
+ 

@@ -1,0 +1,8 @@
+source-title: Eugene Register-Guard
+source-date: 2015-12-10
+source-url: http://www.legacy.com/obituaries/registerguard/obituary.aspx?n=Robert-Reaves&pid=176832544
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-10

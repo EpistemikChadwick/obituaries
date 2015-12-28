@@ -1,0 +1,11 @@
+name-last: Ostrom
+name-first: Billy
+name-given: William George
+ 
+birth-date: 1920-03-07
+ 
+death-date: 2015-12-03
+ 
+cemetery-name: St. Peter's Cemetery
+cemetery-place: US, NY, Poughkeepsie
+ 

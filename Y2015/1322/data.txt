@@ -1,0 +1,20 @@
+name-last: Nieters
+name-first: George
+name-given: George Henry
+ 
+birth-date: 1921-12-13
+birth-place: US, MO, St. Louis
+ 
+death-date: 2015-11-27
+death-place:  US, IA, Monticello
+ 
+school-level: secondary
+school-name:  Beaumont HS
+school-place: US, MO, St. Louis
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Oakwood Cemetery
+cemetery-place: US, IA, Monticello

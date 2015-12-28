@@ -1,0 +1,11 @@
+name-last: Nickell
+name-first: Paul
+name-given: Paul Dean
+ 
+birth-date: 1935-09-25
+birth-place: US, IL, Alton
+ 
+death-date: 2015-11-28
+ 
+school-level: college
+school-name: Erskine College

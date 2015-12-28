@@ -1,0 +1,16 @@
+name-last: Abnet
+name-first: Jerry
+name-given: Jerry F.
+ 
+birth-date: 1937-08-31
+birth-place: US, MI, Kalamazoo
+ 
+death-date: 2015-11-17
+death-place:  US, MI, Kalamazoo
+ 
+school-level: secondary
+school-name:  Paw Paw HS
+school-place: US, MI, Paw Paw
+ 
+school-level: college
+school-name: Western Michigan University

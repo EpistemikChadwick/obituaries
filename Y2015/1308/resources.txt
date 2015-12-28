@@ -1,0 +1,8 @@
+source-title: Pittsburgh Tribune Review
+source-date: 2015-11-29
+source-url: http://www.legacy.com/obituaries/triblive-pittsburgh-tribune-review/obituary.aspx?n=George-A-Hritz&pid=176692997
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-11-29

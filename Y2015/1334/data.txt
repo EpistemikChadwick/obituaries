@@ -1,0 +1,12 @@
+name-last: de los Santos
+name-first: Ramon
+name-nick: Pintacora
+ 
+birth-date: 1949-01-19
+birth-place: DO, Distrito Nacional, Santo Domingo
+ 
+death-date: 2015-11-29
+death-place:  DO, Distrito Nacional, Santo Domingo
+ 
+meta-throws: Left
+ 

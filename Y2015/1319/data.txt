@@ -1,0 +1,11 @@
+name-last: Drake
+name-first: Bill
+name-given: William V.
+ 
+birth-date: 1930-07-22
+ 
+death-date: 2015-11-25
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

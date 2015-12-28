@@ -1,0 +1,12 @@
+name-last: McDermott
+name-first: Ryan
+name-given: Ryan Patrick
+ 
+birth-date: 1978-06-28
+birth-place: US, NM, Alamogordo
+ 
+death-date: 2015-12-06
+ 
+school-level: secondary
+school-name:  Alamogordo HS
+school-place: US, NM, Alamogordo

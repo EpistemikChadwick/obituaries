@@ -1,0 +1,17 @@
+name-last: Byrne
+name-first: Tom
+name-given: Thomas Charles
+name-suffix: Sr.
+ 
+birth-date: 1926-11-29
+birth-place: US, OH, Cleveland
+ 
+death-date: 2015-12-08
+death-place:  US, KY, Wilmore
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, OH, Lewis Center

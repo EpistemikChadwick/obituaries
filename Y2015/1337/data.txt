@@ -1,0 +1,16 @@
+name-last: Escobar
+name-first: Rudy
+name-given: Rudy V.
+ 
+birth-date: 1927-11-30
+birth-place: US, TX, Ben Bolt
+ 
+death-date: 2015-12-08
+death-place:  US, IL, Decatur
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Macon County Memorial Park
+cemetery-place: US, IL, Decatur

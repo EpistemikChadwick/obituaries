@@ -1,0 +1,13 @@
+name-last: Land
+name-first: Harry
+name-given: Harry Melton
+name-suffix: Sr.
+ 
+birth-date: 1922-05-18
+ 
+death-date: 2015-12-02
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

@@ -1,0 +1,8 @@
+source-title: QCOnline
+source-date: 2015-12-03
+source-url: http://www.qconline.com/obituaries/marvin-tidd/article_f0e2ca98-fdcf-57d5-bfcd-2525cb2f0407.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-07

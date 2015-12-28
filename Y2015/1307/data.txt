@@ -1,0 +1,24 @@
+name-last: Soskovic
+name-first: Joe
+ 
+alias-type: birth
+alias-last: Szostkiewicz
+alias-first: Joe
+alias-given: Joseph P.
+ 
+birth-date: 1925-11-04
+birth-place: US, MA, Holyoke
+ 
+death-date: 2015-11-26
+death-place:  US, MA, Springfield
+ 
+school-level: secondary
+school-name:  Holyoke HS
+school-place: US, MA, Holyoke
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Mater Dolorosa Cemetery
+cemetery-place: US, MA, South Hadley

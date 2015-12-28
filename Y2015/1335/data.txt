@@ -1,0 +1,13 @@
+name-last: McGee
+name-first: Bud
+name-given: James Neal
+ 
+birth-date: 1933-11-12
+birth-place: US, CA, Exeter
+ 
+death-date: 2015-12-04
+death-place:  US, CA, Yuba City
+ 
+cemetery-name: Sunset View Cemetery
+cemetery-place: US, CA, El Cerrito
+ 
