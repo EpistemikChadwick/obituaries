@@ -1,0 +1,19 @@
+name-last: Levine
+name-first: Kirk
+name-given: Kirk Phillip
+ 
+birth-date: 1954-02-05
+birth-place: US, IA, Atlantic
+ 
+death-date: 2015-12-16
+ 
+school-level: secondary
+school-name:  Creston HS
+school-place: US, IA, Creston
+ 
+school-level: college
+school-name: Southwestern Community College
+school-place: US, IA, Creston
+ 
+cemetery-name: Graceland Cemetery
+cemetery-place: US, IA, Creston

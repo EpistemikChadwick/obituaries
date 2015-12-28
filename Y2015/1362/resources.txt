@@ -1,0 +1,12 @@
+source-title: Albany Herald
+source-date: 2015-12-27
+source-url: http://www.albanyherald.com/news/local/bobby-dews-dies-at-the-age-of/article_895948ec-5cf2-566a-996b-7b6233c7b31b.html
+ 
+source-title: Kimbrell-Stern Funeral Directors
+source-date: 2015-12-28
+source-url: http://www.kimbrellstern.com/obituaries/Robert-Dews/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-28

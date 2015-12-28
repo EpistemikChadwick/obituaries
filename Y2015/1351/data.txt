@@ -1,0 +1,10 @@
+name-last: Mauldin
+name-first: Hunkey
+name-given: Richard
+
+birth-date: 1942
+ 
+death-date: 2015-12-08
+death-place:  US, GA, Canton
+ 
+meta-throws: Right

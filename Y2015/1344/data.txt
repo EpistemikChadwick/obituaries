@@ -1,0 +1,19 @@
+name-last: Williams
+name-first: Ronald
+name-given: Ronald J.
+ 
+birth-date: 1932-05-06
+ 
+death-date: 2015-12-16
+death-place:  US, MI, Rochester
+ 
+school-level: secondary
+school-name:  Detroit Catholic Central HS
+school-place: US, MI, Novi
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, MI, Southfield

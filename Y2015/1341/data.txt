@@ -1,0 +1,14 @@
+name-last: Theodosis
+name-first: Harry
+name-given: Harry Lee
+ 
+birth-date: 1931
+birth-place: US, IN, Gary
+ 
+death-date: 2015-11-27
+death-place:  US, TX, Sherman
+ 
+school-level: secondary
+school-name:  Torrance HS
+school-place: US, CA, Torrance
+ 

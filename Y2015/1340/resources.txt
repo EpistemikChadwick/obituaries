@@ -1,0 +1,8 @@
+source-title: Stuff.Co.NZ
+source-date: 2015-12-16
+source-url: http://www.stuff.co.nz/sport/other-sports/75197469/new-zealand-baseball-player-lincoln-holdzkom-killed-in-car-accident-in-usa
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-17

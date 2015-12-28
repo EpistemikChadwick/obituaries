@@ -1,0 +1,9 @@
+name-last: Holdzkom
+name-first: Lincoln
+ 
+death-date: 2015-12-13
+death-place:  US, CA, Pomona
+ 
+school-level: college
+school-name: Arizona Western College
+ 

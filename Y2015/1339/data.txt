@@ -1,0 +1,12 @@
+name-last: Henderson
+name-first: Phil
+name-given: Philip
+ 
+birth-date: 1944-07-18
+birth-place: US, MO, Springfield
+ 
+death-date: 2015-12-15
+death-place:  US, AR, Little Rock
+ 
+cemetery-name: Rivermonte Memorial Gardens
+cemetery-place: US, MO, Springfield

@@ -1,0 +1,16 @@
+name-last: Conaway
+name-first: Gene
+name-given: Gene Raymond
+ 
+birth-date: 1941-12-08
+birth-place:  US, LA, New Orleans
+ 
+death-date: 2015-12-11
+death-place:  US, LA, Covington
+ 
+school-level: secondary
+school-name:  Nicholls HS
+school-place: US, LA, New Orleans
+ 
+cemetery-name: Pinecrest Memorial Gardens & Crematory
+cemetery-place: US, LA, Covington

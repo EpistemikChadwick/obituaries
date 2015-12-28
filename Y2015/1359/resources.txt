@@ -1,0 +1,8 @@
+source-title: San Diego Union Tribune
+source-date: 2015-12-27
+source-url: http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=George-Robert-Roxburgh&pid=177038460
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-27

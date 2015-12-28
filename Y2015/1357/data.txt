@@ -1,0 +1,16 @@
+name-last: Rogas
+name-first: Clint
+name-given: Clint Alvin
+name-suffix: Sr.
+ 
+birth-date: 1930-08-21
+birth-place: US, TX, Travis County
+ 
+death-date: 2015-12-18
+ 
+school-level: secondary
+school-name:  Round Rock HS
+school-place: US, TX, Round Rock
+ 
+cemetery-name: Cook-Walden Capital Parks Cemetery and Mausoleum
+cemetery-place: US, TX, Austin

@@ -1,0 +1,8 @@
+source-title: Pittsburgh Post-Gazette
+source-date: 2015-12-23
+source-url: http://www.post-gazette.com/sports/steelers/2015/12/23/Ray-Mathews-a-Steelers-Legend-of-the-1950s-dies/stories/201512230170
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-23

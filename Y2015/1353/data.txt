@@ -1,0 +1,22 @@
+name-last: Brown
+name-first: Hal
+name-given: Hector Harold
+name-nick: Skinny
+ 
+birth-date: 1924-12-11
+birth-place: US, NC, Greensboro
+ 
+death-date: 2015-12-17
+death-place:  US, NC, Greensboro
+
+school-level: secondary
+school-name:  Greensboro HS
+school-place: US, NC, Greensboro
+ 
+school-level: college
+school-name: University of North Carolina
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

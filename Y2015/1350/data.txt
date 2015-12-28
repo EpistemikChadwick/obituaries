@@ -1,0 +1,13 @@
+name-last: Brink
+name-first: Doc
+name-given: Richard A.
+ 
+birth-date: 1936-01-29
+birth-place: US, IA, Cedar Rapids
+ 
+death-date: 2015-12-17
+death-place:  US, CT, Hartford
+ 
+school-level: college
+school-name: Iowa State University
+

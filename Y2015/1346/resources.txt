@@ -1,0 +1,8 @@
+source-title:  Pearson Funeral Home
+source-date: 2015-12-21
+source-url: http://www.pearsonfuneralhomes.com/obituaries/obituary-listings?obId=689923#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-21

@@ -1,0 +1,24 @@
+name-last: Gilbert
+name-first: Jack
+name-given: Jack Holt
+ 
+birth-date: 1928-08-02
+birth-place: US, GA, Dexter
+ 
+death-date: 2015-12-17
+death-place:  US, GA, Macon
+ 
+school-level: secondary
+school-name:  Dexter HS
+school-place: US, GA, Dexter
+ 
+school-level: college
+school-name: Georgia Military College
+school-place: US, GA, Milledgeville
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Riverside Cemetery
+cemetery-place: US, GA, Macon
+ 

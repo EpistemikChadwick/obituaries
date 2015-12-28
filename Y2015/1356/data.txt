@@ -1,0 +1,13 @@
+name-last: Burpo
+name-first: George
+name-given: George H.
+ 
+birth-date: 1922-06-19
+birth-place: US, KY, Jenkins
+ 
+death-date: 2015-12-20
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 

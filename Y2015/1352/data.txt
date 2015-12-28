@@ -1,0 +1,19 @@
+name-last: Hampton
+name-first: Clyde
+name-given: Richard Clyde
+ 
+birth-date: 1939-01-21
+birth-place: US, LA, Haynesville
+ 
+death-date: 2015-12-02
+ 
+school-level: secondary
+school-name:  Manual HS
+school-place: US, CO, Denver
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, AR, Hot Springs

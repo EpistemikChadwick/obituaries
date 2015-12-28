@@ -1,0 +1,17 @@
+name-last: Dews
+name-first: Bobby
+name-given: Robert Walter
+ 
+birth-date: 1939-03-23
+birth-place: US, IA, Clinton
+ 
+death-date: 2015-12-26
+death-place:  US, GA, Albany
+ 
+school-level: secondary
+school-name:  Edison HS
+school-place: US, GA, Edison
+ 
+school-level: college
+school-name: Georgia Institute of Technology
+

@@ -1,0 +1,12 @@
+name-last: DeHart
+name-first: Richard
+name-given: Richard Martin
+ 
+birth-date: 1934-03-22
+birth-place: US, MI, Pontiac
+ 
+death-date: 2015-11-28
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

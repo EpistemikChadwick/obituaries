@@ -1,0 +1,14 @@
+name-last: Beeson
+name-first: Hillard
+name-given: Hillard Franklin
+ 
+birth-date: 1929-11-22
+ 
+death-date: 2015-11-13
+ 
+school-level: secondary
+school-name:  Bell HS
+school-place: US, CA, Bell
+ 
+military-country: US
+military-conflict:  Korean War

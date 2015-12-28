@@ -1,0 +1,8 @@
+source-title: Express Times
+source-date: 2015-12-28
+source-url: http://obits.lehighvalleylive.com/obituaries/etpa/obituary.aspx?n=Donald-J-VanNest&pid=177046873
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-28

@@ -1,0 +1,14 @@
+name-last: Landeck
+name-first: Arnold
+name-given: Arnold Andres
+ 
+birth-date: 1925-05-17
+birth-place: US, IL, Blue Island
+ 
+death-date: 2015-12-16
+death-place:  US, IL, Danforth
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

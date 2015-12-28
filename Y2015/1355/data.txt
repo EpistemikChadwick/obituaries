@@ -1,0 +1,9 @@
+name-last: Hernandez
+name-first: Evelio
+name-given: Gregorio Evelio
+
+birth-date: 1930-12-24
+birth-place: CU, La Habana, Guanabacoa
+ 
+death-date: 2015-12-18
+death-place: US, FL, Miami

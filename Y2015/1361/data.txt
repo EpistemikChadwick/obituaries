@@ -1,0 +1,15 @@
+name-last: Van Nest
+name-first: Donald
+name-given: Donald James
+ 
+birth-date: 1927-10-02
+birth-place: US, NJ, High Bridge
+ 
+death-date: 2015-12-24
+death-place:  US, NJ, Flemington
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, NJ, Clinton

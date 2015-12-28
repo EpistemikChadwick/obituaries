@@ -1,0 +1,10 @@
+source-title: CFCS Detroit
+source-date: 2015-12-21
+source-url: http://cfcsdetroit.org/obituaries/ronald-j-williams/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-21
+ 
+ 

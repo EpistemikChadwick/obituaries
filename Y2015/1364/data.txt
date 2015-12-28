@@ -1,0 +1,22 @@
+name-last: James
+name-first: Overton
+ 
+alias-type: birth
+alias-last: Itoahtubbi
+ 
+birth-date: 1925-07-21
+birth-place: US, OK, Bromide
+ 
+death-date: 2015-09-16
+ 
+school-level: secondary
+school-name:  Wapanucka HS
+school-place: US, OK, Wapanucka
+ 
+school-level: college
+school-name: Southeastern Oklahoma State University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 

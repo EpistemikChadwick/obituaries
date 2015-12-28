@@ -1,0 +1,12 @@
+source-title: Omaha.com
+source-date: 2015-12-21
+source-url: http://www.omaha.com/news/metro/don-meier-was-baseball-aficionado-storyteller-did-you-hear-about/article_df26138d-7199-59a0-a64a-94de144671e7.html
+
+source-title: HHDC Funeral Home
+source-date: 2015-12-21
+source-url: http://www.heafeyheafey.com/newobituary/display.asp?id=10447
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-21

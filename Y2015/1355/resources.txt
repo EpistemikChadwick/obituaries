@@ -1,0 +1,12 @@
+source-title: DignityMemorial.com
+source-date: 2015-12-23
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Gregorio-Hernandez&lc=9550&pid=176959498&uuid=1a40afaa-48f1-4eda-a9f3-7313c93fba33
+
+source-title: Examiner.com
+source-date: 2015-12-19
+source-url: http://www.examiner.com/article/evelio-hernandez-83-cuban-pitcher-for-the-washington-senators
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-23

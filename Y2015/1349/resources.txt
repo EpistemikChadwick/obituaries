@@ -1,0 +1,8 @@
+source-title: Times-Picayune
+source-date: 2015-12-23
+source-url: http://obits.nola.com/obituaries/nola/obituary.aspx?n=Emmanuel-Floyd-Spann-Tookie&pid=176991007
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-23

@@ -1,0 +1,8 @@
+source-title: Chickasaw Times
+source-date: 2015-12-28
+source-url: http://www.chickasawtimes.net/Web-Exclusives/Archive/2015/October/%E2%80%98Visionary-leader,-irreplaceable-friend%E2%80%99-Governor.aspx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-28

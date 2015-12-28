@@ -1,0 +1,12 @@
+source-title: South Canton Funeral Home
+source-date: 2015-12-23
+source-url: http://www.thesouthcantonfuneralhome.com/book-of-memories/2309442/Mauldin-Richard/obituary.php
+
+source-title: Cherokee Ledger-News
+source-date: 2015-12-16
+source-url: http://www.ledgernews.com/news/top_stories/local-community-sports-advocate-dies-at/article_1df2d3d2-a34b-11e5-b76e-479dcfc021df.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-23

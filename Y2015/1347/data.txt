@@ -1,0 +1,19 @@
+name-last: Meier
+name-first: Don
+name-given: Joseph
+ 
+birth-date: 1925-05-10
+ 
+death-date: 2015-12-11
+
+school-level: secondary
+school-name:  Omaha South HS
+school-place: US, NE, Omaha
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, NE, Omaha
+ 

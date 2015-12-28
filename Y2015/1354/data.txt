@@ -1,0 +1,12 @@
+name-last: Mathews
+name-first: Ray
+ 
+death-date: 2015-12-20
+death-place:  US, PA, Marion
+ 
+school-level: secondary
+school-name:  McKeesport HS
+school-place: US, PA, McKeesport
+ 
+school-level: college
+school-name: Clemson University

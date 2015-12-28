@@ -1,0 +1,14 @@
+name-last: Draughon
+name-first: Allen
+name-given: Allen Wells
+ 
+birth-place: US, NC, Warsaw
+ 
+death-date: 2015-12-24
+death-place:  US, NC, Warsaw
+ 
+school-level: college
+school-name:  Presbyterian College
+ 
+cemetery-name:  Pinecrest Cemetery
+cemetery-place:  US, NC, Warsaw

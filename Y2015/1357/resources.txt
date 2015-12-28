@@ -1,0 +1,8 @@
+source-title: All Faiths Funeral Home
+source-date: 2015-12-25
+source-url: https://www.meaningfulfunerals.net/home/index.cfm?action=public:obituaries.view&o_id=3533298&fh_id=14160
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-25

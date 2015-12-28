@@ -1,0 +1,8 @@
+source-title: Bradenton Herald
+source-date: 2015-12-28
+source-url: http://www.bradenton.com/sports/college/article51750205.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-28

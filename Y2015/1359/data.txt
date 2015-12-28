@@ -1,0 +1,16 @@
+name-last: Roxburgh
+name-first: Bob
+name-given: George Robert
+ 
+birth-date: 1921-11-06
+birth-place: US, CA, San Diego
+ 
+death-date: 2015-12-15
+ 
+school-level: secondary
+school-name:  San Diego HS
+school-place: US, CA, San Diego
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

@@ -1,0 +1,17 @@
+name-last: Spann
+name-first: Tookie
+name-given: Emmanuel Floyd
+name-suffix: Jr.
+ 
+death-date: 2015-12-16
+death-place:  US, LA, Jackson
+ 
+school-level: secondary
+school-name:  Brother Martin HS
+school-place: US, LA, New Orleans
+ 
+school-level: college
+school-name: Tulane University
+ 
+cemetery-name: Mt. Olivet Cemetery
+cemetery-place: US, LA, New Orleans
