@@ -1,0 +1,8 @@
+name-last: Schwartz
+name-given: Charles
+ 
+birth-place: RO, ,
+ 
+death-date: 1936-07-04
+death-place:  US, WA, Seattle
+ 

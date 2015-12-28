@@ -1,0 +1,19 @@
+name-last: Petrzelka
+name-first: Ray
+name-given: Raymond John
+ 
+birth-date: 1927-12-02
+birth-place: US, IA, Cedar Rapids
+ 
+death-date: 2011-07-02
+death-place: US, IA, Cedar Rapids
+ 
+school-level: secondary
+school-name:  Roosevelt HS
+school-place: US, IA, Cedar Rapids
+ 
+school-level: college
+school-name: Notre Dame University
+ 
+cemetery-name: Czech National Cemetery
+cemetery-place: US, IA, Cedar Rapids

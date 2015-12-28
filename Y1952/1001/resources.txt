@@ -1,0 +1,8 @@
+source-title: Drinkwater obit
+source-file-name: Drinkwater obit – Humboldt Times – 19521109.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-10-30

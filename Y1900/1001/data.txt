@@ -1,0 +1,5 @@
+name-last: Pequinney
+name-first: Frank
+ 
+death-date: 1900-10-29
+death-place:  US, TX, Galveston

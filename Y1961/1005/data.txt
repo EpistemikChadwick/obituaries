@@ -1,0 +1,11 @@
+name-last: Wetzel     
+name-first: Buzz
+name-given: Henry B.
+ 
+birth-date: 1882-02-18
+ 
+death-date: 1961-04-04
+death-place:  US, OH, Columbus
+ 
+cemetery-name: Union Cemetery
+cemetery-place: US, OH, Columbus

@@ -1,0 +1,6 @@
+name-last: Drinkwater
+name-first: Vianello
+name-given: Vianello G. R.
+ 
+death-date: 1952-10-19
+death-place:  US, WA, Yakima

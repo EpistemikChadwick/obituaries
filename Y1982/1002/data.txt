@@ -1,0 +1,12 @@
+name-last: Matthews
+name-first: Frank
+name-given: Frank E.
+name-nick: Matty
+ 
+birth-place: US, IL, Chicago
+ 
+death-date: 1982-10-25
+death-place: US, IN, Evansville
+ 
+cemetery-name: St. Joseph Catholic Cemetery
+cemetery-place: US, IN, Evansville

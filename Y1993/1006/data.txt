@@ -1,0 +1,17 @@
+name-last: Koval
+name-first: John
+name-given: John Joseph
+name-suffix: Jr.
+ 
+birth-date: 1897-05-30
+birth-place: US, IL, Mt. Olive
+ 
+death-date: 1993-08-18
+death-place:  US, IL, Litchfield
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War I
+ 
+cemetery-name: Holy Trinity Cemetery
+cemetery-place: US, IL, Mt. Olive

@@ -1,0 +1,7 @@
+name-last: Florcyk
+name-first: Gene
+ 
+birth-place: US, NY, Yonkers
+ 
+death-date: 1979-04-28
+death-place:  CA, ON, London

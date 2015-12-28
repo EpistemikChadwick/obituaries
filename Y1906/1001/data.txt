@@ -1,0 +1,5 @@
+name-last: Balsz
+name-first: Louis
+ 
+death-date: 1906-02-18
+death-place:  US, CA, Santa Cruz

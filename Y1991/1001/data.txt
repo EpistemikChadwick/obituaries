@@ -1,0 +1,16 @@
+name-last: Clark
+name-first: William
+name-given: William T.
+ 
+birth-date: 1901-08-10
+birth-place: US, NY, Buffalo
+ 
+death-date: 1991-03-15
+death-place:  US, NY, Boonville
+ 
+school-level: secondary
+school-name:  South Park HS
+school-place: US, NY, Buffalo
+ 
+school-level: college
+school-name: University at Buffalo, State University of New York

@@ -1,4 +1,6 @@
 entry_key,person_key,name_last,name_first,name_given,birth_date,death_date
+Y1900/1001,,Pequinney,Frank,,,1900-10-29
+Y1906/1001,,Balsz,Louis,,,1906-02-18
 Y1907/1001,,Briskey,,Joseph L.,,1907-09-01
 Y1917/1001,,James,William,William A.,,1917-08-02
 Y1918/1001,,Love,Jack,,,
@@ -9,9 +11,11 @@ Y1927/1001,,Crosby,Willie,Willie Lee,,1927-02-11
 Y1929/1001,,Frazee,Donald,George Donald,,1929-01-24
 Y1932/1001,,Mills,Samuel,Samuel W.,,1932-12-17
 Y1934/1001,,Pollan,Wayne,,,1934-06-10
+Y1936/1001,,Schwartz,,Charles,,1936-07-04
 Y1937/1001,,Greenwell,John,,,1937-02-14
 Y1938/1001,,Marhefka,Tony,Anthony T.,,1938-05-19
 Y1939/1001,,Harkins,,Charles F.,,1939-03-15
+Y1939/1002,,McMillan,,Thomas Sanders,,1939-10-02
 Y1940/1001,,Gibson,,James Clyde,,1940-11-07
 Y1941/1001,,Clark,Charles,Charles S.,,1941-01-04
 Y1941/1002,,Sullivan,George,,,1941-03-09
@@ -27,6 +31,7 @@ Y1950/1002,,Rhoads,Elton,Elton E.,1885-08-02,1950-10-17
 Y1950/1003,,Van Dresser,William,,,1950-09-13
 Y1951/1001,,Murphy,James,James Albert,1924-02-22,1951-09-30
 Y1951/1002,,Hallman,Richard Francis,,,1951-04-12
+Y1952/1001,,Drinkwater,Vianello,Vianello G. R.,,1952-10-19
 Y1953/1001,,Lamb,David,David Edwin,,1953-08-02
 Y1953/1002,,Robb,Clay,Clay Ellsworth,,1953-12-29
 Y1954/1001,,Poindexter,Dee,,,1954-12-09
@@ -44,6 +49,7 @@ Y1961/1001,,Sanders,Malone,,,1961-01-27
 Y1961/1002,,Hendrix,Luke,,,1961-12-30
 Y1961/1003,,Smith,Edwin,Edwin F.,1923-09-19,1961-10-05
 Y1961/1004,,Titlow,Frank,William Franklin,,1961-05-12
+Y1961/1005,,Wetzel,Buzz,Henry B.,1882-02-18,1961-04-04
 Y1962/1001,,Dwyer,Ray,,,1962-10-10
 Y1963/1001,,Ransom,Julian,,1886-12-24,1963-01-07
 Y1963/1002,,South,George,,,1963-02-09
@@ -80,7 +86,9 @@ Y1979/1001,,Meyers,Otto,,,1979-09-16
 Y1979/1002,,Edmunds,Merle,,1891-05-17,1979-02-19
 Y1979/1003,,Vilk,Joe,Joseph Albert,,1979-07-15
 Y1979/1004,,Jankow,James,James B.,1945-07-28,1979-06-18
+Y1979/1005,,Florcyk,Gene,,,1979-04-28
 Y1982/1001,,Novotney,Clarence,Clarence F.,1921-01-04,1982-07-07
+Y1982/1002,,Matthews,Frank,Frank E.,,1982-10-25
 Y1984/1001,,Lepine,Louis,Louis A.,,1984-09-23
 Y1984/1002,,Souza,George,George J.,,1984-06-09
 Y1984/1003,,Savin,Henry,Henry S.,,1984-04-27
@@ -92,6 +100,7 @@ Y1986/1001,,Kunes,Blaine,Blaine W.,1905-02-07,1986-08-21
 Y1986/1002,,Stalcup,Pete,Marion,,1986-01-06
 Y1987/1001,,Martinez,Raymond,Raymond Simon,1926-02-18,1987-07-30
 Y1987/1002,,Dumler,Carl,,,1987-07-06
+Y1991/1001,,Clark,William,William T.,1901-08-10,1991-03-15
 Y1992/1001,,Zimmerman,Robert,Robert C.,,1992-07-13
 Y1992/1002,,Lash,Francis,Francis V.,,1992-07-13
 Y1993/1001,,Perry,Robert,Robert Donald,1926-07-05,1993-10-27
@@ -99,6 +108,7 @@ Y1993/1002,,Stanton,Frank,Frank D.,1914-08-01,1993-12-22
 Y1993/1003,,Herlihy,Ronald,Ronald J.,1955-06-15,1993-06-24
 Y1993/1004,,Moss,Darvin,Darvin Glenn,1935-07-29,1993-03-31
 Y1993/1005,,Szewczyk,Walter,Walter S.,1916-10-17,1993-05-12
+Y1993/1006,,Koval,John,John Joseph,1897-05-30,1993-08-18
 Y1994/1001,,Brown,Charles,Charles T.,1921-05-30,1994-03-17
 Y1994/1002,,Huber,Raymond,Raymond S.,1919-02-27,1994-03-11
 Y1994/1003,,Long,Howard,Howard Tunnell,1905-09-11,1994-04-09
@@ -170,6 +180,8 @@ Y2007/1001,,Vidnovic,Nick,,1915-03-13,2007-05-02
 Y2007/1002,,Dobberstein,Arthur,Arthur W.,1923-01-25,2007-05-12
 Y2010/1001,,Callahan,Dan,,1958-09-11,2010-11-15
 Y2011/1010,,Wadewitz,Ozzie,Oswin A.,,2011-10-17
+Y2011/1011,,Helwig,Jake,Kenneth Gary,1924-06-04,2011-09-19
+Y2011/1012,,Petrzelka,Ray,Raymond John,1927-12-02,2011-07-02
 Y2012/1001,,Smith,,Richard A.,,2012-02-19
 Y2013/1001,,Bartle,,Richard Stephen,1926-01-01,2013-02-03
 Y2013/1002,,Metz,John,John Howard,1919,2013-09-24

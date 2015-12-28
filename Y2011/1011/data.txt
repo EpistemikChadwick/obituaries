@@ -1,0 +1,16 @@
+name-last: Helwig
+name-first: Jake
+name-given: Kenneth Gary
+ 
+birth-date: 1924-06-04
+birth-place: US, KY, Jefferson County
+ 
+death-date: 2011-09-19
+death-place:  US, KY, Owensboro
+ 
+military-country: US
+military-branch:  Marine
+military-conflict:  World War II
+ 
+cemetery-name: Owensboro Memorial Gardens
+cemetery-place: US, KY, Owensboro

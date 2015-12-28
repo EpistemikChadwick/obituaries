@@ -1,0 +1,15 @@
+name-last: McMillan
+name-given: Thomas Sanders
+ 
+death-date: 1939-10-02
+death-place:  US, SC, Charleston
+ 
+school-level: secondary
+school-name:  Orangeburg Collegiate Institute
+school-place: US, SC, Orangeburg
+ 
+school-level: college
+school-name: University of South Carolina
+ 
+cemetery-name: Magnolia Cemetery
+cemetery-place: US, SC, Charleston
