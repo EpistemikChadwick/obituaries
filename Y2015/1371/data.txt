@@ -1,0 +1,6 @@
+name-last: Liriano
+name-first: Victor
+name-nick: Vitico
+ 
+death-date: 2015-06-20
+death-place:  DO, San Cristobal, San Cristobal

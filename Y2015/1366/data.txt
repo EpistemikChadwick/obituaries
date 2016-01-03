@@ -1,0 +1,8 @@
+name-last: O’Toole
+name-first: Jim
+name-given: James J.
+ 
+birth-date: 1937-01-10
+ 
+death-date: 2015-12-26
+death-place: US, OH, Cincinnati

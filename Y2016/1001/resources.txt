@@ -1,0 +1,8 @@
+source-title: York Daily Record
+source-date: 2016-01-03
+source-url: http://www.legacy.com/obituaries/york/obituary.aspx?n=James-Drummer&pid=177118909
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-03

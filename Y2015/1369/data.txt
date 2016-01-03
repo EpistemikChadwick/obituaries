@@ -1,0 +1,9 @@
+name-last: Koch
+name-first: Alan
+name-given: Alan Goodman
+ 
+birth-date: 1938-03-25
+birth-place: US, AL, Decatur
+ 
+death-date: 2015-05-22
+death-place:  US, AL, Prattville

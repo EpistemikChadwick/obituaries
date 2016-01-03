@@ -1,0 +1,12 @@
+source-title: New York Times
+source-date: 2015-12-27
+source-url: http://www.nytimes.com/2015/12/28/sports/baseball/jim-otoole-star-pitcher-for-reds-dies-at-78.html?_r=1
+ 
+source-title: T P White & Sons Funeral Home
+source-date: 2015-12-29
+source-url: http://tpwhite.tributes.com/obituary/show/James-J.-O-Toole-103135900
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-29

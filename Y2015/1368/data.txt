@@ -1,0 +1,8 @@
+name-last: Figueroa
+name-given: William
+name-nick: Papi
+ 
+birth-date: 1929-10-12
+birth-place: PR, , San Juan
+ 
+death-date: 2015-11-23

@@ -1,0 +1,11 @@
+name-last: Chambers
+name-first: Joe
+name-given: Joseph Pierce
+ 
+birth-date: 1917-07-25
+birth-place: US, GA, Juliette
+ 
+death-date: 2015-12-30
+ 
+cemetery-name: Forsyth City Cemetery.
+cemetery-place: US, GA, Forsyth

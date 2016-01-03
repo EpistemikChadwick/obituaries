@@ -1,0 +1,12 @@
+source-title: Eaton Funeral Homes
+source-date: 2016-01-01
+source-url: http://hosting-24098.tributes.com/obituary/show/Frank-J.-Malzone-103148794
+
+source-title: Boston Globe
+source-date: 2015-12-29
+source-url: https://www.bostonglobe.com/sports/2015/12/29/former-red-sox-third-baseman-frank-malzone-dies/lAQO1ic8yzn8UYrwkFy45M/story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-30

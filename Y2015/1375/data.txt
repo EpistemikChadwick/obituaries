@@ -1,0 +1,15 @@
+name-last: Rapp
+name-first: Vern
+ 
+birth-date: 1928-05
+birth-place: US, MO, St. Louis
+ 
+death-date: 2015-12-31
+death-place:  US, CO,
+ 
+school-level: secondary
+school-name:  Cleveland HS
+school-place: US, MO, St. Louis
+ 
+military-country: US
+military-conflict: Korean War

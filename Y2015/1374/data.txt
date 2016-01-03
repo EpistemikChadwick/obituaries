@@ -1,0 +1,10 @@
+name-last: Ryman
+name-first: Keith
+name-given: Keith Douglas
+ 
+birth-date: 1956-06-30
+ 
+death-date: 2015-12-27
+ 
+cemetery-name: Jefferson Memorial Gardens
+cemetery-place: US, TN, Jefferson City

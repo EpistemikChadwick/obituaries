@@ -1,0 +1,12 @@
+name-last: Drummer
+name-first: Jim
+name-given: James L.
+ 
+birth-date: 1931-01-11
+birth-place: US, OH, Milton Township
+ 
+death-date: 2016-01-01
+death-place:  US, PA, Wrightsville
+ 
+cemetery-name: Immaculate Heart of Mary Church Cemetery
+cemetery-place: US, PA, Abbottstown

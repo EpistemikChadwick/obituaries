@@ -1,0 +1,16 @@
+name-last: Malzone
+name-first: Frank
+name-given: Frank J.
+ 
+birth-date: 1930-02-28
+birth-place: US, NY, Bronx
+ 
+death-date: 2015-12-29
+death-place: US, MA, Needham
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Mary's Cemetery
+cemetery-place: US, MA, Needham

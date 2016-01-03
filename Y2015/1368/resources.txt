@@ -1,0 +1,8 @@
+source-title: Besibol 101
+source-date: 2015-11-25
+source-url: http://www.beisbol101.com/2015/11/25/fallece-papi-figueroa/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-30

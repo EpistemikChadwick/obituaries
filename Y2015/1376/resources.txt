@@ -1,0 +1,8 @@
+source-title: Bradenton Herald
+source-date: 2016-01-01
+source-url: http://www.legacy.com/obituaries/bradenton/obituary.aspx?n=Timothy-Wellington-Hill&pid=177099813
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-01

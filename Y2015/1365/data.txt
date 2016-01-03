@@ -1,0 +1,14 @@
+name-last: Higgins
+name-first: Harry
+name-given: Harry Arnold
+name-suffix: Sr.
+ 
+birth-date: 1934-04-28
+birth-place: US, IN, Terre Haute
+ 
+death-date: 2015-12-23
+ 
+school-level: secondary
+school-name:  Mission HS
+school-place: US, CA, San Francisco
+ 

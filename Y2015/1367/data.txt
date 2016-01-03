@@ -1,0 +1,5 @@
+name-last: Mayer
+name-first: Ed
+name-given: Edwin
+ 
+death-date: 2015

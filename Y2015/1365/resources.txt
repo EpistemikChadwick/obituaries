@@ -1,0 +1,8 @@
+source-title:  Contra Costa Times
+source-date: 2015-12-29
+source-url: http://www.legacy.com/obituaries/contracostatimes/obituary.aspx?n=Harry-Arnold-Higgins&pid=177054459
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-12-29

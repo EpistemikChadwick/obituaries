@@ -1,0 +1,8 @@
+source-title: Farrar Funeral Home
+source-date: 2016-01-01
+source-url: http://www.farrarfuneralhome.com/obituaries/Keith-Ryman/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-01

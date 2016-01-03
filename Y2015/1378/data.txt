@@ -1,0 +1,12 @@
+name-last: Dustal
+name-first: Bob
+name-given: Robert
+ 
+birth-date: 1935-09-28
+birth-place: US, NJ, Sayreville
+ 
+death-date: 2015-11-30
+ 
+school-level: secondary
+school-name:  South River HS
+school-place: US, NJ, South River
