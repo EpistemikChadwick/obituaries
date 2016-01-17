@@ -1,0 +1,9 @@
+name-last: Telepas
+name-first: George
+name-given: George Peter
+ 
+birth-date: 1935-11-20
+birth-place: US, NY, Kingston
+ 
+death-date: 2016-01-03
+ 

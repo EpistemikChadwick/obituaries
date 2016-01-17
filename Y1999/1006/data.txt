@@ -1,0 +1,5 @@
+name-last: Whitfield
+name-first: Jerome
+ 
+death-date: 1999-07-27
+death-place: US, GA, Hartwell

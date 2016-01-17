@@ -1,0 +1,21 @@
+name-last: Whitehead
+name-first: Kenneth
+name-given: Kenneth J.
+ 
+birth-date: 1931-12-10
+birth-place: US, MO, St. Louis
+ 
+death-date: 2016-01-12
+death-place:  US, MO, St. Louis
+ 
+school-level: secondary
+school-name:  Hancock HS
+school-place:  US, MO, St. Louis
+ 
+school-level: college
+school-name: Westminster College
+school-place: US, MO, Fulton
+ 
+cemetery-name: Mount Carmel Cemetery
+cemetery-place: US, IL, Belleville
+ 

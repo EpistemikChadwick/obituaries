@@ -1,0 +1,17 @@
+name-last: Ritchie
+name-first: Jay
+name-given: Jay Seay
+name-suffix: Sr.
+ 
+birth-date: 1935-11-20
+birth-place: US, NC, Rowan County
+ 
+death-date: 2016-01-05
+death-place:  US, NC, Salisbury
+ 
+school-level: secondary
+school-name:  Granite Quarry HS
+school-place: US, NC, Granite Quarry
+ 
+cemetery-name: Shiloh Reformed Church Cemetery
+cemetery-place: US, NC, Faith

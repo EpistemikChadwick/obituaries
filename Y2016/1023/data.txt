@@ -1,0 +1,12 @@
+name-last: Nava
+name-given: Medardo
+name-matrilineal: Sanchez
+ 
+birth-date: 1940
+birth-place: VE, Zulia, Maracaibo
+ 
+death-date: 2016-01-07
+death-place:  VE, Zulia, Maracaibo
+ 
+cemetery-name: Aves del Paraíso
+cemetery-place: VE, Zulia, Maracaibo

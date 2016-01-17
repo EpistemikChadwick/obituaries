@@ -1,0 +1,21 @@
+name-last: Anucauskas
+name-first: Vic
+name-given: Victor J.
+name-suffix: Jr.
+ 
+birth-date: 1923-04-16
+birth-place: US, IL, Rockford
+ 
+death-date: 2006-04-23
+death-place:  US, IL, Rockford
+ 
+school-level: secondary
+school-name:  Rockford East HS
+school-place: US, IL, Rockford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s & St. James Cemeteries
+cemetery-place: US, IL, Rockford

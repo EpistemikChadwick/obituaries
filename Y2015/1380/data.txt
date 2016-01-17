@@ -1,0 +1,12 @@
+name-last: Coleman
+name-first: Wayne
+name-given: Wayne E.
+ 
+birth-date: 1936-02-07
+ 
+death-date: 2015-12-30
+death-place:  US, NC, Asheville
+ 
+school-level: secondary
+school-name:  Stephens-Lee HS
+school-place: US, NC, Asheville

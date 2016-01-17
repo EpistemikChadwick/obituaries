@@ -1,0 +1,16 @@
+name-last: Kardash
+name-first: Mike
+name-given: Michael
+ 
+birth-date:  1918-11-16
+ 
+death-date: 2016-01-13
+death-place:  US, DE, Rehoboth Beach
+ 
+school-level: college
+school-name:  Washington College
+school-place: US, MD, Chestertown
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

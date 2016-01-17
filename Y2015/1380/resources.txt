@@ -1,0 +1,8 @@
+source-title: Ray Funeral Home
+source-date: 2016-01-06
+source-url: http://www.rayandallenfuneralservice.com/home/index.cfm/obituaries/view/fh_id/11748/id/3540435
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-06

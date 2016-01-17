@@ -1,0 +1,18 @@
+name-last: West
+name-first: Price
+name-given:  Price Charles
+name-suffix: Jr.
+ 
+birth-date: 1934-02-09
+birth-place: US, AL, Montgomery
+ 
+death-date: 2016-01-01
+death-place:  US, MI, Kentwood
+ 
+school-level: secondary
+school-name:  Ypsilanti HS
+school-place: US, MI, Ypsilanti
+ 
+military-country: US
+military-branch:  Army
+ 

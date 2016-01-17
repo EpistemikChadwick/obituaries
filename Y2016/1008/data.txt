@@ -1,0 +1,15 @@
+name-last: McCord
+name-first: Norman
+name-given: Norman James
+name-suffix: Sr.
+ 
+birth-date: 1928-10-25
+ 
+death-date: 2016-01-01
+ 
+school-level: secondary
+school-name:  Warren Easton HS
+school-place:  US, LA, New Orleans
+ 
+school-level: college
+school-name: Southeastern Louisiana University

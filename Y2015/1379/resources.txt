@@ -1,0 +1,8 @@
+source-title: Reynolds Funeral Home
+source-date: 2016-01-04
+source-url: http://www.reynoldsfuneralhome.net/obituaries/Dale-Blevins/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-04

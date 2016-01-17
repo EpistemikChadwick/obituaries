@@ -1,0 +1,8 @@
+source-title: Daily Sports Online
+source-date: 2016-01-09
+source-url: http://www.daily.co.jp/baseball/carp/2016/01/09/0008708543.shtml
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-15

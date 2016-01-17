@@ -1,0 +1,13 @@
+name-last: Warren
+name-first: Grady
+name-given: Grady W.
+name-suffix: III
+ 
+birth-date: 1957-09-09
+ 
+death-date: 2016
+death-place:  US, FL, Jacksonville
+ 
+school-level: secondary
+school-name:  Paxon HS
+school-place: US, FL, Jacksonville

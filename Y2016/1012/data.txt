@@ -1,0 +1,14 @@
+name-last: Rautzhan
+name-first: Lance
+name-given: Lance G.
+ 
+birth-date: 1952-08-20
+birth-place: US, PA, Pottsville
+ 
+death-date: 2016-01-09
+death-place:  US, SC, Myrtle Beach
+ 
+school-level: secondary
+school-name:  Blue Mountain HS
+school-place: US, PA, Schuylkill Haven
+ 

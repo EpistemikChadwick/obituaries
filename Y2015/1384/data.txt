@@ -1,0 +1,8 @@
+name-last: DeLeon
+name-first: Luis
+name-nick: Biso
+ 
+birth-date: 1932
+birth-place: PR, Guayama, Puente Jobos
+ 
+death-date: 2015-05

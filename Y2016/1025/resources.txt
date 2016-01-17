@@ -1,0 +1,8 @@
+source-title: Pottstown Mercury
+source-date: 2016-01-15
+source-url: http://www.legacy.com/obituaries/pottsmerc/obituary.aspx?n=william-s-hipple&pid=177292522&fhid=13024&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-15

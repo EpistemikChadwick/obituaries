@@ -1,0 +1,4 @@
+name-last: Miyagawa
+name-first: Takao
+ 
+death-date: 2016-01-09

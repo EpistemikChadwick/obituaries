@@ -1,0 +1,16 @@
+name-last: Hipple
+name-first: William
+name-given: William S.
+ 
+birth-date: 1927
+birth-place: US, PA, Chester
+ 
+death-date: 2016-01-12
+death-place:  US, PA, Pottstown
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Coventryville United Methodist Church Cemetery
+cemetery-place: US, PA, Pottstown

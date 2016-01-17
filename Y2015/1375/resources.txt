@@ -2,6 +2,10 @@ source-title: St. Louis Post-Dispatch
 source-date: 2015-12-31
 source-url: http://www.stltoday.com/news/local/former-cardinals-manager-rapp-dies/article_0865798e-aa4b-5be6-a0ea-d1146cea0a52.html
  
+source-title: Denver Post
+source-date: 2016-01-05
+source-url: http://www.legacy.com/obituaries/denverpost/obituary.aspx?n=Vern-Rapp&pid=177145514
+
 contributor-last: Morris
 contributor-first: Jack
 contributor-email: jackmo77@comcast.net

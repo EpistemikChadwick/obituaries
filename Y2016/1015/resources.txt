@@ -1,0 +1,8 @@
+source-title: Merkle Funeral Service
+source-date: 2016-01-11
+source-url:  http://www.merklefs.com/book-of-memories/2330200/Kinne-Marvin/obituary.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-11

@@ -1,0 +1,15 @@
+name-last: Overholser
+name-first: Andy
+name-given: Andrew Scott
+ 
+birth-date: 1969-04-13
+birth-place: US, OH, Toledo
+ 
+death-date: 2016-01-13
+ 
+school-level: secondary
+school-name:  Northview HS
+school-place: US, OH, Toledo
+ 
+school-level: college
+school-name: Louisiana Tech University

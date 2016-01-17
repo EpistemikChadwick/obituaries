@@ -1,0 +1,8 @@
+source-title: Powles Station Funeral Home
+source-date: 2016-01-07
+source-url: http://www.powlesfuneralhome.com/obituary?id=1576978
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-07

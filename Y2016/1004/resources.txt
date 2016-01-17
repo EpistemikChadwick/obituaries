@@ -1,0 +1,8 @@
+source-title: Florida Time-Union
+source-date: 2016-01-06
+source-url: http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=Grady-W-Warren&pid=177152036
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-06

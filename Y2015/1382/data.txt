@@ -1,0 +1,18 @@
+name-last: McAnany
+name-first: Jim
+name-given: James
+ 
+birth-date: 1936-09-04
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2015-12-16
+ 
+school-level: secondary
+school-name:  Loyola HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: University of Southern California
+ 
+military-country: US
+military-branch:  Army

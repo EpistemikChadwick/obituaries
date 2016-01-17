@@ -1,0 +1,16 @@
+name-last: Blevins
+name-first: Dale
+name-given: Dale E.
+ 
+birth-date: 1924-04-15
+birth-place: US, NC, Helton
+ 
+death-date: 2015-12-25
+death-place:  US, PA, New Holland
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Indiantown Gap National Cemetery
+cemetery-place: US, PA, Annville

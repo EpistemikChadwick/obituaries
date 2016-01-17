@@ -1,0 +1,22 @@
+name-last: Staucet
+name-first: Frankie
+name-given: Frank P.
+ 
+birth-place: US, IN, Whiting
+ 
+death-date: 2016-01-14
+ 
+school-level: secondary
+school-name:  Catholic Central HS
+school-place: US, IN, Hammond
+ 
+school-level: college
+school-name: St. Joseph’s College
+school-place: US, IN, Rensselaer
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: St. Agnes Cemetery
+cemetery-place: US, NY, Menands

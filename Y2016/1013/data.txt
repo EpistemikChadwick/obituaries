@@ -1,0 +1,15 @@
+name-last: Malak
+name-first: Melvin
+name-given: Melvin D.
+name-nick: Blackie
+name-suffix: Sr.
+ 
+birth-date: 1932-02-15
+birth-place: US, OH, Toledo
+ 
+death-date: 2016-01-03
+death-place:  US, OH, Toledo
+ 
+school-level: secondary
+school-name:  Macomber HS
+school-place: US, OH, Toledo

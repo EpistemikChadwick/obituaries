@@ -1,0 +1,8 @@
+source-title: ESPN.GO.COM
+source-date: 2016-01-14
+source-url: http://espn.go.com/mlb/story/_/id/14566482/two-all-star-pitcher-luis-arroyo-dies-88
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-14

@@ -1,0 +1,19 @@
+name-last: Lawrie
+name-first: Wayne
+name-given: Wayne L.
+ 
+birth-date: 1931-07-17
+birth-place: US, MI, Highland Park
+ 
+death-date: 2016-01-10
+death-place:  US, MI, Bloomfield Hills
+ 
+school-level: secondary
+school-name:  Highland Park HS
+school-place: US, MI, Highland Park
+ 
+school-level: college
+school-name:  Michigan State University
+ 
+military-country: US
+military-branch:  Air Force

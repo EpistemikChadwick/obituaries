@@ -1,0 +1,17 @@
+name-last: Kinne
+name-first: Marvin
+name-given: Marvin Arthur
+ 
+birth-date: 1924-05-28
+birth-place: US, MI, Monroe
+ 
+death-date: 2016-01-05
+death-place:  US, MI, Monroe
+ 
+school-level: secondary
+school-name:  Monroe HS
+school-place: US, MI, Monroe
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

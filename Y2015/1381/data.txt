@@ -1,0 +1,13 @@
+name-last: Manier
+name-first: David
+name-given: David Gordon
+ 
+birth-date: 1930-12-07
+birth-place: US, MI,
+ 
+death-date: 2015-12-29
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 

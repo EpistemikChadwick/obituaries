@@ -1,0 +1,8 @@
+source-title: Metcalf Mortuary
+source-date: 2016-01-11
+source-url: http://www.metcalfmortuary.com/sitemaker/sites/Metcal1/obit.cgi?user=62448589_RCamp
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-11

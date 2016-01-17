@@ -1,0 +1,20 @@
+name-last: Irvin
+name-first: Monte
+name-given: Monford Merrill
+ 
+birth-date: 1919-02-25
+birth-place: US, AL, Haleburg
+ 
+death-date: 2016-01-11
+death-place:  US, TX, Houston
+ 
+school-level: secondary
+school-name:  Orange High School
+school-place: US, NJ, Orange
+ 
+school-level: college
+school-name: Lincoln University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

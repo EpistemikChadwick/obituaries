@@ -1,0 +1,8 @@
+name-last: Higashida
+name-given: Masayoshi
+ 
+birth-date: 1945
+ 
+death-date: 2016-01-02
+death-place:  JP, Nara, Sakurai
+ 

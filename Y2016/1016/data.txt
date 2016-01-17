@@ -1,0 +1,8 @@
+name-last: Camp
+name-first: Bob
+name-given: Robert
+ 
+birth-date: 1935-11-24
+birth-place: US, AL, Birmingham
+ 
+death-date: 2016-01-06

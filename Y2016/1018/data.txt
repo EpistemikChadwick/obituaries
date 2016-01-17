@@ -1,0 +1,14 @@
+name-last: Brown
+name-first: Al
+name-given: Alton Leo
+name-nick: Deacon
+ 
+birth-date: 1925
+birth-place: US, VA, Norfolk
+ 
+death-date: 2016-01-10
+death-place:  US, VA, Virginia Beach
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

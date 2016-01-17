@@ -1,0 +1,8 @@
+source-title:  Times Record News
+source-date: 2016-01-11
+source-url: http://www.timesrecordnews.com/sports/college/midwestern-state/former-msu-ad-mcbee-passes-away-2917c2c4-15a3-1816-e053-0100007f652a-364944751.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-14

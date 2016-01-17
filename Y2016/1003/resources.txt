@@ -1,0 +1,8 @@
+source-title: Grand Rapids Press
+source-date: 2016-01-04
+source-url: http://obits.mlive.com/obituaries/grandrapids/obituary.aspx?n=Price-Charles-West&pid=177140950
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-06

@@ -1,0 +1,14 @@
+name-last: Bourgeois
+name-first: Paul
+name-given: Paul A.
+ 
+birth-place: US, NY, Troy
+ 
+death-date: 2016-01-03
+ 
+school-level: secondary
+school-name: Catholic Central HS
+school-place: US, NY, Troy
+ 
+cemetery-name: St. Joseph's Cemetery
+cemetery-place: US, NY, Waterford

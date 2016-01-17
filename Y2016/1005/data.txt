@@ -1,0 +1,12 @@
+name-last: Gustafson
+name-first: Robert
+name-given: Robert Ralph
+ 
+birth-date: 1945-08-23
+ 
+death-date: 2016-01-02
+ 
+meta-bats: Right
+ 
+school-level: college
+school-name:  Rollins College

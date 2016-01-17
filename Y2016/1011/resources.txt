@@ -1,0 +1,8 @@
+source-title: StanlyCountyOnline.com
+source-date: 2016-01-07
+source-url: http://www.stanlycountyonline.com/obituaries.cfm
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-07

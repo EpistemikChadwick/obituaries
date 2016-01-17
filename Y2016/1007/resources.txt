@@ -1,0 +1,8 @@
+source-title: Observer News Enterprise
+source-date: 2016-01-06
+source-url: http://www.legacy.com/obituaries/observernewsonline/obituary.aspx?n=Joyce-Lee-Laney-Kink&pid=177155568
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-06

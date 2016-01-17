@@ -1,0 +1,8 @@
+source-title: Virginian Pilot
+source-date: 2016-01-12
+source-url: http://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=Alton-Leo-Brown&pid=177248243
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-12

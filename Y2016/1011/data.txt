@@ -1,0 +1,16 @@
+name-last: Garmon
+name-first: Butch
+name-given: Brice
+ 
+birth-date: 1924-05-13
+birth-place: US, NC, Midland
+ 
+death-date: 2016-01-04
+death-place:  US, NC, Concord
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Center United Methodist Church Cemetery
+cemetery-place: US, NC, Concord

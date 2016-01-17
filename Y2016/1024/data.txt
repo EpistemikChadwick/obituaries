@@ -1,0 +1,6 @@
+name-last: McBee
+name-first: Bob
+ 
+birth-date: 1946
+ 
+death-date:  2016-01-08

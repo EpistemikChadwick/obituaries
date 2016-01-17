@@ -1,0 +1,8 @@
+source-title: Culver City Observer
+source-date: 2016-01-07
+source-url: http://culvercityobserver.com/story/2016/01/07/News/Services-Scheduled-For-Long-Time-Culver-Resident-and-Chicago-White-Sox-Star/5393.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-12

@@ -1,0 +1,17 @@
+name-last: Fabbio
+name-first: Bull
+name-given: Anthony T.
+name-suffix: Sr.
+ 
+birth-date: 1934-11-16
+birth-place: US, NY, Utica
+ 
+death-date: 2016-01-08
+death-place:  US, NY, Utica
+ 
+school-level: secondary
+school-name:  Thomas R. Proctor HS
+school-place: US, NY, Utica
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, NY, Utica

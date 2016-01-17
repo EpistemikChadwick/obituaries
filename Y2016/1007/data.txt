@@ -1,0 +1,15 @@
+name-last: Laney
+name-first: Kink
+name-given: Joyce Lee
+ 
+birth-date: 1929-09-27
+ 
+death-date: 2016-01-03
+death-place:  US, NC, Sherrills Ford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Center View Baptist Church Cemetery
+cemetery-place: US, NC, Maiden

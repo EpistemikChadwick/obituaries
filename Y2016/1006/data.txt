@@ -1,0 +1,20 @@
+name-last: Massey
+name-first: Walt
+name-given: Walter Monroe
+ 
+birth-date: 1938-06-19
+ 
+death-date: 2016-01-04
+ 
+school-level: secondary
+school-name:  Bessemer HS
+school-place: US, AL, Bessemer
+ 
+school-level: college
+school-name:  University of Alabama
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Georgia National Cemetery
+cemetery-place: US, GA, Canton
