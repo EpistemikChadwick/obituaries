@@ -1,0 +1,19 @@
+name-last: Boucher
+name-first: Roland
+name-given: Roland E.
+ 
+birth-date: 1929-09-07
+birth-place: US, MA, Haverhill
+ 
+death-date: 2016-01-10
+death-place:  US, MA, Haverhill
+ 
+school-level: secondary
+school-name:  Haverhill Trade School
+school-place: US, MA, Haverhill
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Maplewood Cemetery
+cemetery-place: US, MA, Haverhill

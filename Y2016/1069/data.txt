@@ -1,0 +1,11 @@
+name-last: Mink
+name-first: Deane
+ 
+birth-date: 1934-04-12
+ 
+death-date: 2016-02-03
+death-place:  US, GA, Valdosta
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

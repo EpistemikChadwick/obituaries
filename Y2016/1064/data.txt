@@ -1,0 +1,12 @@
+name-last: Calufetti
+name-first: Larry
+name-given: Lawrence A.
+name-nick: Moose
+ 
+birth-date: 1950-12-12
+ 
+death-date: 2016-02-01
+ 
+school-level: college
+school-name: Southern Illinois University Carbondale
+ 

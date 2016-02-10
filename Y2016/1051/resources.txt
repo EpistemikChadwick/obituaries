@@ -1,0 +1,8 @@
+source-title: Ventura County Star
+source-date: 2016-01-27
+source-url: http://www.vcstar.com/sports/ron-stillwell-longtime-area-baseball-coach-dies-at-76-2a451e40-0210-647f-e053-0100007fe9aa-366641171.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-27

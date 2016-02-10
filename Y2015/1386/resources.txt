@@ -1,0 +1,8 @@
+source-title: Arroba Deportes
+source-date: 2015-12-22
+source-url: http://arrobadeportes.com/muere-un-ex-jugador-melenudo-raul-policia-osorio/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-17

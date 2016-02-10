@@ -1,0 +1,12 @@
+name-last: Hite
+name-first: Lou
+name-given: R. Lou
+ 
+birth-date: 1935-03-18
+birth-place: US, MD, Cumberland
+ 
+death-date: 2016-01-27
+death-place:  US, MD, Cumberland
+ 
+meta-throws: Left
+meta-bats: Left

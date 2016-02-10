@@ -1,0 +1,8 @@
+source-title: Dallas Morning News
+source-date: 2016-01-22
+source-url: http://www.legacy.com/obituaries/dallasmorningnews/obituary.aspx?n=William-Ray-Gall&pid=177381276
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-22

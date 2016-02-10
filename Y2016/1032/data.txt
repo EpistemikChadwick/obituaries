@@ -1,0 +1,14 @@
+name-last: Dypko
+name-first: Walter
+name-given: Walter F.
+ 
+death-date: 2016-01-15
+ 
+school-level: secondary
+school-name:  Lodi HS
+school-place: US, NJ, Lodi
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

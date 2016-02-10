@@ -1,0 +1,21 @@
+name-last: Gall
+name-first: Bill
+name-given: William Ray
+ 
+birth-date: 1927-10-15
+ 
+death-date: 2016-01-19
+ 
+school-level: secondary
+school-name:  Lathrop HS
+school-place: US, MO, Lathrop
+ 
+school-level: college
+school-name: University of Missouri
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Sparkman Hillcrest Memorial Park
+cemetery-place: US, TX, Dallas

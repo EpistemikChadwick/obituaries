@@ -1,0 +1,12 @@
+name-last: Caruso
+name-first: John
+name-given: John Lawrence
+ 
+birth-place: US, CA, San Jose
+ 
+death-date: 2016
+death-place:  US, CA, Roseville
+ 
+school-level: secondary
+school-name:  Balboa HS
+school-place: US, CA, San Francisco

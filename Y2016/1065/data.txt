@@ -1,0 +1,14 @@
+name-last: Welton
+name-first: Tommy
+name-given: Thomas G.
+ 
+birth-date: 1949-07-12
+ 
+death-date: 2016-02-01
+ 
+school-level: college
+school-name: Arizona State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War

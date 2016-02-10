@@ -1,0 +1,8 @@
+name-last: Warner
+name-first: Harry
+name-given: Harry C.
+ 
+birth-date: 1928-12-11
+birth-place: US, PA, Reeders
+ 
+death-date: 2015-04-11

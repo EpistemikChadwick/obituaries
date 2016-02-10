@@ -1,0 +1,15 @@
+name-last: Bullard
+name-first: Terry
+name-given: Terry LaVerne
+ 
+birth-date: 1946-10-01
+birth-place: US, CA, Yuba City
+ 
+death-date: 2016-01-25
+ 
+school-level: secondary
+school-name:  Yuba City HS
+school-place: US, CA, Yuba City
+ 
+cemetery-name: Sutter Cemetery
+cemetery-place: US, CA, Sutter

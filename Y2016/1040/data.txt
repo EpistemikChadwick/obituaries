@@ -1,0 +1,20 @@
+name-last: Werst
+name-first: John
+name-given: John P.
+ 
+birth-date: 1928-12-12
+birth-place: US, PA, Perkasie
+ 
+death-date: 2016-01-20
+death-place:  US, PA, Quakertown
+ 
+school-level: secondary
+school-name:  Sell-Perk HS
+school-place: US, PA, Perkasie
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: South Perkasie Evangelical Cemetery
+cemetery-place: US, PA, Perkasie

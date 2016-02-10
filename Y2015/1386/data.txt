@@ -1,0 +1,9 @@
+name-last: Osorio
+name-first: Raul
+name-given: Carlos Raul
+name-matrilineal: Herrera
+name-nick: Policia
+ 
+death-date: 2015-12-15
+death-place:  MX, Yucatan, Merida
+ 

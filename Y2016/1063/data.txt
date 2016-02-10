@@ -1,0 +1,15 @@
+name-last: Coffman
+name-first: Robin
+name-given: Robin Thornley
+name-nick: Muggs
+ 
+death-date: 2016-01-30
+death-place:  US, TN, Germantown
+ 
+school-level: secondary
+school-name:  Ripley HS
+school-place: US, TN, Ripley
+ 
+school-level: college
+school-name: Union University
+school-place: US, TN, Jackson

@@ -1,0 +1,8 @@
+source-title: Ruidoso News
+source-date: 2016-02-06
+source-url: http://www.legacy.com/obituaries/ruidosonews/obituary.aspx?n=Aaron-Everitt-Woodfin-Woody&pid=177607110
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-08

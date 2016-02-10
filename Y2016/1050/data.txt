@@ -1,0 +1,9 @@
+name-last: Mashore
+name-first: Clyde
+ 
+death-date: 2016-01-24
+death-place:  US, CA, Brentwood
+ 
+school-level: secondary
+school-name: Clayton Valley HS
+school-place: US, CA, Concord

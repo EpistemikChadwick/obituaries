@@ -1,0 +1,18 @@
+name-last: Work
+name-first: Melvin
+name-given: Charles Melvin
+ 
+birth-date: 1933-08-15
+birth-place: US, TX, Dallas
+ 
+death-date:  2016-01-17
+ 
+school-level: secondary
+school-name:  Woodrow Wilson HS
+school-place: US, TX, Dallas
+ 
+school-level: college
+school-name: Texas A&M University
+ 
+military-country: US
+military-branch:  Army

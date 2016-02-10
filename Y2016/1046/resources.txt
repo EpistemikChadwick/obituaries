@@ -1,0 +1,8 @@
+source-title: MetroWest Daily News
+source-date: 2016-01-24
+source-url: http://www.legacy.com/obituaries/metrowestdailynews/obituary.aspx?n=Kenneth-A-Fischer&pid=177427966
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-24

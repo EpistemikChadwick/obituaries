@@ -1,0 +1,12 @@
+source-title: UltimateTributes.com
+source-date: 2016-02-01
+source-url: http://www.ultimatetributes.com/pages/explore-tributes.asp?id=7531
+
+source-title: Tulsa World
+source-date: 2016-01-31
+source-url: http://www.tulsaworld.com/blogs/sports/probaseball/pro-baseball-remembering-three-time-batting-champ-former-oru-standout/article_8ae63e6f-5b83-5ff6-9db7-f0c801849283.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-01

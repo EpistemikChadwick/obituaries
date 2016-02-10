@@ -1,0 +1,16 @@
+name-last: Gauger
+name-first: Larry
+name-given: Lawrence W.
+ 
+birth-date: 1933-06-27
+ 
+death-date: 2016-01-21
+death-place:  US, WI, Oshkosh
+ 
+school-level: secondary
+school-name:  Oshkosh HS
+school-place: US, WI, Oshkosh
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

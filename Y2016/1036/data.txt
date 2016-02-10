@@ -1,0 +1,17 @@
+name-last: Zaski
+name-first: Regis
+name-given: Regis John
+ 
+birth-date: 1935-01-23
+birth-place: US, PA, Pittsburgh
+ 
+death-date: 2016-01-01
+death-place:  US, FL, Largo
+ 
+school-level: secondary
+school-name:  Central Catholic HS
+school-place: US, PA, Pittsburgh
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

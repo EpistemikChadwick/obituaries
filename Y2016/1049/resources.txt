@@ -1,0 +1,8 @@
+source-title: Bleacher Report
+source-date: 2016-01-25
+source-url: http://bleacherreport.com/articles/2610938-jose-rosario-astros-pitcher-dies-at-20
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-25

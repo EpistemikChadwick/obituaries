@@ -1,0 +1,8 @@
+source-title: MLB.com
+source-date: 2016-01-20
+source-url: http://m.redsox.mlb.com/news/article/162400438/former-red-sox-frank-sullivan-passes-away
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-20

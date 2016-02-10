@@ -1,0 +1,20 @@
+name-last: Lange
+name-first: Harry
+name-given: Harold N.
+ 
+birth-date: 1928-04-07
+birth-place: US, NE, Crofton
+ 
+death-date: 2016-01-13
+death-place:  US, NE, Columbus
+ 
+school-level: secondary
+school-name:  Crofton HS
+school-place: US, NE, Crofton
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War
+ 
+cemetery-name: Columbus Cemetery
+cemetery-place: US, NE, Columbus

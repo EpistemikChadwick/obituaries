@@ -1,0 +1,9 @@
+name-last: Sullivan
+name-first: Frank
+ 
+death-date: 2016-01-19
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 

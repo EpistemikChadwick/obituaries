@@ -1,0 +1,6 @@
+name-last: Rosario
+name-first: Jose
+ 
+death-date: 2016-01-24
+death-place:  DO, ,
+

@@ -1,0 +1,8 @@
+source-title: San Diego Union Tribune
+source-date: 2016-01-17
+source-url: http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?pid=177326294
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-18

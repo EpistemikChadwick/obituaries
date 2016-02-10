@@ -1,0 +1,13 @@
+name-last: O’Reilly
+name-first: Vinny
+name-given: Vincent T.
+ 
+birth-date: 1935-02-26
+birth-place: US, NY, Bronx
+ 
+death-date: 2016-01-22
+death-place:  US, NY, Batavia
+ 
+cemetery-name: St. Joseph’s Cemetery
+cemetery-place: US, NY, Batavia
+ 

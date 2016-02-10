@@ -1,0 +1,20 @@
+name-last: Williams
+name-first: Walt
+name-given: Walter Allen
+name-nick: No Neck
+ 
+birth-date: 1943-12-19
+birth-place: US, TX, Brownwood
+ 
+death-date: 2016-01-23
+death-place:  US, TX, Abilene
+ 
+school-level: secondary
+school-name:  Galileo HS
+school-place: US, CA, San Francisco
+ 
+school-level: college
+school-name: City College of San Francisco
+
+cemetery-name: Greenleaf Cemetery
+cemetery-place: US, TX, Brownwood

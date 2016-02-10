@@ -1,0 +1,20 @@
+name-last: Berriesford
+name-first: Buzz
+name-given: Clayton
+ 
+birth-date: 1932-09-20
+birth-place: US, CA, Sacramento
+ 
+death-date: 2016-01-19
+death-place:  US, CA, Sacramento
+ 
+school-level: secondary
+school-name:  Sacramento HS
+school-place: US, CA, Sacramento
+ 
+school-level: college
+school-name: Sacramento City College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

@@ -1,0 +1,13 @@
+name-last: Callison
+name-first: Richard
+name-given: Richard H.
+ 
+birth-date: 1925-06-12
+birth-place: US, VA, Dayton
+ 
+death-date: 2016-01-16
+death-place:  US, FL, Jacksonville
+ 
+school-level: secondary
+school-name:  William Fleming HS
+school-place: US, VA, Roanoke

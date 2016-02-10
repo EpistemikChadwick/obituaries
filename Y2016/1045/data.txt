@@ -1,0 +1,5 @@
+name-last: Spearman
+name-first: Alvin
+ 
+death-date: 2016-01-14
+

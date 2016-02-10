@@ -1,0 +1,11 @@
+name-last: McBride
+name-first: Delton
+name-given: Delton Clayton
+ 
+birth-date: 1926-11-18
+ 
+death-date: 2016-01-28
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

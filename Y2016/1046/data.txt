@@ -1,0 +1,12 @@
+name-last: Fischer
+name-first: Ken
+name-given: Kenneth A.
+name-suffix: Sr.
+ 
+birth-date: 1936-02-10
+birth-place: US, IL, Chicago
+ 
+death-date: 2016-01-10
+ 
+school-level: college
+school-name: University of Southern Mississippi

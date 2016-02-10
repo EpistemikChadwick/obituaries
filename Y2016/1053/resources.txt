@@ -1,0 +1,8 @@
+source-title:  Curran Funeral Homes
+source-date: 2016-01-28
+source-url: http://www.curranobrien.com/home/index.cfm/obituaries/view/fh_id/12213/id/3569987
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-28

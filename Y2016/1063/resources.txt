@@ -1,0 +1,8 @@
+source-title: Jackson Sun
+source-date: 2016-02-02
+source-url: http://www.legacy.com/obituaries/jacksonsun/obituary.aspx?n=robin-thornley-coffman-muggs&pid=177548958&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-02

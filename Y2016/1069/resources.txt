@@ -1,0 +1,8 @@
+source-title: McLane Funeral Home
+source-date: 2016-02-08
+source-url: http://www.mclanefuneralservices.com/obituary/Dr.-Deane-Mink/Valdosta-GA/1586993
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-08

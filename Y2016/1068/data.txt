@@ -1,0 +1,6 @@
+name-last: Goza
+name-first: Charles
+name-given: Charles Wayland
+ 
+death-date: 2016-02-03
+death-place:  US, TN, Johnson City

@@ -1,0 +1,8 @@
+source-title: The Sacramento Bee
+source-date: 2016-02-02
+source-url: http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=John-Lawrence-Caruso&pid=177555300
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-02

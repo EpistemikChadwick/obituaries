@@ -1,0 +1,10 @@
+name-last: Pijawka
+name-given: Stanley
+ 
+birth-date: 1927
+birth-place: US, NJ, Bayonne
+ 
+death-date: 2016-01-14
+ 
+military-country: US
+military-branch:  Navy

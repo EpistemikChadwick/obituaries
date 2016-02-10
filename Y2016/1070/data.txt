@@ -1,0 +1,16 @@
+name-last: Irvine
+name-first: Rodger
+name-given: Rodger B.
+name-suffix: Sr.
+ 
+birth-date: 1940-09-01
+birth-place: CA, ON, Toronto
+ 
+death-date: 2016-01-26
+ 
+school-level: secondary
+school-name:  Miami Senior HS
+school-place: US, FL, Miami
+ 
+cemetery-name: Our Lady of Mercy Catholic Cemetery
+cemetery-place: US, FL, Miami

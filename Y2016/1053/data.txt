@@ -1,0 +1,16 @@
+name-last: Monroe
+name-first: Wallace
+name-given: Wallace Kerr
+ 
+birth-date: 1931-12-18
+birth-place: US, MA, Holyoke
+ 
+death-date: 2016-01-26
+ 
+school-level: secondary
+school-name:  South Hadley HS
+school-place: US, MA, South Hadley
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

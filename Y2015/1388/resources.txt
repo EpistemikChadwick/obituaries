@@ -1,0 +1,8 @@
+source-title: News Register
+source-date: 2016-01-24
+source-url: http://ad2adnetwork.biz/ad2ad/index.php?adview=3482051&tpsb=2500362
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-24

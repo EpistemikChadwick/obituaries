@@ -1,0 +1,16 @@
+name-last: Brickner
+name-first: Bill
+name-given: William D.
+ 
+birth-date: 1937-01-30
+birth-place: US, IL, Scales Mound
+ 
+death-date: 2016-02-02
+death-place:  US, IL, Galena
+ 
+school-level: secondary
+school-name:  Scales Mound HS
+school-place: US, IL, Scales Mound
+ 
+cemetery-name: St. John's Lutheran Cemetery
+cemetery-place:  US, IL, Guilford Township

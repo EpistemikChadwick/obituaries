@@ -1,0 +1,15 @@
+name-last: Woodfin
+name-first: Aaron
+name-given: Aaron Everitt
+name-nick: Woody
+ 
+birth-date: 1927-03-27
+birth-place: US, TX, Amarillo
+ 
+death-date: 2016-02-04
+death-place:  US, NM, Ruidoso
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

@@ -1,0 +1,19 @@
+name-last: Franchi
+name-first: John
+name-given: John Orlando
+ 
+birth-date: 1932-01-04
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2016-01-27
+ 
+school-level: secondary
+school-name:  Manual Arts HS
+school-place: US, CA, Los Angeles
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Santa Clara Cemetery
+cemetery-place: US, CA, Oxnard

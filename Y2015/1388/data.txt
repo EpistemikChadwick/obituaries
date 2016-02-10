@@ -1,0 +1,19 @@
+name-last: Martyn
+name-first: Bob
+name-given: Robert Gordon
+ 
+birth-date: 1930-08-15
+birth-place: US, ID, Weiser
+ 
+death-date: 2015-12-02
+death-place:  US, OR, Pacific City
+ 
+school-level: secondary
+school-name:  Twin Falls HS
+school-place: US, ID, Twin Falls
+ 
+school-level: college
+school-name: Linfield College
+ 
+military-country: US
+military-branch:  Army

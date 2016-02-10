@@ -1,0 +1,23 @@
+name-last: Bost
+name-first: Charles
+name-given: Charles James
+ 
+birth-date: 1921-01-29
+birth-place: US, NC, Claremont
+ 
+death-date: 2016-01-18
+death-place:  US, NC, Hickory
+ 
+school-level: secondary
+school-name:  Claremont HS
+school-place: US, NC, Claremont
+ 
+school-level: college
+school-name:  Lenoir-Rhyne University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Catawba Memorial Park
+cemetery-place: US, NC, Hickory

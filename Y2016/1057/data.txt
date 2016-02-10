@@ -1,0 +1,13 @@
+name-last: Davison
+name-first: Ron
+name-given: Ronald A.
+ 
+birth-date: 1952-10-03
+birth-place: US, MN, Springfield
+ 
+death-date:  2016-01-25
+death-place:  US, IL, Bloomington
+ 
+school-level: secondary
+school-name:  Springfield HS
+school-place: US, MN, Springfield

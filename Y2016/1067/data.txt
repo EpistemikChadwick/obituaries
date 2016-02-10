@@ -1,0 +1,20 @@
+name-last: Sanclemente
+name-first: Ed
+name-given: Louis Edward
+ 
+birth-date: 1924-01-08
+birth-place:  US, CA, San Diego
+ 
+death-date: 2016-01-29
+death-place: 
+ 
+school-level: secondary
+school-name:  San Diego HS
+school-place: US, CA, San Diego
+ 
+school-level: college
+school-name: University of California, Berkeley
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

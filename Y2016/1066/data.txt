@@ -1,0 +1,19 @@
+name-last: Havird
+name-first: Cyril
+name-given: Cyril Oliver
+ 
+birth-date: 1923-11-27
+birth-place: US, SC, Newberry
+ 
+death-date: 2016-02-03
+ 
+school-level: college
+school-name: Newberry College
+school-place: US, SC, Newberry
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Elmwood Cemetery
+cemetery-place: US, SC, Columbia

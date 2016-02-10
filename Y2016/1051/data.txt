@@ -1,0 +1,15 @@
+name-last: Stillwell
+name-first: Ron
+name-given: Ronald Roy
+ 
+birth-date: 1939-12-03
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2016-01-25
+ 
+school-level: secondary
+school-name:  John Burroughs HS
+school-place: US, CA, Burbank
+ 
+school-level: college
+school-name: University of Southern California

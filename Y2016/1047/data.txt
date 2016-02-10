@@ -1,0 +1,16 @@
+name-last: Conti
+name-first: Frank
+name-given: Frank John
+ 
+birth-date: 1932-10-24
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2016-01-06
+ 
+school-level: secondary
+school-name:  Bay Shore HS
+school-place: US, NY, Bay Shore
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

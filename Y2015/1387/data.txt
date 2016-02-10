@@ -1,0 +1,15 @@
+name-last: Dineen
+name-first: Kerry
+name-given: Kerry Michael
+ 
+birth-date: 1952-07-01
+ 
+death-date: 2015-11-21
+ 
+school-level: secondary
+school-name:  Chula Vista HS
+school-place: US, CA, Chula Vista
+ 
+school-level: college
+school-name: University of San Diego
+ 

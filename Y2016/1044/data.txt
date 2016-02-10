@@ -1,0 +1,11 @@
+name-last: Perry
+name-first: Ben
+name-given: Ben F.
+ 
+birth-date: 1931-02-14
+ 
+death-date: 2016-01-20
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  Korean War

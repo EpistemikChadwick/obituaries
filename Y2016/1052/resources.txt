@@ -1,0 +1,12 @@
+source-title: Dove Funeral Home
+source-date: 2016-01-27
+source-url: http://dovefuneralhome.frontrunnerpro.com/book-of-memories/2364955/Williams-Walter/service-details.php
+ 
+source-title: Abilene Reporter-News
+source-date: 2016-01-28
+source-url: http://www.legacy.com/obituaries/reporternews/obituary.aspx?n=Walter-Williams&pid=177480576
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-28
