@@ -1,0 +1,6 @@
+name-last: Garcia
+name-first: David
+
+death-date: 2010-03-30
+death-place:  MX, Veracruz, Poza Rica
+

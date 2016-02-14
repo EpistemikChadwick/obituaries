@@ -1,0 +1,8 @@
+source-title: LMB
+source-date: 2010-07-12
+source-url: http://www.milb.com/news/article.jsp?ymd=20100712&content_id=12219458&fext=.jsp&vkey=pr_l125&sid=l125
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-28

@@ -1,0 +1,20 @@
+name-last: Rahmes
+name-first: Bill
+name-given: Ralph Kenneth
+ 
+birth-date: 1923-11-13
+birth-place: US, OH, Cincinnati
+ 
+death-date: 2016-02-06
+ 
+school-level: secondary
+school-name:  Rutherford HS
+school-place: US, NJ, Rutherford
+ 
+school-level: college
+school-name: Muskingum University
+school-place: US, OH, New Concord
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

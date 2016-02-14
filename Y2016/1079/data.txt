@@ -1,0 +1,19 @@
+name-last: Herzog
+name-first: Tom
+name-given: Thomas Joseph
+ 
+birth-date: 1937-03-20
+birth-place: US, WI, Manitowoc
+ 
+death-date: 2016-02-10
+death-place:  US, WI, Green Bay
+ 
+school-level: secondary
+school-name:  Lincoln HS
+school-place:  US, WI, Manitowoc
+ 
+school-level: college
+school-name: University of Kansas
+ 
+cemetery-name: Allouez Catholic Cemetery and Chapel Mausoleum
+cemetery-place: US, WI, Green Bay

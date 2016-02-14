@@ -1,0 +1,19 @@
+name-last: Argow
+name-first: Ed
+name-given: Edward
+ 
+birth-date: 1928-08-01
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2016-02-09
+ 
+school-level: secondary
+school-name:  Boys HS
+school-place: US, NY, Brooklyn
+ 
+school-level: college
+school-name: City College of New York
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War

@@ -1,0 +1,11 @@
+name-last: McWhorter
+name-first: Guy
+name-given: Guy M.
+ 
+birth-place: US, WV, Auburn
+ 
+death-date: 1973-12-05
+death-place:  US, NC, Reidsville
+ 
+cemetery-name: Reidlawn Cemetery
+cemetery-place: US, NC, Reidsville

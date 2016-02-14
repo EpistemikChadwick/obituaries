@@ -1,0 +1,9 @@
+name-last: Perez
+name-first: Eusebio
+name-nick: Silverio
+ 
+birth-date: 1925-12-16
+ 
+death-date: 2009-01-02
+death-place:  MX, Distrito Federal, Mexico City
+ 

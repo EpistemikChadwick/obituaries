@@ -1,0 +1,8 @@
+source-title: News-Press
+source-date: 2016-02-10
+source-url: http://www.legacy.com/obituaries/news-press/obituary.aspx?n=ralph-rahmes-bill&pid=177662835&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-10

@@ -1,0 +1,12 @@
+name-last: Coats
+name-first: Glenn
+name-given: Glenn B.
+ 
+birth-date: 1926-08-08
+birth-place: US, TX, Amarillo
+ 
+death-date: 2016-02-12
+ 
+cemetery-name: Resthaven Gardens of Memory
+cemetery-place: US, LA, Baton Rouge
+ 

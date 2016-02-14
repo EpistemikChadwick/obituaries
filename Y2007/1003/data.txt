@@ -1,0 +1,7 @@
+name-last: Alvarez
+name-first: Guillermo
+name-nick: Huevito
+ 
+death-date: 2007-04-08
+death-place:  MX, Sinaloa, Culiacan
+

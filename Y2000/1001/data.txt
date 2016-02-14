@@ -1,0 +1,16 @@
+name-last: Alsnauer
+name-first: William
+name-given: William E.
+ 
+birth-date: 1925-11-10
+birth-place: US, PA, Farrell
+ 
+death-date: 2000-11-24
+death-place:  US, PA, Sharon
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Hillcrest Memorial Park
+cemetery-place: US, PA, Hermitage

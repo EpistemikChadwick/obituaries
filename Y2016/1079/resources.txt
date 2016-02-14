@@ -1,0 +1,8 @@
+source-title: Green Bay Press-Gazette
+source-date: 2016-02-12
+source-url: http://www.legacy.com/obituaries/greenbaypressgazette/obituary.aspx?n=Thomas-Herzog&pid=177679366
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-12

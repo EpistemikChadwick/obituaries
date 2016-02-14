@@ -1,0 +1,8 @@
+source-title: Sharon Herald
+source-date: 2000-11-26
+source-url: http://www2.sharonherald.com/localnews/hed/0011/hed112600.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-18

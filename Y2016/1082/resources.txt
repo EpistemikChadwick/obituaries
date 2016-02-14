@@ -1,0 +1,8 @@
+source-title: The Times
+source-date: 2016-02-14
+source-url: http://www.legacy.com/obituaries/nwitimes/obituary.aspx?n=LAURENCE-EDWARD-OMARA&pid=177713369
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-14

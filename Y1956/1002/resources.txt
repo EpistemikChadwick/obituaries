@@ -1,0 +1,8 @@
+source-title: Red Hart obit
+source-file-name: Red Hart obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-18

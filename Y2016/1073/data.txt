@@ -1,0 +1,14 @@
+name-last: Angelos
+name-first: Gus
+ 
+birth-date: 1929-10-03
+birth-place: US, UT, Salt Lake City
+ 
+death-date: 2016
+ 
+school-level: secondary
+school-name:  South HS
+school-place: US, UT, Salt Lake City
+ 
+military-country: US
+military-branch:  Army

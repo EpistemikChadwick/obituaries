@@ -1,0 +1,20 @@
+name-last: O’Mara
+name-first: Larry
+name-given: Laurence Edward
+ 
+birth-date: 1935-12-16
+birth-place: US, IN, East Chicago
+ 
+death-date: 2016-02-08
+death-place:  US, NC, Raleigh
+ 
+school-level: secondary
+school-name:  Hammond HS
+school-place: US, IN, Hammond
+ 
+school-level: college
+school-name:  St. Joseph’s College
+school-place: US, IN, Rensselaer
+ 
+military-country: US
+military-branch:  Army

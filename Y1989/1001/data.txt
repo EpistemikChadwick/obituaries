@@ -1,0 +1,8 @@
+name-last: Petraglia
+name-given:  Joseph
+ 
+death-date: 1989-04-07
+death-place: US, PA, Pittsburgh
+ 
+cemetery-name:  Calvary Cemetery
+cemetery-place: US, PA, Pittsburgh

@@ -1,0 +1,6 @@
+name-last: Baez
+name-first: Sixto
+ 
+death-date: 2008-03-04
+death-place:  MX, Veracruz, Xalapa
+

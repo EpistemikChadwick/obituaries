@@ -1,0 +1,7 @@
+name-last: Arrendeli
+name-first: Luis
+name-given: Luis Wilfredo
+ 
+death-date: 2008-04-17
+death-place:  DO,  San Pedro de Macoris,  San Pedro de Macoris
+

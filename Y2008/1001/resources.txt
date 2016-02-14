@@ -1,0 +1,8 @@
+source-title: El Coloso
+source-date: 2016-01-28
+source-url: http://elcolosodemacoris.com/web/?p=1848
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-28

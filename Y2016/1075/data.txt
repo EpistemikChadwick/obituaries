@@ -1,0 +1,14 @@
+name-last: Verderame
+name-first: Carl
+name-given: Carl Peter
+ 
+birth-date: 1921-07-03
+birth-place: US, CT, New Haven
+ 
+death-date: 2016-02-03
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,8 @@
+source-title: The Oregonian
+source-date: 2016-02-13
+source-url: http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=george-edwin-brill&pid=177700374&eid=sp_ommatch&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-13

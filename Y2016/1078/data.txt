@@ -1,0 +1,17 @@
+name-last: Heaton
+name-first: Mike
+name-given: Michael Dean
+name-nick: The Heater
+ 
+birth-date: 1958-04-27
+birth-place: US, CA, Harbor City
+ 
+death-date: 2016-02-05
+death-place:  US, TX, El Paso
+ 
+school-level: secondary
+school-name:  Carlsbad HS
+school-place: US, CA, Carlsbad
+ 
+school-level: college
+school-name: Butte College

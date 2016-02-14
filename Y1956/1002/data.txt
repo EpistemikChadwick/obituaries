@@ -1,0 +1,9 @@
+name-last: Hart
+name-first: Red
+name-given: William F.
+ 
+death-date: 1956-11-12
+death-place:  US, OH, Akron
+ 
+cemetery-name: Greenlawn Memorial Park
+cemetery-place: US, OH, Akron

@@ -1,0 +1,9 @@
+name-last: Wise
+name-first: Bill
+name-given: William
+
+birth-date: 1945-03-20
+
+death-date: 2016-02-09
+death-place:  US, AL, Mobile
+

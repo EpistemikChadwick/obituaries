@@ -1,0 +1,9 @@
+name-last: Palatas
+name-first: Joseph
+name-given: Joseph N.
+ 
+death-date: 1944-04-12
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,10 @@
+name-last: Moreno
+name-first: Alejandro
+name-nick: Canitas
+ 
+birth-date: 1932-06-06
+birth-place: MX, Tamaulipas, Nuevo Laredo
+ 
+death-date: 2010-07-09
+death-place:  MX, Tamaulipas, Nuevo Laredo
+ 

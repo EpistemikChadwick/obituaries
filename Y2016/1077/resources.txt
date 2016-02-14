@@ -1,0 +1,12 @@
+source-title: Gadsden Times
+source-date: 2016-02-12
+source-url: http://www.legacy.com/obituaries/gadsdentimes/obituary.aspx?n=Bill-Wise&pid=177693508
+
+source-title: Collier-Butler Funeral Home
+source-date: 2016-02-12
+source-url: http://www.legacy.com/obituaries/gadsdentimes/obituary.aspx?n=Bill-Wise&pid=177693508
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-12

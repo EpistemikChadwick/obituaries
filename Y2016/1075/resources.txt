@@ -1,0 +1,8 @@
+source-title: New Haven Register
+source-date: 2016-02-09
+source-url: http://www.legacy.com/obituaries/nhregister/obituary.aspx?n=carl-peter-verderame&pid=177647774&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-10
