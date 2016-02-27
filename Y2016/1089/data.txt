@@ -1,0 +1,8 @@
+name-last: Menchaca
+name-first: Juan
+name-given: Juan Francisco
+name-matrilineal: James
+name-nick: el Profesor
+ 
+death-date: 2016-02-11
+death-place:  MX, Coahuila, Nueva Rosita

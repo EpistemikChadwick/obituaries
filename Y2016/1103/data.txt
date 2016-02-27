@@ -1,0 +1,12 @@
+name-last: Vlasin
+name-first: Larry
+name-given: Larry Joe
+ 
+birth-date: 1947-07-22
+birth-place: US, NE, Imperial
+ 
+death-date: 2016-02-12
+death-place:  US, NE, Omaha
+ 
+cemetery-name: Riverside Cemetery
+cemetery-place: US, NE, Crete

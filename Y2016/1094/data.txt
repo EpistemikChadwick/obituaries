@@ -1,0 +1,4 @@
+name-last: Jester
+name-first: Virgil
+ 
+death-date: 2016-02-15

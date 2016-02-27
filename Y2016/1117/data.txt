@@ -1,0 +1,19 @@
+name-last: Miller
+name-first: Al
+name-given: Albert C.
+ 
+birth-date: 1947-04-06
+birth-place: US, OR, Eugene
+ 
+death-date: 2016-02-16
+death-place:  US, OR, Keizer
+ 
+school-level: secondary
+school-name:  South Eugene HS
+school-place: US, OR, Eugene
+ 
+school-level: college
+school-name: University of Oregon
+ 
+school-level: college
+school-name: Eastern Oregon University

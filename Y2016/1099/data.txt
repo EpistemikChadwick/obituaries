@@ -1,0 +1,17 @@
+name-last: Granato
+name-first: John
+name-given: John Michael
+ 
+birth-date: 1921-09-08
+birth-place: US, OR, Portland
+ 
+death-date: 2016-02-16
+ 
+school-level: secondary
+school-name:  Lincoln HS
+school-place: US, OR, Portland
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II
+ 

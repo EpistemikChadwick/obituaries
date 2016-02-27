@@ -1,0 +1,14 @@
+name-last: Schultz
+name-first: Mark
+name-given: Marcus Alan
+ 
+birth-date: 1945-07-22
+birth-place: US, CA, Selma
+ 
+death-date: 2016-02-19
+death-place:  US, CA, Santa Cruz
+ 
+school-level: secondary
+school-name:  Santa Cruz HS
+school-place: US, CA, Santa Cruz
+ 

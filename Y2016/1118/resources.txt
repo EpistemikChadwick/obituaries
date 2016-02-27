@@ -1,0 +1,8 @@
+source-title: Sun-Sentinel
+source-date: 2016-02-27
+source-url: http://www.legacy.com/obituaries/sunsentinel/obituary.aspx?n=William-Fanizzi&pid=177868412
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-27

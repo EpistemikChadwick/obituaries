@@ -1,0 +1,17 @@
+name-last: Donovan
+name-first: Frank
+name-given: Francis Joseph
+ 
+birth-date: 1928-09-06
+birth-place: US, NY, Queens
+ 
+death-date: 2016-02-22
+death-place:  US, OH, Newark
+ 
+school-level: secondary
+school-name:  Power Memorial Academy
+school-place: US, NY, New York
+ 
+school-level: college
+school-name: St. John’s University
+school-place: US, NY, New York

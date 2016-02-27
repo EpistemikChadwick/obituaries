@@ -1,0 +1,8 @@
+source-title: La Voz
+source-date: 2016-02-12
+source-url: http://periodicolavoz.com.mx/muere-el-profe-menchaca/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-16

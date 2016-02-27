@@ -1,0 +1,11 @@
+name-last: Pemberton
+name-first: Brock
+ 
+birth-date: 1953-11-05
+birth-place: US, OK, Tulsa
+ 
+death-date: 2016-02-17
+ 
+school-level: secondary
+school-name:  Marina HS
+school-place: US, CA, Huntington Beach

@@ -1,0 +1,12 @@
+name-last: Schaffer
+name-first: Bob
+name-given: Robert A.
+ 
+birth-date: 1933-04-03
+birth-place: US, PA, Limeport
+ 
+death-date: 2016-02-19
+ 
+school-level: secondary
+school-name:  Allentown HS
+school-place: US, PA, Allentown

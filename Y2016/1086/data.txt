@@ -1,0 +1,11 @@
+name-last: Van Patten
+name-given: Boyd
+ 
+birth-date: 1947-11-05
+birth-place: US, UT, Oream
+ 
+death-date: 2016-02-10
+ 
+school-level: secondary
+school-name:  Springville HS
+school-place: US, UT, Springville

@@ -1,0 +1,14 @@
+name-last: Goulet
+name-first: George
+name-given: George Gerard
+ 
+birth-date: 1922-02-21
+birth-place: US, NH, Nashua
+ 
+death-date: 2016-02-12
+death-place:  US, NH, Nashua
+ 
+school-level: secondary
+school-name:  Nashua HS
+school-place: US, NH, Nashua
+ 

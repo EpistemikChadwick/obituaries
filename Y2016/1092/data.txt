@@ -1,0 +1,17 @@
+name-last: Duplinsky
+name-first: Michael
+name-given: Michael E.
+name-suffix: Jr.
+ 
+birth-date: 1922-06-16
+birth-place: US, PA, Coral
+ 
+death-date: 2016-02-15
+death-place:  US, PA, Lower Burrell
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, PA, Lower Burrell

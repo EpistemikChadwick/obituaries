@@ -1,0 +1,8 @@
+source-title: Eastgate Funeral Home
+source-date: 2016-02-15
+source-url: http://www.eastgatefuneral.com/home/index.cfm/obituaries/view/fh_id/15112/id/3597603
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-15

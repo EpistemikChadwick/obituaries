@@ -1,0 +1,16 @@
+name-last: Catchot
+name-first: Donald
+name-given: Donald Anthony
+ 
+birth-date: 1934-09-05
+birth-place: US, MS, Ocean Springs
+ 
+death-date: 2016-02-13
+death-place:  US, MS, Ocean Springs
+ 
+school-level: secondary
+school-name:  Ocean Springs HS
+school-place: US, MS, Ocean Springs
+ 
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, MS, Ocean Springs

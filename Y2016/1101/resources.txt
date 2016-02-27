@@ -1,0 +1,8 @@
+source-title: Dumont-Sullivan Funeral Home
+source-date: 2016-02-22
+source-url: http://www.dumontsullivan.com/obituaries/George-Goulet/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-22

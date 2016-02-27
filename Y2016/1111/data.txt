@@ -1,0 +1,11 @@
+name-last: Weicker
+name-first: George
+ 
+birth-date: 1953-08-01
+birth-place: US, MD, Baltimore
+ 
+death-date: 2016-02-21
+death-place:  US, TN, Arrington
+ 
+school-level: college
+school-name: Davidson College

@@ -1,0 +1,12 @@
+name-last: Davenport
+name-first: Jim
+name-given: James Houston
+ 
+birth-date: 1933-08-17
+birth-place: US, AL, Siluria
+ 
+death-date: 2016-02-18
+death-place:  US, CA, Redwood City
+ 
+school-level: college
+school-name: University of Southern Mississippi

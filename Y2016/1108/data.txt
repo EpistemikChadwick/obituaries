@@ -1,0 +1,16 @@
+name-last: Keuch
+name-first: Warren
+name-given: Warren W.
+name-nick: Pike
+ 
+birth-date: 1932-08-06
+birth-place: US,
+ 
+death-date: 2016-02-21
+death-place:  US, IL, Kankakee
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Pleasant Hill Cemetery
+cemetery-place: US, IL, Frankfort

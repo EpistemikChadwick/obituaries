@@ -1,0 +1,8 @@
+source-title: StatesmanJournal
+source-date: 2016-02-27
+source-url: http://www.legacy.com/obituaries/statesmanjournal/obituary.aspx?n=Albert-C-Miller&pid=177864757
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-27

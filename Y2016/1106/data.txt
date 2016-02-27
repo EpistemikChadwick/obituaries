@@ -1,0 +1,12 @@
+name-last: Hardish
+name-first: Richard
+name-given: Richard E.
+ 
+birth-date: 1934
+birth-place: US, PA, Monessen
+ 
+death-date: 2016-02-21
+death-place:  US, NJ, Edison
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,8 @@
+source-title: Times Herald
+source-date: 2016-02-21
+source-url: http://www.legacy.com/obituaries/timesheraldonline/obituary.aspx?n=Joseph-A-Pedrazzini&pid=177794021
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-21

@@ -1,0 +1,18 @@
+name-last: Hooper
+name-first: Dale
+name-given: Darwin Dale
+ 
+birth-date: 1931-09-26
+ 
+death-date: 2015-05-09
+ 
+school-level: secondary
+school-name:  Hughson HS
+school-place: US, CA, Hughson
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Bakersfield National Cemetery
+cemetery-place: US, CA, Arvin

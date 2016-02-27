@@ -1,0 +1,8 @@
+name-last: Colon
+name-first: Alcibiades
+ 
+birth-date: 1919-08-16
+birth-place: DO, Valverde, Mao
+ 
+death-date: 2015-02-15
+death-place:  DO, Valverde, Mao

@@ -1,0 +1,16 @@
+name-last: Galindo
+name-first: Alfred
+name-given: Alfred Lawrence
+ 
+birth-date: 1931-03-21
+birth-place: US, CA, San Francisco
+ 
+death-date: 2016-02-23
+death-place:  US, CA, San Francisco
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Holy Cross Catholic Cemetery
+cemetery-place: US, CA, Colma

@@ -1,0 +1,8 @@
+source-title: Myers-Somers Funeral Home
+source-date: 2016-02-22
+source-url: http://www.myerssomersfuneralhome.com/obits/obituary.php?id=591707
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-22

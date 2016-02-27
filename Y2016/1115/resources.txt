@@ -1,0 +1,8 @@
+source-title: Kreamer Funeral Home
+source-date: 2016-02-26
+source-url: http://www.kreamerfuneralhome.com/memsol.cgi?user_id=1752320
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-26

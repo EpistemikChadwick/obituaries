@@ -1,0 +1,14 @@
+name-last: Sainati
+name-first: Leo
+name-given: Leo Perry
+ 
+birth-date: 1916-05-19
+ 
+death-date: 2016-02-21
+death-place:  US, IL, Riverside
+ 
+school-level: college
+school-name: University of Illinois
+ 
+military-country: US
+military-branch:  Navy

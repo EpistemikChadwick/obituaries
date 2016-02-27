@@ -1,0 +1,8 @@
+source-title: Reed-Egan Funeral Home
+source-date: 2016-02-23
+source-url: http://www.reedegan.com/fh/obituaries/obituary.cfm?o_id=3607672&fh_id=13179
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-23

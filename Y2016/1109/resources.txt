@@ -1,0 +1,8 @@
+source-title: Santa Cruz Sentinel
+source-date: 2016-02-23
+source-url: http://www.legacy.com/obituaries/santacruzsentinel/obituary.aspx?n=Marcus-Alan-Schultz-Mark&pid=177813865
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-23

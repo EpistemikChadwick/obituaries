@@ -1,0 +1,12 @@
+name-last: Phillips
+name-first: Tony
+name-given: Keith Anthony
+ 
+birth-date: 1959-04-25
+birth-place: US, GA, Atlanta
+ 
+death-date: 2016-02-17
+death-place:  US, AZ, Scottsdale
+ 
+school-level: college
+school-name:  New Mexico Military Institute

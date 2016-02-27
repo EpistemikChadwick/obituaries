@@ -1,0 +1,13 @@
+name-last: Wick
+name-first: Gil
+name-given: Gilbert Walter
+ 
+birth-date: 1929-05-02
+birth-place: US, WI, Milwaukee
+ 
+death-date: 2016-02-22
+death-place:  US, FL, Avon Park
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

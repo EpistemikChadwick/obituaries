@@ -1,0 +1,19 @@
+name-last: Bonnabeaux
+name-first: Jerry
+name-given: Jerome G.
+ 
+birth-date: 1938-02-09
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2016-02-12
+ 
+school-level: secondary
+school-name:  John Adams HS
+school-place: US, NY, Queens
+ 
+school-level: college
+school-name: St. John’s University
+school-place: US, NY, New York
+ 
+cemetery-name: Maplewood Cemetery
+cemetery-place: US, NY, Saratoga Springs

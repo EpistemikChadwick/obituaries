@@ -1,0 +1,15 @@
+name-last: Freed
+name-first: Carl
+name-given: Carl Hunter
+ 
+birth-place: US, VA, Gordonsville
+ 
+death-date: 2016-02-19
+death-place:  US, VA, Mechanicsville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Signal Hill Memorial Park
+cemetery-place: US, VA, Hanover

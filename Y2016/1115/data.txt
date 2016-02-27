@@ -1,0 +1,19 @@
+name-last: Boger
+name-first: Pork
+name-given: James M.
+ 
+birth-date: 1938-04-17
+birth-place: US, PA, Lebanon
+ 
+death-date: 2016-02-23
+death-place:  US, PA, Lebanon
+ 
+school-level: secondary
+school-name:  Lebanon HS
+school-place: US, PA, Lebanon
+ 
+school-level: college
+school-name: University of Richmond
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, PA, Lebanon

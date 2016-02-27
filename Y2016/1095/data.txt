@@ -1,0 +1,16 @@
+name-last: Boehm
+name-first: Bucky
+name-given: Edward R.
+ 
+birth-date: 1923-04-28
+birth-place: US, MA, Methuen
+ 
+death-date: 2016-02-15
+death-place:  US, MA, Burlington
+ 
+school-level: secondary
+school-name:  Methuen HS
+school-place: US, MA, Methuen
+ 
+cemetery-name: St. Mary Cemetery
+cemetery-place: US, MA, Tewksbury

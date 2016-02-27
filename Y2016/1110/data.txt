@@ -1,0 +1,17 @@
+name-last: Encinas
+name-first: Tommie
+name-given: Thomas
+ 
+birth-date: 1923-04-26
+birth-place: US, CA, Willowbrook
+ 
+death-date: 2016-02-18
+death-place:  US, CA, Pomona
+ 
+school-level: secondary
+school-name:  Pomona HS
+school-place: US, CA, Pomona
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

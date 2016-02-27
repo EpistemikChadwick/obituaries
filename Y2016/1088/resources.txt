@@ -1,0 +1,8 @@
+source-title: Callaghan Mortuary
+source-date: 2016-02-15
+source-url: http://www.callaghanmortuary.com/home/index.cfm/obituaries/view/fh_id/10804/id/3595848
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-15

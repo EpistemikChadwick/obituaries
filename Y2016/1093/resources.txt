@@ -1,0 +1,8 @@
+source-title: Harrell Funeral Homes
+source-date: 2016-02-18
+source-url: http://www.harrellfuneralhomes.com/obituaries/James-Rudolph/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-18

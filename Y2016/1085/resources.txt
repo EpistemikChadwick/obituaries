@@ -1,0 +1,8 @@
+source-title: The Intelligencer
+source-date: 2016-02-15
+source-url: http://www.theintell.com/obituaries/intell/robert-e-fay-sr/article_266b19b8-22d5-5a51-af7c-3878c56e424b.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-15

@@ -1,0 +1,22 @@
+name-last: Harrell
+name-first: Joe
+name-given: Joe Edward
+ 
+birth-date: 1927-03-30
+birth-place: US, GA, Columbus
+ 
+death-date: 2016-02-13
+death-place:  US, GA, Columbus
+ 
+school-level: secondary
+school-name:  Jordan HS
+school-place: US, GA, Columbus
+ 
+school-level: college
+school-name: University of South Carolina
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Parkhill Cemetery
+cemetery-place: US, GA, Columbus

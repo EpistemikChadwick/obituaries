@@ -1,0 +1,16 @@
+name-last: Gageby
+name-first: Chuck
+name-given: Charles Ferdinand
+ 
+birth-date: 1934-10-06
+birth-place: US, SD, Ward
+ 
+death-date: 2016-02-10
+death-place:  US, SD, Ward
+ 
+school-level: secondary
+school-name:  Flandreau HS
+school-place: US, SD, Flandreau
+ 
+military-country: US
+military-branch:  Air Force

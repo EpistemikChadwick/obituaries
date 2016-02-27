@@ -1,0 +1,8 @@
+source-title: Harvey Douglas Funeral Home
+source-date: 2016-02-22
+source-url: http://www.hdouglasfuneralhome.com/home/index.cfm/obituaries/view/fh_id/12697/id/3605915
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-22

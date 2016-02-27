@@ -1,0 +1,16 @@
+name-last: Bush
+name-first: Buck
+name-given: Harold C.
+ 
+birth-date: 1914-08-17
+birth-place: US, PA, Altoona
+ 
+death-date: 2016-02-16
+death-place:  US, PA, Hollidaysburg
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, PA, Altoona

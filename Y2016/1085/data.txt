@@ -1,0 +1,16 @@
+name-last: Fay
+name-first: Bob
+name-given: Robert E.
+name-suffix: Sr.
+ 
+birth-place: US, NJ, Fairview
+ 
+death-date: 2016-02-11
+ 
+school-level: secondary
+school-name:  Abington HS
+school-place: US, PA, Abington
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

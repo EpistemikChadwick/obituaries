@@ -1,0 +1,8 @@
+source-title: Connell Funeral Home
+source-date: 2016-02-20
+source-url: http://www.connellfuneral.com/obituaries/Robert-Bob-Schaffer/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-20

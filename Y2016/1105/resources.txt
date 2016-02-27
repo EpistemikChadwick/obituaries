@@ -1,0 +1,8 @@
+source-title: San Jose Mercury News
+source-date: 2016-02-19
+source-url: http://www.mercurynews.com/giants/ci_29536884/jimmy-davenport-former-giants-third-baseman-dies
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-22

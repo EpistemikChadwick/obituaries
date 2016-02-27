@@ -1,0 +1,14 @@
+name-last: Harlow
+name-first: Herb
+name-given: Herbert William
+ 
+birth-date: 1925-10-04
+ 
+death-date: 2015-12-24
+ 
+school-level: college
+school-name: University of Washington
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

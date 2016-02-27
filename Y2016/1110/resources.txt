@@ -1,0 +1,8 @@
+source-title: Inland Valley Daily Bulletin
+source-date: 2016-02-24
+source-url: http://www.legacy.com/obituaries/ivdailybulletin/obituary.aspx?n=Thomas-Encinas-Tommie&pid=177826705
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-25

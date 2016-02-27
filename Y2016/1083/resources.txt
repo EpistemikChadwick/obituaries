@@ -1,0 +1,8 @@
+source-title: Columbus Ledger-Enquirer
+source-date: 2016-02-15
+source-url: http://www.legacy.com/obituaries/ledger-enquirer/obituary.aspx?n=Joe-Edward-Harrell&pid=177722093
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-15

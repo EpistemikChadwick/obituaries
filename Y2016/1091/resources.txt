@@ -1,0 +1,8 @@
+source-title: Muehlebach Funeral Home
+source-date: 2016-02-16
+source-url: https://www.meaningfulfunerals.net/home/index.cfm?action=public:obituaries.view&o_id=3600969&fh_id=12016
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-16

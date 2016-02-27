@@ -1,0 +1,20 @@
+name-last: Pedrazzini
+name-first: Joe
+name-given: Joseph A.
+ 
+birth-date: 1935-07-26
+birth-place: US, CA, Vallejo
+ 
+death-date: 2016-02-16
+death-place:  US, CA, Napa
+ 
+school-level: secondary
+school-name:  Vallejo HS
+school-place: US, CA, Vallejo
+ 
+school-level: college
+school-name: Solano Community College
+school-place: US, CA, Fairfield
+ 
+school-level: college
+school-name: California State University, Fresno

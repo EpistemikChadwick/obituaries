@@ -1,0 +1,22 @@
+name-last: Pickert
+name-first: Gary
+name-given: Gary T.
+ 
+birth-date: 1955-06-12
+birth-place: US, KS, Kansas City
+ 
+death-date: 2016-02-14
+ 
+school-level: secondary
+school-name:  Shawnee Mission South HS
+school-place: US, KS, Overland Park
+ 
+school-level: secondary
+school-name:  Bishop Miege HS
+school-place: US, KS, Roeland Park
+ 
+school-level: college
+school-name: Emporia State University
+ 
+cemetery-name: St. Boniface Cemetery
+cemetery-place: US, KS, Scipio

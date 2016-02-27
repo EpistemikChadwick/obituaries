@@ -1,0 +1,8 @@
+source-title:  Chicago Sun Time
+source-date: 201507-01
+source-url: http://chicago.suntimes.com/news/7/71/737852/noted-sherlockian-thomas-tully-dies-80
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-15

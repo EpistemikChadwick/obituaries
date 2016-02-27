@@ -1,0 +1,10 @@
+name-last: Tully
+name-first: Tom
+name-given: Thomas A.
+ 
+death-date: 2015-06-26
+death-place:  US, IL, Huntley
+ 
+school-level: secondary
+school-name:   St. Ignatius College Preparatory School
+school-place: US, IL, Chicago

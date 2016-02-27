@@ -1,0 +1,12 @@
+name-last: Brazda
+name-first: Lloyd
+name-given: Lloyd Edward
+name-suffix: Jr.
+ 
+birth-date: 1932-09-01
+ 
+death-date: 2016-01-10
+ 
+cemetery-name: St. John’s Cemetery
+cemetery-place: US, NE, Bellevue
+ 
