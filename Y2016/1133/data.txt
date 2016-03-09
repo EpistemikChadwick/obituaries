@@ -1,0 +1,16 @@
+name-last: Blaney
+name-first: Brian
+name-given: Brian Joseph
+ 
+birth-date: 1951-12-05
+birth-place: US, MA, Methuen
+ 
+death-date: 2016-02-28
+death-place:  US, MA, Methuen
+ 
+school-level: secondary
+school-name:  Tenney HS
+school-place: US, MA, Methuen
+ 
+cemetery-name: Elmwood Cemetery
+cemetery-place: US, MA, Methuen

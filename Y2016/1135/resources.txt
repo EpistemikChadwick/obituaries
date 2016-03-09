@@ -1,0 +1,12 @@
+source-title: PressConnects.com
+source-date: 2016-03-07
+source-url: http://www.pressconnects.com/story/sports/2016/03/07/local-baseball-legend-steve-kraly-dies/81440716/
+
+source-title: Binghamton Press & Sun-Bulletin
+source-date: 2016-03-07
+source-url: http://www.legacy.com/obituaries/pressconnects/obituary.aspx?n=stephen-c-kraly&pid=177972124&fhid=13287
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-07

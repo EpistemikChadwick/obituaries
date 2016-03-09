@@ -1,0 +1,12 @@
+source-title: Moultrie Observer
+source-date: 2016-02-29
+source-url: http://www.moultrieobserver.com/sports/local_sports/revered-coach-bud-willis-dies-at/article_a7e09be4-df62-11e5-9ae2-8f620a9e0320.html
+ 
+source-title: Cobb Funeral Chapel
+source-date: 2016-03-02
+source-url: http://www.cobbfuneralchapel.com/sitemaker/sites/COBBFU1/obit.cgi?user=45600824_CBudWillis
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-02

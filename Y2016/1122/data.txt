@@ -1,0 +1,12 @@
+name-last: DiGiantomasso
+name-first: Vincent
+name-given: Vincent Joseph
+ 
+birth-date: 1930-01-26
+birth-place: US, MI, Detroit
+ 
+death-date: 2016-02-23
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

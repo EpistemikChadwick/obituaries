@@ -1,0 +1,23 @@
+name-last: Santangelo
+name-first: Johnnie
+name-given: Johnnie Charles 
+name-suffix: III
+ 
+birth-date: 1985-07-21
+ 
+death-date: 2016-03-01
+ 
+school-level: secondary
+school-name:  Independence HS
+school-place: US, LA, Independence
+ 
+school-level: college
+school-name: Bossier Parish Community College
+school-place: US, LA, Bossier City
+ 
+school-level: college
+school-name: Northwestern State University
+school-place: US, LA, Natchitoches
+ 
+cemetery-name: Colonial Cemetery and Mausoleum
+cemetery-place: US, LA, Independence

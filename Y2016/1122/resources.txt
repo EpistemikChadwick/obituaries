@@ -1,0 +1,8 @@
+source-title: Freund Funeral Home
+source-date: 2016-02-29
+source-url: http://www.freundfuneralhome.com/fh/obituaries/obituary.cfm?o_id=3608566&fh_id=11818
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-29

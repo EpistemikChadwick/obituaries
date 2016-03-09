@@ -1,0 +1,17 @@
+name-last: Motsinger
+name-first: Earl
+name-given: Earl Gibson
+name-suffix: Sr.
+ 
+birth-date: 1926-09-09
+birth-place: US, NC, Forsyth County
+ 
+death-date: 2016-02-28
+death-place:  US, NC, Charlotte
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Prospect Presbyterian Church Cemetery
+cemetery-place: US, NC, Mooresville

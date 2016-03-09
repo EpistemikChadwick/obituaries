@@ -1,0 +1,8 @@
+source-title: Bachman, Kulik & Reinsmith Funeral Home
+source-date: 2016-02-29
+source-url: http://www.bachmankulikreinsmith.com/sitemaker/sites/Bachma1/obit.cgi?user=61603038_RBortzJr
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-29

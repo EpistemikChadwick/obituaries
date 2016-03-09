@@ -1,0 +1,20 @@
+name-last: Willis
+name-first: Virgil
+name-given: James Virgil
+name-nick: Bud
+ 
+birth-date: 1931-01-27
+birth-place: US, GA, Tift County
+
+death-date: 2016-02-28
+death-place: US, GA, Moultrie
+ 
+school-level: secondary
+school-name:  Tifton HS
+school-place: US, GA, Tifton
+ 
+school-level: college
+school-name: University of Alabama
+ 
+cemetery-name: Old Ty Ty Primitive Baptist Church Cemetery
+cemetery-place: US, GA, Ty Ty

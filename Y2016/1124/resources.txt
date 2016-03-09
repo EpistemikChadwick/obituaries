@@ -1,0 +1,8 @@
+source-title: Beisbol 101
+source-date: 2016-02-12
+source-url: http://www.beisbol101.com/2016/02/12/fallece-pachy-irizarry/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-29

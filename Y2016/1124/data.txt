@@ -1,0 +1,10 @@
+name-last: Irizarry
+name-first: Natalio
+name-nick: Pachy
+ 
+birth-date: 1929-09-30
+ 
+death-date: 2016-02-11
+ 
+school-level: college
+school-name: University of Dayton

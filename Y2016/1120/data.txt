@@ -1,0 +1,12 @@
+name-last: Wilson
+name-first: Don
+name-given: Donald E.
+ 
+birth-date: 1940-06-14
+birth-place:  US, IN, Clinton
+ 
+death-date: 2016-02-17
+death-place:  US, IN, West Terre Haute
+ 
+cemetery-name: Pleasantview Cemetery
+cemetery-place: US, IN, West Terre Haute

@@ -1,0 +1,14 @@
+name-last: Sullivan
+name-first: Bert
+name-given: Elbert Brooks
+name-suffix: Jr.
+ 
+death-date: 2016-02-20
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Bethel  Cumberland Presbyterian Church Cemetery
+cemetery-place: US, TN, Munford
+ 

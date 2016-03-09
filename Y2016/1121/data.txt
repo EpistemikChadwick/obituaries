@@ -1,0 +1,13 @@
+name-last: Collins
+name-first: Kevin
+name-given: Kevin Michael
+ 
+birth-date: 1946-08-04
+birth-place: US, MA, Springfield
+ 
+death-date: 2016-02-20
+death-place:  US, FL, Naples
+ 
+school-level: secondary
+school-name:  Springfield Tech HS
+school-place: US, MA, Springfield

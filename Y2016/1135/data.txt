@@ -1,0 +1,17 @@
+name-last: Kraly
+name-first: Steve
+name-given: Stephen C.
+ 
+death-date: 2016-03-07
+death-place: US, NY, Johnson City
+ 
+school-level: secondary
+school-name:  Whiting HS
+school-place: US, IN, Whiting
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, NY, Johnson City

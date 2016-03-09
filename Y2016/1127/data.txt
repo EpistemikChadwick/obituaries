@@ -1,0 +1,11 @@
+name-last: Hribar
+name-first: Wally
+name-given: Walter Joe
+ 
+birth-date: 1922-12-05
+birth-place: US, WI, Willard
+ 
+death-date: 2016-02-25
+death-place:  US, WI, Marshfield
+ 
+meta-throws: Left

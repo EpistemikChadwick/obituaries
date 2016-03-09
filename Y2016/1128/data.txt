@@ -1,0 +1,16 @@
+name-last: Nees
+name-first: John
+name-given: John A.
+ 
+birth-date: 1927
+ 
+death-date: 2016-02-28
+ 
+meta-throws: Left
+ 
+military-country: US
+military-conflict:  World War II
+ 
+military-country: US
+military-conflict:  Korean War
+ 

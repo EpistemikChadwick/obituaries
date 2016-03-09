@@ -1,0 +1,20 @@
+name-last: Bortz
+name-first: Raymond
+name-given: Raymond R.
+name-suffix: Jr.
+ 
+birth-place: US, PA, Quakertown
+ 
+death-date: 2016-02-28
+death-place:  US, PA, Bethlehem
+ 
+school-level: secondary
+school-name:  Coopersburg HS
+school-place: US, PA, Coopersburg
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Woodland Cemetery
+cemetery-place: US, PA, Coopersburg

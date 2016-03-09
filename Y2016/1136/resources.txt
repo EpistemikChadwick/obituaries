@@ -1,0 +1,8 @@
+source-title: The Repository
+source-date: 2016-03-08
+source-url: http://www.legacy.com/obituaries/cantonrep/obituary.aspx?n=John-Jack-David-Faur&pid=177973244
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-08

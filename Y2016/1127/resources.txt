@@ -1,0 +1,8 @@
+source-title: Marshfield News Herald
+source-date: 2016-03-02
+source-url: http://www.legacy.com/obituaries/marshfieldnewsherald/obituary.aspx?n=Walter-J-Hribar-Wally&pid=177880832
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-02

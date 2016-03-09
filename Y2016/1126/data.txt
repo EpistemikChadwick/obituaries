@@ -1,0 +1,16 @@
+name-last: Dawson
+name-first: Jack
+name-given: John A.
+ 
+birth-date: 1933
+birth-place: US, NJ, East Orange
+ 
+death-date: 2016-02-26
+death-place:  US, FL, Boca Raton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Sheboygan Falls Cemetery
+cemetery-place: US, WI, Sheboygan Falls

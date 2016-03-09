@@ -1,0 +1,20 @@
+name-last: Tanner
+name-first: Norm
+name-given: Norman William
+name-suffix: Jr.
+ 
+birth-date: 1934-04-20
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2016-02-27
+death-place:  US, ID, Nampa
+ 
+school-level: secondary
+school-name:  Bakersfield HS
+school-place: US, CA, Bakersfield
+ 
+school-level: college
+school-name: California State University, Fresno
+ 
+cemetery-name: Hillcrest Memorial Gardens
+cemetery-place: US, ID, Caldwell
