@@ -1,0 +1,8 @@
+source-title: Albany Democrat-Herald
+source-date: 2016-03-08
+source-url: http://democratherald.com/news/local/obituaries/ralph-leroy-babcock/article_a0f6bc8c-71ff-5706-aee7-f20405260284.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-14

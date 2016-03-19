@@ -1,0 +1,13 @@
+name-last:  Weiss
+name-first: Chuck
+name-given: Charles Ray
+ 
+birth-date: 1930-02-04
+birth-place: US, IL, Belleville
+ 
+death-date: 2016-03-06
+death-place:  US, IL, Glen Carbon
+ 
+school-level: secondary
+school-name:  Belleville Township HS
+school-place: US, IL, Belleville

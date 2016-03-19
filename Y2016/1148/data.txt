@@ -1,0 +1,18 @@
+name-last: Yohn
+name-first: Charles
+name-given: Charles W.
+name-suffix: Jr.
+name-nick: Junior
+ 
+birth-date: 1926-04-03
+birth-place: US, FL, Bradley Junction
+ 
+death-date:  2016-03-12
+death-place:  US, NC, New Bern
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Greenleaf Memorial Park
+cemetery-place: US, NC, New Bern

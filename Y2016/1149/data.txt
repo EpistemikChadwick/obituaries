@@ -1,0 +1,7 @@
+name-last: Reddick
+name-first: Joe
+name-given: Norbert W.
+ 
+birth-date: 1943-01-10
+ 
+death-date: 2016-03-14

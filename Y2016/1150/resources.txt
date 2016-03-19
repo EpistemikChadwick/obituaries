@@ -1,0 +1,8 @@
+source-title: Paul Young Funeral Home
+source-date: 2016-03-18
+source-url: http://www.paulyoungfuneralhome.com/memsol.cgi?user_id=1761542
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-18

@@ -1,0 +1,8 @@
+source-title:  David Espie obituary
+source-file-name: David Espie.pdf
+source-file-type: application/pdf
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-26
+contributor-email: timcopeland64@gmail.com

@@ -1,0 +1,16 @@
+name-last: Lyman
+name-first: Bill
+name-given: William Francis
+name-suffix: Jr.
+ 
+birth-date: 1935-02-19
+birth-place: US, CT, Putnam
+ 
+death-date: 2005
+death-place:  US, MO, Stafford
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Missouri Veterans Cemetery at Springfield
+cemetery-place: US, MO, Springfield

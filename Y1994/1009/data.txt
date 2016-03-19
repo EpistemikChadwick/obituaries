@@ -1,0 +1,7 @@
+name-last: Schuerholz
+name-first: John
+name-given: John B.
+name-suffix: Sr.
+ 
+death-date: 1994-09-16
+death-place:  US, MD, Cockeysville

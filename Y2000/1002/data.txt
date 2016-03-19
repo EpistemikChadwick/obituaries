@@ -1,0 +1,9 @@
+name-last: Mediamolle
+name-first: Frank
+name-given: Frank Henry
+name-suffix: Sr.
+ 
+death-date: 2000-08-11
+ 
+cemetery-name: Westlawn Memorial Park
+cemetery-place: US, LA, Gretna

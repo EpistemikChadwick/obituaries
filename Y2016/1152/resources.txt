@@ -1,0 +1,8 @@
+source-title: Sacramento Bee
+source-date: 2016-03-18
+source-url: http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=richard-louis-camilli&pid=178094728&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-18

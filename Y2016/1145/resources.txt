@@ -1,0 +1,12 @@
+source-title: UnicoBC
+source-date: 2016-03-04
+source-url: http://www.unicobc.com.mx/2016/03/es-dumbo-ayala-el-unico-con-tres.html
+
+source-title: DignityMemorial.com
+source-date: 2016-03-14
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Santiago-Ayala+Merancia&lc=4198&pid=177943830&mid=6830585
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-14

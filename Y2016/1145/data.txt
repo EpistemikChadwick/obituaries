@@ -1,0 +1,9 @@
+name-last: Ayala
+name-first: Santiago
+name-matrilineal: Merancia
+name-nick: Dumbo
+
+birth-date: 1926-08-25
+ 
+death-date: 2016-03-02
+death-place: US, AZ, Phoenix

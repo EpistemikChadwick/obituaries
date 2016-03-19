@@ -1,0 +1,8 @@
+source-title: Edwardsville Intelligence
+source-date: 2016-03-09
+source-url: http://www.legacy.com/obituaries/goedwardsville/obituary.aspx?n=Charles-Weiss&pid=177980722
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-09

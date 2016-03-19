@@ -1,0 +1,10 @@
+name-last:  Smith
+name-first:  Dick
+ 
+alias-type: birth
+alias-last: Gavin
+alias-first: Tom
+alias-given: Thomas S.
+ 
+death-date: 1931-11-15
+death-place: US, OH, Ironton

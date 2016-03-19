@@ -1,0 +1,16 @@
+name-last: Goalby
+name-first: Frank
+name-given: Frank J.
+ 
+birth-date: 1890-01-18
+birth-place: US, IL, Gillespie
+ 
+death-date: 1967-04-11
+death-place: US, GA, Dublin
+ 
+military-country: US
+military-branch:  Army
+military-conflict: World War I
+ 
+cemetery-name:  Rose Hill Cemetery
+cemetery-place: US, IL, Marion

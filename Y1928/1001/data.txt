@@ -1,0 +1,5 @@
+name-last: Honig
+name-first: Johnny
+ 
+death-date: 1928-07
+death-place: US, PA, Chester

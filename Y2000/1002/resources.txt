@@ -1,0 +1,8 @@
+source-title: USGWArchives.net
+source-date: 2016-02-15
+source-url: http://files.usgwarchives.net/la/orleans/obits/1/m-15.txt
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-15

@@ -1,0 +1,10 @@
+name-last: Johnson
+name-first: Owen
+name-given: L. Owen
+ 
+birth-place: US, NC, Greensboro
+ 
+death-date: 2016-03-04
+ 
+cemetery-name: Twin City Memorial Gardens
+cemetery-place: US, SC, Loris

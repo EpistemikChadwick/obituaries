@@ -1,0 +1,12 @@
+name-last: Fayta
+name-first: Art
+name-given: Arthur J.
+ 
+death-date: 2016-03-10
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Holy Cross Catholic Cemetery
+cemetery-place: US, IL, Calumet City

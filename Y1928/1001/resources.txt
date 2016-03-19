@@ -1,0 +1,9 @@
+source-title: John Honig obit
+source-file-name: John Honig death.pdf
+source-file-type: application/pdf
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-27
+contributor-email: timcopeland64@gmail.com
+

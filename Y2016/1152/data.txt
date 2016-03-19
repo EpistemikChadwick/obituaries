@@ -1,0 +1,15 @@
+name-last: Camilli
+name-first: Richard
+name-given: Richard Louis
+ 
+death-date: 2016
+ 
+school-level: secondary
+school-name:  San Juan HS
+school-place: US, CA, Citrus Heights
+ 
+school-level: college
+school-name: Santa Clara University
+
+[e1340c9b] Richard Camilli is the son of [19ffdc9d] Dolph Camilli
+

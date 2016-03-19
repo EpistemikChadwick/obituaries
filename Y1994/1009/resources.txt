@@ -1,0 +1,8 @@
+source-title: John Schuerholz obit
+source-file-name: John Schuerholz obit.docx
+source-file-type: application/ docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-04

@@ -1,0 +1,7 @@
+name-last: Compton
+name-first:  Kerry
+name-given: Kerry Owen
+ 
+death-date: 1971-08-04
+death-place: US, MO, Maryville
+

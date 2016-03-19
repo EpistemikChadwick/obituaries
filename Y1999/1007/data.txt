@@ -1,0 +1,13 @@
+name-last: Currie
+name-given: Woodrow J.
+name-nick: Sonny
+ 
+birth-date: 1919-10-27
+birth-place: US, NJ, West Paterson
+ 
+death-date: 1999-12-23
+death-place: US, NJ, Raritan Township
+ 
+cemetery-name: St. Magdalen Cemetery
+cemetery-place: US, NJ, Flemington
+ 

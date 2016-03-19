@@ -1,0 +1,12 @@
+name-last: Urlage
+name-first: Dick
+name-given: Richard
+ 
+birth-date: 1933-09-06
+birth-place: US, KY, Covington
+ 
+death-date: 2016-02-14
+ 
+school-level: secondary
+school-name:  Newport Catholic HS
+school-place:  US, KY, Newport

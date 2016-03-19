@@ -1,0 +1,9 @@
+name-last: Spicer
+name-first: Bob
+name-given: Robert Oberton
+name-suffix: Sr.
+ 
+birth-date: 1925-04-11
+ 
+death-date: 2016-02-27
+ 

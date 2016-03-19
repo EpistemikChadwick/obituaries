@@ -1,0 +1,8 @@
+name-last: Whitby
+name-first: Bill
+name-given: William Edward
+ 
+birth-date: 1943-07-29
+birth-place: US, VA, Nottoway County
+ 
+death-date: 2016-03-12

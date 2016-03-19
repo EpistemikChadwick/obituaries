@@ -1,0 +1,28 @@
+name-last: Clifton
+name-first: Bass
+name-given: Henry Bass
+name-suffix: Jr.
+ 
+birth-date: 1920-03-14
+birth-place: US, AL, Tarrant City
+ 
+death-date: 2016-03-17
+ 
+school-level: secondary
+school-name:  Jefferson County HS
+school-place: US, AL, Birmingham
+ 
+school-level: college
+school-name: University of Alabama
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+ 
+cemetery-name: Jefferson Memorial Gardens
+cemetery-place: US, AL, Trussville

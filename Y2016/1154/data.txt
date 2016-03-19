@@ -1,0 +1,20 @@
+name-last: Pfeiffer
+name-first: Al
+name-given: Allen Warfield
+ 
+birth-date: 1924-12-25
+birth-place: US, AL, Birmingham
+ 
+death-date: 2016-03-18
+death-place:  US, VA, Staunton
+ 
+school-level: secondary
+school-name:  Robert E. Lee HS
+school-place: US, VA, Staunton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Thornrose Cemetery
+cemetery-place: US, VA, Staunton

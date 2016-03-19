@@ -1,0 +1,9 @@
+source-title: Frank Goalby obit
+source-file-name: Frank Goalby obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-27
+contributor-email: timcopeland64@gmail.com
+

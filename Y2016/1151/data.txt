@@ -1,0 +1,19 @@
+name-last: Wherry
+name-first: Kendell
+name-given: Kendell Wooldridge
+ 
+birth-date: 1926-04-13
+birth-place: US, IL, Chicago
+ 
+death-date: 2016-03-04
+ 
+school-level: secondary
+school-name:  Hyde Park HS
+school-place: US, IL, Chicago
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Cape Canaveral National Cemetery
+cemetery-place: US, FL, Mims

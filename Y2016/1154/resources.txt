@@ -1,0 +1,8 @@
+source-title: Henry Funeral Home
+source-date: 2016-03-19
+source-url: http://www.henryfuneralhome.net/?pagetype=obitlink&obit_id=1762880
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-19

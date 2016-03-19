@@ -1,0 +1,16 @@
+name-last: Babcock
+name-first: LeRoy
+name-given: Ralph LeRoy
+ 
+birth-date: 1933-07-06
+birth-place: US, OR, Albany
+ 
+death-date: 2016-02-29
+death-place:  US, OR, Albany
+ 
+school-level: secondary
+school-name:  Albany Union HS
+school-place:  US, OR, Albany
+ 
+military-country: US
+military-branch:  Army

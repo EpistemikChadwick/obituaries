@@ -1,0 +1,15 @@
+name-last: Feneck
+name-first: Buddy
+name-given: Anthony G.
+ 
+birth-date: 1928-04-01
+birth-place: US, NJ, Jersey City
+ 
+death-date: 2016-03-15
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, NJ, North Arlington
