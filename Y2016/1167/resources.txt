@@ -1,0 +1,8 @@
+source-title: Courier-Journal
+source-date: 2016-03-27
+source-url: http://www.legacy.com/obituaries/louisville/obituary.aspx?n=cornelius-curry-neil&pid=179407428&fhid=4751&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-28

@@ -1,0 +1,21 @@
+name-last: Leahey
+name-first: Chick
+name-given: William J.
+name-suffix: Jr.
+ 
+birth-date: 1925-08-25
+birth-place: US, ME, Lewiston
+ 
+death-date: 2016-03-26
+death-place:  US, ME, Auburn
+ 
+school-level: secondary
+school-name:  Lewiston HS
+school-place: US, ME, Lewiston
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Mt. Hope Cemetery
+cemetery-place: US, ME, Lewiston

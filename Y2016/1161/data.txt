@@ -1,0 +1,8 @@
+name-last: Ford
+name-first: Adair
+name-given: Adair James
+ 
+birth-date: 1932-05-21
+birth-place: US, AL, Huntsville
+ 
+death-date: 2016-03-19

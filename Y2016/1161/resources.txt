@@ -1,0 +1,8 @@
+source-title: Jones Funeral Home
+source-date: 2016-03-27
+source-url: http://216.119.69.91/ArticObits/Obitsnew/Landing_Obituary.aspx?oid=90030
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-27

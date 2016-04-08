@@ -1,0 +1,11 @@
+name-last: Barbian
+name-first: Ron
+name-given: Ronald Elroy
+ 
+birth-date: 1932-03-19
+birth-place: US, WI, Milwaukee
+ 
+death-date: 2016-03-21
+ 
+cemetery-name: Arlington Park Cemetery
+cemetery-place: US, WI, Greenfield

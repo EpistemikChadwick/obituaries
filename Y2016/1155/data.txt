@@ -1,0 +1,15 @@
+name-last: Cretel
+name-first: Mike
+name-given: Maurice Joseph
+ 
+birth-place: US, NJ. Paterson
+ 
+death-date: 2016-03-17
+ 
+school-level: secondary
+school-name:  Central HS
+school-place: US, NJ Paterson
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,14 @@
+name-last: Clegg
+name-first: Del
+name-given: Delbert Eugene
+name-suffix: Sr.
+ 
+birth-date: 1928-02
+birth-place: US, CA, Santa Paula
+ 
+death-date: 2016-03-18
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 

@@ -1,0 +1,19 @@
+name-last: Summers
+name-first: Jack
+name-given: Jack Earl
+ 
+birth-date: 1932-03-16
+birth-place: US, IN, Princeton
+ 
+death-date: 2016-03-23
+ 
+school-level: secondary
+school-name:  Princeton HS
+school-place: US, IN, Princeton
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Level Grove Cemetery
+cemetery-place: US, GA, Cornelia

@@ -1,0 +1,8 @@
+source-title: Starbuck Funeral Home
+source-date: 2016-03-31
+source-url: http://www.starbuckfuneralhome.com/book-of-memories/2453987/Whisenhunt-Dink/obituary.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-31

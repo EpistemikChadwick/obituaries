@@ -1,0 +1,14 @@
+name-last: Fontenot
+name-first: Lester
+name-suffix: Jr.
+ 
+birth-date: 1973-03-24
+ 
+death-date: 2016-03-16
+death-place:  US, LA, Gonzales
+ 
+school-level: college
+school-name: Louisiana College
+ 
+cemetery-name: Iota Cemetery
+cemetery-place: US, LA, Iota

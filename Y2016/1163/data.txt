@@ -1,0 +1,16 @@
+name-last: Tarnok
+name-first: Mike
+name-given: Michael P.
+ 
+birth-date: 1922-10-26
+birth-place: US, PA, Nazareth
+ 
+death-date: 2016-03-26
+death-place:  US, PA, Nazareth
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Holy Family Cemetery
+cemetery-place: US, PA, Nazareth

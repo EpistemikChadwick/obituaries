@@ -1,0 +1,16 @@
+name-last: Carter
+name-first: Arlen
+name-given: Arlen Francis
+ 
+birth-date: 1932-04-20
+birth-place: US, VA, Stephens City
+ 
+death-date: 2016-03-29
+death-place:  US, VA, Newport News
+ 
+school-level: secondary
+school-name:  Poquoson HS
+school-place: US, VA, Poquoson
+ 
+school-level: college
+school-name: University of Virginia

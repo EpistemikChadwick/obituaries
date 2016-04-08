@@ -1,0 +1,16 @@
+name-last: Ely
+name-first: Ted
+name-given: Theodore Harrison
+ 
+birth-date: 1926-02-22
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2016-03-26
+ 
+school-level: secondary
+school-name:  Upper Darby HS
+school-place:  US, PA, Upper Darby
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

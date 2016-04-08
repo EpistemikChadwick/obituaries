@@ -1,0 +1,15 @@
+name-last: Borders
+name-first: Phil
+name-given: Philip Edward
+ 
+birth-date: 1939-06-18
+birth-place: US, OK, Tulsa
+ 
+death-date: 2016-03-21
+ 
+school-level: secondary
+school-name:  Ballard HS
+school-place: US, WA, Seattle
+ 
+school-level: college
+school-name: University of Washington

@@ -1,0 +1,17 @@
+name-last: Whisenhunt
+name-first: Dink
+ 
+birth-date: 1936
+ 
+death-date: 2016-03-29
+death-place:  US, TX, Trent
+ 
+school-level: secondary
+school-name:  Merkel HS
+school-place: US, TX, Merkel
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Rose Hill Cemetery
+cemetery-place: US, TX, Merkel

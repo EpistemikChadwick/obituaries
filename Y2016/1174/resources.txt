@@ -1,0 +1,8 @@
+source-title: Daily Press
+source-date: 2016-03-30
+source-url: http://www.legacy.com/obituaries/dailypress/obituary.aspx?n=Arlen-Francis-Carter&pid=179455120
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-31

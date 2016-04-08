@@ -1,0 +1,25 @@
+name-last: Huebner
+name-first: Larry
+name-given: Larry Gene
+ 
+birth-date: 1939-03-31
+birth-place: US, WI, Hortonville
+ 
+death-date: 2016-03-23
+death-place:  US, WI, Madison
+ 
+school-level: secondary
+school-name:  Hortonville HS
+school-place: US, WI, Hortonville
+ 
+school-level: college
+school-name: University of Wisconsin
+ 
+school-level: college
+school-name: University of Wisconsin-Oshkosh
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Plover Cemetery
+cemetery-place: US, WI, Plover

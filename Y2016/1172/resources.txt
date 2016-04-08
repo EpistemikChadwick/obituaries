@@ -1,0 +1,8 @@
+source-title: Courier Mail
+source-date: 2016-03-14
+source-url: http://www.couriermail.com.au/sport/more-sports/brisbane-baseball-community-mourns-pitcher-trent-baker/news-story/0bf7adb7c55ecfe76e80ee6ffdfbff2f
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-29

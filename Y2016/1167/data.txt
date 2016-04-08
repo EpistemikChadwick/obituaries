@@ -1,0 +1,14 @@
+name-last: Curry
+name-first: Neil
+name-given: Cornelius
+ 
+death-date: 2016-03-26
+death-place:  US, KY, Louisville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Stephen Cemetery
+cemetery-place: US, KY, Louisville
+

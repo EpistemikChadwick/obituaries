@@ -1,0 +1,7 @@
+name-last: Kane
+name-first: Red
+name-given: Francis J.
+ 
+birth-date: 1923-01-19
+ 
+death-date: 2016-03-29

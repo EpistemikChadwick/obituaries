@@ -1,0 +1,8 @@
+source-title: Naples Daily News
+source-date: 2016-03-29
+source-url: http://www.legacy.com/obituaries/naplesnews/obituary.aspx?n=Theodore-H-Ely&pid=179426385
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-29

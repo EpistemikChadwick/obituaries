@@ -1,0 +1,20 @@
+name-last: Rivera
+name-first: Oscar
+name-matrilineal: Rodriguez
+ 
+birth-date: 1958-05-05
+birth-place: US, TX, New Gulf
+ 
+death-date: 2016-03-07
+death-place:  US, TX, Corpus Christi
+ 
+school-level: secondary
+school-name:  Wharton HS
+school-place: US, TX, Wharton
+ 
+school-level: college
+school-name: Wharton County Junior College
+school-place: US, TX, Wharton
+ 
+cemetery-name: Evergreen Memorial Park
+cemetery-place: US, TX, Wharton

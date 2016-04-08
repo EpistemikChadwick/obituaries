@@ -1,0 +1,24 @@
+name-last: Sise
+name-first: Bob
+name-given: Robert J.
+ 
+birth-date: 1926-01-15
+birth-place: US, NY, Albany
+ 
+death-date: 2016-03-22
+death-place:  US, NY, Schenectady
+ 
+school-level: secondary
+school-name:  St. Mary’s Catholic Institute
+school-place: US, NY, Amsterdam
+ 
+school-level: college
+school-name: Union College
+school-place:  US, NY, Schenectady
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, NY, Fort Johnson

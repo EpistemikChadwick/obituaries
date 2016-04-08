@@ -1,0 +1,8 @@
+source-title: Beck’s Funeral Home
+source-date: 2016-03-29
+source-url: http://www.becksfuneralhome.com/obituary.php?id=2487
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-29

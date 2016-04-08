@@ -1,0 +1,8 @@
+source-title: Campbell’s Funeral Home
+source-date: 2016-03-21
+source-url: http://campbellsamherst.sharingmemories.ca/site/David-Kiley.html?s=40
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-21

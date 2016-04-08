@@ -1,0 +1,9 @@
+name-last: Kiley
+name-first: Dave
+name-given: David Edward
+ 
+birth-date: 1928
+birth-place: CA, NB, St. John
+ 
+death-date:  2016-03-17
+death-place:  CA, NS, Amherst

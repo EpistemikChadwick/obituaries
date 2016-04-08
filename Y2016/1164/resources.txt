@@ -1,0 +1,8 @@
+source-title: Globe Gazette
+source-date: 2016-03-22
+source-url: http://globegazette.com/news/local/obituaries/richard-dick-colloton-of-burlingame-california-formerly-of-mason-city/article_9ed9f111-842b-5f58-ab0a-d41f89e9f230.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-03-27

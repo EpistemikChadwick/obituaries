@@ -1,0 +1,24 @@
+name-last: Dedo
+name-first: Marty
+name-given: Mario
+ 
+birth-date: 1922-04-23
+birth-place: US, NH, Keene
+ 
+death-date: 2016-03-27
+death-place:  US, NH, Westmoreland
+ 
+school-level: secondary
+school-name:  Keene HS
+school-place: US, NH, Keene
+ 
+school-level: secondary
+school-name:  Hebron Academy
+school-place: US, ME, Hebron
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, NH, Keene

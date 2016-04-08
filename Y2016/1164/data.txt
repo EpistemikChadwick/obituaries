@@ -1,0 +1,23 @@
+name-last: Colloton
+name-first: Dick
+name-given: Richard Harold
+ 
+birth-date: 1932-07-08
+birth-place: US, IA, Mason City
+ 
+death-date: 2016-03-19
+death-place:  US, CA, San Mateo
+ 
+school-level: secondary
+school-name:  St. Joseph’s Catholic HS
+school-place: US, IA, Mason City
+ 
+school-level: college
+school-name: Notre Dame University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Elmwood-St. Joseph Municipal Cemetery
+cemetery-place: US, IA, Mason City
