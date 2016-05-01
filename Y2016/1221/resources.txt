@@ -1,0 +1,12 @@
+source-title: Macon Telegraph
+source-date: 2016-04-26
+source-url: http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article73938457.html
+
+source-title: Tributes.com
+source-date: 2016-04-26
+source-url: http://www.tributes.com/obituary/show/James-Thomas-Roberts-103513065
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-26

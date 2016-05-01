@@ -1,0 +1,14 @@
+name-last: Butters
+name-first: Tom
+ 
+birth-date: 1938-04-08
+birth-place: US, OH, Delaware
+ 
+death-date: 2016-03-31
+death-place:  US, NC, Durham
+ 
+school-level: college
+school-name: Ohio Wesleyan University
+ 
+military-country: US
+military-branch:  Army

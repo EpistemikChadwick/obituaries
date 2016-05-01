@@ -1,0 +1,8 @@
+source-title: Waco Tribune
+source-date: 2016-04-02
+source-url: http://www.wacotrib.com/obituaries/taylor-thomas-ray/article_38bfcd35-09d5-57c2-84bb-6b6de6621972.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-04

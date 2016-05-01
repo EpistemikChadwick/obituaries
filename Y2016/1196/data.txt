@@ -1,0 +1,12 @@
+name-last: Tidwell
+name-first: Danny
+name-given: Danny Ray
+ 
+birth-date: 1956-11-06
+birth-place: US, FL, Lake Worth
+ 
+death-date: 2016-04-09
+ 
+school-level: secondary
+school-name:  Atlantic HS
+school-place: US, FL, Delray Beach

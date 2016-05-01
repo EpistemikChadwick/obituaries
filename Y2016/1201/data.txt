@@ -1,0 +1,20 @@
+name-last: Schneider
+name-first: LaVerne
+name-given: LaVerne C.
+ 
+birth-date: 1933-09-10
+birth-place: US, IL, Winslow
+ 
+death-date: 2016-04-12
+death-place:  US, IL, Freeport
+ 
+school-level: secondary
+school-name:  Winslow HS
+school-place: US, IL, Winslow
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Rock Lily Cemetery
+cemetery-place: US, IL, Winslow

@@ -1,0 +1,18 @@
+name-last: Brown
+name-first: Roger
+name-given: Roger W.
+ 
+birth-date: 1929-05-23
+birth-place: US, IL, Danville
+ 
+death-date: 2016-03-19
+ 
+school-level: secondary
+school-name:  Alvin HS
+school-place: US, IL, Alvin
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Rossville Cemetery
+cemetery-place: US, IL, Rossville

@@ -1,0 +1,15 @@
+name-last: Phillips
+name-first: Chase
+name-given: Chase Alan
+ 
+birth-date: 1986-09-14
+birth-place: US, TX, Lubbock
+ 
+death-date: 2016-04-18
+ 
+school-level: secondary
+school-name:  Monterey HS
+school-place: US, TX, Lubbock
+ 
+school-level: college
+school-name: Western Oklahoma State College

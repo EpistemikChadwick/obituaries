@@ -1,0 +1,19 @@
+name-last: Rossman
+name-first: Kent
+name-nick: Sock
+ 
+birth-date: 1935-01-06
+birth-place: US, NY, Hudson
+ 
+death-date: 2016-03-20
+death-place:  US, NY, Albany
+ 
+school-level: secondary
+school-name:  Philmont HS
+school-place: US, NY, Philmont
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Union Cemetery of Mellenville
+cemetery-place: US, NY, Mellenville

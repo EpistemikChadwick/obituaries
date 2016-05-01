@@ -1,0 +1,8 @@
+name-last: Pappas
+name-first: Milt
+name-given: Milton
+ 
+birth-date: 1939-05-11
+birth-place: US, MI, Detroit
+ 
+death-date: 2016-04-19

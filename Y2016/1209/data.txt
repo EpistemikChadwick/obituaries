@@ -1,0 +1,20 @@
+name-last: Brown
+name-first: Jim
+name-given: James Cleo
+ 
+birth-date: 1947-11-27
+birth-place: US, IA, Atlantic
+ 
+death-date: 2016-04-14
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Englewood HS
+school-place: US, CO, Littleton
+ 
+school-level: college
+school-name: Arizona State University
+ 
+military-country: US
+military-branch:  Army

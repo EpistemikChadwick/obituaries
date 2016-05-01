@@ -1,0 +1,8 @@
+source-title: Press-Enterprise
+source-date: 2016-04-10
+source-url: http://www.legacy.com/obituaries/pe/obituary.aspx?n=Gerald-Ross-Delmont-Jerry&pid=179573719
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-10

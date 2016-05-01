@@ -1,0 +1,12 @@
+source-title: Greenwich Time
+source-date: 2016-04-05
+source-url: http://www.greenwichtime.com/local/article/Oldest-living-Brooklyn-Dodger-dies-in-Greenwich-7229033.php
+
+source-title: Stamford Advocate
+source-date: 2016-04-08
+source-url: http://www.legacy.com/obituaries/stamfordadvocate/obituary.aspx?n=Michael-Sandlock&pid=179545302
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-10

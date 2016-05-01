@@ -1,0 +1,17 @@
+
+name-last: Groves
+name-first: Ralph
+name-given: Ralph Henry
+ 
+birth-date: 1932-09-01
+birth-place: US, PA, Zelienople
+ 
+death-date: 2016-04-13
+death-place:  US, PA, Zelienople
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Paul’s Lutheran Church Cemetery
+cemetery-place: US, PA, Zelienople

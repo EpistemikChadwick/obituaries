@@ -1,0 +1,12 @@
+name-last: Phillips
+name-first: Don
+name-given: Donald Irvin
+name-suffix: Sr.
+ 
+birth-date: 1935-03-23
+birth-place: US, KY, Muldraugh
+ 
+death-date: 2016-04-05
+ 
+cemetery-name: Centuries Memorial Park
+cemetery-place: US, LA, Shreveport

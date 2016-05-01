@@ -1,0 +1,16 @@
+name-last: Burns
+name-first: Tim
+name-given: Timothy Kinnison
+ 
+birth-date: 1951-04-21
+birth-place: US, IN, Sullivan
+ 
+death-date: 2016-04-08
+death-place:  US, FL, Satellite Beach
+ 
+school-level: secondary
+school-name:  Meadowdale HS
+school-place: US, OH, Dayton
+ 
+school-level: college
+school-name: Austin Peay State University

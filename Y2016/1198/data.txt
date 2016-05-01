@@ -1,0 +1,19 @@
+name-last: Kaelin
+name-first: Marty
+name-given: Martin E.
+ 
+birth-date: 1926-09-10
+birth-place: US, KY, Louisville
+ 
+death-date: 2016-04-14
+ 
+school-level: secondary
+school-name:  Male HS
+school-place: US, KY, Louisville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, KY, Louisville

@@ -1,0 +1,18 @@
+name-last: Noel
+name-first: Randy
+name-given: Ervil Randolph
+ 
+birth-date: 1920-06-12
+birth-place: US, IN, Pendleton
+ 
+death-date: 2016-04-08
+ 
+school-level: college
+school-name: Ball State University
+ 
+school-level: college
+school-name: Purdue University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,14 @@
+name-last: Toles
+name-first: Ted
+name-given: Theodore
+name-suffix: Jr.
+ 
+birth-date: 1925-12-04
+birth-place: US, OH, Braceville
+ 
+death-date: 2016-04-04
+death-place:  US, OH, Warren
+ 
+school-level: secondary
+school-name:  Braceville HS
+school-place: US, OH, Braceville

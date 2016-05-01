@@ -1,0 +1,8 @@
+source-title: News & Observer
+source-date: 2016-04-04
+source-url: http://www.legacy.com/obituaries/newsobserver/obituary.aspx?n=Tom-Butters&pid=179505978
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-04

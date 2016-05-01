@@ -1,0 +1,7 @@
+name-last: Gonzalez
+name-first: Jesus
+name-given: Jesus Alberto
+name-matrilineal: Cedeno
+ 
+death-date: 2016-03-20
+death-place:  VE, Aragua, Maracay

@@ -1,0 +1,9 @@
+name-last: Rasmussen
+name-first: Jay
+name-given: Jay Allan
+ 
+birth-date: 1942-09-26
+birth-place: US, MN, Morristown
+ 
+death-date: 2016-03-30
+death-place:  US, WI, Hayward

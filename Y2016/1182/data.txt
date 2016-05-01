@@ -1,0 +1,7 @@
+name-last: Alvarez
+name-first: Orlando
+ 
+birth-place: PR, , Canovanas
+ 
+death-date: 2016-03-31
+

@@ -1,0 +1,16 @@
+name-last: Sandlock
+name-first: Mike
+name-given: Michael Joseph
+ 
+birth-date: 1915-10-17
+birth-place: US, CT, Old Greenwich
+ 
+death-date: 2016-04-04
+death-place:  US, CT, Cos Cob
+ 
+school-level: secondary
+school-name:  J. M. Wright Technical HS
+school-place: US, CT, Stamford
+ 
+cemetery-name: St. John’s Catholic Cemetery
+cemetery-place: US, CT, Darien

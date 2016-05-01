@@ -1,0 +1,10 @@
+name-last: Hoffinger
+name-first: Glenn
+ 
+birth-date: 1964-07-01
+birth-place: US, IL, Chicago
+ 
+death-date: 2016-03-29
+ 
+school-level: college
+school-name: University of Portland

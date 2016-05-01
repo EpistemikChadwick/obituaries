@@ -1,0 +1,8 @@
+source-title: Florida Today
+source-date: 2016-04-17
+source-url: http://www.legacy.com/obituaries/floridatoday/obituary.aspx?n=Timothy-Burns&pid=179634368
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-18

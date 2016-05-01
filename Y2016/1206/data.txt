@@ -1,0 +1,8 @@
+name-last: Hacker
+name-first: Harold
+name-nick:  Hack
+ 
+death-date: 2016-04-14
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,8 @@
+name-last: Murphy
+name-first: Sean
+ 
+death-date: 2016-04-25
+death-place:  US, AZ,
+ 
+school-level: college
+school-name: Keystone College

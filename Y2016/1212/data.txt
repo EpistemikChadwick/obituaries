@@ -1,0 +1,20 @@
+name-last: Kuykendall
+name-first: Phil
+name-given: Phillip Harold
+ 
+birth-date: 1924-03-17
+birth-place: US, CA, Long Beach
+ 
+death-date: 2016-04-06
+death-place:  US, NV, Black Springs
+ 
+school-level: secondary
+school-name:  Loyola HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: Santa Clara University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

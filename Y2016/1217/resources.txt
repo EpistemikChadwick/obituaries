@@ -1,0 +1,8 @@
+source-title: San Diego Union Tribune
+source-date: 2016-04-25
+source-url: http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=Gerald-C-Mayers&pid=179730036
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-25

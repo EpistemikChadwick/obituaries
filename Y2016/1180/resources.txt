@@ -1,0 +1,8 @@
+source-title: Funeral Home Web
+source-date: 2016-04-04
+source-url: http://funeralhomeweb.net/default.aspx?MemberId=158744&MName=Kent%20(Sock)%20Rossman&FLVId=75
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-04

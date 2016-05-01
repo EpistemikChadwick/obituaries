@@ -1,0 +1,8 @@
+source-title: Los Angeles Times
+source-date: 2016-04-07
+source-url: http://www.legacy.com/obituaries/latimes/obituary.aspx?n=alan-dale-ihde&pid=179540194&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-07

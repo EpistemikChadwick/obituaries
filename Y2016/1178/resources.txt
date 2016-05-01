@@ -1,0 +1,8 @@
+source-title: StatesmanJournal
+source-date: 2016-04-03
+source-url: http://www.legacy.com/obituaries/statesmanjournal/obituary.aspx?n=Eldon-Reed-Russell&pid=179488577
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-04

@@ -1,0 +1,21 @@
+name-last: Taylor
+name-first: TR
+name-given: Thomas Ray
+ 
+birth-date: 1931-09-04
+birth-place: US, TX, Waco
+ 
+death-date:  2016-03-30
+death-place:  US, TX, Waco
+ 
+school-level: secondary
+school-name:  Waco HS
+school-place: US, TX, Waco
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Waco Memorial Cemetery
+cemetery-place: US, TX, Waco
+ 

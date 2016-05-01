@@ -1,0 +1,8 @@
+source-title: Lubbock Avalanche-Journal
+source-date: 2016-04-21
+source-url: http://www.legacy.com/obituaries/lubbockonline/obituary.aspx?n=Chase-Alan-Phillips&pid=179698060
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-21

@@ -1,0 +1,15 @@
+name-last: Rink
+name-first: Willard
+name-given: Willard A.
+ 
+birth-date: 1934-05-22
+ 
+death-date: 2016-04-06
+ 
+school-level: college
+school-name: Hope College
+school-place: US, MI, Holland
+ 
+cemetery-name: Graafschap Cemetery
+cemetery-place: US, MI, Holland
+ 

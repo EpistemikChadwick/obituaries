@@ -1,0 +1,17 @@
+name-last: Richards
+name-first: Frederick
+name-given: Frederick C.
+name-nick: Fuzz
+ 
+birth-date: 1927-11-03
+birth-place: US, OH, Leavittsburg
+ 
+death-date: 2016-03-18
+death-place:  US, OH, Warren
+ 
+school-level: secondary
+school-name:  Leavittsburg HS
+school-place: US, OH, Leavittsburg
+ 
+cemetery-name: Crown Hill Burial Park
+cemetery-place: US, OH, Vienna

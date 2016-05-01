@@ -1,0 +1,20 @@
+name-last: Perkowski
+name-first: Harry
+name-given: Harry W.
+ 
+birth-date: 1922-09-06
+birth-place: US, VA, Dante
+ 
+death-date: 2016-04-20
+death-place: 
+ 
+school-level: secondary
+school-name:  Trap Hill HS
+school-place: US, WV, Surveyor
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Blue Ridge Memorial Gardens
+cemetery-place: US, WV, Prosperity

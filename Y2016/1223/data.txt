@@ -1,0 +1,10 @@
+name-last: Spicuzza
+name-first: John
+name-given: John F.
+ 
+death-date: 2016-04-20
+death-place:  US, FL, Lecanto
+ 
+school-level: secondary
+school-name:  Wauwatosa HS
+school-place: US, WI, Wauwatosa

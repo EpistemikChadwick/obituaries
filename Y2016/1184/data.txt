@@ -1,0 +1,21 @@
+name-last: Stullenburger
+name-first: Stoney
+name-given: Harold J.
+ 
+birth-date: 1925-07-01
+birth-place: US, OH, Dillonvale
+ 
+death-date: 2016-03-29
+death-place:  US, NJ, Vineland
+ 
+school-level: secondary
+school-name:  Bellaire HS
+school-place: US, OH, Bellaire
+ 
+school-level: college
+school-name: Muskingum University
+school-place: US, OH, New Concord
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

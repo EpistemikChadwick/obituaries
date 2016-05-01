@@ -1,0 +1,17 @@
+name-last: Mayers
+name-first: Jerry
+name-given: Gerald C.
+ 
+birth-date: 1933-04-26
+birth-place: US, OH, Akron
+ 
+death-date: 2016-03-17
+death-place:  US, CA, Poway
+ 
+school-level: secondary
+school-name:  La Jolla HS
+school-place: US, CA, La Jolla
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

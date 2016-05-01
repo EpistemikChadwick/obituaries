@@ -1,0 +1,8 @@
+source-title: El Nuevo Dia
+source-date: 2016-03-31
+source-url: http://www.elnuevodia.com/deportes/beisbol/nota/delutoelbeisbolpuertorriqueno-2181128/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-04

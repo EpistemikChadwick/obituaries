@@ -1,0 +1,16 @@
+name-last: Ihde
+name-first: Alan
+name-given: Alan Dale
+ 
+birth-date: 1927-05-31
+birth-place: US, SD, Yankton
+ 
+death-date: 2016-04-02
+death-place:  US, CA, West Hills
+ 
+school-level: secondary
+school-name:  Hamilton HS
+school-place: US, CA, Los Angeles
+ 
+cemetery-name: Inglewood Park Cemetery
+cemetery-place: US, CA, Inglewood

@@ -1,0 +1,8 @@
+source-title: Grand Rapids Press
+source-date: 2016-04-10
+source-url: http://obits.mlive.com/obituaries/grandrapids/obituary.aspx?n=willard-rink&pid=179548283&fhid=25615&eid=sp_ommatch&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-10

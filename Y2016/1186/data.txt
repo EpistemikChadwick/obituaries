@@ -1,0 +1,16 @@
+name-last: Close
+name-first: Bill
+name-given: William C.
+ 
+birth-date: 1947-01-18
+birth-place: US, MA, Waltham
+ 
+death-date: 2016-04-05
+death-place:  US, MA, Leominster
+ 
+school-level: secondary
+school-name:  St. Mary’s HS
+school-place: US, MA, Waltham
+ 
+school-level: college
+school-name: College of the Holy Cross

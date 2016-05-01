@@ -1,0 +1,8 @@
+source-title: Milwaukee Journal Sentinel
+source-date: 2016-04-26
+source-url: http://www.legacy.com/obituaries/jsonline/obituary.aspx?n=john-f-spicuzza&pid=179745066&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-26

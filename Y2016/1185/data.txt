@@ -1,0 +1,19 @@
+name-last: Koebel
+name-first:  Alben
+name-given: Alben Andrew
+ 
+birth-date: 1920-12-04
+ 
+death-date: 2016-04-05
+death-place:  US, OH, Fremont
+ 
+school-level: secondary
+school-name:  Fremont Ross HS
+school-place: US, OH, Fremont
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II
+ 
+cemetery-name: McGormley Cemetery
+cemetery-place: US, OH, Fremont

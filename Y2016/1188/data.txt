@@ -1,0 +1,8 @@
+name-last: Bache
+name-first: Jose
+name-nick: Pepe
+ 
+birth-place: MX, Veracruz, Tuxpan
+ 
+death-date: 2016-03
+death-place: MX, Veracruz, Tuxpan

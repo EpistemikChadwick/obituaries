@@ -1,0 +1,17 @@
+name-last: Zorge
+name-first: Les
+name-given: Leslie Allen
+ 
+birth-date: 1927-02-23
+birth-place: US, OH, Cleveland
+ 
+death-date: 2016-04-17
+death-place:  US, OR, Portland
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Naples Memorial Gardens Cemetery
+cemetery-place: US, FL, North Naples
+ 

@@ -1,0 +1,17 @@
+name-last: Rossetti
+name-first: Freddie
+name-given: Alfred Paul
+name-suffix: Jr.
+ 
+birth-place: US, MA, Medway
+ 
+death-date: 2016-04-11
+death-place:  US, MA, Medway
+ 
+school-level: secondary
+school-name:  Medway HS
+school-place: US, MA, Medway
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II

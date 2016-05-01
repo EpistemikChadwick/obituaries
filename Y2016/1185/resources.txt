@@ -1,0 +1,8 @@
+source-title: Herman Funeral Home
+source-date: 2016-04-06
+source-url: http://www.hermanfh.com/memsol.cgi?user_id=1770576
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-06

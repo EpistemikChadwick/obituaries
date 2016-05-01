@@ -1,0 +1,19 @@
+name-last: Presley
+name-first: Don
+name-given: Marvin Donald
+ 
+birth-date: 1935-09-28
+birth-place: US, TX, Dallas
+ 
+death-date: 2016-03-09
+death-place:  US, TX, Austin
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Highland Park HS
+school-place: US, TX, Dallas
+ 
+school-level: college
+school-name: Southern Methodist University
+ 

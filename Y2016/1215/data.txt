@@ -1,0 +1,15 @@
+name-last: Bunker
+name-first: Dick
+name-given: Richard J.
+ 
+birth-place: US, MA, Norwood
+ 
+death-date: 2016-04-03
+death-place:  US, FL, Edgewater
+ 
+school-level: secondary
+school-name:  Norwood HS
+school-place: US, MA, Norwood
+ 
+school-level: college
+school-name: University of Notre Dame

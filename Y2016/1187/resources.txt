@@ -1,0 +1,9 @@
+source-title: El Periodiquito
+source-date: 2016-03-20
+source-url: http://www.elperiodiquito.com/article/217011/Fallecio-beisbolista-en--accidente-de-transito
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-06

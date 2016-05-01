@@ -1,0 +1,23 @@
+name-last: Proctor
+name-first: Joe
+name-given: Joseph C.
+ 
+birth-date: 1947-04-03
+birth-place: US, OH, Cincinnati
+ 
+death-date: 2016-04-09
+death-place:  US, NY, Plattsburgh
+ 
+school-level: secondary
+school-name:  Beekmantown HS
+school-place: US, NY, West Chazy
+ 
+school-level: college
+school-name: SUNY Plattsburgh
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Mount Carmel Cemetery
+cemetery-place: US, NY, Plattsburgh

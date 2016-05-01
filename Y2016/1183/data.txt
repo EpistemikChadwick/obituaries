@@ -1,0 +1,12 @@
+name-last: Donovan
+name-first: Larry
+name-given: Lawrence W.
+ 
+birth-date: 1934-01-18
+birth-place: US, MI, Ionia
+ 
+death-date: 2016-04-03
+ 
+school-level: secondary
+school-name:  Ionia HS
+school-place: US, MI, Ionia

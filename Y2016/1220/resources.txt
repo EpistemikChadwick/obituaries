@@ -1,0 +1,8 @@
+source-title: Schantz Funeral Home
+source-date: 2016-04-26
+source-url: http://www.schantzfh.com/memsol.cgi?user_id=1787306
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-26

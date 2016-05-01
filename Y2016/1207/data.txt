@@ -1,0 +1,12 @@
+name-last: Och
+name-first: Joe
+name-given: Joseph Robert
+ 
+birth-date: 1924-05-01
+birth-place: US, PA, Pittsburgh
+ 
+death-date: 2016-04-18
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

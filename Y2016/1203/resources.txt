@@ -1,0 +1,8 @@
+source-title: Funeral.com
+source-date: 2016-04-18
+source-url: http://massachusetts.obituaries.funeral.com/2016/04/13/alfred-paul-rossetti-jr-4112016-medway-ma/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-18

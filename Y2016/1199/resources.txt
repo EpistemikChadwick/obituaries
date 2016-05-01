@@ -1,0 +1,9 @@
+
+source-title: Herald-News
+source-date: 2016-04-17
+source-url: http://www.legacy.com/obituaries/theherald-news/obituary.aspx?n=Larry-D-Molck&pid=179647423
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-18

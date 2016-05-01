@@ -1,0 +1,8 @@
+source-title: Journal-Standard
+source-date: 2016-04-15
+source-url: http://www.legacy.com/obituaries/journalstandard/obituary.aspx?n=LaVerne-C-Schneider&pid=179622031
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-18

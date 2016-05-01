@@ -1,0 +1,8 @@
+source-title: Facebook.com
+source-date: 2016-04-25
+source-url: https://m.facebook.com/story.php?story_fbid=1001711953198882&id=159836574053095
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-25

@@ -1,0 +1,12 @@
+source-title: Chicago Tribune
+source-date: 2016-04-19
+source-url: http://www.chicagotribune.com/sports/baseball/cubs/ct-milt-pappas-cubs-dead-20160419-story.html
+
+source-title: Hack Funeral Home
+source-date: 2016-04-21
+source-url: http://www.hackfuneralhome.com/notices/Milton-Pappas
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-21

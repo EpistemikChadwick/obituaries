@@ -1,0 +1,8 @@
+source-title: Melton Mortuary
+source-date: 2016-04-25
+source-url: http://meltonmortuary.com/obituaries/harry-w-perkowski/1221/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-25

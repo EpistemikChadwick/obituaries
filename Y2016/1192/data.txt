@@ -1,0 +1,17 @@
+name-last: Delmont
+name-first: Jerry
+name-given: Gerald Ross
+ 
+birth-date: 1936-12-29
+birth-place: US, CA, San Bernardino
+ 
+death-date: 2016-03-30
+death-place:  US, CA, Menifee
+ 
+school-level: secondary
+school-name:  Riverside Polytechnic HS
+school-place: US, CA, Riverside
+ 
+school-level: college
+school-name: California State Polytechnic University, Pomona
+ 

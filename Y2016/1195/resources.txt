@@ -1,0 +1,8 @@
+source-title: Indianapolis Star
+source-date: 2016-04-12
+source-url: http://www.legacy.com/obituaries/indystar/obituary.aspx?n=Ervil-Randolph-Noel-Randy&pid=179584795
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-12

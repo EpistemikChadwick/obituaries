@@ -1,0 +1,17 @@
+name-last: Molck
+name-first: Larry
+name-given: Larry D.
+ 
+death-date: 2016-04-14
+death-place:  US, IL, Crest Hill
+ 
+school-level: secondary
+school-name:  Joliet Township HS
+school-place: US, IL, Joliet
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Abraham Lincoln National Cemetery
+cemetery-place: US, IL, Elwood
+ 
