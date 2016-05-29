@@ -1,0 +1,12 @@
+
+name-last: Hunt
+name-first: Kevin
+name-given: Richard Kevin
+
+birth-date:  1948-11-29
+birth-place: US, MA, Framingham
+
+death-date: 2015-05-22
+
+school-level: college
+school-name:  Doane College

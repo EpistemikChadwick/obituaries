@@ -1,0 +1,17 @@
+ame-last: Lavender
+name-first: Robert
+name-given: Robert Keith
+name-suffix: Jr.
+
+birth-date: 1964-08-23
+birth-place: US, OK, Lawton
+
+death-date: 2015-05-24
+death-place: US, OK, Lawton
+
+school-level: secondary
+school-name:  Eisenhower HS
+school-place: US, OK, Lawton
+
+school-level: college
+school-name: University of Oklahoma

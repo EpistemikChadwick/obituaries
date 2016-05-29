@@ -1,0 +1,17 @@
+name-last: Conat
+name-first: Don
+name-given: Donald Cornelius
+
+birth-date: 1924-02-28
+birth-place: US, MN, Bemidji
+
+death-date: 2015-06-20
+death-place: US, OR, Keizer
+
+school-level: secondary
+school-name:  Bemidji HS
+school-place: US, MN, Bemidji
+
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

@@ -1,0 +1,20 @@
+name-last: Gorrie
+name-first: Dave
+name-given: David Franklin
+
+birth-date: 1930-10-15
+birth-place: US, TX, Olney
+
+death-date: 2015-05-16
+
+school-level: college
+school-name: Pasadena City College
+
+school-level: college
+school-name: University of California, Santa Barbara
+
+military-country: US
+military-branch:  Navy
+
+cemetery-name: Restland Memorial Park
+cemetery-place: US, TX, Carthage

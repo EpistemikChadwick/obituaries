@@ -1,0 +1,8 @@
+source-title: Bismarck Funeral Home
+source-date: 2015-06-21
+source-url: http://bismarckfuneralhome.com/obituaries/conrad-juelker/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-21

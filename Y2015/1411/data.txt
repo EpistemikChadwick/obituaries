@@ -1,0 +1,5 @@
+name-last: Hamilton
+name-first: Darryl
+
+death-date: 2015-06-21
+death-place: US, TX, Pearland

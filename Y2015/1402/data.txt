@@ -1,0 +1,17 @@
+name-last: Schulte
+name-first: Dick
+name-given: Richard K.
+
+birth-date: 1931-03-09
+
+death-date: 2015-05-20
+
+school-level: secondary
+school-name:  Hughes HS
+school-place: US, OH, Cincinnati
+
+military-country: US
+military-branch:  Army
+
+cemetery-name: Dayton National Cemetery
+cemetery-place: US, OH, Dayton

@@ -1,0 +1,13 @@
+name-last: Lopeman
+name-first: John
+name-given: John R.
+
+birth-place: US, KS,
+
+death-date: 2015-06-13
+
+military-country: US
+military-branch:  Marines
+
+cemetery-name: Oak Hill Cemetery
+cemetery-place: US, CA, Red Bluff

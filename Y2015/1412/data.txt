@@ -1,0 +1,19 @@
+name-last: Lagunas
+name-first: Luis
+name-given: Luis Lopez
+
+birth-date: 1943-09-12
+birth-place: US, AZ, Hayden
+
+death-date: 2015-06-15
+death-place: US, AZ, Phoenix
+
+school-level: secondary
+school-name:  Hayden HS
+school-place: US, AZ, Hayden
+
+school-level: college
+school-name: Arizona State University
+
+cemetery-name: Mountain View Cemetery
+cemetery-place: US, AZ, Hayden

@@ -1,0 +1,8 @@
+source-title: Houston Chronicle
+source-date: 2015-06-22
+source-url: http://www.chron.com/news/houston-texas/article/Two-people-found-dead-in-Pearland-home-6340824.php
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-22

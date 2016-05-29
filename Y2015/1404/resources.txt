@@ -1,0 +1,8 @@
+source-title: Carroll County Times
+source-date: 2015-05-30
+source-url: http://www.legacy.com/obituaries/carrollcountytimes/obituary.aspx?n=Henry-Alexander&pid=174971368
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-31

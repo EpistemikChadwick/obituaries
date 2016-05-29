@@ -1,0 +1,19 @@
+name-last: Deitz
+name-first: Emmett
+name-given: Emmett Edwin
+
+birth-date: 1931-02-02
+birth-place: US, NC, Bryson City
+
+death-date: 2015-06-23
+death-place: US, SC, Anderson
+
+school-level: secondary
+school-name:  Lee Edwards HS
+school-place: US, NC, Asheville
+
+school-level: college
+school-name: University of South Carolina
+
+military-country: US
+military-branch:  Army

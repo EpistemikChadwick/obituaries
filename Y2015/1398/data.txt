@@ -1,0 +1,10 @@
+name-last: Gladding
+name-first: Fred
+name-given: Fred Earl
+
+birth-date: 1936-06-28
+
+death-date: 2015-05-21
+
+cemetery-name: Woodhaven Memorial Garden
+cemetery-place: US, TN, Powell

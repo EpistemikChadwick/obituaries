@@ -1,0 +1,16 @@
+name-last: Rogers
+name-first: Bill
+name-given: William R.
+name-suffix: Sr.
+
+birth-date: 1923-05-01
+birth-place: US, NC,
+
+death-date: 2015-05-25
+
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+
+cemetery-name: Stephens Cemetery
+cemetery-place: US, MO, Columbia

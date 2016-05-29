@@ -1,0 +1,17 @@
+name-last: Woodall
+name-first: Wendall
+name-given: Wendall Warren
+
+birth-date: 1925-03-17
+birth-place: US, IA, Webster City
+
+death-date: 2015-05-24
+death-place: US, IL, Monmouth
+
+school-level: secondary
+school-name:  Webster City HS
+school-place: US, IA, Webster City
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1943-11-23 to 1946-01-15

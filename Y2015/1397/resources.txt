@@ -1,0 +1,16 @@
+source-title: Overton Funerals
+source-date: 2015-05-26
+source-url: http://www.overtonfunerals.com/memsol.cgi?user_id=1591045
+
+source-title: Radio Iowa
+source-date: 2015-05-26
+source-url: http://www.radioiowa.com/2015/05/26/simpson-coach-father-of-baseball-star-casey-blake-dies-in-accident/
+
+source-title: KCCI
+source-date: 2015-05-26
+source-url: http://www.kcci.com/news/1-killed-in-rollover-crash/33217044
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-27

@@ -1,0 +1,8 @@
+source-title: Log Cabin Democrat
+source-date: 2015-05-31
+source-url: http://www.legacy.com/obituaries/thecabin/obituary.aspx?n=Everett-Lee-Kell-Skeeter&pid=174969262
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-31

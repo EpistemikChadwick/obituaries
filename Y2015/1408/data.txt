@@ -1,0 +1,8 @@
+source-title: Daily News
+source-date: 2015-06-20
+source-url: http://www.legacy.com/obituaries/redbluffdailynews/obituary.aspx?n=JOHN-R-LOPEMAN&pid=175120033
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-20

@@ -1,0 +1,11 @@
+name-last: Kell
+name-first: Skeeter
+name-given: Everett Lee
+
+birth-date: 1929-10-11
+birth-place: US, AR, Swifton
+
+death-date: 2015-05-28
+
+cemetery-name: Swifton Cemetery
+cemetery-place: US, AR, Swifton

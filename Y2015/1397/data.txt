@@ -1,0 +1,13 @@
+name-last: Blake
+name-first: Joe
+name-given: Joe Franklin
+
+birth-date: 1949-09-23
+
+death-date: 2015-05-25
+death-place: US, IA, Indianola
+
+school-level: college
+school-name: Simpson College
+
+[9e5c7b06] Joe Blake is the father of [198ad835] Casey Blake; [9eb7f0ee] Joe Blake; [8e116dca] Ben Blake; and [a6b8ec86] Peter Blake.

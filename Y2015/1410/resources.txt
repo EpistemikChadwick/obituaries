@@ -1,0 +1,8 @@
+source-title: Daily Inter Lake
+source-date: 2015-06-20
+source-url: http://www.dailyinterlake.com/community/obituaries/douglas-doc-ellis/article_0a52d946-17b2-11e5-9d82-674f2cd8bedd.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-21

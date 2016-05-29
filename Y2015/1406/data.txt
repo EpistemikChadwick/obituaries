@@ -1,0 +1,13 @@
+name-last: Jones
+name-first: Glenn
+name-given: Glenn V.
+
+birth-date: 1931-02-21
+birth-place: US, TX, Abilene
+
+death-date: 2015-06-16
+death-place: US, TX, Abilene
+
+school-level: secondary
+school-name:  Abilene HS
+school-place: US, TX, Abilene

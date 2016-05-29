@@ -1,0 +1,8 @@
+source-title: StatesmanJournal
+source-date: 2015-06-24
+source-url: http://www.legacy.com/obituaries/statesmanjournal/obituary.aspx?n=Donald-Conat&pid=175143724
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-24

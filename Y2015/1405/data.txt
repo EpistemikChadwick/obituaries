@@ -1,0 +1,14 @@
+name-last: Seagrave
+name-first: Demont
+name-given: Demont Weir
+
+birth-date: 1937-05-23
+
+death-date: 2015-06-12
+death-place: US, FL, Jacksonville
+
+school-level: secondary
+school-name:  Dumont HS
+school-place: US, NJ, Dumont
+
+cemetery-name: Cremated

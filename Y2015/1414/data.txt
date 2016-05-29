@@ -1,0 +1,22 @@
+name-last: Filliben
+name-first: Vincent
+name-given: Vincent James
+name-suffix: Sr.
+
+birth-date: 1930-02-03
+
+death-date: 2015-06-22
+
+school-level: secondary
+school-name:  Archmere Academy
+school-place:  US, DE, Claymont
+
+school-level: college
+school-name: Drexel University
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+
+cemetery-name: St. Joseph on the Brandywine Church Cemetery
+cemetery-place: US, DE, Greenville

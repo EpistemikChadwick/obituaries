@@ -1,0 +1,8 @@
+source-title: Jimerson-Lipsey Funeral Home
+source-date: 2015-05-26
+source-url: http://www.jimerson-lipsey.com/fh/obituaries/obituary.cfm?o_id=3112002&fh_id=10709
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-26

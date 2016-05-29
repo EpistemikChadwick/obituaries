@@ -1,0 +1,15 @@
+name-last: Flannagan
+name-first: Jimmy
+name-given: James Lynn
+
+birth-date: 1930-11-01
+
+death-date: 2015-05-23
+death-place: US, VA, Abingdon
+
+school-level: secondary
+school-name:  Tennessee HS
+school-place: US, TN, Bristol
+
+cemetery-name: Glenwood Cemetery
+cemetery-place: US, TN, Bristol

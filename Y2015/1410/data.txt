@@ -1,0 +1,14 @@
+name-last: Ellis
+name-first: Doug
+name-given: Douglas Scott
+name-nick: Doc
+
+birth-date: 1964-08-07
+birth-place: US, MT, Havre
+
+death-date: 2015-06-06
+death-place: US, MT, Missoula
+
+school-level: secondary
+school-name:  Flathead HS
+school-place: US, MT, Kalispell

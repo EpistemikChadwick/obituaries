@@ -1,0 +1,8 @@
+source-title: Erie Times-News
+source-date: 2015-06-01
+source-url: http://www.legacy.com/obituaries/erietimesnews/obituary.aspx?n=Earl-T-Gearhart&pid=174980810
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-01

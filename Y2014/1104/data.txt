@@ -1,0 +1,20 @@
+name-last: Juelke
+name-first: Connie
+name-given: Conrad
+
+birth-date: 1924-04-01
+birth-place: US, ND, Oakes
+
+death-date: 2014-12-31
+death-place: US, ND, Bismarck
+
+school-level: secondary
+school-name:  Oakes HS
+school-place: US, ND, Oakes
+
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+
+cemetery-name: North Dakota Veterans Cemetery
+cemetery-place: US, ND, Mandan

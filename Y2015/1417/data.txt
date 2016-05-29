@@ -1,0 +1,12 @@
+name-last: Droes
+name-first: Marvin
+name-given: Marvin A.
+
+birth-date: 1929
+birth-place: US, WI, Madison
+
+death-date: 2015-05-15
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

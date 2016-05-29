@@ -1,0 +1,20 @@
+name-last: Beran
+name-first: Jerry
+name-given: Gerald W.
+
+birth-date: 1926-09-09
+birth-place: US, KS, Odin
+
+death-date: 2015-05-21
+death-place: US, KS, Great Bend
+
+school-level: secondary
+school-name:  Odin HS
+school-place: US, KS, Odin
+
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+
+cemetery-name: Holy Family Cemetery
+cemetery-place: US, KS, Odin

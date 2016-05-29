@@ -1,0 +1,15 @@
+name-last: Alexander
+name-first: Henry
+name-given: Henry Hess
+name-suffix: Sr.
+
+birth-date: 1922-06-07
+birth-place: US, MD, Taneytown
+
+death-date: 2015-05-28
+death-place: US, MD, Emmitsburg
+
+meta-throws: Left
+
+cemetery-name: Trinity Lutheran Cemetery
+cemetery-place: US, MD, Taneytown

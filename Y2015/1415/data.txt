@@ -1,0 +1,16 @@
+name-last: Begick
+name-first: Norb
+name-given: Norbert A.
+
+birth-date: 1923-01-19
+birth-place: US, MI, Frankenlust Township
+
+death-date: 2015-06-24
+death-place: US, MI, Bay City
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+
+cemetery-name: St. Paul Lutheran Cemetery
+cemetery-place: US, MI, Bay City

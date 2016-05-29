@@ -1,0 +1,15 @@
+name-last: Calder
+name-first: Bruce
+name-given: Bruce Alexander
+
+birth-date: 1920-05-07
+birth-place: US, KY, Corbin
+
+death-date: 2015-06-17
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+
+cemetery-name: Forest Lawn Memorial Gardens
+cemetery-place: US, AL, Saraland

@@ -1,0 +1,8 @@
+source-title: The Missourian
+source-date: 2015-05-27
+source-url: http://www.columbiamissourian.com/obituaries/bishop-bill-rogers-may-aug/article_0f8cf8ce-0484-11e5-b59d-7fbe9a867f7b.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-31

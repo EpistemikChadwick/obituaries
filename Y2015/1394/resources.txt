@@ -1,0 +1,8 @@
+source-title: Oakley-Cook Funeral Home
+source-date: 2015-05-26
+source-url: http://www.oakley-cook.com/obituaries/James-Flannagan/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-26
