@@ -1,0 +1,15 @@
+name-last: Elliott
+name-first: Buck
+name-given: Willard
+ 
+birth-date: 1922-10-10
+birth-place: US, PA, York
+ 
+death-date: 2016-05-10
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Mount Muncie Cemetery
+cemetery-place: US, KS, Lansing

@@ -1,0 +1,10 @@
+name-last: Freni
+name-first: Joe
+name-given: Joseph S.
+ 
+birth-date: 1934-11-17
+ 
+death-date: 2016-05-11
+ 
+cemetery-name: Woodlawn Cemetery
+cemetery-place: US, MA, Everett

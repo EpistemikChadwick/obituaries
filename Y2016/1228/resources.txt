@@ -1,0 +1,8 @@
+source-title: Konrad-Behlman Funeral Home
+source-date: 2016-05-01
+source-url: http://www.konrad-behlman.com/services.asp?page=odetail&id=3007&locid=0#.VyZYgzArKhc
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-01

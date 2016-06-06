@@ -1,0 +1,16 @@
+name-last: Cabral
+name-first: Ted
+name-given: Theodore A.
+name-suffix: Jr.
+ 
+birth-date: 1929
+ 
+death-date: 2016-04-26
+death-place:  US, VA, Hopewell
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Dinwiddie Memorial Park
+cemetery-place: US, VA, Petersburg
+ 

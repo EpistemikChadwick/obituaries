@@ -1,0 +1,20 @@
+name-last: Newkirk
+name-first: Bill
+name-given: William B.
+ 
+birth-date: 1934
+birth-place: US, KY, Louisville
+ 
+death-date: 2016-05-04
+death-place:  US, KY, Louisville
+ 
+school-level: secondary
+school-name:  St. Xavier HS
+school-place: US, KY, Louisville
+ 
+school-level: college
+school-name: University of Cincinnati
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

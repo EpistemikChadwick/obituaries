@@ -1,0 +1,8 @@
+source-title: Meaningful Funerals.net
+source-date: 2016-05-05
+source-url: https://www.meaningfulfunerals.net/home/index.cfm?action=public%3Aobituaries.view&CFID=7deeef36-d514-466e-b9b1-7dc5ba7ce216&CFTOKEN=0&o_id=3700402&fh_id=13986
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-05

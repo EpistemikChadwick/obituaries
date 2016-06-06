@@ -1,0 +1,16 @@
+name-last: Matte
+name-first: William
+name-given: William Edward
+ 
+death-date: 2016-04-23
+ 
+school-level: secondary
+school-name:  B.M.C. Durfee HS
+school-place: US, MA, Fall River
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Patrick’s Cemetery
+cemetery-place: US, MA, Fall River

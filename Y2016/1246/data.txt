@@ -1,0 +1,14 @@
+name-last: Tucker
+name-first: Joey
+name-given: Joey R.
+ 
+birth-date: 1935-02-23
+birth-place: US, OH, Preble County
+ 
+death-date: 2016-05-06
+death-place:  US, OH, Greenville
+ 
+school-level: secondary
+school-name:  Lewisburg HS
+school-place: US, OH, Lewisburg
+ 

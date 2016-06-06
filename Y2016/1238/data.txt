@@ -1,0 +1,20 @@
+name-last: Kusturin
+name-first: Mike
+name-given: Michael P.
+ 
+birth-date: 1923-01-10
+birth-place: US, IL, Johnston City
+ 
+death-date: 2016-05-05
+death-place:  US, IL, Centralia
+ 
+school-level: secondary
+school-name:  Johnston City HS
+school-place: US, IL, Johnston City
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Hillcrest Memorial Park
+cemetery-place: US, IL, Centralia

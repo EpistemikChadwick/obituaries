@@ -1,0 +1,15 @@
+name-last: Thompson
+name-first: Bo
+name-given: Clyde Lionel
+ 
+birth-date: 1933-01-11
+birth-place: US, LA, Wisner
+ 
+death-date: 2016-05-11
+death-place:  US, LA, Mandeville
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Pinecrest Memorial Gardens
+cemetery-place: US, LA, Covington

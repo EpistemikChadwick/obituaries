@@ -1,0 +1,22 @@
+name-last: Gabos
+name-first: John
+name-given: John T.
+ 
+birth-date: 1922-12-17
+birth-place: US, PA, Mt. Pleasant
+ 
+death-date: 2016-04-29
+ 
+school-level: secondary
+school-name:  Ramsay HS
+school-place: US, PA, Mt. Pleasant
+ 
+school-level: college
+school-name: Illinois Wesleyan University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Joan of Arc Cemetery
+cemetery-place: US, WI, Oconomowoc

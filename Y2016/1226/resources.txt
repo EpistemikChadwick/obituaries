@@ -1,0 +1,8 @@
+source-title: Ocala Star-Banner
+source-date: 2016-05-01
+source-url: http://www.legacy.com/obituaries/ocala/obituary.aspx?n=samuel-ralph-knisley&pid=179832933&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-01

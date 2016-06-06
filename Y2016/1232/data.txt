@@ -1,0 +1,6 @@
+name-last: Durham
+name-first: Joe
+name-given: Joseph Vann
+ 
+death-date: 2016-04-28
+death-place:  US, MD, Randallstown

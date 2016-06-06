@@ -1,0 +1,8 @@
+source-title: Midland Daily News
+source-date: 2016-05-07
+source-url: http://www.legacy.com/obituaries/ourmidland/obituary.aspx?n=jim-goergen&pid=179914884&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-15

@@ -1,0 +1,18 @@
+name-last: Garner
+name-first: Fred
+name-given: James Frederick Thomas
+ 
+birth-date: 1929-08-29
+birth-place: US, OK, Tulsa
+ 
+death-date: 2016-01-10
+ 
+school-level: secondary
+school-name:  Franklin HS
+school-place: US, CA, Los Angeles
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Friendship Cemetery
+cemetery-place: US, LA, Haynesville

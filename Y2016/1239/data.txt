@@ -1,0 +1,16 @@
+name-last: Marquette
+name-first: Cot
+name-given: Leroy Arthur
+ 
+birth-date: 1931-05-10
+birth-place: US, OH, Cygnet
+ 
+death-date: 2016-05-04
+death-place:  US, OH, Perrysburg
+ 
+school-level: secondary
+school-name:  Cygnet HS
+school-place: US, OH, Cygnet
+ 
+cemetery-name: Fort Meigs Cemetery
+cemetery-place: US, OH, Perrysburg

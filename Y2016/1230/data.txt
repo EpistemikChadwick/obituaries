@@ -1,0 +1,8 @@
+name-last: Navarrete
+name-first: Carlos
+name-matrilineal: Mendivil
+ 
+birth-date: 1952
+ 
+death-date: 2016-04-21
+death-place:  MX, Sinaloa, Navolato

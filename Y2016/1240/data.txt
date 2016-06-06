@@ -1,0 +1,19 @@
+name-last: Muller
+name-first: Paul
+name-given: Paul A.
+ 
+meta-throws: Right
+ 
+birth-date: 1928
+ 
+death-date: 2016-05-02
+ 
+school-level: college
+school-name: Albright College
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War
+ 
+cemetery-name: Memory Garden Cemetery & Memorial Park
+cemetery-place: US, NY, Albany

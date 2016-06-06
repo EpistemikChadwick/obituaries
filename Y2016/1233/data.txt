@@ -1,0 +1,12 @@
+name-last: McNally
+name-first: Don
+name-given: Donald J.
+ 
+birth-date: 1929-06-20
+birth-place: US, NJ, Plainfield
+ 
+death-date: 2016-04-26
+death-place:  US, GA, Savannah
+ 
+military-country: US
+military-branch:  Army

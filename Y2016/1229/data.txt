@@ -1,0 +1,15 @@
+name-last: Zunino
+name-first: Gary
+ 
+death-date: 2016
+ 
+school-level: secondary
+school-name:  Redwood HS
+school-place: US, CA, Larkspur
+ 
+school-level: college
+school-name: Cuesta College
+school-place: US, CA, San Luis Obispo
+ 
+school-level: college
+school-name: University of California

@@ -1,0 +1,16 @@
+name-last: Womble
+name-first: Paul
+name-given: Paul Gregory
+ 
+birth-date: 1949-03-30
+birth-place: US, KS, Kansas City
+ 
+death-date: 2016-04-19
+death-place:  US, CA, Folsom
+ 
+school-level: secondary
+school-name:  Wyandotte HS
+school-place: US, KS, Kansas City
+ 
+school-level: college
+school-name: University of Kansas

@@ -1,0 +1,15 @@
+name-last: Becic
+name-first: Tommy
+name-given: Thomas Robert
+ 
+birth-date: 1932-07-05
+birth-place: US, OR, Portland
+ 
+death-date: 2016-05-05
+ 
+school-level: secondary
+school-name:  Lincoln HS
+school-place: US, OR, Portland
+ 
+school-level: college
+school-name: University of Portland

@@ -1,0 +1,18 @@
+name-last: Kuhn
+name-first: Charles
+name-given: Charles Steven
+ 
+birth-date: 1946-02-18
+birth-place: US, OH, Cleveland
+ 
+death-date: 2016-04-30
+death-place:  US, PA, Philadelphia
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Little Elk Creek Friends Cemetery
+cemetery-place: US, PA, Oxford

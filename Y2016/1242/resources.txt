@@ -1,0 +1,8 @@
+source-title: Kansas City Star
+source-date: 2016-05-08
+source-url: http://www.legacy.com/obituaries/kansascity/obituary.aspx?n=PAUL-GREGORY-WOMBLE&pid=179919992
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-10

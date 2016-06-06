@@ -1,0 +1,13 @@
+name-last: Kenseth
+name-first: Keith
+name-given: Keith P.
+ 
+birth-date: 1936-02-28
+birth-place: US, WI, Edgerton
+ 
+death-date: 2016-04-27
+death-place:  US, FL, Hollywood
+ 
+school-level: secondary
+school-name:  Edgerton HS
+school-place: US, WI, Edgerton

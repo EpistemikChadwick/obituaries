@@ -1,0 +1,9 @@
+source-title: El Debate
+source-date: 2016-04-21
+source-url: http://www.debate.com.mx/deportes/Fallece-el-ex-pelotero-Carlos-Navarrete-Mendivil-20160420-0167.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-01
+ 

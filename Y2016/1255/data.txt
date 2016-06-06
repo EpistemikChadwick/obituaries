@@ -1,0 +1,16 @@
+name-last: Harter
+name-first: Don
+name-given: Donald Stanley
+ 
+birth-date: 1933-08-04
+birth-place: US, LA, New Orleans
+ 
+death-date: 2016-05-11
+ 
+school-level: secondary
+school-name:  Jesuit HS
+school-place: US, LA, New Orleans
+ 
+military-country: US
+military-branch:  Marines
+ 

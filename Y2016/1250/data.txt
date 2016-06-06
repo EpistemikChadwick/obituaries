@@ -1,0 +1,18 @@
+name-last: Young
+name-first: John
+name-given: John Thomas
+ 
+birth-date: 1949-02-09
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2016-05-08
+ 
+school-level: secondary
+school-name:  Mount Carmel HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: Chapman University
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, CA, Culver City

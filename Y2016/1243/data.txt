@@ -1,0 +1,15 @@
+name-last: Verucchi
+name-first: Leroy
+name-given: Leroy Anthony
+ 
+birth-date: 1931-08-22
+birth-place: US, AR, Tontitown
+ 
+death-date: 2016-04-30
+death-place:  US, AR, Springdale
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, AR, Tontitown

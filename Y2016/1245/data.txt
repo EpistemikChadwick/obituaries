@@ -1,0 +1,11 @@
+name-last: Crewe
+name-first: Joseph
+name-given: Joseph Cronin
+ 
+birth-date: 1933-09-14
+ 
+death-date: 2016-05-08
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War

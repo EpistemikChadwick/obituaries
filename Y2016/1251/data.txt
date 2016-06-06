@@ -1,0 +1,20 @@
+name-last: Gorgal
+name-first: Ken
+name-given: Kenneth Robert
+ 
+birth-date: 1929-02-13
+birth-place: US, IL, Peru
+ 
+death-date: 2016-05-08
+ 
+school-level: secondary
+school-name:  St. Bede Academy
+school-place: US, IL, Peru
+ 
+school-level: college
+school-name: Purdue University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 

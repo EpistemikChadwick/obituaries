@@ -1,0 +1,15 @@
+name-last: Sundin
+name-first: Gordie
+name-given: Gordon V.
+name-suffix: Jr.
+ 
+birth-date: 1937-10-10
+ 
+death-date: 2016-05-02
+ 
+school-level: secondary
+school-name:  Washburn HS
+school-place: US, MN, Minneapolis
+ 
+cemetery-name: St. John the Evangelist Catholic Church Cemetery
+cemetery-place: US, FL, Naples

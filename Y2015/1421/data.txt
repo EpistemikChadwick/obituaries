@@ -1,0 +1,15 @@
+name-last: Tessier
+name-first: Joe
+name-given: Joseph A.
+ 
+birth-date: 1934-06-13
+birth-place: US, CT, Putnam
+ 
+death-date: 2015-12-07
+death-place:  US, CT, Dayville
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, MA, Webster

@@ -1,0 +1,20 @@
+name-last: Erickson
+name-first: Don
+name-given: Donald Edward
+ 
+birth-date: 1929-09-15
+birth-place: US, WI, Melrose
+ 
+death-date: 2016-04-28
+death-place:  US, WI, Oshkosh
+ 
+school-level: secondary
+school-name:  Madison East HS
+school-place: US, WI, Madison
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Lake View Memorial Park
+cemetery-place: US, WI, Oshkosh

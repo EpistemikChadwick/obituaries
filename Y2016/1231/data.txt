@@ -1,0 +1,20 @@
+name-last: Buzzard
+name-first: Max
+name-given: Max W.
+ 
+birth-date: 1926-06-10
+birth-place: US, MO, Seneca
+ 
+death-date: 2016-04-25
+death-place:  US, MO, Joplin
+ 
+school-level: secondary
+school-name:  Seneca HS
+school-place: US, MO, Seneca
+ 
+school-level: college
+school-name: Northeastern Oklahoma A&M College
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

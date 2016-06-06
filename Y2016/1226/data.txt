@@ -1,0 +1,17 @@
+name-last: Knisley
+name-first: Sam
+name-given: Samuel Ralph
+name-suffix: Jr.
+ 
+birth-date: 1937-07-19
+birth-place: US, MD, Baltimore
+ 
+death-date: 2016-04-18
+death-place:  US, FL, Ocala
+ 
+school-level: secondary
+school-name:  Howard HS
+school-place: US, MD, Ellicott City
+ 
+school-level: college
+school-name: George Washington University

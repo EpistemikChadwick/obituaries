@@ -1,0 +1,12 @@
+name-last: Ellis
+name-first: Sam
+name-given: Samuel Joseph
+ 
+birth-date: 1941-02-11
+birth-place: US, OH, Youngstown
+ 
+death-date: 2016-05-13
+death-place:  US, FL, Temple Terrace
+ 
+school-level: college
+school-name: Mississippi State University

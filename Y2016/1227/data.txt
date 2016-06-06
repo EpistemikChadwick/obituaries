@@ -1,0 +1,8 @@
+name-last: Clapp
+name-first: Terry
+name-given: Terry Lynn
+ 
+birth-date: 1951-04-03
+ 
+death-date: 2016-04-25
+death-place:  US, NC, Liberty

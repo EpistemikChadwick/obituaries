@@ -1,0 +1,8 @@
+source-title: Sujkowski Funeral Home
+source-date: 2016-05-10
+source-url: http://www.sujkowskirossford.com/fh/obituaries/obituary.cfm?o_id=3714011&fh_id=11812
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-10

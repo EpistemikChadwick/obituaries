@@ -1,0 +1,22 @@
+name-last: Foster
+name-first: Mickey
+name-given: Ronald E.
+ 
+birth-date: 1934-01-12
+birth-place: US, ME, Gorham
+ 
+death-date: 2016-05-11
+death-place:  US, ME, Yarmouth
+ 
+meta-throws: Right
+meta-bats: Left
+ 
+school-level: secondary
+school-name:  Standish HS
+school-place: US, ME, Standish
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Dow’s Corner Cemetery
+cemetery-place: US, ME, Standish

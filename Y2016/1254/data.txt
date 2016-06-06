@@ -1,0 +1,15 @@
+name-last: Goergen
+name-first: Jim
+ 
+birth-date: 1932-12-13
+birth-place: US, NE, Goodwin
+ 
+death-date: 2016
+ 
+school-level: secondary
+school-name:  Bishop Heelan Catholic HS
+school-place: US, IA, Sioux City
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
