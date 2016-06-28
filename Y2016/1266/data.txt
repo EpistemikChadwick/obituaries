@@ -1,0 +1,13 @@
+name-last: McAuliffe
+name-first: Dick
+name-given: Richard John
+ 
+birth-date: 1939-11-29
+birth-place: US, CT, Hartford
+ 
+death-date: 2016-05-13
+death-place: 
+ 
+school-level: secondary
+school-name:  Farmington HS
+school-place: US, CT, Farmington

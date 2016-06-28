@@ -1,0 +1,6 @@
+name-last: Hart
+name-first: Jim Ray
+ 
+death-date: 2016-05-19
+death-place:  US, CA, Acampo
+ 

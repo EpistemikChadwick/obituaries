@@ -1,0 +1,8 @@
+source-title: San Francisco Chronicle
+source-date: 2016-05-20
+source-url: http://www.sfgate.com/giants/article/Former-Giants-third-baseman-Jim-Ray-Hart-dies-7873510.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-21

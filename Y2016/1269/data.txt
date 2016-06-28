@@ -1,0 +1,10 @@
+name-last: Martinez
+name-first: Raul
+name-given: Raul Armando
+name-matrilineal: Estrada
+ 
+death-date: 2016-04-22
+death-place:  MX, Coahuila, Saltillo
+ 
+cemetery-name: Panteon Santo Cristo
+cemetery-place: MX, Coahuila, Saltillo

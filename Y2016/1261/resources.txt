@@ -1,0 +1,8 @@
+source-title: Watson Funeral Services
+source-date: 2016-05-18
+source-url: http://www.watsonfuneralservices.com/memsol.cgi?user_id=1796719
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-18

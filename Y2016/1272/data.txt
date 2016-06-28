@@ -1,0 +1,5 @@
+name-last: Washko
+name-first: Patrick
+name-given: Patrick J.
+ 
+death-date: 2016-04-04

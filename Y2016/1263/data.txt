@@ -1,0 +1,13 @@
+name-last: McCartney
+name-first: John
+name-given: John F.
+ 
+death-date: 2016-05-15
+ 
+school-level: secondary
+school-name:  Christian Brothers College HS
+school-place: US, MO, St. Louis
+ 
+school-level: college
+school-name: St. Louis University
+ 

@@ -1,0 +1,8 @@
+name-last: DeGrande
+name-first: Ron
+ 
+birth-date: 1956-05-23
+birth-place: US, CA, San Francisco
+ 
+death-date: 2016-04-14
+death-place:  US, CA, San Francisco

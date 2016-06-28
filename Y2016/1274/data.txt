@@ -1,0 +1,15 @@
+name-last: Melbert
+name-first: Bill
+name-given: William C.
+name-suffix: Jr.
+ 
+birth-place: US, PA, Wrightsville
+ 
+death-date: 2016-05-12
+death-place:  US, PA, Mount Joy
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Holy Trinity Catholic Cemetery
+cemetery-place: US, PA, Columbia

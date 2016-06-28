@@ -1,0 +1,8 @@
+source-title: Hantge Funeral Home
+source-date: 2016-05-23
+source-url: http://www.hantge.com/obituaries/jean-pat-charlton-davison/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-23

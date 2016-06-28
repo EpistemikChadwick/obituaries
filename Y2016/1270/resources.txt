@@ -1,0 +1,8 @@
+source-title: East Bay Times
+source-date: 2016-05-21
+source-url: http://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=Ronald-M-Theobald&pid=180054880
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-21

@@ -1,0 +1,13 @@
+name-last: Davison
+name-first: Pat
+name-given: Jean Charlton
+ 
+birth-date: 1923-03-17
+birth-place: US, IL, Galesburg
+ 
+death-date: 2016-05-17
+death-place:  US, MN, Dassel
+ 
+school-level: secondary
+school-name:  Galesburg HS
+school-place: US, IL, Galesburg

@@ -1,0 +1,8 @@
+source-title: Norwich Bulletin
+source-date: 2016-05-17
+source-url: http://www.legacy.com/obituaries/norwichbulletin/obituary.aspx?n=Jonathan-R-Henn&pid=180017275
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-18

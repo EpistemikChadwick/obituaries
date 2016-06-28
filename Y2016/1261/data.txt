@@ -1,0 +1,11 @@
+name-last: Kennedy
+name-first: Bill
+name-given: Billy Ray
+ 
+birth-date: 1927-05-10
+birth-place: US, NC, High Point
+ 
+death-date: 2016-05-04
+ 
+military-country: US
+military-conflict:  World War II

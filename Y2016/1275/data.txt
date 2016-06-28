@@ -1,0 +1,18 @@
+name-last: Bryant
+name-first: Carrol
+name-given: Carrol L.
+ 
+birth-date: 1930-05-30
+birth-place: US, IA, Marshalltown
+ 
+death-date: 2016-05-17
+ 
+school-level: secondary
+school-name:  Clemons HS
+school-place: US, IA, Clemons
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Riverside Cemetery
+cemetery-place: US, IA, Marshalltown

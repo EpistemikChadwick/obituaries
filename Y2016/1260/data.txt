@@ -1,0 +1,16 @@
+name-last: Henn
+name-first: Jonathan
+name-given: Jonathan R.
+ 
+birth-date: 1967-06-01
+birth-place: US, CT, Norwich
+ 
+death-date: 2016-05-13
+death-place:  US, CT, Jewett City
+ 
+school-level: secondary
+school-name:  Norwich Free Academy
+school-place: US, CT, Norwich
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, CT, Griswold

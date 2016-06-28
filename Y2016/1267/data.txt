@@ -1,0 +1,11 @@
+name-last: Hahn
+name-first: Vinnie
+name-given: Vincent P.
+ 
+birth-date: 1932
+birth-place: US, NY, Syracuse
+ 
+death-date: 2016-05-18
+ 
+military-country: US
+military-branch:  Air Force

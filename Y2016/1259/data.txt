@@ -1,0 +1,12 @@
+name-last: Cisar
+name-first: Ryan
+name-given: Ryan Gabriel
+ 
+birth-date: 1977-01-05
+birth-place: US, WV, New Martinsville
+ 
+death-date: 2016-05-08
+ 
+school-level: secondary
+school-name:  Magnolia HS
+school-place: US, WV, New Martinsville

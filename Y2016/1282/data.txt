@@ -1,0 +1,19 @@
+name-last: Lucas
+name-first: Bucky
+name-given: Walter S.
+ 
+birth-date: 1932-08-16
+birth-place: US, PA, Pittsburgh
+ 
+death-date: 2016-05-29
+death-place:  US, PA, Monongahela
+ 
+school-level: secondary
+school-name:  St. Michael’s HS
+school-place: US, PA, Pittsburgh
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Sacred Heart Cemetery
+cemetery-place: US, PA, Monongahela

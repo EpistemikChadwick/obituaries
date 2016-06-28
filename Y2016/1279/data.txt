@@ -1,0 +1,27 @@
+name-last: Banker
+name-first: Bill
+name-given: Joseph William
+name-suffix: Jr.
+ 
+birth-date: 1934-07-28
+birth-place: US, IL, Summit
+ 
+death-date: 2016-05-26
+death-place:  US, IL, Woodstock
+ 
+school-level: secondary
+school-name:  Argo Community HS
+school-place: US, IL, Summit
+ 
+school-level: secondary
+school-name:  Cheshire Academy
+school-place: US, CT, Cheshire
+ 
+school-level: college
+school-name: University of Pennsylvania
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, IL, Woodstock

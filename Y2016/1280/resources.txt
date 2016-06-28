@@ -1,0 +1,8 @@
+source-title: Star-Telegram
+source-date: 2016-05-29
+source-url: http://www.legacy.com/obituaries/dfw/obituary.aspx?n=Jack-Allen&pid=180146390
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-30

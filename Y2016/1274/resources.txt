@@ -1,0 +1,8 @@
+source-title: Kraft Funeral Home
+source-date: 2016-05-23
+source-url: http://www.cwkraftfh.com/obituaries.asp?G=48&Image=1505
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-23

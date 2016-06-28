@@ -1,0 +1,8 @@
+name-last: Kean
+name-first: William
+name-given: William Francis
+ 
+death-date: 2016-05-15
+ 
+cemetery-name: Vine Lake Cemetery
+cemetery-place: US, MA, Medfield

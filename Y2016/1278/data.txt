@@ -1,0 +1,8 @@
+name-last: Sackey
+name-nick: Garabato
+ 
+birth-place: DO, San Pedro de Macoris, San Pedro de Macoris
+ 
+death-date: 2016-05-23
+death-place:  DO, Maria Trinidad Sanchez, Rio San Juan
+ 

@@ -1,0 +1,21 @@
+name-last: Theobald
+name-first: Ron
+name-given: Ronald M.
+ 
+birth-date: 1943-07-28
+ 
+death-date: 2016-04-15
+ 
+school-level: secondary
+school-name:  Berkeley HS
+school-place: US, CA, Berkeley
+ 
+school-level: secondary
+school-name:  Harry Ells HS
+school-place: US, CA, Richmond
+ 
+school-level: college
+school-name: Contra Costa College
+ 
+school-level: college
+school-name: University of Arizona

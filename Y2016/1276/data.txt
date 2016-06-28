@@ -1,0 +1,10 @@
+name-last: Ramos
+name-given: Kenneth Cecil
+ 
+birth-date: 1967-06-08
+ 
+death-date: 2016-05-15
+ 
+school-level: secondary
+school-name:  East HS
+school-place: US, CO, Pueblo

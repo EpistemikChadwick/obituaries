@@ -1,0 +1,8 @@
+source-title: Anderson Funeral Home
+source-date: 2016-05-23
+source-url: http://www.andersonfhs.com/obituaries/obituary-listings?obId=907640#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-23

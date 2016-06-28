@@ -1,0 +1,19 @@
+name-last: Graves
+name-first: Charlie
+name-given: Charles Clinton
+ 
+birth-date: 1921-01-27
+birth-place: US, OH, Washington Courthouse
+ 
+death-date: 2016-05-17
+ 
+school-level: secondary
+school-name:  Sabina HS
+school-place: US, OH, Sabina
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Grove City Cemetery
+cemetery-place: US, OH, Grove City

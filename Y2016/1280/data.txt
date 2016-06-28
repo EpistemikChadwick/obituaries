@@ -1,0 +1,14 @@
+name-last: Allen
+name-first: Jack
+ 
+birth-date: 1935-07-28
+birth-place: US, TX, Ranger
+ 
+death-date: 2016-05-27
+death-place:  US, TX, Fort Worth
+ 
+school-level: college
+school-name: Sam Houston State University
+ 
+cemetery-name: Desdemona Cemetery
+cemetery-place: US, TX, Desdemona
