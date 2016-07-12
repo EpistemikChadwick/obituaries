@@ -1,0 +1,10 @@
+name-last: Williams
+name-first: Jimmy
+name-given: James Bernard
+ 
+birth-date: 1926-05-15
+ 
+death-date: 2016-06-06
+ 
+cemetery-name: Gardens of Faith Memorial Gardens
+cemetery-place: US, MD, Baltimore

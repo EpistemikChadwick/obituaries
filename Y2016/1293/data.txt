@@ -1,0 +1,12 @@
+name-last: Hoppe
+name-first: Jim
+name-given: James Joseph
+ 
+birth-date: 1935
+birth-place: US, IL, Chicago
+ 
+death-date: 2016
+ 
+school-level: college
+school-name: University of Wyoming
+ 

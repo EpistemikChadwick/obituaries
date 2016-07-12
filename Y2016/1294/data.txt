@@ -1,0 +1,12 @@
+name-last: Pedroso
+name-first: Jerry
+name-given: Gerardo E.
+ 
+birth-date: 1940-09-24
+birth-place: CU, La Habana, Havana
+ 
+death-date: 2016-05-24
+death-place:  US, IL, Decatur
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, IL, Decatur

@@ -1,0 +1,9 @@
+name-last: Arasato
+name-first: Ryan
+name-given: Ryan Takeo
+ 
+birth-date: 1977-08-15
+birth-place: US, HI, Honolulu
+ 
+death-date: 2016-05-03
+death-place:  US, HI, Hilo

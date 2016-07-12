@@ -1,0 +1,17 @@
+name-last: Hildreth
+name-first: Dick
+name-given: Richard H.
+ 
+birth-date: 1924-05-10
+birth-place: US, MA, Worcester
+ 
+death-date: 2016-06-06
+death-place:  US, MA, Westminster
+ 
+school-level: secondary
+school-name:  North HS
+school-place: US, MA, Worcester
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II

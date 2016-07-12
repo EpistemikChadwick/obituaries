@@ -1,0 +1,8 @@
+source-title: Heath-Griffith Funeral Home
+source-date: 2016-06-06
+source-url: http://www.heathgriffithfuneralhome.com/services.asp?locid=81&page=odetail&id=67556
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-06

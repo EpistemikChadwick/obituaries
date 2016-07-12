@@ -1,0 +1,17 @@
+name-last: Mish
+name-first: Pete
+name-given: Peter P.
+ 
+birth-place: US, WI, Independence
+ 
+death-date: 2016-05-21
+death-place:  US, WI, Whitehall
+ 
+meta-bats: Right
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: SS Peter & Paul Cemetery
+cemetery-place: US, WI, Independence

@@ -1,0 +1,16 @@
+name-last: Stumpf
+name-first: Norm
+name-given: Norman
+ 
+birth-place: US, NJ, Newark
+ 
+death-date: 2016-05-31
+death-place:  US, NJ, Fanwood
+ 
+school-level: secondary
+school-name:  West Side HS
+school-place: US, NJ, Newark
+ 
+school-level: college
+school-name: Curry College
+school-place: US, MA, Milton

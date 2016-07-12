@@ -1,0 +1,8 @@
+source-title: Gardner Funeral Home
+source-date: 2016-06-07
+source-url: http://www.gardnerfuneralhome.com/home/index.cfm/obituaries/view/fh_id/12431/id/3740178
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-07

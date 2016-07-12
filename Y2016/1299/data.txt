@@ -1,0 +1,11 @@
+name-last: Canuso
+name-first: Joseph
+name-given: Joseph A.
+ 
+birth-date: 1935-04-03
+ 
+death-date: 2016-06-04
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

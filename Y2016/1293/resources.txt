@@ -1,0 +1,8 @@
+source-title: Caspar Star Tribune
+source-date: 2016-06-03
+source-url: http://trib.com/lifestyles/announcements/obituaries/james-joseph-hoppe/article_ff292940-6aef-5594-bd75-0d86fc14f69e.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-06

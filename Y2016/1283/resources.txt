@@ -1,0 +1,12 @@
+source-title: News Tribune
+source-date: 2016-05-25
+source-url: http://www.thenewstribune.com/news/local/article79800417.html
+ 
+source-title: News Tribune
+source-date: 2016-05-29
+source-url: http://www.legacy.com/obituaries/tribnet/obituary.aspx?n=STANLEY-NACCARATO&pid=180151246
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-03

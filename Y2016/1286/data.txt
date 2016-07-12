@@ -1,0 +1,12 @@
+name-last: Henry
+name-first: Ron
+name-given: Ronald Baxter
+ 
+birth-date: 1936-08-07
+birth-place: US, PA, Chester
+ 
+death-date: 2016-05-14
+death-place:  US, CO, Denver
+ 
+military-country: US
+military-branch:  Army

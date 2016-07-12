@@ -1,0 +1,8 @@
+source-title: Morrissett Funeral Home
+source-date: 2016-06-07
+source-url: http://www.morrissett.com/obituary/Kenneth-Frederick-Temple/Chester-VA/1620704
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-07

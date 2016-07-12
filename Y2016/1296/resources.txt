@@ -1,0 +1,8 @@
+source-title: Edison Funeral Home
+source-date: 2016-06-07
+source-url: http://www.edisonfuneralhome.com/home/index.cfm/obituaries/view/fh_id/12286/id/3728414
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-07

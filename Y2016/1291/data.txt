@@ -1,0 +1,16 @@
+name-last: Caves
+name-first: Wayne
+name-given: Darrell Wayne
+ 
+birth-date: 1928-04-23
+birth-place: US, OK, Tulsa
+ 
+death-date: 2016-05-30
+death-place:  US, OK, Tulsa
+ 
+school-level: secondary
+school-name:  Daniel Webster HS
+school-place: US, OK, Tulsa
+ 
+cemetery-name: Floral Haven Memorial Gardens
+cemetery-place: US, OK, Broken Arrow

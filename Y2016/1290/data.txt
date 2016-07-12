@@ -1,0 +1,12 @@
+name-last: Ballou
+name-first: Cliff
+name-given: Clifford Robert
+ 
+birth-date: 1950-11-01
+ 
+death-date: 2016-05-29
+death-place:  US, NV, Reno
+ 
+school-level: secondary
+school-name:  San Ramon HS
+school-place: US, CA, Danville

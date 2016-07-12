@@ -1,0 +1,8 @@
+source-title: Denver Post
+source-date: 2016-06-02
+source-url: http://www.denverpost.com/2016/06/02/denver-jazz-musician-ron-henry-dies-79/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-03

@@ -1,0 +1,15 @@
+name-last: Oakes
+name-first: Todd
+name-given: Todd Michael
+ 
+birth-date: 1960-09-03
+ 
+death-date: 2016-05-26
+death-place:  US, MN, Jordan
+ 
+school-level: college
+school-name:  Waldorf College
+school-place: US, IA, Forest City
+ 
+school-level: college
+school-name: University of Nebraska at Lincoln

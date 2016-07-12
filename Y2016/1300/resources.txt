@@ -1,0 +1,8 @@
+source-title: Augusta Chronicle
+source-date: 2016-06-08
+source-url: http://www.legacy.com/obituaries/augustachronicle/obituary.aspx?n=Bobby-Attaway&pid=180256715
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-09

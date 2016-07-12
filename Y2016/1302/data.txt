@@ -1,0 +1,5 @@
+name-last: Quevedo
+name-first: Ruben
+ 
+death-date: 2016-06-07
+death-place:  VE, Vargas,

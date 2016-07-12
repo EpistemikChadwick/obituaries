@@ -1,0 +1,11 @@
+name-last: Temple
+name-first: Ken
+name-given: Kenneth Frederick
+ 
+birth-date: 1941-09-28
+ 
+death-date: 2016-05-22
+ 
+school-level: secondary
+school-name:  Hermitage HS
+school-place: US, VA, Richmond

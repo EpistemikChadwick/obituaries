@@ -1,0 +1,14 @@
+name-last: Attaway
+name-first: Bobby
+name-given: Robert Thomas
+ 
+birth-place: US, GA, Augusta
+ 
+death-date: 2016-06-06
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Westover Memorial Park
+cemetery-place: US, GA, Augusta

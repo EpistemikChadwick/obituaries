@@ -1,0 +1,23 @@
+name-last: Berg
+name-first: Alvin
+name-given: Alvin Orlando
+name-suffix: Jr.
+ 
+birth-date: 1922-06-30
+birth-place: US, IL, Malta
+ 
+death-date: 2016-06-05
+ 
+school-level: college
+school-name: Millikin University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Dallas-Fort Worth National Cemetery
+cemetery-place: US, TX, Dallas
