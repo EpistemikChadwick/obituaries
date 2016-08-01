@@ -1,0 +1,10 @@
+name-last: Fernandez
+name-first: Chico
+name-given: Humberto
+ 
+birth-date: 1932-03-02
+ 
+death-date: 2016-06-11
+ 
+cemetery-name: Our Lady Queen of Heaven Cemetery
+cemetery-place: US, FL, Fort Lauderdale

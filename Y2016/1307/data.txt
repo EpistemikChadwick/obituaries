@@ -1,0 +1,16 @@
+name-last: Shinn
+name-first: Al
+name-given: Allan D.
+ 
+birth-date: 1934-10-15
+birth-place: US, MO, Farmington
+ 
+death-date: 2016-06-08
+death-place:  US, IN, Michigan City
+ 
+school-level: secondary
+school-name:  Farmington HS
+school-place: US, MO, Farmington
+ 
+cemetery-name: Swan Lake Memorial Gardens
+cemetery-place: US, IN, Michigan City

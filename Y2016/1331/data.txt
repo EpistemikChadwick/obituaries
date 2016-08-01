@@ -1,0 +1,10 @@
+name-last: Groce
+name-first: Al
+name-given: Milo Albert
+name-suffix: Jr.
+ 
+birth-date: 1930-10-12
+birth-place: US, IL, East St. Louis
+ 
+death-date: 2016-06-14
+death-place:  US, IL, Columbia

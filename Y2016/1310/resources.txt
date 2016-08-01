@@ -1,0 +1,8 @@
+source-title: Charlotte Oobserver
+source-date: 2016-06-15
+source-url: http://www.legacy.com/obituaries/charlotte/obituary.aspx?n=James-Chris-Cammack&pid=180340764
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-15

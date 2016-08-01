@@ -1,0 +1,16 @@
+name-last: Tulner
+name-first: Charles
+name-given: Charles R.
+ 
+birth-date: 1932
+birth-place: US, NJ, Midland Park
+ 
+death-date: 2016-06-10
+death-place:  US, NJ, Wyckoff
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: George Washington Memorial Park
+cemetery-place: US, NJ, Paramus

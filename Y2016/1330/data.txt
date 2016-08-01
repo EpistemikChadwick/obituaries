@@ -1,0 +1,16 @@
+name-last: Meyers
+name-first: Andy
+name-given: Andrew J.
+ 
+birth-date: 1923-08-30
+birth-place: US, IL, Peoria
+ 
+death-date: 2016-06-24
+death-place:  US, IL, Peoria
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Swan Lake Memory Gardens
+cemetery-place: US, IL, Peoria

@@ -1,0 +1,8 @@
+source-title: Worcester Telegram & Gazette
+source-date: 2016-06-13
+source-url: http://www.legacy.com/obituaries/telegram/obituary.aspx?n=Philip-ONeil&pid=180317241
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-15

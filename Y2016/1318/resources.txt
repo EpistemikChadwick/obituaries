@@ -1,0 +1,8 @@
+source-title: Cremation Society of Georgia
+source-date: 2016-06-20
+source-url: http://www.csog.com/_mgxroot/page_10780.php?task=Current&listing=All
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-20

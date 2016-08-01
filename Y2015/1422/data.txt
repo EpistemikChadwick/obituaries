@@ -1,0 +1,11 @@
+name-last: Duhem
+name-first: Joseph
+name-given: Joseph Gerald
+ 
+birth-date: 1931-08-14
+ 
+death-date: 2015-11-15
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

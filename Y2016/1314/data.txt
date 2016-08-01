@@ -1,0 +1,23 @@
+name-last: Canterna
+name-first: Dodo
+name-given: Oland
+ 
+birth-date: 1926-10-29
+birth-place: US, PA, Freeport
+ 
+death-date: 2016-06-17
+death-place:  US, PA, Latrobe
+ 
+school-level: secondary
+school-name:  Freeport HS
+school-place: US, PA, Freeport
+ 
+school-level: college
+school-name: University of Pittsburgh
+ 
+military-country: US
+military-branch: Army 
+military-conflict:  World War II
+ 
+cemetery-name: Unity Cemetery
+cemetery-place: US, PA, Latrobe

@@ -1,0 +1,15 @@
+name-last: Viteretto
+name-first: Peter
+name-given: Peter James
+ 
+birth-date: 1933
+birth-place: US, CT, Greenwich
+ 
+death-date: 2016-06-15
+death-place:  US, NY, New York
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. John Cemetery
+cemetery-place: US, CT, Darien

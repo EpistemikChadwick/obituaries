@@ -1,0 +1,18 @@
+name-last: Wooley
+name-first: James
+name-given: James William
+ 
+birth-date: 1925-08-20
+birth-place: US, NJ, Irvington
+ 
+death-date: 2016-06-12
+ 
+school-level: college
+school-name: Panzer College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: New Live Oak Cemetery
+cemetery-place: US, AL, Selma

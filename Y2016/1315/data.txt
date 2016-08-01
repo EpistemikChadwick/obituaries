@@ -1,0 +1,11 @@
+name-last: Kennedy
+name-first: Bob
+name-given: Robert Stewart
+ 
+birth-date: 1938-09-17
+birth-place: US, MA, Boston
+ 
+death-date: 2016-06-01
+ 
+school-level: college
+school-name: Bowdoin College

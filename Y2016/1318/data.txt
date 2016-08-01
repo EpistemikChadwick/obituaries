@@ -1,0 +1,8 @@
+name-last: Heiserer
+name-given: Herbert Henry
+name-suffix: Jr.
+ 
+birth-date: 1932-07-27
+birth-place: US, MO, St. Louis
+ 
+death-date: 2016-06-16

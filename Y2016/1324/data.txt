@@ -1,0 +1,22 @@
+name-last: Sorenson
+name-first: Ray
+name-given: Raymond Peter
+ 
+birth-date: 1932-04-12
+birth-place: US, NJ, Plainfield
+ 
+death-date: 2016-06-16
+ 
+school-level: secondary
+school-name:  Glendale Union HS
+school-place: US, AZ, Glendale
+ 
+school-level: college
+school-name: University of Arizona
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: Resthaven Park Cemetery
+cemetery-place: US, AZ, Glendale

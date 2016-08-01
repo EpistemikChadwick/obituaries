@@ -1,0 +1,11 @@
+name-last: Heiserer
+name-first: Herb
+name-given: Herbert Henry
+ 
+birth-place: US, MO, St. Louis
+ 
+death-date: 2016-06-16
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

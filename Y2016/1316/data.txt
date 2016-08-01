@@ -1,0 +1,8 @@
+name-last: Schaffernoth
+name-first: Joseph
+name-given: Joseph A.
+ 
+birth-date: 1937-08-06
+birth-place: US, NJ, Trenton
+ 
+death-date: 2016-06-18

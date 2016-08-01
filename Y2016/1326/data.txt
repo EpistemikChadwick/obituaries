@@ -1,0 +1,12 @@
+name-last: Pratt
+name-first: Steven
+name-given: Steven G.
+ 
+birth-date: 1965-08-13
+birth-place: US, CA, Long Beach
+ 
+death-date: 2016-06-21
+death-place:  US, NH, Bedford
+ 
+school-level: college
+school-name: University of California, Santa Barbara

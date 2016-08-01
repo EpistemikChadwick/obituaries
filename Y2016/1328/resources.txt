@@ -1,0 +1,8 @@
+source-title: Cleveland Plain Dealer
+source-date: 2016-06-23
+source-url: http://obits.cleveland.com/obituaries/cleveland/obituary.aspx?n=FRED-E-KITCHEN&pid=180439214
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-27

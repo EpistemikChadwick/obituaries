@@ -1,0 +1,13 @@
+name-last: Kondracki
+name-first: Robert
+name-given: Robert E.
+ 
+birth-date: 1928-02-24
+ 
+death-date: 2016-06-13
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, MA, Brockton

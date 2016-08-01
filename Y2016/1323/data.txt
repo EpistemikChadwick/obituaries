@@ -1,0 +1,23 @@
+name-last: Davis
+name-first: Harvey
+name-given: Harvey G.
+ 
+birth-date: 1928-01-07
+birth-place: US, PA, Strabane
+ 
+death-date: 2016-06-14
+death-place:  US, PA, Pittsburgh
+ 
+school-level: secondary
+school-name:  Trinity HS
+school-place: US, PA, Washington
+ 
+school-level: college
+school-name: University of Pittsburgh
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Queen Of Heaven Catholic Cemetery
+cemetery-place: US, PA, McMurray

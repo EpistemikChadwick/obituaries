@@ -1,0 +1,12 @@
+name-last: Allicotti
+name-first: Jim
+name-given: James Vincent
+ 
+birth-date: 1930-09-22
+birth-place: US, CO, Denver
+ 
+death-date: 2016-06-05
+ 
+cemetery-name: Ascension Cemetery
+cemetery-place: US, CA, Lake Forest
+

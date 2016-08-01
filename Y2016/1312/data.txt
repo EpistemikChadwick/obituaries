@@ -1,0 +1,16 @@
+name-last: Taylor
+name-first: Charles
+name-given: Charles Franklin
+ 
+birth-date: 1927-09-09
+birth-place: US, MD, Weaverton
+ 
+death-date: 2016-06-15
+death-place:  US, NC, Dobson
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Beulah United Methodist Church Cemetery
+cemetery-place: US, NC, Lowgap

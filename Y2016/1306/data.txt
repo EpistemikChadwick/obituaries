@@ -1,0 +1,19 @@
+name-last: O'Neil
+name-first: Philip
+name-given: Philip J.
+name-suffix: Jr.
+ 
+birth-place: US, MA, Worcester
+ 
+death-date: 2016-06-11
+death-place:  US, MA, Worcester
+ 
+school-level: secondary
+school-name:  St. Peter’s HS
+school-place: US, MA, Worcester
+ 
+school-level: college
+school-name: College of the Holy Cross
+ 
+cemetery-name: St. John’s Cemetery
+cemetery-place: US, MA, Worcester

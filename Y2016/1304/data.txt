@@ -1,0 +1,16 @@
+name-last: Gingerella
+name-first: Bill
+name-given: William F.
+ 
+death-date: 2016-06-11
+ 
+school-level: secondary
+school-name:  Westerly HS
+school-place: US, RI, Westerly
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Sebastian Cemetery
+cemetery-place: US, RI, Westerly

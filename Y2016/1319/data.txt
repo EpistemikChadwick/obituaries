@@ -1,0 +1,11 @@
+name-last: Kuzma
+name-first: Bob
+name-given: Robert Joseph
+ 
+birth-date: 1944-08-25
+birth-place: US, PA, Hazleton
+ 
+death-date: 2016-06-15
+ 
+military-country: US
+military-branch:  Air Force

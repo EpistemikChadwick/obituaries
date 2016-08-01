@@ -1,0 +1,7 @@
+name-last: Hickman
+name-given: James Lucius
+ 
+death-date: 2016-06-25
+ 
+cemetery-name: Bethlehem Cemetery
+cemetery-place: US, TN, Henning

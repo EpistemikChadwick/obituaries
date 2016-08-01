@@ -1,0 +1,13 @@
+name-last: Goodrich
+name-first: Warren
+ 
+birth-date: 1933
+birth-place: US, CA, La Jolla
+ 
+death-date: 2016-06-08
+ 
+school-level: college
+school-name: Stanford University
+ 
+military-country: US
+military-branch:  Air Force

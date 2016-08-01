@@ -1,0 +1,8 @@
+source-title: Pittsburgh Tribune Review
+source-date: 2016-06-19
+source-url: http://www.legacy.com/obituaries/triblive-pittsburgh-tribune-review/obituary.aspx?n=Oland-Canterna&pid=180381799
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-20

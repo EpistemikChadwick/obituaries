@@ -1,0 +1,9 @@
+name-last: Hickman
+name-first: Jim
+name-given: James Lucius
+ 
+birth-date: 1937-05-10
+birth-place: US, TN, Henning
+ 
+death-date: 2016-06-25
+death-place:  US, TN, Jackson

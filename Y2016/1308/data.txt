@@ -1,0 +1,11 @@
+name-last: Miller
+name-first: James
+ 
+birth-date: 1942-04-24
+birth-place: US, NJ, Elizabeth
+ 
+death-date: 2016-06-11
+death-place:  US, OH, Pataskala
+ 
+military-country: US
+military-branch:  Air Force

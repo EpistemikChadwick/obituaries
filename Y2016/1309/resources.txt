@@ -1,0 +1,8 @@
+source-title: Sun-Sentinel
+source-date: 2016-06-15
+source-url: http://www.sun-sentinel.com/sports/fl-chico-fernandez-0614-20160613-story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-15

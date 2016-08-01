@@ -1,0 +1,8 @@
+source-title: Natchez Democrat
+source-date: 2016-06-11
+source-url: http://www.natchezdemocrat.com/2016/06/11/frank-ivy-lackey-jr/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-27

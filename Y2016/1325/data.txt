@@ -1,0 +1,16 @@
+name-last: Staples
+name-first: Joe
+name-given: Edwin Anthony
+name-suffix: II
+ 
+birth-date: 1946-05-23
+ 
+death-date: 2016-06-12
+death-place:  US, TX, Houston
+ 
+school-level: secondary
+school-name:  Bellaire HS
+school-place: US, TX, Bellaire
+ 
+school-level: college
+school-name: Texas A&M University

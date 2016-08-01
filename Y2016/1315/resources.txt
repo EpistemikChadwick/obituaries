@@ -1,0 +1,8 @@
+source-title: San Diego Union Tribune
+source-date: 2016-06-19
+source-url: http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=Robert-Stewart-Kennedy&pid=180379106
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-20

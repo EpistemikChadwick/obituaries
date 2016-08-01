@@ -1,0 +1,8 @@
+source-title: McIlvaine-Speakman Funeral Home
+source-date: 2016-06-20
+source-url: http://www.mcilvaine-speakman.com/notices/Harvey-Davis
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-20

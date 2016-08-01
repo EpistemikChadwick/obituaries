@@ -1,0 +1,13 @@
+name-last: Gamble
+name-first: Buddy
+name-given: Marcus Howard
+ 
+birth-date: 1930-09-03
+birth-place: US, TX, San Antonio
+ 
+death-date: 2016-06-21
+death-place:  US, TX, Schertz
+ 
+school-level: secondary
+school-name:  Harlandale HS
+school-place: US, TX, San Antonio

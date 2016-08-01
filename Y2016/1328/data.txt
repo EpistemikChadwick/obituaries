@@ -1,0 +1,10 @@
+name-last: Kitchen
+name-first: Fred
+name-given: Fred E.
+ 
+birth-place: US, OH, Cleveland
+ 
+death-date: 2016-06-19
+ 
+cemetery-name: Western Reserve Memorial Gardens
+cemetery-place: US, OH, Chesterland
