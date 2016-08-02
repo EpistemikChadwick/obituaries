@@ -1,0 +1,16 @@
+name-last: Smith
+name-first: Ken
+name-given: Kenneth R.
+ 
+birth-date: 1930-06-13
+birth-place: US, AL, Carbon Hill
+ 
+death-date: 2016-06-27
+ 
+school-level: secondary
+school-name:  Sequim HS
+school-place: US, WA, Sequim
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

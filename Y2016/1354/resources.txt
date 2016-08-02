@@ -1,0 +1,8 @@
+source-title: Diario de Yucatan
+source-date: 2016-07-09
+source-url: http://yucatan.com.mx/deportes/beisbol-nacional/luto-beisbol-yucateco-fallece-negro-aguilar
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-13

@@ -1,0 +1,15 @@
+name-last: Larsen
+name-first: Arthur
+ 
+birth-date: 1927-06-08
+birth-place: US, IL, Chicago
+ 
+death-date: 2016-07-06
+death-place:  US, IL, Elgin
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Windridge Memorial Park and Nature Sanctuary
+cemetery-place: US, IL, Cary

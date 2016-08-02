@@ -1,0 +1,6 @@
+name-last: Hirata
+name-first: Tsuneo
+ 
+death-date: 2016-02-09
+death-place:  JP, Aichi, Nagoya
+

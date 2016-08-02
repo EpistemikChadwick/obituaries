@@ -1,0 +1,8 @@
+source-title: TheAdvocate.com
+source-date: 2016-07-10
+source-url: http://obits.theadvocate.com/obituaries/theadvocate/obituary.aspx?n=Benard-Joseph-McArdle-Benny&pid=180624317
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-11

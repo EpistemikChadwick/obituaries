@@ -1,0 +1,15 @@
+name-last: Bowen
+name-first: Warren
+name-given: Warren J.
+ 
+birth-date: 1930-11-27
+birth-place: US, MA, Medford
+ 
+death-date: 2016-07-06
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Forest Glade Cemetery
+cemetery-place: US, MA, Wakefield

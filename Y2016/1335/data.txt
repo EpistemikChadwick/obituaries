@@ -1,0 +1,17 @@
+name-last: Beavers
+name-first: James
+name-given: James Curfman
+name-suffix: Sr.
+ 
+birth-date: 1928-02-18
+birth-place: US, GA, Manchester
+ 
+death-date: 2016-06-29
+death-place:  US, GA, Warm Springs
+ 
+school-level: secondary
+school-name:  Tallassee HS
+school-place: US, AL, Tallassee
+ 
+cemetery-name: Manchester Cemetery
+cemetery-place: US, GA, Manchester

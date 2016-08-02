@@ -1,0 +1,18 @@
+name-last: Smith
+name-first: Jack
+name-given: Jack L.
+ 
+birth-date: 1929
+birth-place: US, OR, Eugene
+ 
+death-date: 2016-06-28
+death-place:  US, NM, Santa Fe
+ 
+school-level: college
+school-name: University of Oregon
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Fairhaven Memorial Park
+cemetery-place: US, CA, Santa Ana

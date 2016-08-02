@@ -1,0 +1,8 @@
+source-title: Archdiocese of Denver Mortuary
+source-date: 2016-07-13
+source-url: http://www.archdenmort.org/sitemaker/memsol.cgi?user_id=1795119
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-13

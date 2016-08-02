@@ -1,0 +1,8 @@
+source-title: Philly.com
+source-date: 2016-07-02
+source-url: http://www.legacy.com/obituaries/philly/obituary.aspx?n=EDWARD-F-SCHEIDTS&pid=180531461
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-11

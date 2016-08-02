@@ -1,0 +1,11 @@
+name-last: Campen
+name-first: Donald
+name-given: Donald A.
+ 
+birth-date: 1928-03-03
+ 
+death-date: 2016-06-21
+ 
+military-country: US
+military-branch:  Army
+ 

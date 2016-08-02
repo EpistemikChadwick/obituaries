@@ -1,0 +1,12 @@
+name-last: Carlander
+name-first: Wayne
+name-given: Wayne Arthur
+ 
+birth-date: 1941-06-05
+ 
+death-date: 2016-06-07
+death-place:  US, CA, Banning
+ 
+school-level: secondary
+school-name:  San Gabriel HS
+school-place: US, CA, San Gabriel

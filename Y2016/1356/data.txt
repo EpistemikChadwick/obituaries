@@ -1,0 +1,10 @@
+name-last: Esaki
+name-first: Teruo
+ 
+death-date: 2016-02-19
+ 
+school-level: secondary
+school-name:  Chukyo Shogyo HS
+ 
+school-level: college
+school-name: Nihon University

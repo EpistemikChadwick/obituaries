@@ -1,0 +1,13 @@
+name-last: Jean
+name-first: Ralph
+name-given: Ralph E.
+ 
+birth-date: 1960-09-06
+birth-place: UD, DE, Dover
+ 
+death-date: 2016-06-27
+death-place:  US, DE, Dover
+ 
+school-level: secondary
+school-name:  Dover HS
+school-place: US, DE, Dover

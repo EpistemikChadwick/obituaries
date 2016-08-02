@@ -1,0 +1,19 @@
+name-last: Willard
+name-first: Miles
+name-given: Miles Risher
+name-suffix: Jr.
+ 
+birth-date: 1932
+birth-place: US, PA, Vandergrift
+ 
+death-date: 2016-07-01
+death-place:  US, GA, Augusta
+ 
+school-level: college
+school-name: University of Kentucky
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Georgia National Cemetery
+cemetery-place: US, GA, Canton

@@ -1,0 +1,10 @@
+name-last: Dalesandro
+name-first: Ron
+name-given: Ronald Lee
+name-nick: Sam
+ 
+birth-date: 1941-07-01
+birth-place: US, PA, Blairsville
+ 
+death-date: 2016-07-04
+death-place:  US, PA, Monroeville

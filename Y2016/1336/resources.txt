@@ -1,0 +1,8 @@
+source-title: Star-Ledger
+source-date: 2016-07-01
+source-url: http://obits.nj.com/obituaries/starledger/obituary.aspx?n=DONALD-CAMPEN&pid=180517481
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-11

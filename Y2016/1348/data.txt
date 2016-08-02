@@ -1,0 +1,14 @@
+name-last: McArdle
+name-first: Benny
+name-given: Bernard Joseph
+ 
+birth-date: 1931-03-19
+birth-place: US, NY, New York
+ 
+death-date: 2016-07-09
+ 
+school-level: college
+school-name: Louisiana State University
+ 
+military-country: US
+military-branch:  Air Force

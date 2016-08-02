@@ -1,0 +1,16 @@
+name-last: Monteil
+name-first: Paul
+name-given: Paul Frederick
+name-suffix: Jr.
+ 
+birth-date: 1928-10-28
+birth-place: US, MO, Kansas City
+ 
+death-date: 2016-06-29
+ 
+school-level: secondary
+school-name:  Rockhurst HS
+school-place: US, MO, Kansas City
+ 
+cemetery-name: Mount Olivet Cemetery
+cemetery-place: US, MO, Kansas City

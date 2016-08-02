@@ -1,0 +1,8 @@
+source-title: Peninsula Daily News
+source-date: 2016-07-10
+source-url: http://www.legacy.com/obituaries/peninsuladailynews/obituary.aspx?n=Kenneth-R-Smith&pid=180606716
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-11

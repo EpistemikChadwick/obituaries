@@ -1,0 +1,8 @@
+source-title: Cummings Funeral Service
+source-date: 2016-07-13
+source-url: http://www.cummingsfuneral.com/memorials/item/405-frederick-a-gerken.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-13

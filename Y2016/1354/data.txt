@@ -1,0 +1,10 @@
+name-last: Aguilar
+name-first: Antonio
+name-nick: El Negro
+ 
+birth-date: 1933-12-13
+birth-place: MX, Yucatan, Valladolid
+ 
+death-date: 2016-07-09
+ 
+cemetery-name: Cremated

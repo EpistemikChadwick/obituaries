@@ -1,0 +1,13 @@
+name-last: Gerken
+name-first: Fred
+name-given: Frederick A.
+ 
+birth-date: 1921-04-20
+birth-place: US, MO, St. Louis
+ 
+death-date: 2016-07-10
+death-place:  US, NY, Watertown
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

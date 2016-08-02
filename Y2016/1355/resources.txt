@@ -1,0 +1,8 @@
+source-title: Mainichi.JP
+source-date: 2016-06-03
+source-url: http://mainichi.jp/articles/20160604/k00/00m/060/051000c
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-13

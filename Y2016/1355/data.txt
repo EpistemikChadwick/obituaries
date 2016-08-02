@@ -1,0 +1,4 @@
+name-last: Sueyoshi
+name-first: Toshinobu
+ 
+death-date: 2016-02-24

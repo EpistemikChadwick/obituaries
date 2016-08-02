@@ -1,0 +1,6 @@
+name-last: Miura
+name-first: Kiyohiro  
+ 
+death-date: 2016-03-27
+death-place:  JP, Honshu, Osaka
+

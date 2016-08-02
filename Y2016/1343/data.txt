@@ -1,0 +1,12 @@
+name-last: Sims
+name-first: Dick
+name-given: Eugene Richard
+ 
+birth-place: US, NY, Schenectady
+ 
+death-date: 2016-06-04
+death-place:  US, FL, Land O Lakes
+ 
+school-level: secondary
+school-name:  Niskayuna HS
+school-place: US, NY, Schenectady

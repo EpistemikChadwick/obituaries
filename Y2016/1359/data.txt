@@ -1,0 +1,10 @@
+name-last: Gleason
+name-first: Jerry
+name-given: Jerry R.
+ 
+birth-date: 1933-10-29
+ 
+death-date: 2016-04-22
+ 
+cemetery-name: Mt. Olivet Cemetery
+cemetery-place: US, CO, Wheat Ridge

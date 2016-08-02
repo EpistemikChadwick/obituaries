@@ -1,0 +1,8 @@
+source-title: Orange County Register
+source-date: 2016-07-02
+source-url: http://obits.ocregister.com/obituaries/orangecounty/obituary.aspx?n=WAYNE-ARTHUR-CARLANDER&pid=180532040
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-11

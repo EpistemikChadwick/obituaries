@@ -1,0 +1,16 @@
+name-last: Passabet
+name-first: George
+name-given: George P.
+ 
+birth-date: 1924-11-22
+birth-place: US, NY, Hawthorne
+ 
+death-date: 2016-07-11
+death-place:  US, CT, Naugatuck
+ 
+school-level: secondary
+school-name:  Pleasantville HS
+school-place: US, NY, Pleasantville
+ 
+cemetery-name: Gate of Heaven Cemetery
+cemetery-place: US, NY, Hawthorne

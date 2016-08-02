@@ -1,0 +1,9 @@
+name-last: Scheidts
+name-first: Ed
+name-given: Edward F.
+ 
+death-date: 2016-06-27
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

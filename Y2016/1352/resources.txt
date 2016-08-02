@@ -1,0 +1,8 @@
+source-title: Bay City Times
+source-date: 2016-07-13
+source-url: http://obits.mlive.com/obituaries/baycity/obituary.aspx?n=Robert-E-Proulx-Bob&pid=180640919
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-13

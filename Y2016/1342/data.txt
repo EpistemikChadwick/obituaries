@@ -1,0 +1,13 @@
+name-last: Poole
+name-first: David
+name-given: David Elliot
+ 
+birth-date: 1928-04-11
+birth-place: US, NC, Rowan County
+ 
+death-date: 2016-07-03
+death-place:  US, NC, Winston-Salem
+ 
+school-level: secondary
+school-name:  Reynolds HS
+school-place: US, NC, Winston-Salem

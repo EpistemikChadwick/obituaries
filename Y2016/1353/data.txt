@@ -1,0 +1,16 @@
+name-last: Pesce
+name-first: Chuck
+name-given: Charles P.
+name-suffix: Jr.
+ 
+birth-date: 1946-12-25
+birth-place: US, DE, Wilmington
+ 
+death-date: 2016-07-09
+ 
+school-level: secondary
+school-name:  Salesianum School
+school-place: US, DE, Wilmington
+ 
+school-level: college
+school-name: University of Delaware

@@ -1,0 +1,22 @@
+name-last: Proulx
+name-first: Bob
+name-given: Robert E.
+ 
+birth-date: 1924-05-14
+birth-place: US, MI, Mio
+ 
+death-date: 2016-07-11
+ 
+school-level: secondary
+school-name:  East Tawas HS
+school-place: US, MI, East Tawas
+ 
+school-level: college
+school-name: Michigan State University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Sterling Cemetery
+cemetery-place: US, MI, Sterling
