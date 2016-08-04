@@ -1,0 +1,12 @@
+name-last: Kropf
+name-first: John
+ 
+death-date: 2016-07-19
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. John’s Cemetery
+cemetery-place: US, NY, Middle Village
+ 

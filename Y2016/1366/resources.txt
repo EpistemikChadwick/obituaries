@@ -1,0 +1,8 @@
+source-title: Boston Herald
+source-date: 2016-07-12
+source-url: http://www.legacy.com/obituaries/bostonherald/obituary.aspx?n=frank-j-rando&pid=180638226&fhid=20810&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-17

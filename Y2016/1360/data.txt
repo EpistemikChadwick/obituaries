@@ -1,0 +1,10 @@
+name-last: Boehme
+name-first: Ken
+name-given: Kenneth W.
+ 
+birth-date: 1932-01-29
+ 
+death-date: 2016-07-13
+ 
+military-country: US
+military-conflict:  Korean War

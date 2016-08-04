@@ -1,0 +1,17 @@
+name-last: Hensley
+name-first: Paul
+name-given: Paul Conley
+name-nick: Poss
+ 
+birth-date: 1931-07-29
+birth-place: US, VA, Appalachia
+ 
+death-date: 2016-05-29
+death-place:  US, VA, Wise
+ 
+school-level: secondary
+school-name:  Appalachia HS
+school-place: US, VA, Appalachia
+ 
+military-country: US
+military-branch:  Army

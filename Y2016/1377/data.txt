@@ -1,0 +1,9 @@
+name-last: Comer
+name-first: Frank
+name-suffix: Jr.
+ 
+birth-date: 1927-01-04
+birth-place: US, VA, Covington
+ 
+death-date: 2016-05-30
+death-place:  US, PA, Cabot

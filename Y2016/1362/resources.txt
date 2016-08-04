@@ -1,0 +1,8 @@
+source-title: Daily Courier
+source-date: 2016-07-17
+source-url: http://www.dcourier.com/news/2016/jun/30/obituary-hadley-fergus-hicks/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-17

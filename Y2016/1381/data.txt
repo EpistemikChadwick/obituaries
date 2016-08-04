@@ -1,0 +1,13 @@
+name-last: Lown
+name-first: Turk
+name-given: Omar Joseph
+ 
+birth-date: 1924-05-30
+ 
+death-date: 2016-07-08
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Roselawn Cemetery
+cemetery-place: US, CO, Pueblo

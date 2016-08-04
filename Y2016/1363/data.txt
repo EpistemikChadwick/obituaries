@@ -1,0 +1,9 @@
+name-last: Parris
+name-first: Clyde
+name-given: Jonathan
+ 
+birth-date: 1922-09-11
+birth-place: PA, ,
+ 
+death-date: 2016-07-09
+death-place:  US, NY, Valley Stream

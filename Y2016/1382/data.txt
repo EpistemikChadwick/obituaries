@@ -1,0 +1,17 @@
+name-last: Goodman
+name-first: Sheldon
+name-given: Sheldon Carl
+ 
+birth-date: 1936-10-25
+birth-place: US, MD, Baltimore
+ 
+death-date: 2016-07-24
+death-place:  US, FL, Silver Springs
+ 
+school-level: secondary
+school-name:  Bel Air HS
+school-place: US, MD, Bel Air
+ 
+military-country: US
+military-branch:  Army
+military-conflict: 

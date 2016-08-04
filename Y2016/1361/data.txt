@@ -1,0 +1,16 @@
+name-last: Knight
+name-first: Harold
+name-given: Harold V.
+name-nick: Jug
+ 
+birth-date: 1932-05-13
+ 
+death-date: 2016-07-13
+death-place:  US, MS, Hattiesburg
+ 
+school-level: secondary
+school-name:  Meridian HS
+school-place: US, MS, Meridian
+ 
+cemetery-name: Highland Cemetery
+cemetery-place: US, MS, Hattiesburg

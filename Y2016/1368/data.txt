@@ -1,0 +1,16 @@
+name-last: Rainbolt
+name-first: Ray
+ 
+birth-date: 1955-05-26
+birth-place: US, OK, Stillwater
+ 
+death-date: 2016-06-30
+death-place:  US, IA, Iowa City
+ 
+school-level: secondary
+school-name:  Cleveland HS
+school-place: US, OK, Cleveland
+ 
+cemetery-name: Woodland Cemetery
+cemetery-place: US, OK, Cleveland
+ 

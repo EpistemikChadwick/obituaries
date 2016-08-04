@@ -1,0 +1,17 @@
+name-last: Carlson
+name-first: Gus
+name-given: Gus W.
+name-suffix: Jr.
+ 
+birth-date: 1935-07-02
+birth-place: US, IN, South Bend
+ 
+death-date: 2016-07-15
+death-place:  US, IN, Michigan City
+ 
+school-level: secondary
+school-name:  LaPorte HS
+school-place: US, IN, LaPorte
+ 
+cemetery-name: Swan Lake Memorial Gardens
+cemetery-place: US, IN, Michigan City

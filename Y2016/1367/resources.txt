@@ -1,0 +1,8 @@
+source-title: Hay Funeral Home
+source-date: 2016-07-19
+source-url: http://www.hayfuneralhome.com/home/index.cfm/obituaries/view/fh_id/13563/id/3811196
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-19

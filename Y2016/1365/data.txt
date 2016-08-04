@@ -1,0 +1,19 @@
+name-last: Meaut
+name-first: Byron
+name-given: Byron Paul
+ 
+birth-date: 1951-10-25
+birth-place: US, MS, Biloxi
+ 
+death-date: 2016-07-13
+death-place:  US, LA, St. Francisville
+ 
+school-level: secondary
+school-name:  Notre Dame HS
+school-place: US, MS, Biloxi
+ 
+school-level: college
+school-name: University of Mississippi
+ 
+cemetery-name: Greenoaks Memorial Park
+cemetery-place: US, LA, Baton Rouge

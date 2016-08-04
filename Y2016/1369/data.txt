@@ -1,0 +1,13 @@
+name-last: Pfautz
+name-first: Elvie
+name-given: John Elvin
+ 
+birth-date: 1934-09-30
+birth-place: US, PA, Ephrata
+ 
+death-date: 2016-07-13
+death-place:  US, PA, Harrisburg
+ 
+school-level: secondary
+school-name:  Ephrata HS
+school-place: US, PA, Ephrata

@@ -1,0 +1,11 @@
+name-last: Bowman
+name-first: Tom
+name-given: Thomas Lee
+name-nick: Tink
+ 
+birth-date: 1933-04-22
+ 
+death-date: 2016-07-14
+ 
+school-level: college
+school-name: University of Georgia

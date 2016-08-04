@@ -1,0 +1,8 @@
+source-title: Sun Herald
+source-date: 2016-07-14
+source-url: http://www.legacy.com/obituaries/sunherald/obituary.aspx?n=byron-meaut&pid=180659420&fhid=13744&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-17

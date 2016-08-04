@@ -1,0 +1,11 @@
+name-last: Griffin
+name-first: Doug
+ 
+birth-place: US, CA, South Gate
+ 
+death-date: 2016-07-27
+death-place:  US, CA,
+ 
+school-level: secondary
+school-name:  El Monte HS
+school-place: US, CA, El Monte

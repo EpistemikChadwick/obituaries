@@ -1,0 +1,16 @@
+name-last: Katulka
+name-first: Daniel
+name-given: Daniel
+ 
+birth-date: 1924-03-08
+birth-place: US, PA, Plains
+ 
+death-date: 2016-07-20
+death-place:  US, MA, Springfield
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Gate of Heaven Cemetery
+cemetery-place: US, MA, Springfield

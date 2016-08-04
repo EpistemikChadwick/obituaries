@@ -1,0 +1,17 @@
+name-last: Strahler
+name-first: Mike
+name-given: Michael Wayne
+ 
+birth-date: 1947-03-14
+birth-place: US, IL, Chicago
+ 
+death-date: 2016-07-14
+death-place:  US, NM, Alamogordo
+ 
+school-level: secondary
+school-name:  McClatchy HS
+school-place: US, CA, Sacramento
+ 
+military-country: US
+military-branch:  Army
+ 

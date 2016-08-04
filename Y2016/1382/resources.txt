@@ -1,0 +1,8 @@
+source-title: Baltimore Sun – Obit #36
+source-date: 2016-07-31
+source-url: http://marketplace.baltimoresun.com/mkt3/Baltimore/harfords/Async.aspx?p=2&c=12812&o=1719,1721&k=&f=3&r=0&b=&d=&ps=20
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-31

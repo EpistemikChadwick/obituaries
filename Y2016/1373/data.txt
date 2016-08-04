@@ -1,0 +1,17 @@
+name-last: Seyfried
+name-first: William
+name-given: William E.
+ 
+birth-date: 1926-02-25
+birth-place: US, MO, St. Louis
+ 
+death-date: 2016-07-19
+death-place:  US, UT, Midvale
+ 
+school-level: secondary
+school-name:  Clayton HS
+school-place: US, MO, Clayton
+ 
+cemetery-name: Lake Hills Memorial
+cemetery-place: US, UT, Sandy
+ 

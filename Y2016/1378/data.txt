@@ -1,0 +1,12 @@
+name-last: Waltman
+name-first: John
+name-given: John V.
+ 
+birth-date: 1929-12-01
+birth-place: US, PA, Hyndman
+ 
+death-date: 2015-11-13
+death-place:  US, PA, Everett
+ 
+military-country: US
+military-branch:  Army

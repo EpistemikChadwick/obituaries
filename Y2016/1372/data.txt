@@ -1,0 +1,18 @@
+name-last: Oubre
+name-first: Charlie
+name-given: Charles J.
+ 
+birth-date: 1929-10-15
+birth-place: US, LA, Hahnville
+ 
+death-date: 2016-07-19
+ 
+school-level: secondary
+school-name:  Hahnville HS
+school-place: US, LA, Hahnville
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Holy Rosary Cemetery
+cemetery-place: US, LA, Taft

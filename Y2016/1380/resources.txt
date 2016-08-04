@@ -1,0 +1,8 @@
+source-title: Highland Community News
+source-date: 2015-05-12
+source-url: http://www.highlandnews.net/obituaries/lee-k-bergee/article_5ba26e8a-f8f2-11e4-992c-2ba0478341aa.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-26

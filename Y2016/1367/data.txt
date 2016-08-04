@@ -1,0 +1,15 @@
+name-last: Massa
+name-first: Gordon
+name-given: Gordon R.
+ 
+birth-date: 1935-09-02
+ 
+death-date: 2016-07-16
+ 
+school-level: secondary
+school-name:  Elder HS
+school-place: US, OH, Cincinnati
+ 
+school-level: college
+school-name: College of the Holy Cross
+ 
