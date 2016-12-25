@@ -1,0 +1,7 @@
+name-last: Smith
+name-first: Lilburn
+name-given: Lilburn E.
+
+birth-date: 1929-10-06
+
+death-date: 2015-05-10

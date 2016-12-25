@@ -1,0 +1,6 @@
+name-last: Averill
+name-first: Earl
+name-given: Earl Douglas
+
+death-date: 2015-05-13
+death-place: US, WA, Tacoma

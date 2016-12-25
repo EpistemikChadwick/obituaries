@@ -1,0 +1,8 @@
+source-title: Oak Hill Memorial Park
+source-date: 2015-05-06
+source-url: http://www.oakhillmemorialpark.com/obituaries/William-Fincher-2/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-06

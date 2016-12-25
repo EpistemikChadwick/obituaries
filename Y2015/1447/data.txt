@@ -1,0 +1,17 @@
+name-last: Petkus
+name-first:  Victor
+name-given: Victor Thomas
+name-suffix: Sr.
+
+birth-date: 1926-07-02
+birth-place: US, IL, Chicago
+
+death-date: 2015-06-09
+death-place: US, CA, Roseville
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+
+cemetery-name: Calvary Cemetery
+cemetery-place: US, CA, Sacramento

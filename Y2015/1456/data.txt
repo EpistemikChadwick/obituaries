@@ -1,0 +1,10 @@
+name-last: Flynn
+name-first: Bob
+name-given: Robert Joseph
+
+death-date: 2015-06
+death-place: US, CA, Oceanside
+
+school-level: secondary
+school-name:  El Segundo HS
+school-place: US, CA, El Segundo

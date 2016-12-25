@@ -1,0 +1,16 @@
+name-last: Rodgers
+name-first: Darrell
+name-given: Darrell Wayne
+name-nick: Doc
+
+birth-date: 1962-10-06
+birth-place: US, TX, Waco
+
+death-date: 2015-05-12
+
+school-level: secondary
+school-name:  Eisenhower HS
+school-place: US, OK, Lawton
+
+school-level: college
+school-name: University of Oklahoma

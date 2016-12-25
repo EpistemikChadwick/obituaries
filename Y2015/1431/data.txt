@@ -1,0 +1,24 @@
+name-last: Gatts
+name-first: Ray
+name-given: Thomas Ray
+
+birth-date: 1928-10-08
+birth-place: US, OH, Dayton
+
+death-date: 2015-06-13
+death-place: US, OH, Miamisburg
+
+school-level: secondary
+school-name:  Centerville HS
+school-place: US, OH, Dayton
+
+school-level: college
+school-name: Miami University
+school-place: US, OH, Oxford
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+
+cemetery-name: Centerville Cemetery
+cemetery-place: US, OH, Centerville

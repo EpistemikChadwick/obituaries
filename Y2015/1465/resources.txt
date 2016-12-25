@@ -1,0 +1,8 @@
+source-title: Prescott Daily Courier
+source-date: 2015-05-19
+source-url: http://dcourier.com/m/Articles.aspx?ArticleID=145442
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-19

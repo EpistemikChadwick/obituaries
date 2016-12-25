@@ -1,0 +1,15 @@
+name-last: Merullo
+name-first: Lennie
+name-given: Leonard Richard
+
+birth-date: 1917-05-05
+
+death-date: 2015-05-30
+death-place: US, MA, Reading
+
+school-level: secondary
+school-name:  St. John’s Preparatory School
+school-place: US, MA, Danvers
+
+school-level: college
+school-name: Villanova University

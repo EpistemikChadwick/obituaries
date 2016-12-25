@@ -1,0 +1,14 @@
+name-last: Huffman
+name-first: Fred
+name-given: Fred Leon
+name-suffix: Sr.
+
+birth-place:  US, WV, White Sulphur Springs
+
+death-date: 2015-06-08
+
+military-country: US
+military-branch:  Army
+
+cemetery-name: Albert G. Horton Jr. Memorial Veterans Cemetery
+cemetery-place: US, VA, Suffolk

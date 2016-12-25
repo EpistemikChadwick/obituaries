@@ -1,0 +1,16 @@
+name-last: Hobgood
+name-first: Jimmy
+name-given: James R.
+
+birth-date: 1949-07-08
+birth-place: US, FL, Pensacola
+
+death-date: 2015-05-19
+death-place: US, FL, Milton
+
+school-level: secondary
+school-name:  Pensacola HS
+school-place: US, FL, Pensacola
+
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, FL, Pensacola

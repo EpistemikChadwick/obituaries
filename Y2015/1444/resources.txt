@@ -1,0 +1,8 @@
+source-title: News-Leader
+source-date: 2015-06-06
+source-url: http://www.legacy.com/obituaries/news-leader/obituary.aspx?n=lilburn-e-smith&pid=175017604&eid=sp_shareobit
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-10

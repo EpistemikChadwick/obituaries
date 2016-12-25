@@ -1,0 +1,8 @@
+source-title: Harper Morris Memorial Chapel
+source-date: 2015-05-21
+source-url: http://www.harpermorrismemorialchapel.com/memsol.cgi?user_id=1587195
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-21

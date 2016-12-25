@@ -1,0 +1,18 @@
+name-last: McGhee
+name-first: Gary
+name-given: Gary Lynn
+
+birth-date: 1949-03-07
+
+death-date: 2015-05-13
+death-place: US, TN, Knoxville
+
+school-level: secondary
+school-name:  East HS
+school-place: US, TN, Knoxville
+
+military-country: US
+military-branch:  Air National Guard
+
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, TN, Knoxville

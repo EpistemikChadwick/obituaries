@@ -1,0 +1,13 @@
+name-last: Brown
+name-first: Ollie
+name-given: Ollie Lee
+
+birth-date: 1944-02-11
+birth-place: US, AL, Tuscaloosa
+
+death-date: 2015-04-16
+death-place: US, CA, Buena Park
+
+school-level: secondary
+school-name:  Polytechnic HS
+school-place: US, CA, Long Beach

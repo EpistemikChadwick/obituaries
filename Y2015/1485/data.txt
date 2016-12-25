@@ -1,0 +1,11 @@
+name-last: Miller
+name-first: Dick
+name-given: Richard Lee
+
+birth-date: 1933-12-01
+birth-place: US, VA, Woodstock
+
+death-date: 2015-05-11
+
+military-country: US
+military-branch:  Army

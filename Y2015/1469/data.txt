@@ -1,0 +1,12 @@
+name-last: Janiak
+name-first: Joe
+name-given: Joseph Francis
+
+birth-date: 1933
+birth-place: US, CT, Stafford
+
+death-date: 2015-05-17
+death-place: US, CT, West Hartford
+
+military-country: US
+military-branch:  Army

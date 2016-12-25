@@ -1,0 +1,8 @@
+name-last: Damaska
+name-first: Bill
+name-given: William Lee
+
+birth-place: US, PA, New Brighton
+
+death-date: 2015-05-05
+death-place: US, PA, Beaver Falls

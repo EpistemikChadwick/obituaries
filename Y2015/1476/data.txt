@@ -1,0 +1,18 @@
+name-last: Langsam
+name-first: Sig
+name-given: Sigmond Sterling
+
+birth-date: 1922-05-05
+
+death-date: 2015-05-20
+
+school-level: secondary
+school-name:  Webster Groves HS
+school-place: US, MO, Webster Groves
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+
+cemetery-name: Chesed Shel Emeth Cemetery
+cemetery-place: US, MO, Chesterfield

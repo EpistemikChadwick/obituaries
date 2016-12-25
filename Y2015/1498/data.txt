@@ -1,0 +1,19 @@
+name-last: Sokolin
+name-first: Bill
+name-given: William
+
+birth-date: 1930-04-25
+
+death-date: 2015-04-28
+death-place: US, NY, Manhattan
+
+school-level: secondary
+school-name:  Horace Mann School
+school-place: US, NY, Bronx
+
+school-level: college
+school-name: Tufts University
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

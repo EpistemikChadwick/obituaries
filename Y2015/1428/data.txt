@@ -1,0 +1,8 @@
+name-last: Bolin
+name-first: Joe
+name-given: Joe Nelson
+
+birth-date: 1937-07-28
+birth-place: US, SC, Hickory Grove
+
+death-date: 2015-05-29

@@ -1,0 +1,8 @@
+source-title: TimesOnline.com
+source-date: 2015-05-05
+source-url: http://www.timesonline.com/community/obituaries/william-lee-damaska/article_6174bc94-f37c-11e4-a2d3-af3939278ef6.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-14

@@ -1,0 +1,9 @@
+name-last: Carter
+name-first: Gil
+
+death-date: 2015-05-31
+death-place: US, KS, Topeka
+
+school-level: secondary
+school-name:  Topeka HS
+school-place: US, KS, Topeka

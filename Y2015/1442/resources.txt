@@ -1,0 +1,8 @@
+source-title: Daily Press
+source-date: 2015-06-10
+source-url: http://www.legacy.com/obituaries/dailypress/obituary.aspx?n=Fred-Leon-Huffman&pid=175048130
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-10

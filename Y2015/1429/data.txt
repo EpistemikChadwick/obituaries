@@ -1,0 +1,14 @@
+name-last: Keller
+name-first: John
+name-given: John H.
+name-suffix: Sr.
+
+birth-date: 1943-08-13
+birth-place: US, OH, Toledo
+
+death-date: 2015-05-31
+death-place: US, OH, Toledo
+
+school-level: secondary
+school-name:  Central Catholic HS
+school-place: US, OH, Toledo

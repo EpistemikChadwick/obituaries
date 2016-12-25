@@ -1,0 +1,8 @@
+source-title: Las Cruces Sun-News
+source-date: 2015-05-13
+source-url: http://www.legacy.com/obituaries/lcsun-news/obituary.aspx?n=Robert-Moan&pid=174837616
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-13

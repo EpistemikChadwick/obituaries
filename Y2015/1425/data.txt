@@ -1,0 +1,12 @@
+name-last: Perry
+name-first: Bill
+name-given: William Gatlin
+
+birth-date: 1947-01-01
+birth-place: US, FL, Palatka
+
+death-date: 2015-05-25
+death-place: US, FL, Gainesville
+
+cemetery-name: Palatka Memorial Gardens
+cemetery-place: US, FL, Palatka

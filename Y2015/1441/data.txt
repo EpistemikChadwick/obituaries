@@ -1,0 +1,17 @@
+name-last: Mayhew
+name-first: Keith
+
+birth-date: 1971-10-20
+birth-place: US, VA, Farmville
+
+death-date: 2015-06-07
+
+school-level: secondary
+school-name:  Appomattox HS
+school-place: US, VA, Appomattox
+
+school-level: college
+school-name: Ferrum College
+
+cemetery-name: Childrey Baptist Church Cemetery
+cemetery-place: US, VA, Nathalie

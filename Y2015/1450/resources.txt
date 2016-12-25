@@ -1,0 +1,8 @@
+source-title: U-T San Diego
+source-date: 2015-06-14
+source-url: http://www.legacy.com/obituaries/UTSanDiego/obituary.aspx?n=Ron-McKirahan&pid=175074658
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-14

@@ -1,0 +1,15 @@
+name-last: Tomita
+name-first: Masaru
+
+birth-place: JP, Osaka,
+
+death-date: 2015-05-26
+death-place: JP, Osaka, Osaka
+
+school-level: secondary
+school-name:  Kokoku HS
+school-place: JP, Osaka, Osaka
+
+school-level: college
+school-name: Hosei University
+school-place: JP, Tokyo, Tokyo

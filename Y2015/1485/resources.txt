@@ -1,0 +1,8 @@
+source-title: Atlanta Journal-Constitution
+source-date: 2015-05-16
+source-url: http://www.legacy.com/obituaries/atlanta/obituary.aspx?n=Richard-Lee-Miller&pid=174870399
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-16

@@ -1,0 +1,8 @@
+source-title: Midlothian Funeral Home
+source-date: 2015-06-07
+source-url: http://midlothianfh.com/Obituaries.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-07

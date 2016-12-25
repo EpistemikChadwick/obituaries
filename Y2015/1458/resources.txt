@@ -1,0 +1,8 @@
+source-title: Little & Davenport Funeral Home
+source-date: 2015-06-15
+source-url: http://www.littledavenport.com/notices/Lawrence-Eschen
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-15

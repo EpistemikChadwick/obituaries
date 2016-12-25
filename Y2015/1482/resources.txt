@@ -1,0 +1,8 @@
+source-title: DignityMemorial.com
+source-date: 2015-05-25
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Ronald-James+Cameron&lc=3102&pid=174922958&mid=6456089&Affiliate=montrealgazette&PersonID=174922958&FHID=11436
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-25

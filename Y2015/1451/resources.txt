@@ -1,0 +1,8 @@
+source-title: McKenzie Mortuary
+source-date: 2015-06-15
+source-url: http://www.mckenziemortuary.net/obits/obituary.php?id=554261
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-15

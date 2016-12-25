@@ -1,0 +1,8 @@
+source-title: The Times, Trenton
+source-date: 2015-05-23
+source-url: http://obits.nj.com/obituaries/trenton/obituary.aspx?n=WILMER-JAMES&pid=174921648
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-25

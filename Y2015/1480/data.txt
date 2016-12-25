@@ -1,0 +1,17 @@
+name-last: Houston
+name-first: Jack
+name-nick: Cocky
+
+birth-date: 1927-03-18
+birth-place: US, IL, East St. Louis
+
+death-date: 2015-05-21
+death-place: US, MO, Chesterfield
+
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+military-conflict: Korean War
+
+cemetery-name: Mount Carmel Cemetery
+cemetery-place: US, IL, Belleville

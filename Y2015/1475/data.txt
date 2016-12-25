@@ -1,0 +1,23 @@
+name-last: Surdy
+name-first: Stan
+name-given: Stan R.
+name-nick: Babe
+
+birth-date: 1929-09-10
+birth-place: US, IN, Whiting
+
+death-date: 2015-05-18
+death-place: US, IN, Munster
+
+school-level: secondary
+school-name:  Bishop Noll High School
+school-place: US, IN, Hammond
+
+school-level: college
+school-name: Indiana State University
+
+military-country: US
+military-branch:  Navy
+
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, IL, Calumet City

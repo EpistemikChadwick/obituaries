@@ -1,0 +1,8 @@
+source-title: Saginaw News
+source-date: 2015-05-20
+source-url: http://obits.mlive.com/obituaries/saginaw/obituary.aspx?n=delbert-blondin&pid=174900735&eid=sp_ommatch&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-20

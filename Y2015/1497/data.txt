@@ -1,0 +1,11 @@
+name-last: Sherman
+name-first: Bill
+name-given: William Howard
+
+birth-place: US, MN, St. Paul
+
+death-date: 2015-02-27
+
+school-level: college
+school-name: University of Notre Dame
+school-place: US, IN, South Bend

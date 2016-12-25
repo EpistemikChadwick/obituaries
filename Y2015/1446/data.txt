@@ -1,0 +1,11 @@
+name-last: Ferber
+name-first: Daniel
+name-given: Daniel Arthur
+
+birth-date: 1927-01-24
+birth-place: US, IN, Fort Wayne
+
+death-date: 2015-06-07
+
+school-level: college
+school-name: Wabash College

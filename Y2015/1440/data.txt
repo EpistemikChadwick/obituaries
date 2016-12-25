@@ -1,0 +1,15 @@
+name-last: Woodbury
+name-first: Charlie
+name-given: Charles Eugene
+
+birth-date: 1925-03-15
+birth-place: US, UT, LaVerkin
+
+death-date: 2015-06-05
+
+school-level: college
+school-name: Southern Utah University
+
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II

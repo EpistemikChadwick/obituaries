@@ -1,0 +1,8 @@
+source-title: St. Louis Jewish Light
+source-date: 2015-06-03
+source-url: http://www.stljewishlight.com/obituaries/article_9293c414-0a15-11e5-a141-53710d2db81f.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-21

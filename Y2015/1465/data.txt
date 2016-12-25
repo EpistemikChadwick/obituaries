@@ -1,0 +1,23 @@
+name-last: Berssenbruegge
+name-first: Bill
+name-given: William Edward
+
+birth-date: 1921-03-05
+birth-place: US, OH, Woodlawn
+
+death-date: 2015-05-15
+death-place: US, AZ, Dewey
+
+school-level: secondary
+school-name:  Reading HS
+school-place: US, OH, Reading
+
+school-level: college
+school-name: Xavier University
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+
+cemetery-name: Prescott National Cemetery
+cemetery-place: US, AZ, Prescott

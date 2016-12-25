@@ -1,0 +1,13 @@
+name-last: Ball
+name-first: Al
+name-given: Alfred Bruce
+
+birth-date: 1933-08-02
+
+death-date: 2015-05-30
+
+military-country: US
+military-branch:  Army
+
+cemetery-name: Chattanooga National Cemetery.
+cemetery-place: US, TN, Chattanooga

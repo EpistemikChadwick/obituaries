@@ -1,0 +1,13 @@
+name-last: Averill
+name-first: Earl
+name-suffix: Jr.
+
+death-date: 2015-05-13
+death-place: US, WA, Tacoma
+
+school-level: secondary
+school-name:  Snohomish HS
+school-place: US, WA, Snohomish
+
+school-level: college
+school-name: University of Oregon

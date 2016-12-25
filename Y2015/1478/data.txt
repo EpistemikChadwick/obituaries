@@ -1,0 +1,11 @@
+name-last: Woodworth
+name-first: Brian
+name-given: Brian Elwood
+
+birth-date: 1956-01-30
+birth-place: US, ME, Bangor
+
+death-date: 2015-05-19
+
+school-level: college
+school-name: University of Maine at Presque Isle

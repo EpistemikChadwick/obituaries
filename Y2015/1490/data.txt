@@ -1,0 +1,21 @@
+name-last: Farris
+name-first: Jimmy
+name-given: Jimmy W.
+
+birth-place: US, GA, Augusta
+
+death-date: 2015-05-10
+death-place: US, GA, Augusta
+
+school-level: secondary
+school-name:  Academy of Richmond County
+school-place:  US, GA, Augusta
+
+school-level: college
+school-name: University of Georgia
+
+military-country: US
+military-branch:  Navy
+
+cemetery-name: Westover Memorial Park
+cemetery-place: US, GA, Augusta

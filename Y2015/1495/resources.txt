@@ -1,0 +1,8 @@
+source-title: Fox19.com
+source-date: 2015-05-13
+source-url: http://www.fox19.com/story/29056341/former-reds-assistant-gm-and-700-wlw-radio-host-doc-rodgers-passes-away-at-52
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-14

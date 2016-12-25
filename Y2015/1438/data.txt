@@ -1,0 +1,11 @@
+name-last: Crowe
+name-first: Jack
+name-given: Jack Elton
+
+birth-date: 1927-08-21
+birth-place: US, IA, Webster City
+
+death-date: 2015-06-04
+
+military-country: US
+military-branch:  Army

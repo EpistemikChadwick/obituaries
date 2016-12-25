@@ -1,0 +1,9 @@
+name-last: Hix
+name-first: Tommy
+
+birth-place: US, SC, Anderson
+
+death-date: 2015-05-22
+
+military-country: US
+military-branch:  Army

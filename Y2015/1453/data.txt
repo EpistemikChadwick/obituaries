@@ -1,0 +1,16 @@
+name-last: Haskins
+name-first: Gerald
+name-given: Gerald V.
+
+birth-date: 1928-03-03
+birth-place: US, NJ, Jersey City
+
+death-date: 2015-05-31
+death-place: US, MA, Templeton
+
+school-level: secondary
+school-name:  St. Michael HS
+school-place:  US, NJ, Jersey City
+
+military-country: US
+military-branch:  Coast Guard

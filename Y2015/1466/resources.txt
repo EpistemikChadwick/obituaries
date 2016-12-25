@@ -1,0 +1,8 @@
+source-title: Buffalo News
+source-date: 2015-05-18
+source-url: http://www.buffalonews.com/city-region/thomas-a-smith-former-owner-of-king-opticians-20150518
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-19

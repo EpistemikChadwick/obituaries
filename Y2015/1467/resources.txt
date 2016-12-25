@@ -1,0 +1,8 @@
+source-title: New Haven Register
+source-date: 2015-05-18
+source-url: http://www.legacy.com/obituaries/nhregister/obituary.aspx?n=PASQUALE-DEMAIO-PAT&pid=174881510
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-19

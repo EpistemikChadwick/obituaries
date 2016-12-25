@@ -1,0 +1,11 @@
+name-last: Geeve
+name-first: David
+
+birth-date: 1969-10-19
+birth-place: US, IL, Chicago
+
+death-date: 2015-06-04
+
+school-level: secondary
+school-name:  Loyola Academy
+school-place: US, IL, Wilmette

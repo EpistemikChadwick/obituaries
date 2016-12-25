@@ -1,0 +1,16 @@
+name-last: Moan
+name-first: Bob
+name-given: Robert J.
+
+birth-date: 1926-06-28
+birth-place: US, MA, Cambridge
+
+death-date: 2015-05-06
+death-place: US, NM, Las Cruces
+
+school-level: college
+school-name: Boston College
+
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

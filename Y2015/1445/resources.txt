@@ -1,0 +1,8 @@
+source-title: York Daily Record & York Dispatch
+source-date: 2015-06-11
+source-url: http://www.legacy.com/obituaries/york/obituary.aspx?n=Daniel-Jesse-Mays&pid=175054586
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-14

@@ -1,0 +1,15 @@
+name-last: Voss
+name-first: Rich
+name-given: Richard Henry
+
+birth-date: 1944-06-05
+birth-place: US, OR, Portland
+
+death-date: 2015-05-03
+
+school-level: secondary
+school-name:  Wilson HS
+school-place: US, OR, Portland
+
+military-country: US
+military-branch:  Army

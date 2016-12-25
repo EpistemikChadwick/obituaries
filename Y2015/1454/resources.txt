@@ -1,0 +1,8 @@
+source-title: Newsday
+source-date: 2015-06-14
+source-url: http://www.newsday.com/long-island/obituaries/elliott-howard-sylvan-onetime-player-for-ny-baseball-giants-farm-team-food-bank-volunteer-dies-at-87-1.10542904
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-15

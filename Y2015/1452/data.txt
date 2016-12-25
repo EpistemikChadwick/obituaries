@@ -1,0 +1,19 @@
+name-last: Ward
+name-first: Dugan
+name-given: Dugan Davis
+
+birth-date: 1986-09-02
+birth-place: US, TX, Texarkana
+
+death-date: 2015-06-07
+death-place: US, AR, Ashdown
+
+school-level: secondary
+school-name:  Ashdown HS
+school-place: US, AR, Ashdown
+
+school-level: college
+school-name: University of Arkansas - Fort Smith
+
+cemetery-name: Ashdown Cemetery
+cemetery-place: US, AR, Ashdown

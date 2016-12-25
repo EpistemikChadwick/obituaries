@@ -1,0 +1,12 @@
+source-title: Journal Online
+source-date: 2015-06-10
+source-url: http://www.journal-topics.com/news/article_ed145428-0f9a-11e5-a09e-73d5f9b38010.html
+
+source-title: Chicago Suburban Daily Herald
+source-date: 2015-06-14
+source-url: http://www.legacy.com/obituaries/dailyherald/obituary.aspx?pid=175074716
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-15

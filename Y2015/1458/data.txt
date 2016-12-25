@@ -1,0 +1,13 @@
+name-last: Eschen
+name-first: Larry
+name-given: Lawrence Edward
+
+birth-date: 1920-09-22
+birth-place: US, NY, Suffern
+
+death-date: 2015-06-09
+death-place: US, GA, Gainesville
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

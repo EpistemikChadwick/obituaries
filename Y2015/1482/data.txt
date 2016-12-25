@@ -1,0 +1,9 @@
+name-last: Cameron
+name-first: Ron
+name-given: Ronald James
+
+birth-date: 1934-01-16
+birth-place: CA, QC, Montreal
+
+death-date: 2015-05-21
+death-place: CA, QC, Pointe-Claire

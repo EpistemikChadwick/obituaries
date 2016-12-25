@@ -1,0 +1,8 @@
+source-title: ESTO
+source-date: 2015-06-13
+source-url: http://estoenlinea.oem.com.mx/76610-lmb-de-luto-por-muerte-de-andres-mora/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-15

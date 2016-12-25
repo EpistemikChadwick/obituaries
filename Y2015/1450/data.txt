@@ -1,0 +1,19 @@
+name-last: McKirahan
+name-first: Ron
+
+birth-date: 1942-11-01
+birth-place: US, IL, Chicago
+
+death-date: 2015-06-03
+death-place: US, CA, San Diego
+
+school-level: secondary
+school-name:  Grossmont HS
+school-place: US, CA, El Cajon
+
+military-country: US
+military-branch:  Marines
+military-conflict:  Vietnam War
+
+cemetery-name: Miramar Military Cemetery
+cemetery-place: US, CA, San Diego

@@ -1,0 +1,19 @@
+name-last: Hyde
+name-first: Ray
+name-given: Raymond Armstrong
+name-nick: Snorkle
+
+birth-date: 1932-11-26
+
+death-date: 2015-06-05
+death-place: US, OR, Portland
+
+meta-throws: Left
+
+school-level: secondary
+school-name:  Washington HS
+school-place: US, OR, Portland
+
+school-level: college
+school-name: Lewis & Clark College
+school-place: US, OR, Portland

@@ -1,0 +1,11 @@
+name-last: Travis
+name-first: Vic
+name-given: Victor Wayne
+
+birth-date:  1951-08-25
+birth-place: US, KY, Lexington
+
+death-date: 2015-05-30
+
+cemetery-name: Lexington Cemetery
+cemetery-place: US, KY, Lexington

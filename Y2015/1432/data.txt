@@ -1,0 +1,19 @@
+name-last: Muratore
+name-first: Rich
+name-given: Richard Peter
+
+birth-date: 1939-06-03
+birth-place: US, CA, San Francisco
+
+death-date: 2015-06-12
+death-place: US, CA, San Francisco
+
+school-level: secondary
+school-name:  Sacred Heart Cathedral Preparatory
+school-place: US, CA, San Francisco
+
+military-country: US
+military-branch:  Army
+
+cemetery-name: Holy Cross Catholic Cemetery
+cemetery-place: US, CA, Colma

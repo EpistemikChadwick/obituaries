@@ -1,0 +1,20 @@
+me-last: Mays
+name-first: Jesse
+name-given: Daniel Jesse
+
+birth-date: 1924-07-25
+birth-place: US, PA, New Freedom
+
+death-date: 2015-06-09
+death-place: US, PA, York
+
+school-level: secondary
+school-name:  New Freedom HS
+school-place: US, PA, New Freedom
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+
+cemetery-name: Trinity UCC Church Cemetery
+cemetery-place: US, PA, Glen Rock

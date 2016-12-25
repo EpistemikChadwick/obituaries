@@ -1,0 +1,7 @@
+name-last: Mora
+name-first: Andres
+name-matrilineal: Ibarra
+
+birth-date: 1955-05-25
+
+death-date: 2015-06-12

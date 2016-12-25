@@ -1,0 +1,16 @@
+name-last: DeMaio
+name-first: Pat
+name-given: Pasquale
+name-suffix: Sr.
+
+birth-date: 1939-12-04
+birth-place: US, CT, New Haven
+
+death-date: 2015-05-16
+death-place: US, CT, North Haven
+
+school-level: college
+school-name: Quinnipiac University
+
+cemetery-name: St. Lawrence Garden Mausoleum
+cemetery-place: US, CT, West Haven

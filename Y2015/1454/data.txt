@@ -1,0 +1,14 @@
+name-last: Sylvan
+name-first: Elliott
+name-given: Elliott Howard
+
+death-date: 2015-06-02
+death-place: US, NJ, Princeton
+
+school-level: secondary
+school-name:  Jamaica HS
+school-place: US, NY, Jamaica
+
+military-country: US
+military-branch:  Army
+military-conflict: World War II

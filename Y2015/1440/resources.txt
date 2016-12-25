@@ -1,0 +1,8 @@
+source-title: Starks Funeral Parlor
+source-date: 2015-06-10
+source-url: http://www.starksfuneral.com/obituary?o=1170-0pCxTcOs7Q
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-10

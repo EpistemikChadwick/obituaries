@@ -1,0 +1,8 @@
+source-title: Hartford Courant
+source-date: 2015-05-19
+source-url: http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=Joseph-Francis-Janiak&pid=174890274
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-19

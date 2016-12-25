@@ -1,0 +1,17 @@
+name-last: Steele
+name-first: Ronald
+name-nick: Cubie
+
+birth-date: 1933-11-07
+
+death-date: 2015-06-05
+
+school-level: secondary
+school-name:  Dade County HS
+school-place: US, GA, Trenton
+
+military-country: US
+military-branch:  Army
+
+cemetery-name: Hannah Cemetery
+cemetery-place: US, GA, Rising Fawn

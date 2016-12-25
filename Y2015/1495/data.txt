@@ -1,0 +1,5 @@
+name-last: Rodgers
+name-first: Darrell
+name-nick: Doc
+
+death-date: 2015-05-12

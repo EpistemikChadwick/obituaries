@@ -1,0 +1,11 @@
+name-last: Wisniewski
+name-first: Bob
+name-given: Robert
+
+birth-place: US, NY, Buffalo
+
+death-date: 2015-05-09
+
+school-level: secondary
+school-name:  West Seneca West HS
+school-place: US, NY, West Seneca

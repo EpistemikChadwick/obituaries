@@ -1,0 +1,15 @@
+name-last: Hesse
+name-first: Walt
+name-given: Walter W.
+
+birth-date: 1933-05-28
+birth-place: US, CA, San Francisco
+
+death-date: 2015-05-14
+
+school-level: secondary
+school-name:  Commerce HS
+school-place: US, CA, San Francisco
+
+military-country: US
+military-branch:  Navy

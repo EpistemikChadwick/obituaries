@@ -1,0 +1,8 @@
+source-title: Walker Funeral Home
+source-date: 2015-05-16
+source-url: http://www.herbwalker.com/obituaries/Darrell-Rodgers-2/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-16

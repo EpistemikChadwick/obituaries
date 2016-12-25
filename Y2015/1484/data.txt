@@ -1,0 +1,19 @@
+name-last: Ashley
+name-first: Billy
+name-given: Billy Gene
+
+birth-date: 1928-05-17
+birth-place: US, CA, San Jose
+
+death-date: 2015-03-28
+
+school-level: secondary
+school-name:  Santa Clara Union HS
+school-place: US, CA, Santa Clara
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+
+cemetery-name: Golden Gate National Cemetery
+cemetery-place: US, CA, San Bruno

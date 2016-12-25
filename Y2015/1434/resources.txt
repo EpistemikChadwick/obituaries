@@ -1,0 +1,8 @@
+source-title: Worcester Telegram & Gazette
+source-date: 2015-06-17
+source-url: http://www.legacy.com/obituaries/telegram/obituary.aspx?n=Ronald-Mayes&pid=175093459
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-17

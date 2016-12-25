@@ -1,0 +1,16 @@
+name-last: Haub
+name-first: Harold
+name-given: Harold Harris
+name-nick: Haubie
+
+birth-date: 1919-10-01
+birth-place: US, IA, Rockwell City
+
+death-date: 2015-06-07
+
+school-level: college
+school-name: University of Iowa
+
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

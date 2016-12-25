@@ -1,0 +1,8 @@
+source-title: Buffalo News
+source-date: 2015-06-07
+source-url: http://www.legacy.com/obituaries/buffalonews/obituary.aspx?n=Nicholas-J-STRACICK&pid=175026420
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-07

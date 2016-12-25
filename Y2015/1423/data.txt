@@ -1,0 +1,9 @@
+name-last: Gearhart
+name-first: Earl
+name-given: Earl T.
+
+birth-date: 1932-05-30
+birth-place: US, PA, McVeytown
+
+death-date: 2015-05-30
+death-place: US, PA, Springboro

@@ -1,0 +1,16 @@
+name-last: Foreman
+name-first: Don
+name-given: Donald H.
+
+birth-date: 1930-05-22
+
+death-date: 2015-06-11
+death-place: US, NY, Victor
+
+school-level: secondary
+school-name:  West HS
+school-place: US, NY, Rochester
+
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

@@ -1,0 +1,16 @@
+name-last: Smith
+name-first: Thomas
+name-given: Thomas A.
+
+birth-date: 1937-02-15
+birth-place: US, NY, Buffalo
+
+death-date: 2015-05-18
+death-place: US, NY, Amherst
+
+school-level: secondary
+school-name:  Bennett High School
+school-place: US, NY, Buffalo
+
+military-country: US
+military-branch:  Army

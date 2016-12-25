@@ -1,0 +1,12 @@
+name-last: Smith
+name-first: Phillip
+name-given: Phillip Ronald
+
+death-date: 2015-06-15
+death-place: US, GA, Gainesville
+
+meta-throws: Left
+
+school-level: secondary
+school-name:  Gainesville HS
+school-place: US, GA, Gainesville

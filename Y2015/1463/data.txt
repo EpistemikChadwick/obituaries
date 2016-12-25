@@ -1,0 +1,16 @@
+name-last: Shipman
+name-first: Bob
+name-given: Robert Lee
+
+birth-date: 1935-02-24
+birth-place: US, OK, Oklahoma City
+
+death-date: 2015-05-16
+death-place: US, CO, Centennial
+
+school-level: secondary
+school-name:  Capitol Hill HS
+school-place: US, OK, Oklahoma City
+
+cemetery-name: Resthaven Memory Gardens
+cemetery-place: US, OK, Oklahoma City

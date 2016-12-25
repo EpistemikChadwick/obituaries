@@ -1,0 +1,8 @@
+source-title: Topeka Capital-Journal
+source-date: 2015-06-01
+source-url: http://cjonline.com/sports/2015-06-01/topeka-baseball-great-gil-carter-passes-away
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-01

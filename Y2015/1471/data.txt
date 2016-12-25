@@ -1,0 +1,13 @@
+name-last: Brown
+name-first: Mark
+name-given: Mark L.
+
+birth-date: 1953-08-07
+birth-place: US, MA, Gloucester
+
+death-date: 2015-05-10
+death-place: US, MA, Boston
+
+school-level: secondary
+school-name:  Gloucester HS
+school-place: US, MA, Gloucester

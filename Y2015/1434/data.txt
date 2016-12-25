@@ -1,0 +1,8 @@
+name-last: Mayes
+name-first: Ron
+name-given: Ronald M.
+
+birth-place: US, MA, Webster
+
+death-date: 2015-06-16
+death-place: US, MA, Webster

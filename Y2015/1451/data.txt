@@ -1,0 +1,10 @@
+name-last: Hooks
+name-first: David
+name-given: David Martin
+name-suffix: Sr.
+
+death-date: 2015-06-08
+death-place: US, NC, Whiteville
+
+cemetery-name: Columbus Memorial Park
+cemetery-place: US, NC, Whiteville

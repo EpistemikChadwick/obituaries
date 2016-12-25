@@ -1,0 +1,15 @@
+name-last: Blondin
+name-first: Deb
+name-given: Delbert
+
+birth-date: 1939-03-28
+
+death-date: 2015-05-18
+death-place: US, AZ, Phoenix
+
+school-level: secondary
+school-name:  Saginaw HS
+school-place: US, MI, Saginaw
+
+military-country: US
+military-branch:  Army

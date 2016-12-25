@@ -1,0 +1,16 @@
+name-last: James
+name-first: Bud
+name-given: Wilmer F.
+name-suffix: Jr.
+
+birth-place: US, NJ, Hamilton
+
+death-date: 2015-05-25
+death-place: US, NJ, Hamilton
+
+school-level: secondary
+school-name:  Trenton Catholic HS
+school-place: US, NJ, Trenton
+
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, NJ, Hamilton

@@ -1,0 +1,8 @@
+source-title: Sosebee Mortuary
+source-date: 2015-05-25
+source-url: http://sosebeemortuary.com/obituaries/?id=355
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-25

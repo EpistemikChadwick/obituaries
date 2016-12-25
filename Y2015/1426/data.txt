@@ -1,0 +1,13 @@
+name-last: Benedict
+name-first: Cletus
+name-given: Cletus Wenford
+name-nick: Ben
+
+birth-date: 1932-01-10
+birth-place: US, TX, East Bernard
+
+death-date: 2015-05-21
+
+school-level: secondary
+school-name:  Southside HS
+school-place: US, TX, San Antonio

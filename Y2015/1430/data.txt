@@ -1,0 +1,15 @@
+name-last: Ossola
+name-first: Joe
+name-given: Joseph Paul
+
+birth-date: 1929-03-30
+birth-place: US, IL, Spring Valley
+
+death-date: 2015-06-14
+death-place: US, IL, Edwardsville
+
+school-level: college
+school-name: St. Louis University
+
+cemetery-name: Sts. Peter & Paul Catholic Cemetery
+cemetery-place: US, IL, Collinsville

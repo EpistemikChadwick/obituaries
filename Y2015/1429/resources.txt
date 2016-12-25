@@ -1,0 +1,8 @@
+source-title: Toledo Blade
+source-date: 2015-06-03
+source-url: http://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=John-Keller&pid=174996744
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-03

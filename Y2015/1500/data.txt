@@ -1,0 +1,16 @@
+name-last: Abbott
+name-first: James
+name-suffix: Sr.
+
+birth-date: 1924-11-04
+birth-place: US, IA, Sloan
+
+death-date: 2015-02-28
+death-place: US, SD, Yankton
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+
+cemetery-name: Yankton Cemetery
+cemetery-place: US, SD, Yankton

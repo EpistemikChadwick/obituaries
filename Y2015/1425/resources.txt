@@ -1,0 +1,8 @@
+source-title: Masters Funeral Home
+source-date: 2015-06-03
+source-url: http://www.themastersfuneralhomes.com/services.asp?locid=&page=odetail&id=627
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-03
