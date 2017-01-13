@@ -1,0 +1,22 @@
+name-last: Roberson
+name-first: Billy Ray
+name-given: William Ray
+ 
+birth-date: 1932-12-17
+birth-place: US, AL, Decatur
+ 
+death-date: 2016-07-27
+ 
+school-level: secondary
+school-name:  Coffee HS
+school-place: US, AL, Florence
+ 
+school-level: college
+school-name: Auburn University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Florence Cemetery
+cemetery-place: US, AL, Florence

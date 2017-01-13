@@ -1,0 +1,8 @@
+source-title: Capital Gazette
+source-date: 2016-08-18
+source-url: http://www.legacy.com/obituaries/CapitalGazette/obituary.aspx?n=William-Williamson-Bill&pid=181095358
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-18

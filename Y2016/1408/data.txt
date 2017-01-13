@@ -1,0 +1,12 @@
+name-last: Mairose
+name-first: Al
+name-given: Alfred W.
+ 
+death-date: 2016-08-11
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. John’s Cemetery
+cemetery-place: US, KY, Covington

@@ -1,0 +1,12 @@
+name-last: Diaz
+name-first: Alex
+ 
+death-date: 2016-08-19
+death-place:  US, FL, Miami
+ 
+school-level: secondary
+school-name:  John A. Ferguson HS
+school-place: US, FL, Miami
+ 
+school-level: college
+school-name: Florida Gulf Coast University

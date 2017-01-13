@@ -1,0 +1,12 @@
+name-last: Burke
+name-first: Bill
+name-given: William F.
+ 
+birth-date: 1936-10-04
+birth-place: US, IL, Zeigler
+ 
+death-date: 2016-08-18
+death-place:  US, FL, Sarasota
+ 
+military-country: US
+military-branch:  Air Force

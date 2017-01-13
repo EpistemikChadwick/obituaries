@@ -1,0 +1,18 @@
+name-last: Ellis
+name-first: Loyd
+name-given: Loyd Evan
+ 
+birth-date: 1923-05-26
+ 
+death-date: 2016-07-09
+ 
+school-level: secondary
+school-name:  University HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: University of Houston
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

@@ -1,0 +1,8 @@
+source-title: Lutz Funeral Home
+source-date: 2016-08-05
+source-url: http://www.lutzfuneralhome.com/book-of-memories/2646989/Unger-Earl/obituary.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-05

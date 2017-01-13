@@ -1,0 +1,10 @@
+name-last: Winter
+name-first: LeRoy
+ 
+birth-place: US, CA, Orland
+ 
+death-date: 2016
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,23 @@
+name-last: Falk
+name-first: Dick
+name-given: Richard K.
+ 
+birth-date: 1929-02-05
+birth-place: US, PA, Harrisburg
+ 
+death-date: 2016-08-02
+death-place:  US, PA, Hershey
+ 
+school-level: secondary
+school-name:  John Harris HS
+school-place: US, PA, Harrisburg
+ 
+school-level: college
+school-name: Elizabethtown College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Bendersville Cemetery
+cemetery-place: US, PA, Bendersville

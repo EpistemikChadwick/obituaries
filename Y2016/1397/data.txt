@@ -1,0 +1,11 @@
+name-last: Ramsay
+name-first: Rob
+name-given: Robert Arthur
+ 
+birth-date: 1973-12-03
+birth-place: US, WA, Vancouver
+ 
+death-date: 2016-08-04
+ 
+school-level: college
+school-name: Washington State University

@@ -1,0 +1,7 @@
+name-last: Nagy
+name-given: Stephen
+ 
+birth-date: 1919-05-28
+ 
+death-date: 2016-07-24
+death-place:  US, WA, Poulsbo

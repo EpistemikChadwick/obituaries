@@ -1,0 +1,22 @@
+name-last: Swanson
+name-first: Elmer
+name-given: J. Elmer
+ 
+birth-date: 1923-10-02
+birth-place: US, MI, Detroit
+ 
+death-date: 2016-08-12
+ 
+school-level: secondary
+school-name:  Northeastern HS
+school-place: US, MI, Detroit
+ 
+school-level: college
+school-name: University of Michigan
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Swedish Cemetery
+cemetery-place: US, CT, Portland

@@ -1,0 +1,8 @@
+source-title: Panama City New Herald
+source-date: 2016-08-10
+source-url: http://www.legacy.com/obituaries/newsherald/obituary.aspx?pid=181023009
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-15

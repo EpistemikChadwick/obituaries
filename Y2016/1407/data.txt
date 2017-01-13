@@ -1,0 +1,12 @@
+name-last: Chrysler
+name-first: John
+name-given: John C.
+ 
+birth-date: 1935-09-28
+birth-place: CA, ON, Chatham
+ 
+death-date: 2016-08-03
+death-place:  US, CA, San Diego
+ 
+cemetery-name: St. John’s Cemetery
+cemetery-place: US, MA, Lancaster

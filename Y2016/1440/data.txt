@@ -1,0 +1,9 @@
+name-last: Sands
+name-first: Charles
+name-given: Charles Duane
+ 
+birth-date: 1947
+birth-place: US, VA, Newport News
+ 
+death-date: 2016-08-22
+death-place:  US, FL, Naples

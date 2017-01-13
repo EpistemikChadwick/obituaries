@@ -1,0 +1,8 @@
+source-title: Mission Mortuary
+source-date: 2016-08-25
+source-url: http://www.missionmortuary.com/obituaries/Bartolo-Dimaggio/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-25

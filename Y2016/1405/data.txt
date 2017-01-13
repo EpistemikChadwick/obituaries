@@ -1,0 +1,10 @@
+name-last: Rawlings
+name-first: Lefty
+name-given: Vernon
+ 
+death-date: 2016-07-31
+death-place:  US, MS, Meridian
+ 
+cemetery-name: Magnolia Cemetery
+cemetery-place: US, MS, Meridian
+ 

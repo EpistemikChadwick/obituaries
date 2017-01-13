@@ -1,0 +1,6 @@
+name-last: Brumley
+name-first: Mike
+name-given: Tony Mike
+ 
+death-date: 2016-08-08
+death-place:  US, TX, Grapevine

@@ -1,0 +1,8 @@
+source-title: The Republican
+source-date: 2016-08-29
+source-url: http://obits.masslive.com/obituaries/masslive/obituary.aspx?n=Richard-C-Healy&pid=181215160
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-29

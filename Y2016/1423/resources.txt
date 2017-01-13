@@ -1,0 +1,8 @@
+source-title: Renner-Wikoff Chapel
+source-date: 2016-08-23
+source-url: http://www.renner-wikoffchapel.com/fh/obituaries/obituary.cfm?o_id=3862897&fh_id=10562
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-23

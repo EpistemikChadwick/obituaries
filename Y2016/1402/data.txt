@@ -1,0 +1,19 @@
+name-last: Mons
+name-first: Rene
+name-given: Rene L.
+ 
+birth-date: 1938-11-26
+birth-place: US, NH, Manchester
+ 
+death-date: 2016-08-05
+death-place:  US, NH, Manchester
+ 
+school-level: secondary
+school-name:  West HS
+school-place: US, NH, Manchester
+ 
+school-level: college
+school-name: Jacksonville University
+ 
+military-country: US
+military-branch:  Navy

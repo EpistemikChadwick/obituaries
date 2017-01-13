@@ -1,0 +1,8 @@
+source-title: Herald Tribune
+source-date: 2016-08-24
+source-url: http://www.legacy.com/obituaries/heraldtribune/obituary.aspx?n=William-Burke-Bill&pid=181160531
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-25

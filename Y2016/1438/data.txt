@@ -1,0 +1,16 @@
+name-last: Barry
+name-first: Ed
+name-given: Edward James
+name-suffix: Sr.
+ 
+birth-date: 1930-08-07
+ 
+death-date: 2016-08-26
+ 
+school-level: secondary
+school-name:  St. Mary’s HS
+school-place: US, MO, St. Louis
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

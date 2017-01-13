@@ -1,0 +1,11 @@
+name-last: Davis
+name-first: Cedar
+name-given: C. T.
+ 
+birth-date: 1915-01-28
+ 
+death-date: 2016-08-02
+death-place:  US, TN, Morristown
+ 
+cemetery-name: Martha Sunderland Cemetery
+cemetery-place: US, TN, Morristown

@@ -1,0 +1,8 @@
+source-title: Wicked Local Malden
+source-date: 2016-08-14
+source-url: http://malden.wickedlocal.com/news/20160814/malden-musings-pete-trabucco-part-of-greatest-generation
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-30

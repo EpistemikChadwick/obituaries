@@ -1,0 +1,13 @@
+name-last: Walker
+name-first: Jeep
+name-given: Joseph T.
+ 
+death-date: 2016
+death-place:  US, FL, Ocala
+ 
+school-level: secondary
+school-name:  Woodbury HS
+school-place: US, NJ, Woodbury
+ 
+cemetery-name: Cremated
+ 

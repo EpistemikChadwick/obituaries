@@ -1,0 +1,12 @@
+name-last: Walker
+name-first: Jeep
+name-given: Joseph T.
+ 
+birth-place: US, NJ, Woodbury
+ 
+death-date: 2016-08-01
+death-place:  US, FL, Ocala
+ 
+school-level: secondary
+school-name:  Woodbury HS
+school-place: US, NJ, Woodbury

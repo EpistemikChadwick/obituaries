@@ -1,0 +1,8 @@
+source-title: Marin Independent Journal
+source-date: 2016-08-31
+source-url: http://www.legacy.com/obituaries/marinij/obituary.aspx?n=Joseph-Paul-DeMaestri&pid=181238297
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-31

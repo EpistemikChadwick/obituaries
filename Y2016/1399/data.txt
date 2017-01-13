@@ -1,0 +1,16 @@
+name-last: Boyer
+name-first: Lynn
+name-given: Lewis
+ 
+birth-date: 1935-04-22
+birth-place: US, MO, Cossville
+ 
+death-date: 2016-08-07
+death-place:  US, MO, Carl Junction
+ 
+school-level: secondary
+school-name:  Alba HS
+school-place: US, MO, Alba
+ 
+cemetery-name: Friends Cemetery
+cemetery-place: US, MO, Purcell

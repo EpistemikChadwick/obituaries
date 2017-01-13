@@ -1,0 +1,14 @@
+name-last: Frasier
+name-first: Dan
+name-given: Dan M.
+ 
+birth-date: 1942-08-08
+ 
+death-date: 2016-08-16
+ 
+school-level: secondary
+school-name:  South Side Area HS
+school-place: US, PA, Hookstown
+ 
+school-level: college
+school-name: Geneva College

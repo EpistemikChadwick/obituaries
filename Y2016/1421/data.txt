@@ -1,0 +1,15 @@
+name-last: Jent
+name-first: Denis
+name-given: Denis O.
+ 
+birth-date: 1930-01-17
+birth-place: US, KY, Warren County
+ 
+death-date: 2016-08-19
+ 
+school-level: secondary
+school-name:  George Washington Community HS
+school-place: US, IN, Indianapolis
+ 
+cemetery-name: Mt. Pleasant Cemetery
+cemetery-place: US, IN, Greenwood

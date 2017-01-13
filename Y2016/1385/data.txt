@@ -1,0 +1,18 @@
+name-last: Frye
+name-first: C.A.
+ 
+birth-date: 1927-12-03
+birth-place: US, NC, Asheboro
+ 
+death-date: 2016-07-31
+death-place:  US, NC, Newton
+ 
+school-level: secondary
+school-name:  Asheboro HS
+school-place: US, NC, Asheboro
+ 
+school-level: college
+school-name: Lenoir-Rhyne University
+ 
+cemetery-name: Sandy Creek Cemetery
+cemetery-place: US, NC, Tyro

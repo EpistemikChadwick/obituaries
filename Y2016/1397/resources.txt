@@ -1,0 +1,8 @@
+source-title: Short’s Funeral Chapel
+source-date: 2016-08-10
+source-url: http://shortsfuneralchapel.com/archives/2399
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-10

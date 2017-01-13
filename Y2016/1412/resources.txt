@@ -1,0 +1,8 @@
+source-title: Westside Chapel funeral Home
+source-date: 2016-08-15
+source-url: http://www.westsidechapelfuneralhome.com/notices/CT-Davis
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-15

@@ -1,0 +1,8 @@
+source-title: Nelson Funeral Service
+source-date: 2016-08-30
+source-url: http://www.nelsonfuneral.com/obituaries/Vernon-Snow?obId=1055478#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-30

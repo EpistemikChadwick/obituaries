@@ -1,0 +1,11 @@
+name-last: Snow
+name-first: Vernon
+ 
+birth-date: 1919-09-11
+birth-place: US, AR, Clearwater Community
+ 
+death-date: 2016-08-28
+death-place:  US, AR, Berryville
+ 
+cemetery-name: High Cemetery
+cemetery-place: US, AR, Berryville

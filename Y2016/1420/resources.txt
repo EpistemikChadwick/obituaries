@@ -1,0 +1,8 @@
+source-title: Reno Gazette-Journal
+source-date: 2016-08-21
+source-url: http://www.legacy.com/obituaries/rgj/obituary.aspx?n=Gary-W-Marks&pid=181127779
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-23

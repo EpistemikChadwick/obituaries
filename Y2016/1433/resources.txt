@@ -1,0 +1,8 @@
+source-title: Lynch & Sons Funeral Directors
+source-date: 2016-08-29
+source-url: http://www.lynchandsonsmilford.com/obituaries/Bryan-Richard-Clutterbuck?obId=1050052#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-29

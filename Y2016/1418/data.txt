@@ -1,0 +1,19 @@
+name-last: Bigby
+name-first: Thomas
+name-given: Thomas Mack
+name-suffix: Sr.
+ 
+birth-date: 1929-07-21
+birth-place: US, SC, Columbia
+ 
+death-date: 2016-08-14
+ 
+school-level: secondary
+school-name:  Columbia HS
+school-place: US, SC, Columbia
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Fort Jackson National Cemetery
+cemetery-place: US, SC, Columbia

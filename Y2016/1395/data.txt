@@ -1,0 +1,19 @@
+name-last: McHugh
+name-first: Elden
+name-given: Elden Edgar
+ 
+birth-date: 1923-09-20
+birth-place: US, KS, Bucklin
+ 
+death-date: 2016-01-29
+ 
+school-level: secondary
+school-name:  Dodge City HS
+school-place: US, KS, Dodge City
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Maple Grove Cemetery
+cemetery-place: US, KS, Dodge City

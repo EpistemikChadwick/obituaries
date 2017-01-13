@@ -1,0 +1,8 @@
+source-title: Naples Daily News
+source-date: 2016-08-23
+source-url: http://www.naplesnews.com/story/sports/college/fgcu/2016/08/19/former-fgcu-shortstop-alex-diaz-killed-car-crash-/89000344/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-23

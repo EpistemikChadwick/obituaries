@@ -1,0 +1,16 @@
+name-last: Gordy
+name-first: John
+name-given: John William
+ 
+birth-date: 1955-11-20
+birth-place: US, MD, Salisbury
+ 
+death-date: 2016-08-08
+death-place:  US, MD, Salisbury
+ 
+school-level: secondary
+school-name:  Bennett HS
+school-place: US, MD, Salisbury
+ 
+cemetery-name: Wicomico Memorial Park
+cemetery-place: US, MD, Salisbury

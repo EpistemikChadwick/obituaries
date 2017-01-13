@@ -1,0 +1,13 @@
+name-last: Williamson
+name-first: Bill
+name-given: William
+ 
+birth-date: 1934-01-20
+birth-place: US, NY, Elmira
+ 
+death-date: 2016-08-14
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army

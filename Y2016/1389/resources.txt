@@ -1,0 +1,8 @@
+source-title: Toale Brothers Funeral Home
+source-date: 2016-08-05
+source-url: http://toalebrothers.com/home/index.cfm/obituaries/view/fh_id/15157/id/3830852
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-05

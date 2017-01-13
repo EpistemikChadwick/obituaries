@@ -1,0 +1,20 @@
+name-last: Berg
+name-first: Warren
+name-given: Warren
+ 
+birth-date: 1922-01-17
+birth-place: US, MA, Lynn
+ 
+death-date: 2016-08-21
+death-place:  US, NH, Sanbornville
+ 
+school-level: secondary
+school-name:  Rindge Technical School
+school-place: US, MA, Cambridge
+ 
+school-level: college
+school-name: Harvard University
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II

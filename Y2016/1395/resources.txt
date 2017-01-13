@@ -1,0 +1,8 @@
+source-title: Dodge City Daily Globe
+source-date: 2016-02-03
+source-url: http://www.legacy.com/obituaries/dodgeglobe/obituary.aspx?page=lifestory&pid=177559297
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-05

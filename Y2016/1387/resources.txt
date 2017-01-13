@@ -1,0 +1,8 @@
+source-title: Ritter Gray Funeral Home
+source-date: 2016-08-01
+source-url: http://www.grayfuneral.com/obituaries/Homer-Matney/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-01

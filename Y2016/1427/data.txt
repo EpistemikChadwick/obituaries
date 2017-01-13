@@ -1,0 +1,20 @@
+name-last: Koopmann
+name-first: Harold
+name-given: Harold A.
+ 
+birth-date: 1918-04-03
+birth-place: US, WI, Plymouth
+ 
+death-date: 2016-08-22
+death-place:  US, WI, Plymouth
+ 
+school-level: secondary
+school-name:  Plymouth HS
+school-place: US, WI, Plymouth
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Woodlawn Cemetery
+cemetery-place: US, WI, Plymouth

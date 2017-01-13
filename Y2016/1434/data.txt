@@ -1,0 +1,23 @@
+name-last: Berry
+name-first: Neil
+name-given: Cornelius John
+ 
+birth-date: 1922-01-11
+birth-place: US, MI, Kalamazoo
+ 
+death-date: 2016-08-24
+death-place:  US, MI, Kalamazoo
+ 
+school-level: secondary
+school-name: Central HS
+school-place: US, MI, Kalamazoo
+ 
+school-level: college
+school-name: Western Michigan University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Mt. Ever-Rest Memorial Park
+cemetery-place: US, MI, Kalamazoo

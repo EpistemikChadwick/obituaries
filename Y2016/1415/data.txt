@@ -1,0 +1,15 @@
+name-last: Laber
+name-first: Jake
+name-given: Jacob Allen
+ 
+birth-date: 1986-06-15
+birth-place: US, ND, Fargo
+ 
+death-date: 2016-08-14
+ 
+school-level: secondary
+school-name:  North HS
+school-place: US, ND, Fargo
+ 
+school-level: college
+school-name: North Dakota State University

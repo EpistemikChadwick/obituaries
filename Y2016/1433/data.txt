@@ -1,0 +1,14 @@
+name-last: Clutterbuck
+name-first: Bryan
+name-given: Bryan Richard
+ 
+birth-date: 1959-12-17
+ 
+death-date: 2016-08-23
+ 
+school-level: secondary
+school-name:  Milford HS
+school-place: US, MI, Milford
+ 
+school-level: college
+school-name: Eastern Michigan University

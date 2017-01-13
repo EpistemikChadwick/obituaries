@@ -1,0 +1,19 @@
+name-last: Henning
+name-first: Doug
+name-given: Douglas C.
+ 
+birth-date: 1937-06-03
+birth-place: US, IA, Calamus
+ 
+death-date: 2016-08-24
+death-place:  US, IA, Davenport
+ 
+school-level: secondary
+school-name:  Calamus HS
+school-place: US, IA, Calamus
+ 
+school-level: college
+school-name: University of Iowa
+ 
+cemetery-name: Kvindherred Cemetery
+cemetery-place: US, IA, Calamus

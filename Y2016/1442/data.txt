@@ -1,0 +1,21 @@
+name-last: Shuford
+name-first: George
+name-given: George Loy
+name-suffix: III
+ 
+birth-date: 1941-03-02
+birth-place: US, NC, Wadesboro
+ 
+death-date: 2016-08-28
+death-place:  US, TN, Chattanooga
+ 
+school-level: secondary
+school-name:  Chattanooga Central HS
+school-place: US, TN, Chattanooga
+ 
+school-level: college
+school-name: University of Tennessee
+ 
+cemetery-name: Hamilton Memorial Gardens
+cemetery-place: US, TN, Hixson
+ 

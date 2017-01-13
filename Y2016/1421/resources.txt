@@ -1,0 +1,8 @@
+source-title: G. H. Herrmann Funeral Home
+source-date: 2016-08-23
+source-url: http://www.ghherrmann.com/memsol.cgi?user_id=1842181
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-23

@@ -1,0 +1,12 @@
+name-last: Brice
+name-first: Alan
+name-given: Alan H.
+ 
+birth-date: 1937-10-01
+birth-place: US, NY, New York
+ 
+death-date: 2016-07-30
+ 
+school-level: secondary
+school-name:  Hillsborough HS
+school-place: US, FL, Tampa

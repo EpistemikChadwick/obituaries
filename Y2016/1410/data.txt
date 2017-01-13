@@ -1,0 +1,15 @@
+name-last: Colombatto
+name-first: Pete
+name-given: Pete James
+ 
+birth-date: 1923-12-06
+birth-place: US, MO, Bevier
+ 
+death-date: 2016-08-11
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Charles Cemetery
+cemetery-place: US, MO, Bevier

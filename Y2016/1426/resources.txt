@@ -1,0 +1,8 @@
+source-title: Spokesman-Review
+source-date: 2016-08-16
+source-url: http://www.spokesman.com/stories/2016/aug/16/mike-brumley-former-spokane-indians-catcher-dies/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-23

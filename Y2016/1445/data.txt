@@ -1,0 +1,13 @@
+name-last: Trabucco
+name-first: Peter
+name-given: Peter R.
+ 
+death-date: 2016-07-25
+death-place:  US, MA, Malden
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War
+ 
+cemetery-name: Forest Dale Cemetery
+cemetery-place: US, MA, Malden

@@ -1,0 +1,19 @@
+name-last: Lilly
+name-first: James
+name-given: James Theron
+ 
+birth-date: 1934-11-10
+birth-place: US, AK, Morrilton
+ 
+death-date: 2016-08-18
+ 
+school-level: secondary
+school-name:  England HS
+school-place: US, AR, England
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Forest Hills Memorial Park
+cemetery-place: US, AR, Alexander

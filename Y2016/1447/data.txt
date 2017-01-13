@@ -1,0 +1,13 @@
+name-last: DeMaestri
+name-first: Joe
+name-given: Joseph Paul
+name-suffix: Sr.
+ 
+birth-date: 1928-12-09
+ 
+death-date: 2016-08-26
+death-place:  US, CA, San Rafael
+ 
+school-level: secondary
+school-name:  Tamalpais HS
+school-place: US, CA, Mill Valley

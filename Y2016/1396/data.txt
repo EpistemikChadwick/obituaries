@@ -1,0 +1,27 @@
+name-last: Butler
+name-first: Jack
+name-given: Jack D.
+ 
+birth-date: 1929-12-09
+birth-place: US, KS, Eureka
+ 
+death-date: 2016-03-18
+death-place:  US, MO, Springfield
+ 
+school-level: secondary
+school-name:  Tonovay HS
+school-place: US, KS, Neal
+ 
+school-level: college
+school-name: Emporia State University Teachers College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Sunset Memorial Estates Cemetery
+cemetery-place: US, MO, Waynesville

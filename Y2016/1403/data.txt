@@ -1,0 +1,14 @@
+name-last: Mitchell
+name-first: Basil
+name-given: Basil H.
+ 
+birth-date: 1932-06-04
+ 
+death-date: 2016-08-07
+death-place:  US, VA, Lynchburg
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Wesleybury United Methodist Church Cemetery
+cemetery-place: US, VA, Gladys

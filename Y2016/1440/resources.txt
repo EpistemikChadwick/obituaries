@@ -1,0 +1,8 @@
+source-title: Daily Progress
+source-date: 2016-08-28
+source-url: http://www.dailyprogress.com/obituaries/sands-charles-duane/article_a5d0010d-a058-5031-8f8e-6ababa0af3a8.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-29

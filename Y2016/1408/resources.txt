@@ -1,0 +1,8 @@
+source-title: Kentucky Enquirer
+source-date: 2016-08-14
+source-url: http://www.legacy.com/obituaries/nky/obituary.aspx?n=Alfred-Mairose&pid=181067120
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-15

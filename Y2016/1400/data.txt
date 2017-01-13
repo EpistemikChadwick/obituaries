@@ -1,0 +1,14 @@
+name-last: Budd
+name-first: Randy
+name-given: Randy L.
+ 
+birth-date: 1960-09-13
+ 
+death-date: 2016-08-06
+ 
+school-level: secondary
+school-name: Massillon HS
+school-place: US, OH, Massillon
+ 
+school-level: college
+school-name: University of Akron

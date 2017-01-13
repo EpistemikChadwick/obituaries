@@ -1,0 +1,18 @@
+name-last: Matney
+name-first: Homer
+name-given: Homer Lee
+ 
+birth-date: 1920-11-04
+birth-place: US, TX, Paris
+ 
+death-date: 2016-07-24
+ 
+school-level: college
+school-name: Cameron University
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Flower Mound Cemetery
+cemetery-place: US, OK, Lawton
+ 

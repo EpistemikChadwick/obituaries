@@ -1,0 +1,15 @@
+name-last: Flynn
+name-first: Bob
+name-given: Robert C.
+ 
+birth-date: 1933-05-20
+birth-place: US, ME, Lewiston
+ 
+death-date: 2016-07-31
+ 
+school-level: secondary
+school-name: Lewiston HS
+school-place: US, ME, Lewiston
+ 
+military-country: US
+military-branch:  Army

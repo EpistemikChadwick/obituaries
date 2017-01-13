@@ -1,0 +1,8 @@
+name-last: Bell
+name-first: Juan
+name-nick: Tito
+ 
+death-date: 2016-08-24
+death-place:  DO, Distrito Nacional, Santa Domingo
+ 
+cemetery-place: DO, San Pedro de Macoris, San Pedro de Macoris

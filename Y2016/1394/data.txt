@@ -1,0 +1,16 @@
+name-last: LeClair
+name-first: Sam
+name-given: Samuel Joseph
+ 
+birth-date: 1951-03-29
+birth-place: US, MA, Everett
+ 
+death-date: 2016-07-31
+death-place:  US, GA, East Point
+ 
+school-level: secondary
+school-name:  Bridgewater-Raynham HS
+school-place: US, MA, Bridgewater
+ 
+cemetery-name: St. Thomas Aquinas Cemetery
+cemetery-place: US, MA, Bridgewater

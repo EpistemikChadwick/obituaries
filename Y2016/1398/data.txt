@@ -1,0 +1,9 @@
+name-last: Ramsay
+name-first: Rob
+ 
+death-date: 2016-08-04
+death-place: US, ID, Moscow
+ 
+school-level: secondary
+school-name: Mountain View HS
+school-place: US, WA, Vancouver

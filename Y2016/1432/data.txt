@@ -1,0 +1,23 @@
+name-last: Healy
+name-first: Dick
+name-given: Richard Charles
+name-suffix: Jr.
+ 
+birth-date: 1932-08-11
+birth-place: US, MA, Springfield
+ 
+death-date: 2016-08-12
+ 
+school-level: secondary
+school-name:  Classical HS
+school-place: US, MA, Springfield
+ 
+school-level: college
+school-name: Nichols College
+ 
+school-level: college
+school-name: Springfield College
+school-place: US, MA, Springfield
+ 
+military-country: US
+military-branch:  Army

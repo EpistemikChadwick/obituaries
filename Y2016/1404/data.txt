@@ -1,0 +1,17 @@
+name-last: Holder
+name-first: Brent
+name-given: George Brent
+ 
+birth-date: 1932-07-16
+ 
+death-date: 2016-08-04
+ 
+school-level: secondary
+school-name:  Varina HS
+school-place: US, VA, Richmond
+ 
+school-level: college
+school-name: University of Richmond
+ 
+military-country: US
+military-branch:  Army

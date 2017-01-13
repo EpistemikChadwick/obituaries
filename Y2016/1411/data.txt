@@ -1,0 +1,19 @@
+name-last: Husum
+name-first: Kevin
+name-given: Kevin Theodore
+ 
+birth-date: 1993-02-20
+birth-place: US, FL, Gainesville
+ 
+death-date: 2016
+death-place:  US, GA,
+ 
+school-level: secondary
+school-name:  Bay HS
+school-place: US, FL, Panama City
+ 
+school-level: college
+school-name: Gulf Coast State College
+ 
+school-level: college
+school-name: James Madison University

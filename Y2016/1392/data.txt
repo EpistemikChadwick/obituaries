@@ -1,0 +1,19 @@
+name-last: Unger
+name-first: Bob
+name-given: Earl Robert
+ 
+birth-date: 1930-04-12
+birth-place: US, PA, Freeland
+ 
+death-date: 2016-08-02
+death-place:  US, PA, Reading
+ 
+school-level: secondary
+school-name:  Pottsville HS
+school-place: US, PA, Pottsville
+ 
+school-level: college
+school-name: Princeton University
+ 
+military-country: US
+military-branch:  Navy

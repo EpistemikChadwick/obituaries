@@ -1,0 +1,9 @@
+name-last: Marks
+name-first: Gary
+name-given: Gary W.
+ 
+birth-date: 1949-02-20
+birth-place: US, CA, Van Nuys
+ 
+death-date: 2016-08-13
+ 

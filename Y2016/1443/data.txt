@@ -1,0 +1,21 @@
+name-last: Hoag
+name-first: Arnie
+name-given: Arnold William
+ 
+birth-date: 1920-06-11
+birth-place: US, WI, Wausau
+ 
+death-date: 2016-08-26
+death-place:  US, WI, Wausau
+ 
+school-level: secondary
+school-name:  Wausau HS
+school-place: US, WI, Wausau
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Pine Grove Cemetery
+cemetery-place: US, WI, Wausau
+ 

@@ -1,0 +1,11 @@
+name-last: Toyoda
+name-first: Yasumitsu
+ 
+birth-place: JP, Ibaraki Prefecture, Daigo
+ 
+death-date: 2016-08-14
+death-place:  JP, Kanagawa Prefecture, Kawasaki
+ 
+school-level: secondary
+school-name:  Mito Commercial  HS
+school-place: JP, Ibaraki Prefecture, Mito

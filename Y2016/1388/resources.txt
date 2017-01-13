@@ -1,0 +1,8 @@
+source-title: Elkins Funeral Home
+source-date: 2016-08-01
+source-url: http://www.elkinsfuneralhome.com/book-of-memories/2662545/Roberson-William-Billy-Ray/obituary.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-01

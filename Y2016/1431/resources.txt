@@ -1,0 +1,8 @@
+source-title: ESPN Deportes
+source-date: 2016-08-24
+source-url: http://espndeportes.espn.com/beisbol/nota/_/id/2769366/fallece-ex-pelotero-dominicano-juan-bell-a-los-48-anos
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-25

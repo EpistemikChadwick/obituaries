@@ -1,0 +1,20 @@
+name-last: Brown
+name-first: Tom
+name-given: Thomas D.
+ 
+birth-date: 1923-04-19
+birth-place: US, PA, Jessup
+ 
+death-date: 2016-08-26
+death-place:  US, PA, Elmhurst
+ 
+school-level: secondary
+school-name:  St. Patrick’s HS
+school-place: US, PA, Olyphant
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Thomas Aquinas Cemetery
+cemetery-place: US, PA, Archbald

@@ -1,0 +1,8 @@
+source-title: Union Leader
+source-date: 2016-08-07
+source-url: http://www.legacy.com/obituaries/unionleader/obituary.aspx?n=Rene-L-Mons&pid=180999569
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-10

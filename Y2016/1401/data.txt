@@ -1,0 +1,12 @@
+name-last: Jostworth
+name-first: Don
+name-given: Donald A.
+name-suffix: Sr.
+ 
+birth-date: 1929-05-24
+ 
+death-date: 2016-07-29
+ 
+school-level: secondary
+school-name:  Elder HS
+school-place: US, OH, Cincinnati

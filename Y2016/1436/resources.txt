@@ -1,0 +1,8 @@
+source-title: South Jersey Times
+source-date: 2016-08-22
+source-url: http://obits.nj.com/obituaries/southjerseytimes/obituary.aspx?n=JOSEPH-WALKER&pid=181140237
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-29

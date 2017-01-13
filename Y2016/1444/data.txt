@@ -1,0 +1,13 @@
+name-last: Trabucco
+name-first: Pete
+ 
+death-date: 2016-07-25
+death-place:  US, MA, Malden
+ 
+school-level: secondary
+school-name:  Malden HS
+school-place: US, MA, Malden
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War

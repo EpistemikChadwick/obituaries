@@ -1,0 +1,19 @@
+name-last: Datti
+name-first: Paul
+name-given: Paul Charles
+ 
+birth-place: US, PA, Scranton
+ 
+death-date: 2016-08-22
+death-place:  US, PA, Scranton
+ 
+school-level: secondary
+school-name:  Scranton Central HS
+school-place: US, PA, Scranton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Cathedral Cemetery
+cemetery-place: US, PA, Scranton

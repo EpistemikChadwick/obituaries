@@ -1,0 +1,15 @@
+name-last: Follmer
+name-first: Clive
+name-given: Clive Allen
+ 
+birth-date: 1931-10-01
+birth-place: US, IL, Forrest
+ 
+death-date: 2016-08-14
+death-place:  US, IL, Urbana
+ 
+school-level: college
+school-name: University of Illinois
+ 
+military-country: US
+military-branch:  Army

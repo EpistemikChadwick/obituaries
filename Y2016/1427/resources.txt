@@ -1,0 +1,8 @@
+source-title: Suchon Funeral Home
+source-date: 2016-08-25
+source-url: http://www.suchonfh.com/fh/obituaries/obituary.cfm?o_id=3865670&fh_id=10827
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-25
