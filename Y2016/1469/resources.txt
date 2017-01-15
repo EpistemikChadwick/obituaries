@@ -1,0 +1,8 @@
+source-title: Greening-Eagan-Hayes Funeral Home
+source-date: 2016-09-21
+source-url: https://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?CFID=40d80226-d6af-418e-90fd-3edaa8b6e77b&CFTOKEN=0&o_id=3883423&fh_id=14477
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-21

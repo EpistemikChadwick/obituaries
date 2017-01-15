@@ -1,0 +1,7 @@
+name-last: Arlin
+name-first: Steve
+ 
+death-date: 2016-08-17
+ 
+school-level: college
+school-name: Ohio State University

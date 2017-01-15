@@ -1,0 +1,12 @@
+name-last: McDonald
+name-first: Russell
+name-given: Russell Goff
+ 
+birth-date: 1935-01-16
+birth-place: US, WV, Grafton
+ 
+death-date: 2016-09-04
+ 
+school-level: secondary
+school-name:  Bridgeport HS
+school-place: US, WV, Bridgeport

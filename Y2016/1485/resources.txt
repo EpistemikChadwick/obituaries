@@ -1,0 +1,8 @@
+source-title: San Diego Tribune
+source-date: 2016-09-25
+source-url: http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=Steve-Arlin&pid=181594506
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-25

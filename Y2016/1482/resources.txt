@@ -1,0 +1,8 @@
+source-title: St. Stephens Funeral Home
+source-date: 2016-09-23
+source-url: http://www.ststephensfuneralhomellc.com/obits/obituary.php?id=680325
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-23

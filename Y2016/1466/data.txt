@@ -1,0 +1,12 @@
+name-last: Silveira
+name-first: Luis
+name-given: Luis Henry
+ 
+birth-date: 1927-03
+birth-place: US, CA, Los Osos
+ 
+death-date: 2016-08-30
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

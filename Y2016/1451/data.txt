@@ -1,0 +1,8 @@
+name-last: Cooper
+name-first: Ron
+name-given: Ronald Milton
+ 
+birth-place: US, RI, Cumberland
+ 
+death-date: 2016-07-12
+death-place:  US, RI, Providence

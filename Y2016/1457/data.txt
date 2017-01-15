@@ -1,0 +1,15 @@
+name-last: Nelson
+name-first: Jimmy
+name-given: James M.
+name-suffix: Sr.
+ 
+birth-date: 1926-11-04
+ 
+death-date: 2016-09-04
+ 
+school-level: secondary
+school-name:  Phillips HS
+school-place: US, AL, Birmingham
+ 
+cemetery-name: Jefferson Memorial Gardens
+cemetery-place: US, AL, Trussville

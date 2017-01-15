@@ -1,0 +1,8 @@
+source-title: Time for Memory
+source-date: 2016-09-02
+source-url: http://www.timeformemory.com/fh_obituary.cfm?obitid=44445&fhid=17&locationid=17
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-02

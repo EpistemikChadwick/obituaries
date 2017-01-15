@@ -1,0 +1,8 @@
+source-title: Daneri Mortuary
+source-date: 2016-09-23
+source-url: http://www.danerimortuary.com/home/index.cfm/obituaries/view/fh_id/12575/id/3893418
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-23

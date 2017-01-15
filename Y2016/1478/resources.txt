@@ -1,0 +1,8 @@
+source-title: Visalia Times-Delta
+source-date: 2016-09-17
+source-url: http://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=Clinton-J-Cameron&pid=181437718
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-23

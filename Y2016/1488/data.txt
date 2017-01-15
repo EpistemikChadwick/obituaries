@@ -1,0 +1,16 @@
+name-last: Mytrysak
+name-first: John
+ 
+birth-date: 1926-06-27
+birth-place: US, PA, Luciusboro
+ 
+death-date: 2016-09-24
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Sts. Simon and Jude Cemetery
+cemetery-place: US, PA, Blairsville

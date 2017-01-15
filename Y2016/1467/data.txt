@@ -1,0 +1,13 @@
+name-last: Rowland
+name-first: Wilton
+name-given: Wilton Parker
+name-suffix: Sr.
+ 
+death-date: 2016-09-10
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Hillcrest Memorial Park Cemetery
+cemetery-place: US, GA, Augusta

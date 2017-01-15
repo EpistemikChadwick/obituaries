@@ -1,0 +1,13 @@
+name-last: McCaffrey
+name-first: Dennis
+name-given: Dennis M.
+name-suffix: Jr.
+ 
+birth-date: 1975-10-11
+birth-place: US, WV, Fairmont
+ 
+death-date: 2016-09-27
+ 
+school-level: secondary
+school-name:  Pemberton HS
+school-place: US, NJ, Brown Mills

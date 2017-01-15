@@ -1,0 +1,20 @@
+name-last: Wilson
+name-first: John
+name-given: John A.
+ 
+birth-date: 1933-10-04
+birth-place: US, PA, Philipsburg
+ 
+death-date: 2016-08-30
+death-place:  US, PA, Danville
+ 
+school-level: secondary
+school-name:  Philipsburg HS
+school-place: US, PA, Philipsburg
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Philipsburg Cemetery
+cemetery-place: US, PA, South Philipsburg

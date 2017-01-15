@@ -1,0 +1,16 @@
+name-last: Cameron
+name-first: Clint
+name-given: Clinton J.
+ 
+birth-date: 1921-03-07
+birth-place: US, OR, Portland
+ 
+death-date: 2016-08-15
+death-place:  US, CA, Visalia
+ 
+school-level: college
+school-name: Willamette University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

@@ -1,0 +1,20 @@
+name-last: Miles
+name-first: Carl
+name-given: Carl Thomas
+name-suffix: Jr.
+ 
+birth-date: 1918-03-22
+birth-place: US, MO, Trenton
+ 
+death-date: 2016-09-09
+death-place:  US, FL, Bartow
+ 
+school-level: secondary
+school-name:  Cameron HS
+school-place: US, MO, Cameron
+ 
+school-level: college
+school-name: University of Missouri
+ 
+cemetery-name: Shelbina Cemetery
+cemetery-place: US, MO, Shelbina

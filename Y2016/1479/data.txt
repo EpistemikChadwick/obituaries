@@ -1,0 +1,13 @@
+name-last: Korcheck
+name-first: Steve
+name-given: Stephen J.
+ 
+birth-date: 1932-08-11
+ 
+death-date: 2016-08-26
+ 
+school-level: college
+school-name: George Washington University
+ 
+cemetery-name: Sarasota National Cemetery
+cemetery-place: US, FL, Sarasota

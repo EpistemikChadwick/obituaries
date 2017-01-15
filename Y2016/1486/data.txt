@@ -1,0 +1,18 @@
+name-last: Ballestrini
+name-first: Dick
+name-given: Richard
+name-suffix: Jr.
+ 
+birth-date: 1929-12-28
+birth-place: US, CT, New London
+ 
+death-date: 2016-09-21
+death-place:  US, CT, Norwich
+ 
+school-level: secondary
+school-name:  Bulkeley HS
+school-place: US, CT, New London
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

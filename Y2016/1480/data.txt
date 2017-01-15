@@ -1,0 +1,15 @@
+name-last: Korcheck
+name-first: Stephen
+name-given: Stephen J.
+ 
+birth-date: 1932-08-11
+ 
+death-date: 2016-08-26
+ 
+school-level: secondary
+school-name:  Cumberland Township HS
+school-place: US, PA, Carmichaels
+ 
+school-level: college
+school-name: George Washington University
+ 

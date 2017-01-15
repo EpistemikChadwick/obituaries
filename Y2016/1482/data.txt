@@ -1,0 +1,12 @@
+name-last: Lee
+name-first: Jack
+name-given: Andrew Jackson
+ 
+birth-date: 1933-09-13
+birth-place: US, AL,
+ 
+death-date: 2016-09-08
+death-place:  US, AL, Leroy
+ 
+meta-throws: Left
+meta-bats: Left

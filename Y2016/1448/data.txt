@@ -1,0 +1,15 @@
+name-last: Mounts
+name-first: Emery
+name-given: Delano Emery
+ 
+birth-date: 1936
+ 
+death-date: 2016-08-21
+death-place:  US, WV, Huntington
+ 
+school-level: secondary
+school-name:  Williamson HS
+school-place: US, WV, Williamson
+ 
+cemetery-name: Mountain View Memory Gardens
+cemetery-place: US, WV, Maher

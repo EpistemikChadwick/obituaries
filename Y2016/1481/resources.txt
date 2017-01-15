@@ -1,0 +1,8 @@
+source-title: West Kentucky Star
+source-date: 2016-09-17
+source-url: http://www.westkentuckystar.com/Obituaries/Western-Kentucky/McCracken/Lonnie-Lee-Eastham.aspx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-23

@@ -1,0 +1,8 @@
+source-title: Moore Funeral Services
+source-date: 2016-09-29
+source-url: https://www.meaningfulfunerals.net/home/index.cfm?action=public%3Aobituaries.view&CFID=40d80226-d6af-418e-90fd-3edaa8b6e77b&CFTOKEN=0&o_id=3903907&fh_id=14987
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-29

@@ -1,0 +1,18 @@
+name-last: Brogan
+name-first: John
+name-given: John A.
+ 
+birth-date: 1942-07-12
+birth-place: US, NJ, Glen Ridge
+ 
+death-date: 2016-09-16
+ 
+school-level: secondary
+school-name:  St. Benedict’s Preparatory School
+school-place: US, NJ, Newark
+ 
+school-level: college
+school-name: Georgetown University
+ 
+cemetery-name: Pleasant Hill Cemetery
+cemetery-place: US, NJ, Chester

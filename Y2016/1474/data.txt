@@ -1,0 +1,17 @@
+name-last: Chancellor
+name-first: Hoyle
+name-given: Hoyle Zellner
+ 
+birth-date: 1926-02-09
+birth-place: US, TN, Johnson City
+ 
+death-date: 2016-09-20
+death-place:  US, VA, Arlington
+ 
+school-level: secondary
+school-name:  Science Hill HS
+school-place: US, TN, Johnson City
+ 
+cemetery-name: National Memorial Park
+cemetery-place: US, VA, Falls Church
+ 

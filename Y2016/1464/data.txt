@@ -1,0 +1,12 @@
+name-last: Montalto
+name-first: Nick
+name-given: Nicholas R.
+ 
+birth-date: 1927-03-10
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2016-09-10
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,8 @@
+source-title: Centre Daily Times
+source-date: 2016-09-01
+source-url: http://www.legacy.com/obituaries/centredaily/obituary.aspx?n=John-A-Wilson&pid=181253142
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-02

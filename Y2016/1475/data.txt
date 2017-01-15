@@ -1,0 +1,19 @@
+name-last: Livesey
+name-first: Kenny
+name-given: Kenneth Aaron
+ 
+birth-date: 1983-01-16
+birth-place: US, CA, Stockton
+ 
+death-date: 2016-09-16
+death-place: 
+ 
+school-level: secondary
+school-name:  Amos Alonzo Stagg HS
+school-place: US, CA, Stockton
+ 
+school-level: college
+school-name: Cosumnes River College
+ 
+school-level: college
+school-name: University of Kansas

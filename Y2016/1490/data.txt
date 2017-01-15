@@ -1,0 +1,12 @@
+name-last: Brown
+name-first: William
+name-given: William Maurice
+ 
+birth-date: 1923-07-21
+birth-place: US, MD, Odenton
+ 
+death-date: 2016-09-17
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

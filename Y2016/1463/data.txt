@@ -1,0 +1,8 @@
+name-last: Turpin
+name-first: Dwight
+name-given: Dwight Dale
+ 
+death-date: 2016-08-31
+ 
+school-level: college
+school-name: University of Arkansas at Little Rock

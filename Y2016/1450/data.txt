@@ -1,0 +1,19 @@
+name-last: Mineweaser
+name-first: Richard
+name-given: Richard L.
+name-suffix: Sr.
+ 
+birth-date: 1924-12-11
+birth-place: US, MI, Pontiac
+ 
+death-date: 2016-08-01
+ 
+school-level: secondary
+school-name:  St. Michael HS
+school-place: US, MI, Pontiac
+ 
+school-level: college
+school-name: Michigan State University
+ 
+cemetery-name: Oakview Cemetery
+cemetery-place: US, MI, Royal Oak

@@ -1,0 +1,8 @@
+name-last: Piskor
+name-first: Kirk
+name-given: Kirk Alan
+ 
+birth-date: 1969-12-08
+birth-place: US, OH, Mariemont
+ 
+death-date: 2016-09-06

@@ -1,0 +1,8 @@
+source-title: Columbus Dispatch
+source-date: 2016-08-19
+source-url: http://buckeyextra.dispatch.com/content/stories/2016/08/20/steve-arlin-dies-at-age-70.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-23

@@ -1,0 +1,12 @@
+name-last: Ahern
+name-first: David
+name-given: David M.
+ 
+death-date: 2016-09-04
+death-place:  US, MA, Boston
+ 
+school-level: college
+school-name: Babson College
+ 
+cemetery-name: Westview Cemetery
+cemetery-place: US, MA, Lexington

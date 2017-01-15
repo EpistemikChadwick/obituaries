@@ -1,0 +1,12 @@
+name-last: Ostrander
+name-first: Kenny
+name-given: Kenny W.
+ 
+birth-date: 1929-03-20
+ 
+death-date: 2016-09-12
+ 
+school-level: secondary
+school-name:  DeVilbiss HS
+school-place: US, OH, Toledo
+ 

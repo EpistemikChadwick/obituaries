@@ -1,0 +1,17 @@
+name-last: Varga
+name-first: John
+name-given: John Julius
+ 
+birth-date: 1951-03-25
+ 
+death-date: 2016-09-19
+ 
+school-level: secondary
+school-name:  Queen Anne HS
+school-place: US, WA, Seattle
+ 
+school-level: college
+school-name: Seattle University
+ 
+cemetery-name: Mt. Pleasant Cemetery
+cemetery-place: US, WA, Seattle

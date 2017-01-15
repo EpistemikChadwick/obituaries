@@ -1,0 +1,13 @@
+name-last: Rodriguez
+name-first: Mike
+name-given: Miguel A.
+ 
+birth-date: 1932-01-12
+birth-place: US, TX, Weslaco
+ 
+death-date: 2016-09-02
+death-place:  US, CA, Salinas
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

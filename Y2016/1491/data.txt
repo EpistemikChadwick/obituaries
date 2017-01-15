@@ -1,0 +1,19 @@
+name-last: Grella
+name-first: Alfred
+ 
+birth-date: 1923-05-11
+birth-place: US, NY, Greenvale
+ 
+death-date: 2016-09-21
+death-place:  US, NY, Springs
+ 
+school-level: secondary
+school-name:  Roslyn HS
+school-place: US, NY, Roslyn Heights
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Most Holy Trinity Catholic Church cemetery
+cemetery-place: US, NY, East Hampton

@@ -1,0 +1,8 @@
+source-title: Barton Family Funeral Service
+source-date: 2016-09-05
+source-url: https://bartonfuneral.com/2015/10/27/alfred-james-jim-robertson/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-05

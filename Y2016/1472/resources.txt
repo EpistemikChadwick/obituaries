@@ -1,0 +1,8 @@
+source-title: LVBP.com
+source-date: 2016-09-14
+source-url: http://www.lvbp.com/3242_fallecio-domingo-carrasquel
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-22

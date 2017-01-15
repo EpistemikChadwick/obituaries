@@ -1,0 +1,9 @@
+name-last: Stanley
+name-first: Bob
+name-given: Robert
+ 
+death-date: 2016-09-03
+ 
+school-level: secondary
+school-name:  South Side HS
+school-place: US, TN, Memphis

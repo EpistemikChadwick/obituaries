@@ -1,0 +1,8 @@
+source-title: Sunset Memorial Gardens & Funeral Home
+source-date: 2016-09-29
+source-url: http://www.sunsetodessa.com/services.asp?locid=37&page=odetail&id=69912
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-29

@@ -1,0 +1,8 @@
+source-title: East Hampton Star
+source-date: 2016-09-22
+source-url: http://easthamptonstar.com/Obituaries/2016922/Alfred-Grella
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-26

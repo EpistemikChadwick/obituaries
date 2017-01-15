@@ -1,0 +1,12 @@
+name-last: Porter
+name-first: Bobby
+name-given: Bobby G.
+ 
+birth-date: 1929-05-13
+birth-place: US, SC, Greenville County
+ 
+death-date: 2016-09-07
+death-place:  US, SC, Simpsonville
+ 
+cemetery-name: Graceland West  Cemetery
+cemetery-place: US, SC, Greenville

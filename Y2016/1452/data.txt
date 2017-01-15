@@ -1,0 +1,12 @@
+name-last: Swan
+name-first: Parker
+name-given: Parker L.
+name-suffix: Sr.
+ 
+birth-date: 1927
+birth-place: US, MA, Lowell
+ 
+death-date: 2016-08-28
+ 
+military-country: US
+military-branch:  Marines

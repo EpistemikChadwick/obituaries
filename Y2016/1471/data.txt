@@ -1,0 +1,18 @@
+name-last: Matecki
+name-first: Tom
+name-given: Thomas M.
+ 
+birth-date: 1936-07-20
+birth-place: US, NY, Salamanca
+ 
+death-date: 2016-09-13
+death-place:  US, NY, Jamestown
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Salamanca HS
+school-place: US, NY, Salamanca
+ 
+military-country: US
+military-branch:  Army

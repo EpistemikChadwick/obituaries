@@ -1,0 +1,10 @@
+name-last: Good
+name-first: Zach
+name-given: Zachary Austin
+ 
+birth-date: 1992-06-08
+ 
+death-date: 2015-10-29
+ 
+cemetery-name: Grove Hill Memorial Park
+cemetery-place: US, TX, Dallas

@@ -1,0 +1,16 @@
+name-last: Testone
+name-first: Babe
+name-given: John A.
+ 
+birth-date: 1928-10-07
+birth-place: US, NY, Syracuse
+ 
+death-date: 2016-09-24
+death-place:  US, NY, Syracuse
+ 
+school-level: secondary
+school-name:  Assumption HS
+school-place: US, NY, Syracuse
+ 
+cemetery-name: Assumption Cemetery
+cemetery-place: US, NY, Syracuse

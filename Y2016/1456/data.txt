@@ -1,0 +1,20 @@
+name-last: Robins
+name-first: Perk
+name-given: Hugh
+ 
+birth-date: 1930-05-05
+ 
+death-date: 2016-09-01
+ 
+school-level: secondary
+school-name:  Male HS
+school-place: US, KY, Louisville
+ 
+school-level: college
+school-name: Wittenberg University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Oconee Hill Cemetery
+cemetery-place: US, GA, Athens

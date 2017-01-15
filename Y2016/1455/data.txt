@@ -1,0 +1,23 @@
+name-last: Kovenz
+name-first: John
+name-given: John Frank
+ 
+birth-date: 1925-12-25
+birth-place: US, OR, Portland
+ 
+death-date: 2016-08-06
+death-place:  US, OR, Redmond
+ 
+school-level: secondary
+school-name:  Lincoln HS
+school-place: US, OR, Portland
+ 
+school-level: college
+school-name: University of Oregon
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Willamette National Cemetery
+cemetery-place: US, OR, Portland

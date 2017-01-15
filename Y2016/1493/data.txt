@@ -1,0 +1,20 @@
+name-last: Hillin
+name-first: Robert
+name-given: Robert Neil
+ 
+birth-date: 1918-09-11
+birth-place: US, TX, Mt. Calm
+ 
+death-date: 2016-09-26
+death-place:  US, TX, Odessa
+ 
+school-level: secondary
+school-name:  Mt. Calm HS
+school-place: US, TX, Mt. Calm
+ 
+school-level: college
+school-name: Texas A&M University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,10 @@
+name-last: Robertson
+name-first: Jim
+name-given: Alfred James
+ 
+birth-date: 1928-01-29
+ 
+death-date: 2015-10-01
+ 
+school-level: college
+school-name: Bradley University

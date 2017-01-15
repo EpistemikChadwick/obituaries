@@ -1,0 +1,14 @@
+name-last: Brown
+name-first: Nelson
+name-given: Nelson Ashton
+ 
+birth-date: 1931-03-15
+birth-place: US, VA, Ware Neck
+ 
+death-date: 2016-09-04
+ 
+school-level: college
+school-name: Randolph Macon College
+ 
+military-country: US
+military-branch:  Army

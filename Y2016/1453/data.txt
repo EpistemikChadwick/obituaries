@@ -1,0 +1,14 @@
+name-last: Minnick
+name-first: Don
+name-given: Donald A.
+ 
+birth-date: 1931-04-14
+birth-place: US, VA, Lynchburg
+ 
+death-date: 2016-09-02
+ 
+school-level: college
+school-name: Duke University
+ 
+military-country: US
+military-conflict: Korean War 

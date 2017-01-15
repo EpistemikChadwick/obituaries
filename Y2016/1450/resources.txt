@@ -1,0 +1,8 @@
+source-title: Oakland Press
+source-date: 2016-09-04
+source-url: http://www.legacy.com/obituaries/theoaklandpress/obituary.aspx?n=Richard-Mineweaser&pid=181242178
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-02

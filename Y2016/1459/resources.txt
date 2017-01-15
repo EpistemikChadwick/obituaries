@@ -1,0 +1,8 @@
+source-title: Commercial Appeal
+source-date: 2016-09-06
+source-url: http://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=Robert-Stanley-Bob&pid=181303376
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-08

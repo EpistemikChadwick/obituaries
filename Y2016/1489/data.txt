@@ -1,0 +1,21 @@
+name-last: Rider
+name-first: Carlie
+name-given: Carleton F.
+ 
+birth-date: 1916-01-29
+birth-place: US, NY, St. Johnsville
+ 
+death-date: 2016-09-22
+death-place:  US, NY, St. Johnsville
+ 
+school-level: secondary
+school-name:  St. Johnsville HS
+school-place: US, NY, St. Johnsville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: West St. Johnsville Cemetery
+cemetery-place: US, NY, St. Johnsville
+ 

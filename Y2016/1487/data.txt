@@ -1,0 +1,10 @@
+name-last: Proffitt
+name-first: Stan
+name-given: Stan D.
+ 
+birth-date: 1940-06-02
+birth-place: US, KY, Glasgow
+ 
+death-date: 2016-09-21
+death-place:  US, NY, Rochester
+
