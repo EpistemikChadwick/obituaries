@@ -1,0 +1,12 @@
+name-last: Boring
+name-first: James
+name-given: James D.
+ 
+birth-date: 1938-05-30
+birth-place: US, NC, Elizabethton
+ 
+death-date: 2016-10-03
+death-place:  US, NC, Asheville
+ 
+school-level: college
+school-name: Mississippi State University

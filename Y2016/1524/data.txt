@@ -1,0 +1,12 @@
+name-last: Patten
+name-first: Bill
+name-given: William D.
+ 
+birth-date: 1955-08-15
+birth-place: US, IN, Fort Wayne
+ 
+death-date: 2016-10-17
+ 
+school-level: secondary
+school-name:  Northrop HS
+school-place: US, IN, Fort Wayne

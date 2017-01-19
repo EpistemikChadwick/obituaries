@@ -1,0 +1,11 @@
+name-last: Franiak
+name-first: Wally
+name-given: Walter C.
+ 
+birth-date: 1926-04-01
+birth-place: US, IN, Valparaiso
+ 
+death-date: 2016-10-19
+ 
+military-country: US
+military-branch:  Army

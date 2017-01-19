@@ -1,0 +1,8 @@
+source-title: Providence Journal
+source-date: 2016-09-30
+source-url: http://www.legacy.com/obituaries/providence/obituary.aspx?n=Harold-Fell&pid=181670928
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-03

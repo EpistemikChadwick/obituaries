@@ -1,0 +1,8 @@
+name-last: Gard
+name-first: Ric
+name-given: Eric
+ 
+birth-date: 1926
+birth-place: CA
+ 
+death-date: 2016-10-21

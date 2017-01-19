@@ -1,0 +1,8 @@
+source-title: Visalia Times-Delta
+source-date: 2016-10-13
+source-url: http://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=Richard-Joseph-Doepker&pid=181888628
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-13

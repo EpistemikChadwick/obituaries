@@ -1,0 +1,17 @@
+name-last: Stadnika
+name-first: Robert
+name-given: Robert
+name-nick: Boomer
+ 
+birth-date: 1955-01-23
+birth-place: US, MI, Saginaw
+ 
+death-date: 2016-10-23
+death-place: 
+ 
+school-level: secondary
+school-name:  Eisenhower HS
+school-place: US, MI, Saginaw
+ 
+school-level: college
+school-name: Central Michigan University

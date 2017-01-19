@@ -1,0 +1,13 @@
+name-last: Spindler
+name-first: Buddy
+name-given: George Leslie
+ 
+birth-date: 1925-10-27
+birth-place: US, VA, Portsmouth
+ 
+death-date: 2016-10-12
+death-place:  US, VA, Chesapeake
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

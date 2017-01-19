@@ -1,0 +1,22 @@
+name-last: Coomer
+name-first: Dick
+name-given: Richard Hugh
+ 
+birth-date: 1933-11-17
+birth-place: US, IN, Princeton
+ 
+death-date: 2016-10-10
+ 
+school-level: secondary
+school-name:  Princeton HS
+school-place: US, IN, Princeton
+ 
+school-level: college
+school-name: Indiana University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Green Lawn Cemetery
+cemetery-place: US, OH, Columbus
+ 

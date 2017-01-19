@@ -1,0 +1,16 @@
+name-last: Johnson
+name-first: Orland
+name-given: Orland
+ 
+birth-date: 1933-07-22
+birth-place: US, WI, LaCrosse
+ 
+death-date: 2016-10-11
+death-place:  US, IL, Gibson City
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Danville National Cemetery
+cemetery-place: US, IL, Danville

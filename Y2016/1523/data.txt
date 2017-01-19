@@ -1,0 +1,10 @@
+name-last: Montanez
+name-first: Elias
+name-matrilineal: Jure
+ 
+birth-date: 1930-05-20
+ 
+death-date: 2016-10-11
+death-place:  MX, Yucatan, Motul
+ 
+cemetery-place: MX, Yucatan, Motul

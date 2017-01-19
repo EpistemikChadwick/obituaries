@@ -1,0 +1,11 @@
+name-last: Frick
+name-first: Phil
+name-given: Philip W.
+ 
+birth-place: US, NY, Queens
+ 
+death-date: 2016-09-29
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

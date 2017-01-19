@@ -1,0 +1,21 @@
+name-last: Romano
+name-first: Dominick
+name-given: Dominick J.
+name-nick: Scooter
+ 
+birth-date: 1931-03-03
+birth-place: US, PA, Washington
+ 
+death-date: 2016-10-12
+death-place:  US, PA, Canonsburg
+ 
+school-level: secondary
+school-name:  Trinity HS
+school-place: US, PA, Washington
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Washington Cemetery
+cemetery-place: US, PA, Washington

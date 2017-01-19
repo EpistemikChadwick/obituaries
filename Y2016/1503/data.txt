@@ -1,0 +1,24 @@
+name-last: Hennigan
+name-first: Phil
+name-given: Phillip Winston
+name-suffix: Sr.
+ 
+birth-date: 1946-04-10
+birth-place: US, TX, Jasper
+ 
+death-date: 2016-06-17
+death-place:  US, TX, Center
+ 
+school-level: secondary
+school-name:  Jasper HS
+school-place: US, TX, Jasper
+ 
+school-level: college
+school-name: Sam Houston State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Adams Cemetery
+cemetery-place: US, TX, Shelbyville

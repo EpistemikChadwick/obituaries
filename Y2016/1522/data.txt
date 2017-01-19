@@ -1,0 +1,7 @@
+name-last: Adams
+name-first: Richard
+name-given: Richard
+ 
+birth-date: 1920-04-08
+ 
+death-date: 2016-09-14

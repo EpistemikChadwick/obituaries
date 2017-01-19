@@ -1,0 +1,14 @@
+name-last: Parker
+name-first: Russell
+name-given: Charles Russell
+name-suffix: Sr.
+ 
+birth-date: 1953-07-03
+birth-place: US, SC, Florence
+ 
+death-date: 2016-09-29
+death-place:  US, SC, Florence
+ 
+school-level: secondary
+school-name:  Southside HS
+school-place: US, SC, Florence

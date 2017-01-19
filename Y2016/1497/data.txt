@@ -1,0 +1,22 @@
+name-last: Kokenge
+name-first: Vince
+name-given: Vincent Nicholas
+ 
+birth-date: 1923-09-12
+birth-place: US, IA, Sioux County
+ 
+death-date: 2016-09-28
+death-place:  US, SD, Sioux Falls
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Paullina HS
+school-place: US, IA, Paullina
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Hills of Rest Memorial Park
+cemetery-place: US, SD, Sioux Falls

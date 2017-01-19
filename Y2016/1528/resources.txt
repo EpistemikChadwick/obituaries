@@ -1,0 +1,8 @@
+source-title: Morning Journal
+source-date: 2016-10-22
+source-url: http://www.legacy.com/obituaries/morningjournal/obituary.aspx?n=George-R-Locher&pid=182052665
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-24

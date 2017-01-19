@@ -1,0 +1,13 @@
+name-last: Martyniak
+name-first: Henry
+name-given: Henry
+ 
+birth-date: 1922-07-15
+birth-place: US, MA, Taunton
+ 
+death-date: 2016-10-13
+death-place:  US, MA, Taunton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

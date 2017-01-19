@@ -1,0 +1,8 @@
+source-title: The Light and Champion
+source-date: 2016-06-17
+source-url: http://www.lightandchampion.com/obituaries/article_2f9f8a9c-34cf-11e6-b33c-bb3402db1260.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-03

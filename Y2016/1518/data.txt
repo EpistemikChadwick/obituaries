@@ -1,0 +1,16 @@
+name-last: Puffer
+name-first: Jerry
+name-given: Gerald O.
+ 
+birth-date: 1928-11-28
+birth-place: US, OH, Conneaut
+ 
+death-date: 2016-10-08
+death-place:  US, OH, Conneaut
+ 
+school-level: secondary
+school-name:  Rowe HS
+school-place: US, OH, Conneaut
+ 
+military-country: US
+military-branch:  Army

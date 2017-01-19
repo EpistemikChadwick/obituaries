@@ -1,0 +1,8 @@
+source-title: Sowiecki Funeral Home
+source-date: 2016-10-24
+source-url: http://www.sowieckifh.com/notices/Henry-Martyniak
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-24

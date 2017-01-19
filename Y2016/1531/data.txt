@@ -1,0 +1,12 @@
+name-last: Trytek
+name-first: Ed
+name-given: Edmund
+ 
+death-date: 2016-10-17
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Florida National Cemetery
+cemetery-place: US, FL, Bushnell
+ 

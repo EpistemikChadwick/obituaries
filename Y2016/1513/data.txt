@@ -1,0 +1,19 @@
+name-last: Doepker
+name-first: Richard
+name-given: Richard Joseph
+ 
+birth-date: 1936-08-11
+birth-place: CA, SK, Annaheim
+ 
+death-date: 2016-10-07
+death-place:  US, CA, Visalia
+ 
+school-level: secondary
+school-name:  St. Peter’s College High School
+school-place: CA, SK, Muenster
+ 
+school-level: college
+school-name: College of the Sequoias
+ 
+school-level: college
+school-name: California State University Fresno

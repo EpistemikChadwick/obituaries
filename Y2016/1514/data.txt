@@ -1,0 +1,19 @@
+name-last: Haury
+name-first: Jack
+name-given: John Richard
+ 
+birth-date: 1934-06-17
+birth-place: US, KY, Louisville
+ 
+death-date: 2016-10-10
+death-place:  US, KY, Louisville
+ 
+school-level: secondary
+school-name:  Flaget HS
+school-place: US, KY, Louisville
+ 
+school-level: college
+school-name: Bellarmine University
+ 
+military-country: US
+military-branch:  Army

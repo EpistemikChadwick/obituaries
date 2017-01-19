@@ -1,0 +1,12 @@
+name-last: Fell
+name-first: Whitey
+name-given: Harold
+ 
+death-date: 2016-09-26
+ 
+school-level: secondary
+school-name:  Coventry HS
+school-place: US, RI, Coventry
+ 
+school-level: college
+school-name: University of Rhode Island

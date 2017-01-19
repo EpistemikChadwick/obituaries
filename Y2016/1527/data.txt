@@ -1,0 +1,17 @@
+name-last: Klahr
+name-first: Mike
+name-given: Michael
+ 
+birth-place: US, PA, Reading
+ 
+death-date: 2016-10-20
+death-place:  US, PA, West Reading
+ 
+meta-bats: Both
+ 
+school-level: secondary
+school-name:  Governor Mifflin HS
+school-place: US, PA, Shillington
+ 
+school-level: college
+school-name: Albright College

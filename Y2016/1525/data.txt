@@ -1,0 +1,8 @@
+name-last: Dube
+name-first: Gilles
+name-given: Gilles
+ 
+birth-date: 1927-06-02
+birth-place: CA, QC, Sherbrooke
+ 
+death-date: 2016-09-29

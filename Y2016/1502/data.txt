@@ -1,0 +1,20 @@
+name-last: Zapp
+name-first: James
+name-given: James S.
+name-suffix: Sr.
+ 
+birth-date: 1924-04-18
+birth-place: US, TN, Nashville
+ 
+death-date: 2016-09-30
+ 
+school-level: secondary
+school-name:  Immaculate Mother Academy
+school-place: US, TN, Nashville
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Nashville National Cemetery
+cemetery-place: US, TN, Madison

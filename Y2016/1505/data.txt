@@ -1,0 +1,23 @@
+name-last: Palmer
+name-first: Randy
+name-given: John Randall
+ 
+birth-date: 1971-07-19
+birth-place: US, MS, Amory
+ 
+death-date: 2016-10-02
+death-place:  US, MS, Madison
+ 
+school-level: secondary
+school-name:  Amory HS
+school-place: US, MS, Amory
+ 
+school-level: college
+school-name: Itawamba Community College
+school-place: US, MS, Fulton
+ 
+school-level: college
+school-name: Delta State University
+ 
+cemetery-name: Haughton Memorial Park
+cemetery-place: US, MS, Amory

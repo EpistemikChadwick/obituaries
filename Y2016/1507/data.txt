@@ -1,0 +1,17 @@
+name-last: Terrazas
+name-first: Manny
+name-given: Manuel
+ 
+birth-date: 1936-02-11
+birth-place: US, TX, Midland
+ 
+death-date: 2016-10-08
+death-place:  US, OH, Marion
+ 
+school-level: secondary
+school-name:  Adrian HS
+school-place: US, MI, Adrian
+ 
+school-level: college
+school-name: Adrian College
+school-place: US, MI, Adrian

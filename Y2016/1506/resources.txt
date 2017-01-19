@@ -1,0 +1,8 @@
+source-title: Asheville Citizen-Times
+source-date: 2016-10-09
+source-url: http://www.legacy.com/obituaries/citizen-times/obituary.aspx?n=James-Boring&pid=181810123
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-10

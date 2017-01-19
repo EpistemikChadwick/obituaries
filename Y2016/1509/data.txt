@@ -1,0 +1,8 @@
+name-last: Jernigan
+name-first: Pete
+name-given: Paul Douglas
+ 
+birth-date: 1941-05-05
+ 
+death-date: 2016-08-11
+death-place:  US, CA, Lemon Grove

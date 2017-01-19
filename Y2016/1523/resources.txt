@@ -1,0 +1,8 @@
+source-title: Arroba Deportes
+source-date: 2016-10-12
+source-url: http://arrobadeportes.com/beisbol-yucateco-luto-muere-elias-montanez/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-19

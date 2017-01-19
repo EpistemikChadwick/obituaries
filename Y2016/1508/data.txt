@@ -1,0 +1,23 @@
+name-last: Allie
+name-first: Gair
+name-given: Gair Roosevelt
+name-suffix: Sr.
+ 
+birth-date: 1931-10-29
+birth-place: US, NC, Statesville
+ 
+death-date: 2016-10-04
+death-place:  US, TX, San Antonio
+ 
+school-level: secondary
+school-name:  Statesville HS
+school-place: US, NC, Statesville
+ 
+school-level: college
+school-name: Wake Forest University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Fort Sam Houston National Cemetery
+cemetery-place: US, TX, San Antonio

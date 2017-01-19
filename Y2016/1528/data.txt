@@ -1,0 +1,20 @@
+name-last: Locher
+name-first: George
+name-given: George R.
+ 
+birth-date: 1924-04-06
+birth-place: US, PA, Aliquippa
+ 
+death-date: 2016-10-18
+death-place:  US, OH, Lorain
+ 
+school-level: secondary
+school-name:  Clearview HS
+school-place: US, OH, Lorain
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Ridge Hill Memorial Park
+cemetery-place: US, OH, Amherst

@@ -1,0 +1,11 @@
+name-last: Harlow
+name-first: Jack
+ 
+birth-date: 1942
+birth-place: US, NM, Albuquerque
+ 
+death-date: 2016-09-26
+ 
+school-level: secondary
+school-name:  Highland HS
+school-place: US, NM, Albuquerque

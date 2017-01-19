@@ -1,0 +1,19 @@
+name-last: Kime
+name-first: Dean
+name-given: Orival Dean
+ 
+birth-date: 1933-07-10
+birth-place: US, OK, McComb
+ 
+death-date: 2016-10-10
+death-place:  US, ID, Lewiston
+ 
+school-level: secondary
+school-name:  Napa HS
+school-place: US, CA, Napa
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Vineland Cemetery
+cemetery-place: US, WA, Clarkston

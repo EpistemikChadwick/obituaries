@@ -1,0 +1,15 @@
+name-last: Hoffman
+name-first: Larry
+name-given: Larry Kent
+name-suffix: Sr.
+ 
+birth-date: 1933-05-12
+birth-place: US, NC, Gaston County
+ 
+death-date: 2016-10-25
+death-place:  US, NC, Gastonia
+ 
+meta-throws: Right
+ 
+cemetery-name: Westview Gardens
+cemetery-place: US, NC, Bessemer City

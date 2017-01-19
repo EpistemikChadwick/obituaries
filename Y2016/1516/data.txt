@@ -1,0 +1,11 @@
+name-last: Seliga
+name-first: Rich
+name-given: Richard
+ 
+birth-place: US, IL, Chicago
+ 
+death-date: 2016-10-01
+death-place:  US, CA, Santa Rosa
+ 
+military-country: US
+military-branch:  Army

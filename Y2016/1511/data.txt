@@ -1,0 +1,16 @@
+name-last: Hockenbury
+name-first: Bill
+name-given: William E.
+ 
+birth-date: 1924-06-11
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2016-10-11
+ 
+school-level: secondary
+school-name:  La Salle College HS
+school-place: US, PA, Wyndmoor
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

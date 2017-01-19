@@ -1,0 +1,8 @@
+source-title: Sturtevant Funeral Home
+source-date: 2016-10-17
+source-url: http://www.sturtevantfuneralhome.com/?pagetype=obitlink&obit_id=1864972
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-17

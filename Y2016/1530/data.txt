@@ -1,0 +1,10 @@
+name-last: Lemmel
+name-first: Robert
+name-given: Robert Gale
+name-nick: Shorty
+ 
+death-date: 2016-10-16
+ 
+school-level: secondary
+school-name:  Albuquerque HS
+school-place: US, NM, Albuquerque
