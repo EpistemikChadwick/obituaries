@@ -1,0 +1,15 @@
+name-last: Prior
+name-first: Bill
+name-given: William
+
+birth-date: 1923-01-18
+birth-place: CA, BC, Victoria
+
+death-date: 2015-04-14
+
+school-level: secondary
+school-name: Victoria HS
+school-place: CA, BC, Victoria
+
+military-country: CA
+military-conflict: World War II

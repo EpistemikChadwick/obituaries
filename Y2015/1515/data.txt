@@ -1,0 +1,14 @@
+name-last: Bundy
+name-first: Richard
+name-given: Richard O.
+
+birth-date: 1924-05-05
+birth-place: US, MO, Kansas City
+
+death-date: 2015-01-07
+
+military-country: US
+military-conflict:  World War II
+
+cemetery-name: Washington State Veterans Cemetery
+cemetery-place: US, WA, Medical Lake

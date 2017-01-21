@@ -1,0 +1,19 @@
+name-last: Haddock
+name-first: Hal
+name-given: Harold Ray
+
+birth-date: 1941-04-21
+birth-place: US, IL, Chicago
+
+death-date: 2015-04-26
+death-place: US, AZ, Green Valley
+
+school-level: secondary
+school-name:  Walla Walla HS
+school-place: US, WA, Walla Walla
+
+school-level: college
+school-name: Washington State University
+
+school-level: college
+school-name: Western Washington University

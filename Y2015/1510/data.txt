@@ -1,0 +1,12 @@
+name-last: Mohler
+name-first: Randy
+
+birth-date:  1947-12-08
+birth-place: US, OH, Toledo
+
+death-date:  2015-04-27
+death-place: US, IL, Naperville
+
+school-level: college
+school-name:  Taylor University
+school-place: US, IN, Upland

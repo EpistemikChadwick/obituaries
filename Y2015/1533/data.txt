@@ -1,0 +1,11 @@
+name-last: Henard
+name-first: Greg
+name-given: Gregory Dean
+
+birth-place: US, CA, Tulare
+
+death-date: 2015-04-22
+
+school-level: secondary
+school-name: Tulare Union HS
+school-place: US, CA, Tulare

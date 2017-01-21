@@ -1,0 +1,15 @@
+name-last: Schamp
+name-first: Ron
+name-given: James Ronald
+
+birth-date: 1941-04-19
+birth-place: US, OH, St. Marys
+
+death-date: 2015-05-03
+
+school-level: secondary
+school-name:  Memorial HS
+school-place: US, OH, St. Marys
+
+cemetery-name: Curlew Hills Memory Gardens
+cemetery-place: US, FL, Palm Harbor

@@ -1,0 +1,13 @@
+name-last: Coppola
+name-first: Daniel
+name-given: Daniel F.
+
+birth-date: 1938-05-17
+birth-place: US, NJ, Newark
+
+death-date: 2015-05-01
+death-place: US, NJ, Boonton
+
+school-level: secondary
+school-name:  Barringer HS
+school-place: US, NJ, Newark

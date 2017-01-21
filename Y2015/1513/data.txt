@@ -1,0 +1,15 @@
+name-last: Allen
+name-first: Ray
+name-given: J. Ray
+
+death-date: 2015-04-26
+
+school-level: secondary
+school-name:  Academy of Richmond County
+school-place: US, GA, Augusta
+
+school-level: college
+school-name: University of Georgia
+
+cemetery-name: Westover Memorial Park
+cemetery-place: US, GA, Augusta

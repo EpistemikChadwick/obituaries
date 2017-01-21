@@ -1,0 +1,14 @@
+name-last: Rotermund
+name-first: Al
+name-given: Adolph
+
+birth-date: 1921-06-16
+
+death-date: 2015-04-18
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Bellerive Gardens
+cemetery-place: US, MO, St, Louis

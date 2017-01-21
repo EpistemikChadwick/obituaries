@@ -1,0 +1,18 @@
+name-last: Diers
+name-first: Bob
+name-given: Robert D.
+
+birth-date: 1928-03-12
+birth-place: US, NE, West Point
+
+death-date:  2015-04-27
+
+school-level: secondary
+school-name:  West Point HS
+school-place: US, NE, West Point
+
+school-level: college
+school-name:  University of Nebraska-Lincoln
+
+military-country: US
+military-branch:  Army

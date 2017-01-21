@@ -1,0 +1,8 @@
+source-title: Connecticut Post
+source-date: 2015-05-05
+source-url: http://www.legacy.com/obituaries/ctpost/obituary.aspx?n=Robert-Packer&pid=174780053
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-07

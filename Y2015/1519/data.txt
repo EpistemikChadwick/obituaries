@@ -1,0 +1,23 @@
+name-last: Felton
+name-first: MG
+name-given: Milburn Gerald
+
+birth-date: 1931-07-09
+birth-place: US, NC, Macclesfield
+
+death-date: 2015-05-03
+
+school-level: secondary
+school-name:  Oak Ridge Military Academy
+school-place: US, NC, Oak Ridge
+
+school-level: college
+school-name: Barton College
+school-place: US, NC, Wilson
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+
+cemetery-name: Rocky Mount Memorial Park
+cemetery-place: US, NC, Rocky Mount

@@ -1,0 +1,8 @@
+source-title: Washington Post
+source-date: 2015-04-26
+source-url: http://www.washingtonpost.com/sports/jim-fanning-manager-and-executive-with-montreal-expos-dies-at-87/2015/04/26/91776f52-eb9f-11e4-aae1-d642717d8afa_story.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-27

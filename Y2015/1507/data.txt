@@ -1,0 +1,11 @@
+name-last: Uhlmann
+name-first: Mark
+name-given: George Mark
+
+birth-date: 1945-11-18
+
+death-date: 2015-05-06
+
+school-level: secondary
+school-name:  Christian Brothers HS
+school-place: US, TN, Memphis

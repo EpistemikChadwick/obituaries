@@ -1,0 +1,23 @@
+name-last: Bolen
+name-first: Elmer
+name-given: Elmer Arthur
+
+birth-date: 1924-02-13
+birth-place: US, NY, Syracuse
+
+death-date: 2015-04-20
+death-place: US, NY, Syracuse
+
+school-level: secondary
+school-name: Onondaga Valley Academy
+school-place: US, NY, Syracuse
+
+school-level: college
+school-name: Colgate University
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Onondaga Valley Cemetery
+cemetery-place: US, NY, Syracuse

@@ -1,0 +1,12 @@
+name-last: DeRieux
+name-first: Bob
+name-given: Robert Pierre
+
+birth-date: 1930-02-23
+birth-place: US, AL, Birmingham
+
+death-date: 2015-04-24
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

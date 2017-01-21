@@ -1,0 +1,12 @@
+source-title: La Razon
+source-date: 2015-02-05
+source-url: http://www.larazonsanluis.com/index.php/deportes/item/65462-fallecio-panchillo-ramirez-la-mano-embrujada
+
+source-title: Expres
+source-date: 2015-02-07
+source-url: http://elexpres.com/noticias/news-display.php?story_id=78776
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-14

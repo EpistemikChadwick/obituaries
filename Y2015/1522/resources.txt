@@ -1,0 +1,8 @@
+source-title: Giles & Yeckley Funeral Home
+source-date: 2015-05-07
+source-url: http://www.gilesandyeckley.com/fh/obituaries/obituary.cfm?o_id=3090574&fh_id=12877
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-07

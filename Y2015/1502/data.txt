@@ -1,0 +1,19 @@
+name-last: Minshew
+name-first: Wayne
+name-given: Lamar Wayne
+
+birth-date: 1936-06-09
+birth-place: US, AL, Cherokee County
+
+death-date: 2015-04-29
+
+school-level: secondary
+school-name:  Model HS
+school-place: US, GA, Rome
+
+school-level: college
+school-name:  University of West Georgia
+school-place: US, GA, Carrollton
+
+school-level: college
+school-name:  University of Georgia

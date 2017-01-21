@@ -1,0 +1,5 @@
+name-last: Rosa
+name-first: Luis
+
+death-date: 2014-08-05
+death-place: US, FL, Jacksonville

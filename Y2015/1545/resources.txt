@@ -1,0 +1,8 @@
+source-title: Victoria Times Colonist
+source-date: 2015-04-19
+source-url: http://www.legacy.com/obituaries/timescolonist/obituary.aspx?n=William-Prior-Bill&pid=174662618
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-19

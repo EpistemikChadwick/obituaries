@@ -1,0 +1,12 @@
+source-title: Schrader Funeral Home
+source-date: 2015-04-20
+source-url: http://www.schrader.com/?pagetype=obitlink&obit_id=1563637
+
+source-title: St. Louis Post-Dispatch
+source-date: 2015-04-20
+source-url: http://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Adolph-Rotermund&pid=174674447
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-20

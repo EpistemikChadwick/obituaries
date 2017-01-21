@@ -1,0 +1,14 @@
+name-last: Byrum
+name-first: Morris
+name-given: Morris King
+name-suffix: Jr.
+
+birth-date: 1930-10-11
+birth-place: US, MO, Hannibal
+
+death-date: 2015-05-04
+death-place: US, MO, Lee’s Summit
+
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

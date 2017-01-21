@@ -1,0 +1,19 @@
+name-last: Mayfield
+name-first: Wayne
+name-given: Willard Wayne
+
+birth-date:  1941-07-30
+birth-place:  US, CA, Farmersville
+
+death-date:  2015-04-22
+death-place: US, CA, Exeter
+
+school-level: secondary
+school-name:  Exeter Union HS
+school-place: US, CA, Exeter
+
+school-level: college
+school-name: College of the Sequoias
+
+cemetery-name: Exeter Cemetery
+cemetery-place: US, CA, Exeter

@@ -1,0 +1,9 @@
+name-last: Orrante
+name-first: Art
+name-given: Arthur
+
+death-date: 2015-04-27
+
+school-level: secondary
+school-name:  Sacred Heart Cathedral Preparatory
+school-place:  US, CA, San Francisco

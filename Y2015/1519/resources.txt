@@ -1,0 +1,8 @@
+source-title: Rocky Mount Telegram
+source-date: 2015-05-06
+source-url: http://www.legacy.com/obituaries/rockymounttelegram/obituary.aspx?n=Milburn-Gerald-MG-Felton&pid=174792624
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-07

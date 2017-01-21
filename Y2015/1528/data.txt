@@ -1,0 +1,12 @@
+name-last: Quattrin
+name-first: Rino
+name-given: Rino Anthony
+
+birth-date: 1930-06-13
+birth-place: IT, Pordenone, Cordenons
+
+death-date: 2015-04-17
+death-place: US, NC, Salisbury
+
+military-country: US
+military-branch: Army

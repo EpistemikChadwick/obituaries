@@ -1,0 +1,10 @@
+name-last: Mangum
+name-first: Carlton
+name-given: R. Carlton
+
+birth-date: 1926-09-18
+
+death-date: 2015-05-01
+
+cemetery-name: Ebenezer United Methodist Church Cemetery
+cemetery-place:  US, NC, Raleigh

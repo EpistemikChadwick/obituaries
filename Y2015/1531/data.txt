@@ -1,0 +1,8 @@
+name-last: Jensen
+name-first: Steven
+name-given: Steven Lee
+
+birth-date: 1940-08-15
+birth-place: US, UT, Salt Lake City
+
+death-date: 2015-04-19

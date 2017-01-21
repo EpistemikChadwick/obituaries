@@ -1,0 +1,8 @@
+source-title: San Jose Mercury News
+source-date: 2015-05-07
+source-url: http://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=Arthur-Orrante&pid=174798774
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-07

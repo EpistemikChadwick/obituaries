@@ -1,0 +1,8 @@
+source-title: Visalia Times-Delta
+source-date: 2015-04-24
+source-url: http://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=gregory-dean-henard&pid=174705925&fhid=20247&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-24

@@ -1,0 +1,10 @@
+name-last: Parker
+name-first: Mike
+name-given: Michael John
+
+birth-date:  1956-08-05
+
+death-date:  2015-04-28
+
+school-level: college
+school-name:  University of Michigan

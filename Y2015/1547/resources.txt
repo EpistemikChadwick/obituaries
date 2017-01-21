@@ -1,0 +1,8 @@
+source-title: Davis Mortuary Service
+source-date: 2015-04-16
+source-url: http://www.davismortuaryservice.com/memsol.cgi?user_id=1561839
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-16

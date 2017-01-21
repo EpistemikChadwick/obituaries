@@ -1,0 +1,8 @@
+source-title: Bevsek Verbick Funeral Home
+source-date: 2015-04-27
+source-url: http://www.bvfh.net/obituary.aspx?MemberId=145867
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-27

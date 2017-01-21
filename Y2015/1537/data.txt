@@ -1,0 +1,11 @@
+name-last: Mosser
+name-first: Bill
+name-given: William D.
+name-suffix: Sr.
+
+birth-date: 1925-10-26
+
+death-date: 2015-04-22
+
+cemetery-name: Southern Wisconsin Veterans Cemetery
+cemetery-place: US, WI, Union Grove

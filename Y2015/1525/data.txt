@@ -1,0 +1,21 @@
+name-last: Stanzel
+name-first: Rudy
+name-given: Rudolph A.
+name-suffix: Jr.
+
+birth-date: 1931-06-29
+birth-place: US, NJ, Westfield
+
+death-date: 2015-04-17
+death-place: US, FL, Fort Myers
+
+school-level: secondary
+school-name:  Westfield HS
+school-place: US, NJ, Westfield
+
+school-level: college
+school-name: Rutgers University
+
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

@@ -1,0 +1,8 @@
+source-title: Curlew Hills Memory Gardens
+source-date: 2015-05-10
+source-url: http://www.curlewhills.com/book-of-memories/2138629/Schamp-James/obituary.php
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-10

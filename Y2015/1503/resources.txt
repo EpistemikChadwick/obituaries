@@ -1,0 +1,8 @@
+source-title: Register-Mail
+source-date: 2015-04-29
+source-url: http://obituaries.galesburg.com/obituaries/register-mail/obituary.aspx?n=Robert-L-Jackson-Bobby&pid=174741818
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-06

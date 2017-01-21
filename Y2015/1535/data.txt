@@ -1,0 +1,16 @@
+name-last: Bell
+name-first: Elmer
+name-given: Elmer L.
+name-suffix: Jr.
+
+birth-date: 1933-05-10
+birth-place: US, IL, Joliet
+
+death-date: 2015-04-15
+death-place: US, IL, Joliet
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Cremated

@@ -1,0 +1,13 @@
+name-last: Valentine
+name-first: Bill
+name-given: William Terry
+name-suffix: Jr.
+
+birth-date: 1932-11-21
+
+death-date: 2015-04-26
+death-place: US, AR, Little Rock
+
+school-level: secondary
+school-name: North Little Rock HS
+school-place: US, AR, North Little Rock

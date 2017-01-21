@@ -1,0 +1,13 @@
+name-last: Jackson
+name-first: Bobby
+name-given: Robert L.
+
+birth-date: 1967-09-09
+birth-place: US, IL, Galesburg
+
+death-date:  2015-04-27
+death-place: US, IL, Galesburg
+
+school-level: secondary
+school-name:  Galesburg HS
+school-place: US, IL, Galesburg

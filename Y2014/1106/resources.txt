@@ -1,0 +1,8 @@
+source-title: Daily.Co.Jp
+source-date: 2015-04-13
+source-url: http://www.daily.co.jp/newsflash/baseball/2014/12/02/0007550750.shtml
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-13

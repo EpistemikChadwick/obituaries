@@ -1,0 +1,8 @@
+source-title: The Times
+source-date: 2015-04-30
+source-url: http://www.legacy.com/obituaries/nwitimes/obituary.aspx?n=robert-d-diers&pid=174749175&fhid=7234&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-09

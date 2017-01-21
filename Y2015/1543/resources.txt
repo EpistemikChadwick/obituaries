@@ -1,0 +1,8 @@
+source-title: Spokesman-Review
+source-date: 2015-04-19
+source-url: http://www.legacy.com/obituaries/spokesman/obituary.aspx?n=James-M-LAMPE&pid=174669481
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-19

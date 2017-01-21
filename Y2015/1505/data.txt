@@ -1,0 +1,16 @@
+name-last: Henderson
+name-first: Jay
+name-given: Jay R.
+
+birth-date: 1923-02-02
+birth-place: US, NY, Chautauqua
+
+death-date: 2015-05-02
+death-place: US, WI, Verona
+
+school-level: secondary
+school-name:  Verona HS
+school-place: US, WI, Verona
+
+cemetery-name: Verona Cemetery
+cemetery-place: US, WI, Verona

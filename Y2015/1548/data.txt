@@ -1,0 +1,10 @@
+name-last: Ramirez
+name-first: Francisco
+name-nick: Panchillo
+name-nick: El Conde
+
+birth-date: 1928-03-09
+birth-place: MX, San Luis Potosi, San Luis Potosi
+
+death-date: 2015-02-05
+death-place: MX, San Luis Potosi, San Luis Potosi

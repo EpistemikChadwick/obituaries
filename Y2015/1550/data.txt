@@ -1,0 +1,10 @@
+name-last: Leyva
+name-first: Adalberto
+name-matrilineal: Lopez
+name-nick: Yayo
+
+birth-date: 1957-10-03
+birth-place: MX, Sonora, Empalme
+
+death-date: 2015-02-08
+death-place: MX, Sonora, Hermosillo

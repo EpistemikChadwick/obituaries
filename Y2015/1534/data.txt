@@ -1,0 +1,16 @@
+name-last: Williams
+name-first: Robert
+name-given: Robert Jon
+
+birth-date: 1938-08-11
+birth-place: US, PA, Erie
+
+death-date: 2015-04-21
+death-place: US, FL, Port Orange
+
+school-level: secondary
+school-name: Harbor Creek HS
+school-place: US, PA, Harborcreek
+
+military-country: US
+military-branch: Marines

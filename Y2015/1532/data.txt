@@ -1,0 +1,8 @@
+name-last: Blasucci
+name-first: Tony
+name-given: Anthony
+
+death-date: 2014-05-28
+
+school-level: college
+school-name: Florida State University

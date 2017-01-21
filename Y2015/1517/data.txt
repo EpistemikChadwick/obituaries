@@ -1,0 +1,16 @@
+name-last: Dill
+name-first: LeRoy
+name-given: LeRoy C.
+
+birth-date:  1930-06-15
+birth-place: US, OH, Mansfield
+
+death-date: 2015-05-01
+death-place: US, OH, Sandusky
+
+school-level: secondary
+school-name:  Union HS
+school-place: US, OH, Mansfield
+
+military-country: US
+military-branch:  Army

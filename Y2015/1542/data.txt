@@ -1,0 +1,16 @@
+name-last: May
+name-first: Roger
+name-given: Roger T.
+
+birth-date: 1929-07-23
+birth-place: US, MI, Lansing
+
+death-date: 2015-03-11
+death-place: US, MI, Haslett
+
+school-level: secondary
+school-name: Resurrection HS
+school-place: US, MI, Lansing
+
+military-country: US
+military-branch: Army

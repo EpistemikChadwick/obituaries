@@ -1,0 +1,17 @@
+name-last: Auman
+name-first: Howard
+name-given: Howard Claude
+
+birth-date:  1921-08-05
+birth-place:  US, NC, West End
+
+death-date:  2015-05-02
+
+school-level: college
+school-name:  Campbell University
+
+military-country: US
+military-conflict:  World War II
+
+cemetery-name:  Buffalo Cemetery
+cemetery-place: US, NC, Sanford

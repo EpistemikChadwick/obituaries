@@ -1,0 +1,5 @@
+name-last: Fanning
+name-first: Jim
+
+death-date: 2015-04-25
+death-place: CA, ON, London

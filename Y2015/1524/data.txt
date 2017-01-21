@@ -1,0 +1,9 @@
+name-last: Boos
+name-first: Glenn
+name-given: L. Glenn
+
+birth-date: 1939-07-05
+birth-place: US, MO, St. Louis
+
+death-date: 2015-05-05
+death-place: US, MO, St. Joseph

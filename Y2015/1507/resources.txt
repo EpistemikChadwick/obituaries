@@ -1,0 +1,8 @@
+source-title: Commercial Appeal
+source-date: 2015-05-10
+source-url: http://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=GEORGE-MARK-UHLMANN&pid=174824326
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-10

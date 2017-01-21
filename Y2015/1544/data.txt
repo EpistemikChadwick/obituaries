@@ -1,0 +1,19 @@
+name-last: Hansen
+name-first: Ray
+name-given: Raymond Paul
+
+birth-date: 1926-01-25
+birth-place: US, WI, Washington Island
+
+death-date: 2015-04-13
+
+school-level: secondary
+school-name: Washington Island HS
+school-place: US, WI, Washington Island
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Washington Island Town Cemetery
+cemetery-place: US, WI, Washington Island

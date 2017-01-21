@@ -1,0 +1,19 @@
+name-last: Taylor
+name-first: Leon
+name-given: Leon H.
+name-suffix: Jr.
+
+birth-date: 1930-10-26
+birth-place: US, GA, Thomasville
+
+death-date: 2015-04-10
+
+school-level: secondary
+school-name: Thomasville HS
+school-place: US, GA, Thomasville
+
+school-level: college
+school-name: Elon University
+
+military-country: US
+military-branch: Army

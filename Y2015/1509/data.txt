@@ -1,0 +1,11 @@
+name-last: Kinaman
+name-first: Dick
+name-given: Charles Richard
+
+birth-date:  1925-11-10
+
+death-date: 2015-04-22
+death-place: US, CA, San Pedro
+
+military-country: US
+military-conflict:  World War II

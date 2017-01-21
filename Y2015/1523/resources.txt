@@ -1,0 +1,8 @@
+source-title: Indianapolis Star
+source-date: 2015-05-08
+source-url: http://www.legacy.com/obituaries/indystar/obituary.aspx?n=donald-c-danielson&pid=174806782&fhid=15968
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-05-07

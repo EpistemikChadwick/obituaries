@@ -1,0 +1,24 @@
+name-last: McKnight
+name-first: Jim
+name-given: James Arthur
+name-nick: Jimbo
+
+birth-date: 1956-06-09
+birth-place:  US, FL, Gainesville
+
+death-date: 2015-02-06
+death-place: US, AR, Little Rock
+
+school-level: secondary
+school-name:  Southside HS
+school-place: US, AR, Fort Smith
+
+school-level: college
+school-name: Central Baptist College
+school-place: US, AR, Conway
+
+school-level: college
+school-name: University of Central Arkansas
+school-place: US, AR, Conway
+
+Brother to Jeff McKnight

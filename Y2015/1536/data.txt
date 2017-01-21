@@ -1,0 +1,9 @@
+name-last: Stack
+name-first: Dick
+name-given: Richard Edward
+
+death-date: 2015-04-16
+
+school-level: secondary
+school-name: West View High School
+school-place: US, PA, West View

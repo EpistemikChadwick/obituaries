@@ -1,0 +1,8 @@
+name-last: Furuya
+name-first: Takeo
+
+birth-date: 1921-03-09
+birth-place: JP, Hyogo Prefecture,
+
+death-date: 2014-07-14
+death-place: JP, Kyoto Prefecture, Kyoto

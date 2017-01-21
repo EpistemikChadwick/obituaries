@@ -1,0 +1,8 @@
+name-last: Yano
+name-first: Kiyoshi
+
+death-date: 2014-11-20
+
+school-level: secondary
+school-name: Yawatahama HS
+school-place: JP, Ehime Prefecture, Yawatahama

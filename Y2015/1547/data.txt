@@ -1,0 +1,15 @@
+name-last: King
+name-first: Calvin
+
+birth-date: 1952-11-12
+birth-place: US, LA, New Orleans
+
+death-date: 2015-04-10
+death-place: US, LA, New Orleans
+
+school-level: secondary
+school-name: L.B. Landry HS
+school-place: US, LA, New Orleans
+
+cemetery-name: Eureka Cemetery
+cemetery-place: US, LA, Algiers

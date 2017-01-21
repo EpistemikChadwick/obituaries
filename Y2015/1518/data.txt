@@ -1,0 +1,17 @@
+name-last: Packer
+name-first: Robert
+name-given: Robert J.
+name-suffix: Sr.
+
+birth-date: 1932-09-12
+birth-place: US, CT, Bridgeport
+
+death-date: 2015-05-03
+death-place: US, CT, Bridgeport
+
+school-level: secondary
+school-name:  Harding HS
+school-place: US, CT, Bridgeport
+
+cemetery-name: Gate of Heaven Cemetery
+cemetery-place: US, CT, Trumbull

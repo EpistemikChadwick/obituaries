@@ -1,0 +1,8 @@
+source-title: El Diario de Sonora
+source-date: 2015-02-11
+source-url: http://www.eldiariodesonora.com.mx/nota.php?nota=45334
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-13

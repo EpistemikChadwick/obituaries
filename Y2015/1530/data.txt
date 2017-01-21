@@ -1,0 +1,16 @@
+name-last: Hoagland
+name-first: Tom
+name-given: Thomas C.
+
+birth-date: 1943-05-19
+birth-place: US, NJ, Morristown
+
+death-date: 2015-04-17
+death-place: US, FL, Vero Beach
+
+school-level: secondary
+school-name: Rahway HS
+school-place: US, NJ, Rahway
+
+school-level: college
+school-name: University of Michigan
