@@ -1,0 +1,13 @@
+name-last: Bianchi
+name-first: Richard
+name-given: Richard J.
+ 
+birth-date: 1952-04-20
+birth-place:  US, NJ, Trenton
+ 
+death-date: 2016-11-19
+death-place:  US, NJ, Hamilton Township
+ 
+cemetery-name: Our Lady of Lourdes Cemetery
+cemetery-place: US, NJ, Trenton
+ 

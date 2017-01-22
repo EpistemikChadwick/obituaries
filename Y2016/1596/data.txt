@@ -1,0 +1,13 @@
+name-last: Adlesh
+name-first: Dave
+name-given: David George
+ 
+birth-date: 1943-07-15
+birth-place: US, CA, Long Beach
+ 
+death-date: 2016-02-15
+death-place:  US, CA, Long Beach
+ 
+school-level: secondary
+school-name:  St. Anthony HS
+school-place: US, CA, Long Beach

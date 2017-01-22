@@ -1,0 +1,13 @@
+name-last: Sobocan
+name-first: Steve
+name-given: Stephen Paul
+ 
+birth-date: 1930-12-15
+ 
+death-date: 2016-11-12
+ 
+meta-throws: Right
+ 
+cemetery-name: Heavenly Rest Cemetery
+cemetery-place: CA, ON, Windsor
+ 

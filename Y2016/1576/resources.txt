@@ -1,0 +1,8 @@
+source-title: The Oklahoman
+source-date: 2016-11-16
+source-url: http://legacy.newsok.com/obituaries/oklahoman/obituary.aspx?n=ERNEST-CHASTAIN&pid=182550160
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-16

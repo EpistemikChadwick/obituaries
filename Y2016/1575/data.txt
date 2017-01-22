@@ -1,0 +1,12 @@
+name-last: Walker
+name-first: Tony
+name-given: Tony Dwayne
+ 
+birth-date: 1959-06-27
+birth-place: US, TX, Fentress
+ 
+death-date: 2016-11-12
+ 
+school-level: secondary
+school-name:  San Marcos HS
+school-place: US, TX, San Marcos

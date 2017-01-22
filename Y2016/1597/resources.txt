@@ -1,0 +1,8 @@
+source-title: Tennessean
+source-date: 2016-11-30
+source-url:  http://www.legacy.com/obituaries/tennessean/obituary.aspx?n=Kevin-Howard-Tuck&pid=182831900
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-30

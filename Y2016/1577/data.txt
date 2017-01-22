@@ -1,0 +1,33 @@
+name-last: Robertson
+name-first: J. C.
+name-given: J. C.
+
+birth-date: 1931-09-08
+birth-place: US, AR, Fouke
+ 
+death-date: 2016-11-13
+death-place:  US, AR, Prescott
+ 
+school-level: secondary
+school-name:  Fouke HS
+school-place: US, AR, Fouke
+ 
+school-level: college
+school-name: University of Arkansas
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Concord Cemetery
+cemetery-place: US, AR, Fouke
+ 
+affiliation-role: umpire
+affiliation-league: Nebraska State
+affiliation-date-start: 1956
+affiliation-date-end: 1956
+ 
+affiliation-role: umpire
+affiliation-league: Sophomore
+affiliation-date-start: 1958
+affiliation-date-end: 1960

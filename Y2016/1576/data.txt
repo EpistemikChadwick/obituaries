@@ -1,0 +1,14 @@
+name-last: Chastain
+name-first: Ernie
+name-given: Ernest
+name-suffix: Jr.
+ 
+birth-date: 1931-08-19
+birth-place: US, IA, Red Oak
+ 
+death-date: 2016-11-11
+death-place:  US, OK, Oklahoma City
+ 
+school-level: secondary
+school-name:  Joplin HS
+school-place: US, MO, Joplin

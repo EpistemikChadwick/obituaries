@@ -1,0 +1,8 @@
+source-title: Jefferson Memorial Funeral Home
+source-date: 2016-11-23
+source-url: http://www.jeffersonmemorial.biz/obituary/william-hopkins
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-23

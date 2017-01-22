@@ -1,0 +1,16 @@
+name-last: Marinaccio
+name-first: John
+name-given: John R.
+name-nick: J.R.
+ 
+birth-date: 1924-09-10
+birth-place: US, NJ, Morristown
+ 
+death-date: 2016-11-19
+ 
+school-level: secondary
+school-name:  Morristown HS
+school-place: US, NJ, Morristown
+ 
+military-country: US
+military-branch:  Army

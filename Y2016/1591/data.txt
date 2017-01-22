@@ -1,0 +1,10 @@
+name-last: Coughtry
+name-first: Marlan
+name-given: James
+ 
+birth-date: 1934-09-11
+birth-place: US, CA, Hollywood
+ 
+death-date: 2016-11-08
+death-place:  US, WA, Vancouver
+ 

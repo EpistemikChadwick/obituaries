@@ -1,0 +1,21 @@
+name-last: Tuck
+name-first: Kevin
+name-given: Kevin Howard
+ 
+birth-place: US, ND,
+ 
+death-date: 2016-11-28
+death-place:  US, TN, Nashville
+ 
+school-level: secondary
+school-name:  Dickson County HS
+school-place: US, TN, Dickson
+ 
+school-level: college
+school-name: Dyersburg State Community College
+ 
+school-level: college
+school-name: University of Tennessee at Martin
+ 
+cemetery-name: Union Cemetery
+cemetery-place: US, TN, Dickson

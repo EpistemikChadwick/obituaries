@@ -1,0 +1,8 @@
+source-title: Brenna Funeral Home
+source-date: 2016-11-23
+source-url: http://www.brennafuneralhome.com/fh/obituaries/obituary.cfm?o_id=4012264&fh_id=12057
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-23

@@ -1,0 +1,12 @@
+name-last: Perry
+name-first: Andy
+name-given: Roe Anderson
+ 
+birth-date: 1939-03-04
+birth-place: US, OH, Lima
+ 
+death-date: 2016-11-06
+death-place:  US, NC, High Point
+ 
+military-country: US
+military-branch:  Marines

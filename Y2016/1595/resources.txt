@@ -1,0 +1,8 @@
+source-title: Moll Funeral Home
+source-date: 2016-11-29
+source-url: http://www.mollfuneralhome.com/fh/obituaries/obituary.cfm?o_id=4015977&fh_id=13999
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-29

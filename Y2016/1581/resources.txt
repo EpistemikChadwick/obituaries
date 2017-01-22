@@ -1,0 +1,8 @@
+source-title: Lewiston Tribune
+source-date: 2016-11-20
+source-url: http://lmtribune.com/obituaries/kenneth-kenny-d-ray/article_80163113-9484-536e-a60d-1c805239c0d0.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-23

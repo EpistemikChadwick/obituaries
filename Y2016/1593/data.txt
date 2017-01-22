@@ -1,0 +1,21 @@
+name-last: Ferriss
+name-first: Boo
+name-given: David Meadow
+name-suffix: Sr.
+ 
+birth-date: 1921-12-05
+birth-place: US, MS, Shaw
+ 
+death-date: 2016-11-24
+death-place:  US, MS, Cleveland
+ 
+school-level: secondary
+school-name:  Shaw HS
+school-place: US, MS, Shaw
+ 
+school-level: college
+school-name: Mississippi State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

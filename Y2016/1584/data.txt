@@ -1,0 +1,11 @@
+name-last: Hopkins
+name-first: William
+name-given: William J.
+name-nick: Hoppy
+ 
+birth-date: 1929-03-10
+ 
+death-date: 2016-10-14
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,25 @@
+name-last: Casagrande
+name-first: Thomas
+name-given: Thomas E.
+ 
+alias-type: birth
+alias-last: Hayes
+ 
+birth-date: 1930-06-04
+birth-place: US, MO, St. Louis
+ 
+death-date: 2016-09-04
+ 
+school-level: secondary
+school-name:  Ansonia HS
+school-place: US, CT, Ansonia
+ 
+school-level: secondary
+school-name:  Deerfield Academy
+school-place: US, MA, Deerfield
+ 
+school-level: college
+school-name: Fordham University
+ 
+military-country: US
+military-branch:  Army

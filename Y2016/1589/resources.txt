@@ -1,0 +1,8 @@
+source-title: New Haven Register
+source-date: 2016-11-25
+source-url: http://www.legacy.com/obituaries/nhregister/obituary.aspx?n=THOMAS-HAYES-CASAGRANDE&pid=182747664
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-29

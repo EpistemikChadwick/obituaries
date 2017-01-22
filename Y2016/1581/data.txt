@@ -1,0 +1,15 @@
+name-last: Ray
+name-first: Kenny
+name-given: Kenneth D.
+ 
+birth-date: 1950-01-04
+birth-place: US, ID, Lewiston
+ 
+death-date: 2016-11-16
+ 
+school-level: secondary
+school-name:  Lewiston HS
+school-place: US, ID, Lewiston
+ 
+school-level: college
+school-name:  University of Idaho

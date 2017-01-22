@@ -1,0 +1,22 @@
+name-last: Dooher
+name-first: Tony
+name-given: Anthony James
+ 
+birth-date: 1929-01-22
+birth-place: US, OR, Portland
+ 
+death-date: 2016-11-21
+death-place:  US, OR, Salem
+ 
+school-level: secondary
+school-name:  Central Catholic HS
+school-place: US, OR, Portland
+ 
+school-level: college
+school-name: University of Portland
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Willamette National Cemetery
+cemetery-place: US, OR, Portland

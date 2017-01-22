@@ -1,0 +1,19 @@
+name-last: Manning
+name-first: Ed
+name-given: Edward Patrick
+ 
+birth-date: 1929-01-02
+birth-place: US, MA, Chelsea
+ 
+death-date: 2016-11-19
+death-place:  US, AZ, Phoenix
+ 
+school-level: secondary
+school-name:  Phoenix Union HS
+school-place: US, AZ, Phoenix
+ 
+school-level: college
+school-name: Arizona State University
+ 
+military-country: US
+military-branch:  Air Force

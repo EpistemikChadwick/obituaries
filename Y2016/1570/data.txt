@@ -1,0 +1,14 @@
+name-last: Conley
+name-first: Pat
+name-given: Patrick L.
+ 
+birth-date: 1936-11-16
+ 
+death-date: 2016-11-11
+ 
+school-level: secondary
+school-name:  Hammond Technical Vocational HS
+school-place: US, IN, Hammond
+ 
+school-level: college
+school-name: Indiana University

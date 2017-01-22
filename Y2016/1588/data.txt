@@ -1,0 +1,19 @@
+name-last: Taft
+name-first: Bill
+name-given: William Almon
+ 
+birth-date: 1924-08-18
+birth-place: US, TX, Crystal City
+ 
+death-date: 2016-11-24
+death-place:  US, MI, Jackson
+ 
+school-level: college
+school-name: University of Michigan
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Roseland Memorial Gardens
+cemetery-place: US, MI, Jackson

@@ -1,0 +1,20 @@
+name-last: Leeder
+name-first: Richard
+name-given: Richard
+name-suffix: Jr.
+ 
+birth-date: 1930-09-27
+birth-place: US, TX, Comfort
+ 
+death-date: 2016-11-12
+death-place:  US, TX, Boerne
+ 
+school-level: secondary
+school-name:  Comfort HS
+school-place: US, TX, Comfort
+ 
+school-level: college
+school-name: Rice University
+ 
+cemetery-name: Boerne Cemetery
+cemetery-place: US, TX, Boerne

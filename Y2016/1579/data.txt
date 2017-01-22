@@ -1,0 +1,15 @@
+name-last: Addis
+name-first: Bob
+name-given: Robert
+ 
+birth-date: 1925-11-06
+birth-place: US, OH, Mineral
+ 
+death-date: 2016-11-15
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Greenlawn Cemetery
+cemetery-place: US, OH, Akron

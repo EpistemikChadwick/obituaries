@@ -1,0 +1,14 @@
+name-last: Robison
+name-first: Vince
+name-given: John Vincent
+ 
+birth-date: 1930-09-15
+birth-place: US, AR, Morrilton
+ 
+death-date: 2016-11-15
+ 
+school-level: college
+school-name:  Auburn University
+ 
+school-level: college
+school-name:  Oklahoma State University

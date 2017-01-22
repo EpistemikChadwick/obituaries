@@ -1,0 +1,16 @@
+name-last: Crater
+name-first: Marvin
+name-given: Marvin Gray
+name-nick: Skip
+ 
+birth-date: 1925-05-15
+ 
+death-date: 2016-11-17
+ 
+school-level: secondary
+school-name:  Richard J. Reynolds HS
+school-place: US, NC, Winston-Salem
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

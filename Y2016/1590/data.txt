@@ -1,0 +1,14 @@
+name-last: Kennedy
+name-first: Bobby
+name-given: Bobby Lee
+ 
+birth-date: 1922-09-29
+ 
+death-date: 2016-11-18
+ 
+school-level: college
+school-name: San Diego State University
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II

@@ -1,0 +1,10 @@
+name-last: Barker
+name-first: Thomas
+name-given: Thomas H.
+name-suffix: Jr.
+ 
+birth-date: 1933-06-19
+birth-place:  US, PA, New Kensington
+ 
+death-date: 2016-11-23
+death-place:  US, PA, Allegheny Township

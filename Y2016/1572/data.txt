@@ -1,0 +1,16 @@
+name-last: Lambert
+name-first: Vern
+name-given: Vern Widner
+ 
+birth-date: 1926-11-16
+birth-place: US, NC, Rowan County
+ 
+death-date: 2016-11-08
+death-place:  US, NC, Mt. Pleasant
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: First Baptist Church Cemetery
+cemetery-place: US, NC, Mt. Pleasant

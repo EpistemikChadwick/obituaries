@@ -1,0 +1,16 @@
+name-last: Mense
+name-first: Skip
+name-given: Gilbert J.
+ 
+birth-date: 1933-03-20
+birth-place: US, IL, St. Libory
+ 
+death-date: 2016-11-27
+death-place:  US, IL, St. Libory
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Liborius Church Cemetery
+cemetery-place: US, IL, St. Libory

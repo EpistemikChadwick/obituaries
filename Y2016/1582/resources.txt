@@ -1,0 +1,8 @@
+source-title:  Salem Funeral Home
+source-date: 2016-11-23
+source-url: http://www.salemfh.com/obituaries/3240/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-23

@@ -1,0 +1,13 @@
+name-last:  DePillo
+name-first: George
+name-given: George B.
+ 
+birth-date: 1930-01-29
+ 
+death-date:  2016-11-26
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: All Saints Church Cemetery
+cemetery-place: US, MI, Flint
