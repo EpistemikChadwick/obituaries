@@ -1,0 +1,18 @@
+name-last: Errante
+name-first: Marty
+name-given: Mario Felice
+ 
+birth-date: 1918-04-29
+ 
+death-date: 2016-10-25
+ 
+school-level: secondary
+school-name:  Brooklyn Technical HS
+school-place: US, NY, Brooklyn
+ 
+military-country: US
+military-branch:  World War II
+military-conflict:  Army
+ 
+cemetery-name: Fort Sam Houston National Cemetery
+cemetery-place: US, TX, San Antonio

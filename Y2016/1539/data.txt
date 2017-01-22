@@ -1,0 +1,16 @@
+name-last: Beerbower
+name-first: Dale
+name-given: Dale Thomas
+ 
+birth-date: 1938-06-15
+birth-place: US, MI, Grosse Pointe
+ 
+death-date: 2016-10-26
+death-place:  US, FL, Jacksonville
+ 
+school-level: secondary
+school-name:  Andrew Jackson HS
+school-place: US, FL, Jacksonville
+ 
+cemetery-name: Oaklawn Cemetery
+cemetery-place: US, FL, Jacksonville

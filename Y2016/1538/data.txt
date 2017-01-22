@@ -1,0 +1,20 @@
+name-last: Rentschler
+name-first: Jim
+name-given: James D.
+name-suffix: Sr.
+ 
+birth-place: US, PA, Phoenixville
+ 
+death-date: 2016-10-27
+death-place:  US, PA, East Coventry Township
+ 
+school-level: secondary
+school-name:  Spring City HS
+school-place: US, PA, Spring City
+ 
+school-level: secondary
+school-name:  Pennington School
+school-place: US, NJ, Pennington
+ 
+cemetery-name: Valley Forge Memorial Gardens
+cemetery-place: US, PA, King of Prussia

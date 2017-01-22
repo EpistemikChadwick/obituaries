@@ -1,0 +1,19 @@
+name-last: Sullivan
+name-first: Jim
+name-given: James Joseph
+ 
+birth-date: 1951-11-14
+birth-place: US, CO, La Junta
+ 
+death-date: 2016-11-01
+death-place:  US, CO, La Junta
+ 
+school-level: secondary
+school-name:  La Junta HS
+school-place: US, CO, La Junta
+ 
+school-level: college
+school-name: Colorado State University
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, CO, La Junta

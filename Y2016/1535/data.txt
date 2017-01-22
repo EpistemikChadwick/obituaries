@@ -1,0 +1,11 @@
+name-last: Bolcar
+name-first: Chuck
+name-given: Charles William
+ 
+birth-date: 1933-07-25
+birth-place: US, NJ, Clifton
+ 
+death-date: 2016-10-27
+ 
+military-country: US
+military-branch:  Army

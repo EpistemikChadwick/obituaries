@@ -1,0 +1,8 @@
+source-title: Bernstein Funeral Home
+source-date: 2016-11-15
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Chester-Malanoski&lc=4765&pid=182495924&mid=7165377
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-15

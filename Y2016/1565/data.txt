@@ -1,0 +1,15 @@
+name-last: Malanoski
+name-first: Chet
+name-given: Chester J.
+ 
+birth-date: 1925-01-30
+ 
+death-date: 2016-11-08
+death-place:  US, GA, Athens
+ 
+school-level: college
+school-name: Upsala College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

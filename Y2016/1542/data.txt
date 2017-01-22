@@ -1,0 +1,17 @@
+name-last: Guyton
+name-first: Richard
+name-given: Richard Lewis
+ 
+birth-date: 1926-06-19
+birth-place: US, MD, Boonsboro
+ 
+death-date: 2016-10-25
+death-place:  US, PA, Waynesboro
+ 
+school-level: secondary
+school-name:  Boonsboro
+school-place: US, MD, Boonsboro
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

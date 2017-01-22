@@ -1,0 +1,22 @@
+name-last: Flaugher
+name-first: Allen
+name-given: Louie Allen
+ 
+birth-date: 1929-06-16
+birth-place: US, KY, Pendleton County
+ 
+death-date: 2016-11-02
+death-place:  US, KY, Maysville
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Falmouth HS
+school-place: US, KY, Falmouth
+ 
+school-level: college
+school-name: Georgetown College
+school-place: US, KY, Georgetown
+ 
+cemetery-name: Hedgecock Cemetery
+cemetery-place: US, KY, Willow

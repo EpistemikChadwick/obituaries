@@ -1,0 +1,8 @@
+source-title: Belleville News-Democrat
+source-date: 2016-11-08
+source-url: http://www.legacy.com/obituaries/belleville/obituary.aspx?n=Don-J-Yurgec-Apple&pid=182392664
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-09

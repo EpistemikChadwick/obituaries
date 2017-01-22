@@ -1,0 +1,19 @@
+name-last: Yurgec
+name-first: Don
+name-given: Donald Joseph
+ 
+birth-date: 1939-03-12
+birth-place: US, IL, Belleville
+ 
+death-date: 2016-11-06
+death-place:  US, IL, Freeburg
+ 
+school-level: secondary
+school-name:  Freeburg HS
+school-place: US, IL, Freeburg
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Elmwood Cemetery
+cemetery-place: US, IL, Freeburg

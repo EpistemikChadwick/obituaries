@@ -1,0 +1,13 @@
+name-last: Richie
+name-first: Hap
+name-given: Harold J.
+ 
+birth-date: 1939-10-28
+birth-place: US, CA, Nevada City
+ 
+death-date: 2016-10-28
+death-place:  US, CA, San Diego
+ 
+school-level: secondary
+school-name:  Marysville HS
+school-place: US, CA, Marysville

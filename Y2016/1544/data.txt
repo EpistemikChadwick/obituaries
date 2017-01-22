@@ -1,0 +1,19 @@
+name-last: Jorgensen
+name-first: Charlie
+name-given: Charles Richard
+ 
+birth-date: 1932-03-13
+birth-place: US, MI, Rockford
+ 
+death-date: 2016-10-30
+ 
+school-level: secondary
+school-name:  Rockford HS
+school-place: US, MI, Rockford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Blythefield Memory Gardens
+cemetery-place: US, MI, Rockford

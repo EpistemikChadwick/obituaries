@@ -1,0 +1,8 @@
+source-title: Daytona Beach News-Journal
+source-date: 2016-10-28
+source-url: http://www.legacy.com/obituaries/news-journalonline/obituary.aspx?n=William-Cumpson-Bill&pid=182173003
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-03

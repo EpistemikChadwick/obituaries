@@ -1,0 +1,19 @@
+name-last: Kurtz
+name-first: Kent
+name-given: Jeriel Kent
+ 
+birth-date: 1930-09-14
+birth-place: US, MO, Columbia
+ 
+death-date: 2016-1101
+death-place:  US, MO, Mexico
+ 
+school-level: secondary
+school-name:  Hickman HS
+school-place: US, MO, Columbia
+ 
+school-level: college
+school-name: University of Missouri
+ 
+military-country: US
+military-branch:  Air Force

@@ -1,0 +1,19 @@
+name-last: Cromi
+name-first: Bernie
+name-given: Bernard E.
+ 
+birth-date: 1926-10-16
+birth-place: US, MI, Detroit
+ 
+death-date: 2016-10-28
+death-place:  US, OH, Canton
+ 
+school-level: secondary
+school-name:  Timken HS
+school-place: US, OH, Canton
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, OH, Massillon

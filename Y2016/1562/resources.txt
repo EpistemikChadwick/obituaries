@@ -1,0 +1,8 @@
+source-title: Grayson County News-Gazette
+source-date: 2016-11-10
+source-url: http://www.legacy.com/obituaries/gcnewsgazette/obituary.aspx?n=Patrick-H-Thomas&pid=182424840
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-10

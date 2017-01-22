@@ -1,0 +1,13 @@
+name-last: Fernandes
+name-first: Augie
+name-given: Augustine Edward
+ 
+birth-date: 1930-09-04
+birth-place: US, NY, Mount Vernon
+ 
+death-date: 2016-08-29
+death-place:  US, FL,
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

@@ -1,0 +1,8 @@
+source-title: Express-News
+source-date: 2016-11-05
+source-url: http://www.legacy.com/obituaries/sanantonio/obituary.aspx?n=Mario-Felice-Errante-Marty&pid=182346498
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-05

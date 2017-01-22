@@ -1,0 +1,21 @@
+name-last: Kirrene
+name-first: Joe
+name-given: Joseph John
+name-suffix: Jr.
+ 
+birth-date: 1931-10-04
+birth-place: US, CA, San Francisco
+ 
+death-date: 2016-10-19
+death-place:  US, CA, San Ramon
+ 
+school-level: secondary
+school-name:  Christian Brothers HS
+school-place: US, CA, Sacramento
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  Korean War
+ 
+cemetery-name: Sacramento Valley National Cemetery
+cemetery-place: US, CA, Dixon

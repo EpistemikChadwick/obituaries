@@ -1,0 +1,19 @@
+name-last: Denevi
+name-first: Pete
+name-given: Pietro G
+ 
+birth-date: 1926-07-22
+birth-place: US, CA, San Mateo
+ 
+death-date: 2016-09-05
+ 
+school-level: secondary
+school-name:  Los Gatos HS
+school-place: US, CA, Los Gatos
+ 
+school-level: college
+school-name: San Jose State University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

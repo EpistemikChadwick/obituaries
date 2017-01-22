@@ -1,0 +1,17 @@
+name-last: Strollo
+name-first: Bino
+name-given: Albino M.
+ 
+birth-date: 1927-07-13
+birth-place: US, MA, Fall River
+ 
+death-date: 2016-11-01
+death-place:  US, MA, New Bedford
+ 
+school-level: secondary
+school-name:  B.M.C. Durfee HS
+school-place: US, MA, Fall River
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

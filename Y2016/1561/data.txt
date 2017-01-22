@@ -1,0 +1,11 @@
+name-last: Harford
+name-first: Bill
+name-given: William J.
+name-suffix: Jr.
+ 
+birth-date: 1955-08-10
+ 
+death-date: 2016-10-27
+ 
+school-level: college
+school-name: Franklin & Marshall College

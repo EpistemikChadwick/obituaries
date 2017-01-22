@@ -1,0 +1,12 @@
+name-last: Mustion
+name-first: John
+name-given: John Morris
+ 
+birth-date: 1939-02-05
+birth-place: US, NY, Ellenville
+ 
+death-date: 2016-10-21
+death-place:  US, FL, North Palm Beach
+ 
+school-level: college
+school-name: Syracuse University

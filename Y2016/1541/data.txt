@@ -1,0 +1,17 @@
+name-last: King
+name-first: Jim
+name-given: James E.
+ 
+birth-date: 1934-11-26
+birth-place: US, NY, Glens Falls
+ 
+death-date: 2016-10-21
+death-place:  US, NY, Sackets Harbor
+ 
+school-level: secondary
+school-name:  Whitehall HS
+school-place: US, NY, Whitehall
+ 
+military-country: US
+military-branch:  Navy
+ 

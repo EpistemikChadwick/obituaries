@@ -1,0 +1,19 @@
+name-last: Anderson
+name-first: Edwin
+name-given: Edwin
+name-nick: Andy
+ 
+birth-date: 1928-12-18
+ 
+death-date: 2016-10-22
+death-place:  US, FL, Hudson
+ 
+school-level: secondary
+school-name:  Canisius HS
+school-place: US, NY, Buffalo
+ 
+school-level: college
+school-name: University at Buffalo, State University of New York
+ 
+military-country: US
+military-branch:  Army

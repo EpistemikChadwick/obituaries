@@ -1,0 +1,11 @@
+name-last: Graves
+name-first: Jim
+ 
+birth-date: 1928-12-20
+birth-place: US, IN, Lawrence County
+ 
+death-date: 2016-11-02
+death-place:  US, IN, Bedford
+ 
+military-country: US
+military-branch:  Army

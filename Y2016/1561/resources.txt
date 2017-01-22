@@ -1,0 +1,8 @@
+source-title: Tributes.com
+source-date: 2016-11-10
+source-url: http://www.tributes.com/obituary/show/William-J.-Harford-104117331
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-10

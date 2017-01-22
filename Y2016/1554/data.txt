@@ -1,0 +1,22 @@
+name-last: LeGros
+name-first: Tom
+name-given: Thomas Joseph
+ 
+birth-date: 1931-06-27
+birth-place: US, AL, Mobile
+ 
+death-date: 2016-1103
+ 
+school-level: secondary
+school-name:  McGill HS
+school-place: US, AL, Mobile
+ 
+school-level: college
+school-name: University of Southern Mississippi
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Pine Crest Cemetery
+cemetery-place: US, AL, Mobile

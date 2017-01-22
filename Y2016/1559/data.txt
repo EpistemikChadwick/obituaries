@@ -1,0 +1,17 @@
+name-last: Carnett
+name-first: Ed
+name-given: Edwin Elliott
+ 
+birth-date: 1916-10-21
+birth-place: US, MO, Springfield
+ 
+death-date: 2016-11-04
+death-place:  US, OK, Ringling
+ 
+school-level: secondary
+school-name:  Ponca City HS
+school-place: US, OK, Ponca City
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

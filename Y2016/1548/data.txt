@@ -1,0 +1,11 @@
+name-last: Ruth
+name-first: Rocky
+name-given: William T.
+ 
+birth-place: US, PA, Allentown
+ 
+death-date: 2016-10-31
+ 
+school-level: secondary
+school-name:  William Allen HS
+school-place: US, PA, Allentown

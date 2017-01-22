@@ -1,0 +1,8 @@
+source-title: Las Vegas Review-Journal
+source-date: 2016-11-15
+source-url: http://obits.reviewjournal.com/obituaries/lvrj/obituary.aspx?n=RUSS-NIXON&pid=182494999
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-15

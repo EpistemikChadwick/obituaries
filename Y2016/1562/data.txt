@@ -1,0 +1,24 @@
+name-last: Thomas
+name-first: Patrick
+name-given: Patrick H.
+ 
+birth-date: 1946-03-17
+birth-place: US, GA, Atlanta
+ 
+death-date: 2016-11-05
+death-place:  US, KY, Bowling Green
+ 
+school-level: secondary
+school-name:  Leitchfield HS
+school-place: US, KY, Leitchfield
+ 
+school-level: college
+school-name: Western Kentucky University
+
+affiliation-role: umpire
+affiliation-league: Northern
+affiliation-date-start: 1966
+affiliation-date-end: 1967
+ 
+cemetery-name: Fairview Cemetery
+cemetery-place: US, KY, Bowling Green

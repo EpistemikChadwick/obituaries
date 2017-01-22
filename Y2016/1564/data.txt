@@ -1,0 +1,12 @@
+name-last: Nixon
+name-first: Russ
+ 
+death-date: 2016
+ 
+school-level: secondary
+school-name:  Western Hill HS
+school-place: US, OH, Cincinnati
+ 
+school-level: college
+school-name: University of Cincinnati
+ 

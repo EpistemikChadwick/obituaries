@@ -1,0 +1,8 @@
+source-title: DellaVecchia Funeral Home
+source-date: 2016-11-03
+source-url: http://www.dellavecchiafh.com/obituaries/Augustine-Fernandes/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-03

@@ -1,0 +1,16 @@
+name-last: Beidler
+name-first: Joe
+name-given: Joseph B.
+ 
+birth-date: 1918-11-15
+ 
+death-date: 2016-10-31
+death-place:  UC, CT, West Hartford
+ 
+school-level: college
+school-name: Trinity College
+school-place: US, CT, Hartford
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

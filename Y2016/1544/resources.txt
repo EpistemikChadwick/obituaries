@@ -1,0 +1,8 @@
+source-title: Grand Rapids Press
+source-date: 2016-11-01
+source-url: http://obits.mlive.com/obituaries/grandrapids/obituary.aspx?n=Charles-R-Jorgensen-Charlie&pid=182229957
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-03

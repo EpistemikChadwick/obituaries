@@ -1,0 +1,12 @@
+name-last: Tolleson
+name-first: Jimmy
+name-given: Jimmy Landrum
+ 
+birth-date: 1930-09-20
+birth-place: US, SC, Spartanburg
+ 
+death-date: 2016-10-29
+death-place:  US, SC, Spartanburg
+ 
+cemetery-name: Greenlawn Memorial Gardens
+cemetery-place: US, SC, Spartanburg

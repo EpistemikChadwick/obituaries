@@ -1,0 +1,8 @@
+name-last: Ballard
+name-first: Greg
+ 
+death-date: 2016-11-09
+death-place:  US, GA, Tyrone
+ 
+school-level: college
+school-name: University of Oregon

@@ -1,0 +1,8 @@
+source-title: Mobile Register
+source-date: 2016-11-05
+source-url: http://obits.al.com/obituaries/mobile/obituary.aspx?n=Thomas-Joseph-LeGros&pid=182358774
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-05
