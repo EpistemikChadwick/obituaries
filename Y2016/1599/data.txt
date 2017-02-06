@@ -1,0 +1,14 @@
+name-last: Trbovich
+name-first: Rudy
+name-given: Rudy Stephen
+ 
+death-date: 2016-11-27
+ 
+meta-throws: Right
+ 
+school-level: secondary
+school-name:  East Liverpool HS
+school-place: US, OH, East Liverpool
+ 
+school-level: college
+school-name: University of Tennessee

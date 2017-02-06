@@ -1,0 +1,18 @@
+name-last: Storch
+name-first: Harry
+name-given: Harry P.
+name-suffix: Jr.
+name-nick: Mooney
+ 
+birth-date: 1930-07-29
+birth-place: US, PA, Reading
+ 
+death-date: 2016-12-24
+death-place:  US, PA, West Reading
+ 
+school-level: secondary
+school-name:  Reading HS
+school-place: US, PA, Reading
+ 
+cemetery-name: Forest Hills Memorial Park
+cemetery-place: US, PA, Reading

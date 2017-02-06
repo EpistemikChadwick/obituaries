@@ -1,0 +1,15 @@
+name-last: Riggs
+name-first: Dick
+name-given: Richard Elry
+ 
+birth-date: 1953-01-23
+birth-place: US, NC, Kinston
+ 
+death-date: 2016-12-16
+ 
+school-level: secondary
+school-name:  Kinston HS
+school-place: US, NC, Kinston
+ 
+cemetery-name: Pinecrest Memorial Park
+cemetery-place: US, NC, Clayton

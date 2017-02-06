@@ -1,0 +1,8 @@
+source-title: New York Post
+source-date: 2016-12-13
+source-url: http://nypost.com/2016/12/13/yankees-prospect-shot-dead-in-venezuela/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-14

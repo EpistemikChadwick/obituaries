@@ -1,0 +1,8 @@
+source-title: San Diego Union Tribune
+source-date: 2016-12-25
+source-url: http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=buryl-clair-hemerick&pid=183205345&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-25

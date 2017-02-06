@@ -1,0 +1,6 @@
+name-last: Landa
+name-first: Yorman
+ 
+death-date: 2016-12-10
+death-place:  VE, Capital District, Caracas
+

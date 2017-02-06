@@ -1,0 +1,20 @@
+name-last: Pietras
+name-first: Fred
+name-given: Frederick F. 
+ 
+birth-date: 1916-04-21
+birth-place: US, MA, Adams
+ 
+death-date: 2016-11-29
+death-place:  US, NY, Albany
+ 
+school-level: secondary
+school-name:  Adams HS
+school-place: US, MA, Adams
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II
+ 
+cemetery-name: St. Stanislaus Kostka Cemetery
+cemetery-place: US, MA, Adams

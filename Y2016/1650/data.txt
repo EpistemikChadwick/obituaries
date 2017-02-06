@@ -1,0 +1,12 @@
+name-last: Everitt
+name-first: Leon
+name-given: Edward Leon
+ 
+birth-date: 1947-01-12
+birth-place: US, TX, Marshall
+ 
+death-date: 2016-08-27
+ 
+school-level: secondary
+school-name:  Pemberton HS
+school-place: US, TX, Marshall

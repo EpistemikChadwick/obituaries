@@ -1,0 +1,8 @@
+source-title: Shreveport Times
+source-date: 2016-12-17
+source-url: http://www.shreveporttimes.com/story/news/local/2016/12/17/former-shreveport-mayor-bill-hanna-dies/95574356/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

@@ -1,0 +1,12 @@
+name-last: Herrera
+name-first: Tomas
+name-given: Tomas
+name-nick: Sargento Metralla
+ 
+birth-date: 1913-11-09
+birth-place: US, TX, Laredo
+ 
+death-date: 2016-12-14
+death-place:  MX, Coahuila, Saltillo
+ 
+meta-throws: Right

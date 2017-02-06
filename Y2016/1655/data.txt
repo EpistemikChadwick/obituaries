@@ -1,0 +1,14 @@
+name-last: Hay
+name-first: Riney
+name-given: Reinhard William
+name-suffix: Jr.
+ 
+birth-date: 1923-01-06
+ 
+death-date: 2016-12-19
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: White Chapel Memorial Gardens
+cemetery-place: US, KS, Wichita

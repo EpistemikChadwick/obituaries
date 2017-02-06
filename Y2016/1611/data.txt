@@ -1,0 +1,6 @@
+name-last: Yamamoto
+name-first: Kazuyoshi
+ 
+death-date: 2016-09-17
+death-place:  JP, Tokyo, Tokyo
+ 

@@ -1,0 +1,12 @@
+name-last: Spieth
+name-first: Bill
+name-given: William
+ 
+birth-place: US, PA, Phoenixville
+ 
+death-date: 2016-12-12
+death-place:  US, GA, Statesboro
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

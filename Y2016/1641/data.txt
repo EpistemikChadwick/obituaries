@@ -1,0 +1,20 @@
+name-last: Maximuk
+name-first: Paul
+name-given: Paul
+ 
+birth-date: 1926-10-12
+birth-place: US, OH, Cleveland
+ 
+death-date: 2016-12-07
+death-place:  US, VA, Charlottesville
+ 
+school-level: secondary
+school-name:  Lincoln HS
+school-place: US, OH, Cleveland
+ 
+school-level: college
+school-name: Ohio State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

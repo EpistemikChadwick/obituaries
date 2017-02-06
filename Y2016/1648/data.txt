@@ -1,0 +1,13 @@
+name-last: Jackson
+name-first: Jerry
+name-given: Jerry Wayne
+ 
+birth-date: 1947-01-20
+birth-place: US, TX, Terrell
+ 
+death-date: 2016-11-30
+death-place:  US, TX, Bertram
+ 
+school-level: secondary
+school-name:  Grand Saline HS
+school-place: US, TX, Grand Saline

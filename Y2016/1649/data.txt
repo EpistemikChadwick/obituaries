@@ -1,0 +1,19 @@
+name-last: Rolleg
+name-first: Harold
+name-given: Harold Edward
+ 
+birth-date: 1919-06-27
+birth-place: US, MO, Joplin
+ 
+death-date: 2016-12-12
+death-place:  US, MO, Joplin
+ 
+school-level: secondary
+school-name:  Joplin HS
+school-place: US, MO, Joplin
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Ozark Memorial Park Cemetery
+cemetery-place: US, MO, Joplin

@@ -1,0 +1,12 @@
+name-last: Wells
+name-first: Tim
+name-given: Timothy W.
+ 
+birth-date: 1940-07-08
+birth-place: US, OH, Sidney
+ 
+death-date: 2016-12-10
+death-place:  US, OH, Sidney
+ 
+cemetery-name: Shelby Memory Garden
+cemetery-place: US, OH, Sidney

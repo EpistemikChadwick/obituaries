@@ -1,0 +1,8 @@
+source-title: Lewiston Tribune
+source-date: 2016-12-11
+source-url: http://lmtribune.com/obituaries/david-allen-sanman/article_beade68d-46af-5dae-a110-4e5679b5f481.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-12

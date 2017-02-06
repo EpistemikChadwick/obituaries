@@ -1,0 +1,9 @@
+name-last: Frisinger
+name-first: Jack
+name-given: Jack Gordon
+ 
+death-date: 2016-11-29
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

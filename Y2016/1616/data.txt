@@ -1,0 +1,16 @@
+name-last: Hartsell
+name-first: Jack
+name-given: John F.
+ 
+birth-date: 1927-04-30
+ 
+death-date: 2016-11-24
+death-place:  US, FL, Fort Myers
+ 
+school-level: secondary
+school-name:  Lyons HS
+school-place: US, OH, Lyons
+ 
+military-country: US
+military-branch:  Merchant Marines
+military-conflict:  World War II

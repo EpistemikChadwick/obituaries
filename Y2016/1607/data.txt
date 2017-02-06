@@ -1,0 +1,9 @@
+name-last: Magdaleno
+name-first: Ricky
+name-nick: Mags
+ 
+death-date: 2016-10-31
+ 
+school-level: secondary
+school-name:  Baldwin Park HS
+school-place: US, CA, Baldwin Park

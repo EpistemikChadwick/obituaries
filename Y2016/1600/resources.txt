@@ -1,0 +1,8 @@
+source-title: Wallingford Funeral Home
+source-date: 2016-12-04
+source-url: http://www.wallingfordfh.com/?pagetype=obitlink&obit_id=1885382
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-04

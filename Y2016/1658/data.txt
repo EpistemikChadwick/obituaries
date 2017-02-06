@@ -1,0 +1,13 @@
+name-last: Hemerick
+name-first: Buryl
+name-given: Buryl Clair
+ 
+birth-date: 1950-04-05
+ 
+death-date: 2016-12-16
+ 
+school-level: secondary
+school-name:  Costa Mesa HS
+school-place: US, CA, Costa Mesa
+ 
+cemetery-place: US, CA, Victorville

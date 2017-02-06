@@ -1,0 +1,17 @@
+name-last: Vincz
+name-first: Richard
+name-given: Richard Michael
+name-suffix: Sr.
+ 
+birth-date: 1941-10-30
+birth-place: US, NJ, New Brunswick
+ 
+death-date: 2016-12-02
+death-place:  US, NJ, East Brunswick
+ 
+school-level: secondary
+school-name:  South River HS
+school-place: US, NJ, South River
+ 
+cemetery-name: Washington Monumental Cemetery
+cemetery-place: US, NJ, South River

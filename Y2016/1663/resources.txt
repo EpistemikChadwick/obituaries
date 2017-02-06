@@ -1,0 +1,8 @@
+source-title: Tuscaloosa News
+source-date: 2016-12-28
+source-url: http://www.legacy.com/obituaries/tuscaloosa/obituary.aspx?n=Millard-Merrill-Evans&pid=183221065
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-28

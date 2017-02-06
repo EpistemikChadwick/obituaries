@@ -1,0 +1,5 @@
+name-last: Figueredo
+name-first: Alexander
+ 
+death-date: 2016-11-27
+death-place:  VE, Carabobo, Guacara

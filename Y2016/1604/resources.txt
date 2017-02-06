@@ -1,0 +1,8 @@
+source-title: Lester Memorial Home
+source-date: 2016-12-04
+source-url: http://www.lestermemorialhome.com/fh/obituaries/obituary.cfm?o_id=4029025&fh_id=12135
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-04

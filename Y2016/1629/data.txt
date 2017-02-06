@@ -1,0 +1,15 @@
+name-last: Haas
+name-first: Louis
+name-given: Louis A.
+ 
+birth-date: 1941-11-06
+ 
+death-date: 2016-12-10
+death-place:  US, KY, Paducah
+ 
+school-level: secondary
+school-name:  St. Johns HS
+school-place: US, KY, Paducah
+ 
+cemetery-name: St. John Catholic Church Cemetery
+cemetery-place: US, KY, Paducah

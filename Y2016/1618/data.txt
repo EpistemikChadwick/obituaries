@@ -1,0 +1,10 @@
+name-last: Caballero
+name-first: Putsy
+name-given: Ralph
+ 
+death-date: 2016-12-08
+ 
+school-level: secondary
+school-name:  Jesuit HS
+school-place: US, LA, New Orleans
+ 

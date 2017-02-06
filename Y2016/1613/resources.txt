@@ -1,0 +1,8 @@
+source-title: Snaspo.com
+source-date: 2016-12-05
+source-url: http://www.sanspo.com/baseball/news/20161106/npb16110605000002-n1.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-05

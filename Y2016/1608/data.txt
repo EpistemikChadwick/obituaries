@@ -1,0 +1,7 @@
+name-last: Magdaleno
+name-first: Ricky
+name-nick: Mags
+ 
+birth-date: 1974-07-06
+ 
+death-date: 2016-10-31

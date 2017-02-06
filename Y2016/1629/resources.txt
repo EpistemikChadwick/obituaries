@@ -1,0 +1,8 @@
+source-title: Milner & Orr Funeral Home
+source-date: 2016-12-12
+source-url: http://www.milnerandorr.com/obituaries/Louis-A-Haas?obId=1245886#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-12

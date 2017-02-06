@@ -1,0 +1,8 @@
+source-title: Kyodo News
+source-date: 2016-12-20
+source-url: http://kyodonews.net/news/2016/12/20/93392
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

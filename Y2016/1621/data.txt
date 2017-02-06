@@ -1,0 +1,16 @@
+name-last: Locklin
+name-first: Stu
+name-given: Stuart Carlton
+ 
+birth-date: 1928-07-22
+birth-place: US, WI, Appleton
+ 
+death-date: 2016-12-04
+ 
+school-level: college
+school-name: University of Wisconsin
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 

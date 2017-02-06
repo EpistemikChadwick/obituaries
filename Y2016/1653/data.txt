@@ -1,0 +1,13 @@
+name-last: Gagliano
+name-first: Phil
+name-given: Philip Joseph
+name-suffix: Sr.
+ 
+birth-date: 1941-12-27
+birth-place: US, TN, Memphis
+ 
+death-date: 2016-12-20
+ 
+school-level: secondary
+school-name:  Christian Brother HS
+school-place: US, TN, Memphis

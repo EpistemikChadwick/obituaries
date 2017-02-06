@@ -1,0 +1,21 @@
+name-last: Woolford
+name-first: Al
+name-given: Alvin C.
+name-nick: Sonny
+ 
+birth-date: 1932-03-01
+birth-place: US, MI, Petersburg
+ 
+death-date: 2016-12-13
+death-place:  US, OH, Toledo
+ 
+school-level: secondary
+school-name:  Summerfield HS
+school-place: US, MI, Petersburg
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: Our Lady of Mount Carmel Resurrection Cemetery
+cemetery-place: US, MI, Temperance

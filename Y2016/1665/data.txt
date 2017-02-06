@@ -1,0 +1,5 @@
+name-last: Lehew
+name-first: Jim
+ 
+death-date: 2016-12-23
+death-place:  US, MD, Grantsville

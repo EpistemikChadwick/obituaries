@@ -1,0 +1,20 @@
+name-last: Gorecki
+name-first: Stanley
+name-given: Stanley J.
+name-nick: Stash
+ 
+birth-date: 1926-01-04
+birth-place: US, WI, Kenosha
+ 
+death-date: 2016-12-20
+death-place:  US, WI, Shawano
+ 
+school-level: secondary
+school-name:  Kenosha HS
+school-place: US, WI, Kenosha
+ 
+school-level: college
+school-name: University of Wisconsin
+ 
+cemetery-name: Lake Drive Cemetery
+cemetery-place: US, WI, Shawano

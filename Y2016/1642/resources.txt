@@ -1,0 +1,8 @@
+source-title: McLaurin Funeral Home
+source-date: 2016-12-20
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Richard-Riggs&lc=9669&pid=183117938&uuid=3a199572-7523-42a5-a788-bfce137b2efd
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

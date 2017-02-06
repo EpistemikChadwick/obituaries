@@ -1,0 +1,15 @@
+name-last: Wells
+name-first: Alan
+name-given: B. Alan
+ 
+birth-date: 1948
+birth-place: US, TX, Austin
+ 
+death-date: 2016-12-13
+ 
+school-level: secondary
+school-name:  McCallum HS
+school-place: US, TX, Austin
+ 
+school-level: college
+school-name: Texas Lutheran University

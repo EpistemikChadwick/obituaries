@@ -1,0 +1,8 @@
+source-title: Horizon Funeral Home
+source-date: 2016-12-09
+source-url: http://www.horizonfunerals.com/obituaries/John-Hartsell/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-09

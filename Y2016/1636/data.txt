@@ -1,0 +1,8 @@
+name-last: Wrozier
+name-first: Sonny
+ 
+birth-date: 1929-07-06
+birth-place: US, MO, St. Louis
+ 
+death-date: 2016-12-10
+death-place:  US, MO Troy

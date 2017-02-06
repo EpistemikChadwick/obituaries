@@ -1,0 +1,8 @@
+source-title: Deportes.televisa.com
+source-date: 2016-12-14
+source-url: http://deportes.televisa.com/beisbol/2016-12-14/fallece-sargento-tomas-herrera/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-15

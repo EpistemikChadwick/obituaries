@@ -1,0 +1,15 @@
+name-last: Collins
+name-first: Bruce
+name-given: Bruce August
+ 
+birth-date: 1952-06-03
+birth-place: US, CA, San Mateo
+ 
+death-date: 2016-12-20
+ 
+school-level: secondary
+school-name:  South San Francisco HS
+school-place: US, CA, South San Francisco
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, CA, Colma

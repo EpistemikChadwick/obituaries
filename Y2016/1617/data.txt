@@ -1,0 +1,14 @@
+name-last: Van Proyen
+name-first: Glen
+name-given: Glen Bernard
+ 
+birth-date: 1930-06-15
+ 
+death-date: 2016-12-01
+ 
+school-level: secondary
+school-name:  Pullman Technical HS
+school-place: US, IL, Chicago
+ 
+school-level: college
+school-name: Western Illinois University

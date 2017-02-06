@@ -1,0 +1,13 @@
+name-last: Glenn
+name-first: Don
+name-given: Donald Howard
+ 
+birth-date: 1930-02-09
+birth-place: US, MT, Forsyth
+ 
+death-date: 2016-11-20
+death-place:  US, MT, Belgrade
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War

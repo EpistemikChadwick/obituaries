@@ -1,0 +1,23 @@
+name-last: Hanna
+name-first: Bill
+name-given: William Thomas
+name-suffix: Jr.
+ 
+birth-date: 1930-09-26
+birth-place: US, MO, Kansas City
+ 
+death-date: 2016-12-17
+death-place: US, LA, Shreveport
+ 
+school-level: secondary
+school-name:  Byrd HS
+school-place: US, LA, Shreveport
+ 
+school-level: college
+school-name: Louisiana State University
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Forest Park East Cemetery
+cemetery-place: US, LA, Shreveport

@@ -1,0 +1,15 @@
+name-last: Mungo
+name-first: Vince
+name-given: Vincent E.
+ 
+birth-date: 1919-08-19
+birth-place: US, CA, Newman
+ 
+death-date: 2016-11-28
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II
+ 
+cemetery-name: Queen of Heaven Cemetery
+cemetery-place: US, CA, Lafayette

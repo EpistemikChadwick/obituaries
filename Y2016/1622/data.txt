@@ -1,0 +1,19 @@
+name-last: Coggins
+name-first: Bobby
+name-given: Bobby Gene
+ 
+birth-date: 1938-08-14
+birth-place: US, NC, Star
+ 
+death-date: 2016-12-08
+ 
+school-level: secondary
+school-name:  Albemarle HS
+school-place: US, NC, Albemarle
+ 
+school-level: college
+school-name: Presbyterian Junior College
+school-place: US, NC, Maxton
+ 
+military-country: US
+military-branch:  Army

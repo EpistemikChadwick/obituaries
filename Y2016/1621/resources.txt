@@ -1,0 +1,8 @@
+source-title: Albuquerque Journal
+source-date: 2016-12-11
+source-url: http://www.legacy.com/obituaries/abqjournal/obituary.aspx?n=stuart-locklin&pid=183053722&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-11

@@ -1,0 +1,8 @@
+source-title: Fluehr Funeral Home
+source-date: 2016-12-12
+source-url: http://www.fluehr.com/obituaries/obituary/2407/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-12

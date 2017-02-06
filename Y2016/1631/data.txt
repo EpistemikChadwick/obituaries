@@ -1,0 +1,13 @@
+name-last: DiPrimio
+name-first: Tony
+name-given: Anthony Vincent
+ 
+birth-date: 1930-08-10
+birth-place: US, CT, Waterbury
+ 
+death-date: 2016-12-04
+death-place:  US, CT, Waterbury
+ 
+school-level: college
+school-name: Post University
+school-place: US, CT, Waterbury

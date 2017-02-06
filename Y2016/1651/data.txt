@@ -1,0 +1,6 @@
+name-last: Kato
+name-first: Hajime
+name-nick: Poker Face
+ 
+death-date: 2016-12-11
+death-place:  JP, Shizuoka, Shizuoka

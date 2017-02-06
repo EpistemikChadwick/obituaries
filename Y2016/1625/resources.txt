@@ -1,0 +1,8 @@
+source-title: Geigle Funeral Home
+source-date: 2016-12-12
+source-url: http://www.jessegeiglefuneralhome.com/obituary/Daniel-H.-Werner-Jr./Harrisburg-PA/1678049
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-12

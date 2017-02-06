@@ -1,0 +1,26 @@
+name-last: Stassi
+name-first: Bob
+name-given: Robert Joseph
+ 
+birth-date: 1925-06-23
+birth-place: US, CA, Sacramento
+ 
+death-date: 2016-12-12
+death-place:  US, CA, Yuba City
+ 
+school-level: secondary
+school-name:  Marysville HS
+school-place: US, CA, Marysville
+ 
+school-level: college
+school-name: Yuba College
+ 
+school-level: college
+school-name: University of the Pacific
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Sierra View Memorial Park
+cemetery-place: US, CA, Marysville

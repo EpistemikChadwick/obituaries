@@ -1,0 +1,12 @@
+name-last: Leonetti
+name-first: Pete
+name-given: Pete
+name-suffix: Sr.
+ 
+birth-date: 1928-12-25
+ 
+death-date: 2016-12-25
+ 
+school-level: secondary
+school-name:  Dowling Catholic HS
+school-place: US, IA, West Des Moines

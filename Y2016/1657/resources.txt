@@ -1,0 +1,8 @@
+source-title: Joe Jackson Funeral Home
+source-date: 2016-12-24
+source-url: https://www.meaningfulfunerals.net/home/index.cfm?action=public%3Aobituaries.view&CFID=e08f708d-a553-4aac-9c99-4097b7e161ca&CFTOKEN=0&o_id=4046745&fh_id=15266
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-24

@@ -1,0 +1,21 @@
+name-last: Ortiz
+name-first: Ricardo
+name-given: Ricardo Armando
+name-suffix: Sr.
+ 
+birth-date: 1927-03-13
+birth-place:  US, TX, Laredo
+ 
+death-date: 2016-12-16
+death-place:  US, TX, Laredo
+ 
+school-level: secondary
+school-name:  Martin HS
+school-place: US, TX, Laredo
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Catholic Cemetery
+cemetery-place: US, TX, Laredo

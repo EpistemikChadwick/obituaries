@@ -1,0 +1,9 @@
+name-last: McMillen
+name-first: Lowell
+name-given: Lowell
+name-nick: Mac
+ 
+birth-date: 1932-11-14
+ 
+death-date: 2016-03-03
+death-place:  US, MN, Waconia

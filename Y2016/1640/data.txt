@@ -1,0 +1,20 @@
+name-last: Mee
+name-first: Tom
+name-given: Thomas Arthur
+ 
+birth-date: 1928-07-12
+ 
+death-date: 2016-12-02
+ 
+school-level: secondary
+school-name:  Cretin HS
+school-place: US, MN, St. Paul
+ 
+school-level: college
+school-name: University of Minnesota
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Fort Snelling National Cemetery
+cemetery-place: US, MN, Minneapolis

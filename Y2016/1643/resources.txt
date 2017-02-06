@@ -1,0 +1,8 @@
+source-title: Miller Funeral Home
+source-date: 2016-12-20
+source-url: http://www.millerfhc.com/memsol.cgi?user_id=1891473
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

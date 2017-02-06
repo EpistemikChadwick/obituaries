@@ -1,0 +1,8 @@
+source-title: Commercial Appeal
+source-date: 2016-12-22
+source-url: http://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=Philip-Joseph-Gagliano&pid=183176381
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-22

@@ -1,0 +1,7 @@
+name-last: Krueger
+name-first: Donald
+name-given: Donald E.
+ 
+birth-date: 1929-03-16
+ 
+death-date: 2016-07-01

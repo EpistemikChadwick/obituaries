@@ -1,0 +1,8 @@
+source-title: Downs Funeral Home
+source-date: 2016-12-20
+source-url: http://www.downsfuneralhome.com/m/?p=memorial&id=1846059
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

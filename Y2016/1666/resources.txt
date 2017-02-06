@@ -1,0 +1,8 @@
+source-title: Arkansas Online
+source-date: 2016-12-26
+source-url: http://www.arkansasonline.com/news/2016/dec/26/ex-pitcher-mourned-as-talented-caring-2/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-28

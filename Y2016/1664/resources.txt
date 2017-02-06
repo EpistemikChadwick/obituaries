@@ -1,0 +1,8 @@
+source-title: Observer-Dispatch
+source-date: 2016-12-26
+source-url: http://www.legacy.com/obituaries/uticaod/obituary.aspx?n=Steven-A-Gigliotti&pid=183214332
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-28

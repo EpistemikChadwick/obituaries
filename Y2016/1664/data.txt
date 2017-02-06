@@ -1,0 +1,16 @@
+name-last: Gigliotti
+name-first: Steve
+name-given: Steven A.
+ 
+birth-date: 1924-04-29
+birth-place: US, NY, Utica
+ 
+death-date: 2016-12-26
+death-place:  US, NY, Utica
+ 
+school-level: secondary
+school-name:  Proctor HS
+school-place: US, NY, Utica
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, NY, Utica

@@ -1,0 +1,6 @@
+name-last: Arakawa
+name-first: Hiroshi  
+name-given: Hiroshi
+ 
+death-date: 2016-12-04
+death-place:  JP, Tokyo, Tokyo

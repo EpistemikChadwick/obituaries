@@ -1,0 +1,16 @@
+name-last: Stripling
+name-first: Jackie
+name-given: Jackie Dean
+ 
+birth-date: 1949-05-18
+birth-place: US, OK, Holdenville
+ 
+death-date: 2016-12-03
+death-place:  US, OK, Midwest City
+ 
+school-level: secondary
+school-name:  Holdenville HS
+school-place: US, OK, Holdenville
+ 
+cemetery-name: North Fork Cemetery
+cemetery-place: US, OK, Clearview

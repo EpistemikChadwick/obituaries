@@ -1,0 +1,18 @@
+name-last: Werner
+name-first: Daniel
+name-given: Daniel H.
+name-suffix: Jr.
+ 
+birth-date: 1934-07-25
+birth-place: US, PA, Harrisburg
+ 
+death-date: 2016-12-08
+death-place:  US, PA, Harrisburg
+ 
+school-level: secondary
+school-name:  Susquehanna Township HS
+school-place: US, PA, Harrisburg
+ 
+cemetery-name: St. John’s United Methodist Church Cemetery
+cemetery-place: US, PA, Grantville
+ 

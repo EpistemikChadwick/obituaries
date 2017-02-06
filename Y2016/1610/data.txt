@@ -1,0 +1,16 @@
+name-last: Mumford
+name-first: Charlie
+name-given: Charles Stanley
+ 
+birth-date: 1945-02-10
+birth-place: US, NJ, Camden
+ 
+death-date: 2016-11-27
+death-place:  US, PA, Gap
+ 
+school-level: secondary
+school-name:  Ocean City HS
+school-place: US, NJ, Ocean City
+ 
+military-country: US
+military-branch:  Navy

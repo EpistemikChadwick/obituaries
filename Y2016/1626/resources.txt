@@ -1,0 +1,8 @@
+source-title: SMFS.US
+source-date: 2016-12-12
+source-url: http://www.smfs.us/obituaries/Vincent-Bosarge-2/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-12

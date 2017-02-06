@@ -1,0 +1,17 @@
+name-last: Phillips
+name-first: Cliff
+name-given: Clifford Futcher
+ 
+birth-date: 1928-05-08
+birth-place: US, DE, Rehoboth Beach
+ 
+death-date: 2016-11-25
+death-place:  US, NC, Burlington
+ 
+school-level: secondary
+school-name:  Rehoboth Beach HS
+school-place: US, DE, Rehoboth Beach
+ 
+school-level: secondary
+school-name:  Fork Union Military Academy
+school-place: US, VA, Fork Union

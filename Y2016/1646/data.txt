@@ -1,0 +1,13 @@
+name-last: Hanna
+name-first: Bill
+ 
+birth-place: US, MO, Kansas City
+ 
+death-date: 2016-12-17
+ 
+school-level: secondary
+school-name:  Byrd HS
+school-place: US, LA, Shreveport
+ 
+school-level: college
+school-name: Louisiana State University

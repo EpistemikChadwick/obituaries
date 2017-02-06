@@ -1,0 +1,8 @@
+source-title: Free Press
+source-date: 2016-12-18
+source-url: http://www.legacy.com/obituaries/kinston/obituary.aspx?n=John-Rodney-Yeglinski&pid=183118509
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

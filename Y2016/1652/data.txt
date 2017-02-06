@@ -1,0 +1,16 @@
+name-last: Johnson
+name-first: CL
+name-given: Claude Lorace
+ 
+birth-date: 1932-02-13
+birth-place: US, TX, Lyons
+ 
+death-date: 2016-12-06
+death-place:  US, CO, Loveland
+ 
+school-level: secondary
+school-name:  North Phoenix HS
+school-place: US, AZ, Phoenix
+ 
+military-country: US
+military-branch:  Air Force

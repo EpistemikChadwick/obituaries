@@ -1,0 +1,8 @@
+source-title: Twins Daily
+source-date: 2016-12-10
+source-url: http://twinsdaily.com/_/minnesota-twins-news/minnesota-twins-minor-leagues/rip-yorman-landa-r5244
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-11

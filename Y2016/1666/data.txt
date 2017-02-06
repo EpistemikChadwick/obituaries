@@ -1,0 +1,16 @@
+name-last: Barfield
+name-first: John
+name-given: John David
+name-nick: J.D.
+ 
+death-date: 2016-12-24
+death-place:  US, AR, Little Rock
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Pine Bluff HS
+school-place: US, AR, Pine Bluff
+ 
+school-level: college
+school-name: Oklahoma City University

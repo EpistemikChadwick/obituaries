@@ -1,0 +1,8 @@
+source-title: Miami News-Record
+source-date: 2016-12-07
+source-url: http://www.miamiok.com/news/20161207/jackie-dean-stripling
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-09

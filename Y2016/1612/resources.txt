@@ -1,0 +1,8 @@
+source-title: Sanspo.com
+source-date: 2016-09-17
+source-url: http://www.sanspo.com/baseball/news/20160917/buf16091705000001-n1.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-05

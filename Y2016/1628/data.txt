@@ -1,0 +1,16 @@
+name-last: Gruber
+name-first: Bob
+name-given: Robert L.
+ 
+birth-date: 1928
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2016-12-07
+death-place:  US, PA, New Britain
+ 
+school-level: secondary
+school-name:  North Catholic HS
+school-place: US, PA, Philadelphia
+ 
+cemetery-name: St. John Neumann Cemetery
+cemetery-place: US, PA, Chalfont

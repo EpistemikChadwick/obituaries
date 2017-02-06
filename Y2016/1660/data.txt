@@ -1,0 +1,19 @@
+name-last: Briede
+name-first: Al
+name-given: Albert Emile
+name-suffix: III
+ 
+birth-date: 1922-05-03
+ 
+death-date: 2016-12-23
+ 
+school-level: secondary
+school-name:  St. Aloysius HS
+school-place: US, LA, New Orleans
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Metairie Cemetery
+cemetery-place: US, LA, New Orleans

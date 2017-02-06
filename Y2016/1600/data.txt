@@ -1,0 +1,19 @@
+name-last: Piantek
+name-first: Kurt
+name-given: Kurtis Z.
+ 
+birth-date: 1981-06-19
+birth-place: US, CT, Meriden
+ 
+death-date: 2016-11-26
+death-place:  US, CT, Wallingford
+ 
+school-level: secondary
+school-name:  Notre Dame HS
+school-place: US, CT, West Haven
+ 
+school-level: college
+school-name: Trinity College
+ 
+cemetery-name: Middlefield Cemetery
+cemetery-place: US, CT, Middlefield

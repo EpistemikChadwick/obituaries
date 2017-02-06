@@ -1,0 +1,9 @@
+name-last: Lehew
+name-first: James
+name-given: James Anthony
+ 
+birth-date: 1937-08-19
+birth-place: US, MD, Baltimore
+ 
+death-date: 2016-12-23
+death-place:  US, MD, Grantsville

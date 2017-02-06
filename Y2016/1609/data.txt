@@ -1,0 +1,16 @@
+name-last: Schlickenrieder
+name-first: Warren
+name-given: Warren W.
+name-suffix: Sr.
+ 
+birth-date: 1921
+birth-place: US, NY, Bronx
+ 
+death-date: 2016-12-03
+death-place:  US, NY, Albany
+ 
+school-level: college
+school-name: Manhattan College
+ 
+cemetery-name: Gate of Heaven Cemetery
+cemetery-place: US, NY, Hawthorne

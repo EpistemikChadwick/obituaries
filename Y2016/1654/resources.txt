@@ -1,0 +1,8 @@
+source-title: Swedberg Funeral Home
+source-date: 2016-12-22
+source-url: http://www.swedbergfuneralhome.com/memsol.cgi?user_id=1893275
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-22

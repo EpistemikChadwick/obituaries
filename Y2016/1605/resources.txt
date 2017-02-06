@@ -1,0 +1,8 @@
+source-title: Daytona Beach News- Journal
+source-date: 2016-12-03
+source-url: http://www.legacy.com/obituaries/news-journalonline/obituary.aspx?n=Glen-Bernard-Van-Proyen&pid=182961793
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-04

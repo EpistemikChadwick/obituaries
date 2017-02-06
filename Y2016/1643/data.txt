@@ -1,0 +1,17 @@
+name-last: Wheeler
+name-first: Russell
+name-given: Russell
+name-suffix: Sr.
+ 
+birth-date: 1927-10-18
+birth-place: US, NC, Chowan County
+ 
+death-date: 2016-12-15
+death-place:  US, NC, Kinston
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Beaver Hill Cemetery
+cemetery-place: US, NC, Edenton
