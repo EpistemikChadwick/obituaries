@@ -1,0 +1,8 @@
+source-title: Connecticut Post
+source-date: 2017-01-01
+source-url: http://www.legacy.com/obituaries/ctpost/obituary.aspx?n=Richard-Cullen&pid=183270118
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-02

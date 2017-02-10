@@ -1,0 +1,23 @@
+name-last: Taliani
+name-first: Vince
+name-given: Vincent
+ 
+birth-date: 1927-12-22
+ 
+death-date: 2017-01-12
+death-place:  US, PA, West Deer Township
+ 
+school-level: secondary
+school-name:  West Deer Hs
+school-place: US, PA, Cheswick
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Our Lady of Hope Cemetery
+cemetery-place: US, PA, Tarentum

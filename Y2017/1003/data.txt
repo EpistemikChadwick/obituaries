@@ -1,0 +1,8 @@
+name-last: Smith
+name-first: Ron
+ 
+birth-date: 1944-01-28
+birth-place: CA, ON, Galt
+ 
+death-date: 2017-01-03
+death-place:  CA, ON, Hamilton

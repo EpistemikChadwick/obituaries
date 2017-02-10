@@ -1,0 +1,13 @@
+name-last: Bell
+name-first: Luby
+name-given: Luby Francis
+ 
+birth-date: 1929-10-09
+birth-place: US, NC, Wayne County
+ 
+death-date: 2016-12-29
+death-place:  US, VA, Bracey
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

@@ -1,0 +1,21 @@
+name-last: Starr
+name-first: Dick
+name-given: Richard E.
+name-suffix: Sr.
+ 
+birth-date: 1921-03-02
+birth-place: US, PA, Kittanning
+ 
+death-date: 2017-01-18
+death-place:  US, PA, Kittanning
+ 
+school-level: secondary
+school-name:  Kittanning HS
+school-place: US, PA, Kittanning
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Lawn Haven Burial Estates
+cemetery-place: US, PA, Worthington

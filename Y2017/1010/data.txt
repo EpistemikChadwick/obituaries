@@ -1,0 +1,15 @@
+name-last: Sollenberger
+name-first: Harry
+name-given: Harry E.
+ 
+birth-date: 1920-12-25
+birth-place: US, PA, Culbertson
+ 
+death-date: 2017-01-04
+death-place:  US, PA, Chambersburg
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

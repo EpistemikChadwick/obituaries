@@ -1,0 +1,25 @@
+name-last: Bingaman
+name-first: Chester
+name-given: Chester Glen
+ 
+birth-date: 1920-11-05
+birth-place: US, IL, Vandalia
+ 
+death-date: 2017-01-24
+death-place:  US, IL, Vandalia
+ 
+school-level: college
+school-name: Illinois College
+school-place: US, IL, Jacksonville
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Fairlawn Cemetery
+cemetery-place: US, IL, Vandalia
+ 
+affiliation-role: umpire
+affiliation-league: Nebraska State
+affiliation-date-start: 1958
+affiliation-date-end: 1958

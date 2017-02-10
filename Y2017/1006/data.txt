@@ -1,0 +1,16 @@
+name-last: Shaulis
+name-first: Bob
+name-given: Robert Junior
+ 
+birth-date: 1930-10-29
+birth-place: US, OH, Newton Falls
+ 
+death-date: 2017-01-01
+death-place:  US, OH, Newton Falls
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Lutheran Cemetery
+cemetery-place: US, OH, Newton Falls

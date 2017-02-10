@@ -1,0 +1,12 @@
+name-last: Wilds
+name-first: Buddy
+name-given: Linwood Earl
+ 
+death-date: 2017-01-07
+death-place:  US, VA, Midlothian
+ 
+military-country: US
+military-branch:  Coast Guard
+ 
+cemetery-name: Dale Memorial Park
+cemetery-place: US, VA, Chesterfield

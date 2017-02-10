@@ -1,0 +1,19 @@
+name-last: Hodous
+name-first: Albert
+name-given: Albert
+name-nick: Lefty
+ 
+death-date: 2017-01-23
+ 
+school-level: secondary
+school-name:  John Adams HS
+school-place: US, OH, Cleveland
+ 
+school-level: college
+school-name: Ohio State University
+ 
+school-level: college
+school-name: Case Western Reserve University
+ 
+cemetery-name: Mt. Olive Cemetery
+cemetery-place: US, OH, Solon

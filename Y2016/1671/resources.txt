@@ -1,0 +1,8 @@
+source-title: The Southern Illinoisan
+source-date: 2012016-12-28
+source-url: http://thesouthern.com/news/local/obituaries/bill-bleyer/article_d15ff004-9999-55ec-9975-b28a23737c11.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-02

@@ -1,0 +1,8 @@
+source-title: Chambersburg Public Opinion
+source-date: 2017-01-11
+source-url: http://www.legacy.com/obituaries/publicopiniononline/obituary.aspx?n=Harry-Sollenberger&pid=183544249
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-10

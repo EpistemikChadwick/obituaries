@@ -1,0 +1,8 @@
+source-title: Estes Park Trail-Gazette
+source-date: 2017-01-06
+source-url: http://www.legacy.com/obituaries/eptrail/obituary.aspx?n=Richard-Schaefer&pid=183341389
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-06

@@ -1,0 +1,8 @@
+source-title: Wenner Funeral Home
+source-date: 2017-01-16
+source-url: http://www.wennerfuneralhome.com/obituaries/Donald-Reber/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-16

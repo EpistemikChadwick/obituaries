@@ -1,0 +1,18 @@
+name-last: Holloway
+name-first: Art
+name-given: Arthur Earl
+ 
+birth-date: 1929-04-24
+birth-place: US, OH, Akron
+ 
+death-date: 2017-01-06
+ 
+school-level: secondary
+school-name:  West HS
+school-place: US, OH, Akron
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Lakewood Cemetery
+cemetery-place: US, OH, Akron

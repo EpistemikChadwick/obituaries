@@ -1,0 +1,5 @@
+name-last: Spencer
+name-first: Daryl
+name-given: Daryl D.
+ 
+death-date: 2017-01-02

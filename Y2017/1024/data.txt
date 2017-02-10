@@ -1,0 +1,4 @@
+name-last: Adams
+name-first: Red
+ 
+death-date: 2017-01-18

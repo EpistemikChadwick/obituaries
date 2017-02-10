@@ -1,0 +1,8 @@
+source-title: Luyben Dilday Mortuary
+source-date: 2017-01-29
+source-url: http://www.luybendilday.com/sitemaker/sites/Luyben1/obit.cgi?user=09575075_HMinor
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-29

@@ -1,0 +1,8 @@
+name-last: Marrero  
+name-first: Andres
+name-given: Andres Antonio
+name-matrilineal: Del Campo
+ 
+birth-date: 1934-11-30
+ 
+death-date: 2016-12-28

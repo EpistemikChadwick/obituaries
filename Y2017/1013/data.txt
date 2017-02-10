@@ -1,0 +1,12 @@
+name-last: Leonard
+name-first: Skippy
+name-given: Claiborne Franklin
+name-suffix: Sr.
+ 
+birth-date: 1937-04-09
+ 
+death-date: 2017-01-09
+ 
+school-level: secondary
+school-name:  Petersburg HS
+school-place: US, VA, Petersburg

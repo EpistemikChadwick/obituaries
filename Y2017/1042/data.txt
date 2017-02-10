@@ -1,0 +1,13 @@
+name-last: Trowbridge
+name-first: Jim
+name-given: James Henry
+ 
+birth-date: 1920-12-16
+birth-place: US, CT, Danbury
+ 
+death-date: 2017-01-20
+death-place:  US, CT, Milford
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II

@@ -1,0 +1,11 @@
+name-last: Aldrich
+name-first: Dave
+name-given: David A.
+ 
+birth-date: 1947-04-12
+birth-place: US, NY, Newburgh
+ 
+death-date: 2017-01-16
+ 
+school-level: college
+school-name: University of California, Berkeley

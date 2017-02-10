@@ -1,0 +1,18 @@
+name-last: Stoll
+name-first: Dick
+name-given: Richard
+ 
+birth-date: 1925-08-26
+birth-place: US, OH, Springfield
+ 
+death-date: 2017-01-21
+death-place:  US, NC, Hickory
+ 
+school-level: secondary
+school-name:  Springfield HS
+school-place: US, OH, Springfield
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

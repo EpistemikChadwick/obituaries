@@ -1,0 +1,8 @@
+source-title: Resthaven Funeral Home
+source-date: 2017-01-06
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Richard-Lack&lc=4905&pid=183308513&mid=7235568
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-06

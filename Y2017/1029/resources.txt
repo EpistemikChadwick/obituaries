@@ -1,0 +1,8 @@
+source-title: Bill Head Funeral Home
+source-date: 2017-01-22
+source-url: http://www.billheadfuneralhome.com/notices/Jackie-Ferrell
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-22

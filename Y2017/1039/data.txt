@@ -1,0 +1,4 @@
+name-last: Dixon
+name-first: Sherwin
+ 
+death-date: 2017-01-08

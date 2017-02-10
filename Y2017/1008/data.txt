@@ -1,0 +1,13 @@
+name-last: Sadowski
+name-first: Bob
+name-given: Robert Frank
+ 
+birth-date: 1937-01-15
+birth-place: US, MO, St. Louis
+ 
+death-date: 2017-01-06
+death-place:  US, MO, St. Louis
+ 
+school-level: secondary
+school-name:  Webster Groves HS
+school-place: US, MO, St. Louis

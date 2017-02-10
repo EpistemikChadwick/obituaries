@@ -1,0 +1,16 @@
+name-last: Bowman
+name-first: Bob
+name-given: Robert Leroy
+ 
+birth-date: 1930-05-10
+birth-place: US, CA, Laytonville
+ 
+death-date: 2017-01-27
+death-place:  US, CA, San Jose
+ 
+school-level: secondary
+school-name:  Lincoln HS
+school-place: US, CA, San Jose
+ 
+school-level: college
+school-name: Napa Valley College

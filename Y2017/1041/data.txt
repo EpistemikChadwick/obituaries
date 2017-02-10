@@ -1,0 +1,12 @@
+name-last: Stachler
+name-first: Russell
+name-given: Russell J.
+ 
+birth-date: 1966-08-08
+birth-place: US, ID, Rupert
+ 
+death-date: 2017-01-15
+ 
+school-level: secondary
+school-name:  Borah HS
+school-place: US, ID, Boise

@@ -1,0 +1,17 @@
+name-last: Yanen
+name-first: George
+name-given: George
+ 
+birth-date: 1927-02-21
+birth-place: US, OH, Providence
+ 
+death-date: 2017-01-21
+death-place:  US, OH, Cadiz
+ 
+school-level: secondary
+school-name:  Cadiz HS
+school-place: US, OH, Cadiz
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,16 @@
+name-last: Cullen
+name-first: Richard
+name-given: Richard P.
+ 
+birth-date: 1932-05-07
+birth-place: US, CT, Bridgeport
+ 
+death-date: 2016-12-09
+death-place:  US, NH, Warner
+ 
+school-level: secondary
+school-name:  Stratford HS
+school-place: US, CT, Stratford
+ 
+military-country: US
+military-branch:  Air Force

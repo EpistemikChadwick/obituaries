@@ -1,0 +1,15 @@
+name-last: Winston
+name-first: Bob
+name-given: Henry Richard
+ 
+birth-date: 1932-07-14
+birth-place: US, NC, Davidson County
+ 
+death-date: 2017-01-24
+death-place:  US, NC, Lexington
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Forest Hill Memorial Park
+cemetery-place: US, NC, Lexington

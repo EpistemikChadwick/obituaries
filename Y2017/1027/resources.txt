@@ -1,0 +1,8 @@
+source-title:  Buffalo News
+source-date: 2017-01-21
+source-url: https://buffalonews.com/2017/01/21/thomas-hallett-pro-baseball-player/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-22

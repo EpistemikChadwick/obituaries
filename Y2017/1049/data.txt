@@ -1,0 +1,13 @@
+name-last: Streuli
+name-first: Walt
+name-given: Walter Herbert
+ 
+birth-date: 1935-09-06
+birth-place: US, TN, Memphis
+ 
+death-date: 2017-01-19
+death-place:  US, NC, Greensboro
+ 
+school-level: secondary
+school-name:  Central HS
+school-place: US, TN, Memphis

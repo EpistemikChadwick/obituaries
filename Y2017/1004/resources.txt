@@ -1,0 +1,8 @@
+source-title: The Gazette
+source-date: 2017-01-05
+source-url: http://www.thegazette.com/subject/sports/blogs/community-corner-by-jr-ogden/baseball-legend-art-pennington-dead-at-93-20170105
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-06

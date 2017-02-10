@@ -1,0 +1,5 @@
+name-last: Jelks
+name-first: Greg
+ 
+death-date: 2017-01-06
+death-place:  AU, NSW, Sydney

@@ -1,0 +1,21 @@
+name-last: Barfield
+name-first: John
+name-given: John David
+ 
+birth-date: 1964-10-15
+birth-place: US, AR, Pine Bluff
+ 
+death-date: 2016-12-24
+ 
+school-level: secondary
+school-name:  Pine Bluff HS
+school-place: US, AR, Pine Bluff
+ 
+school-level: college
+school-name: Crowder College
+ 
+school-level: college
+school-name: Oklahoma City University
+ 
+cemetery-name: Roselawn Memorial Garden
+cemetery-place: US, AR, Pine Bluff

@@ -1,0 +1,11 @@
+name-last: Marrero  
+name-first: Andres
+name-given: Andres
+name-matrilineal: Del Campo
+ 
+birth-place: US, La Habana, Havana
+ 
+death-date: 2016
+ 
+cemetery-name: Southern Memorial Park
+cemetery-place: US, FL, North Miami

@@ -1,0 +1,9 @@
+name-last: Minor
+name-first: Harry
+ 
+death-date: 2017-01-18
+death-place:  US, CA, Long Beach
+ 
+school-level: secondary
+school-name:  Woodrow Wilson HS
+school-place: US, CA, Long Beach

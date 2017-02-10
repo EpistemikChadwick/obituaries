@@ -1,0 +1,19 @@
+name-last: Barty
+name-first: Warren
+name-given: Warren H.
+ 
+birth-date: 1941-08-31
+birth-place: US, IL, West Frankfort
+ 
+death-date: 2016-12-26
+death-place:  US, IL, Mascoutah
+ 
+school-level: secondary
+school-name:  Frankfort Community HS
+school-place: US, IL, West Frankfort
+ 
+school-level: college
+school-name: McKendree University
+ 
+cemetery-name: College Hill Cemetery
+cemetery-place: US, IL, Lebanon

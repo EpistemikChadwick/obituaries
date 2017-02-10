@@ -1,0 +1,20 @@
+name-last: Paolisso
+name-first: Bill
+name-given: William Edward
+name-suffix: Jr.
+ 
+birth-date: 1927-12-06
+birth-place: US, WV, Weirton
+ 
+death-date: 2017-01-14
+death-place:  US, PA, Doylestown
+ 
+school-level: secondary
+school-name:  Weir HS
+school-place: US, WV, Weirton
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Mount Calvary Cemetery
+cemetery-place: US, OH, Steubenville

@@ -1,0 +1,13 @@
+name-last: Peterson
+name-first: Jim
+name-given: James T.
+name-suffix: Jr.
+ 
+birth-date: 1934-02-05
+birth-place: US, TX, Fort Worth
+ 
+death-date: 2017-01-17
+ 
+school-level: secondary
+school-name:  Paschal HS
+school-place: US, TX, Fort Worth

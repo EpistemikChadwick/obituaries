@@ -1,0 +1,24 @@
+name-last: Tomayko
+name-first: Carl
+name-given: Carl J.
+name-suffix: Sr.
+ 
+birth-date: 1930-08-13
+birth-place: US, PA, West Deer Township
+ 
+death-date: 2017-01-27
+death-place:  US, PA, Natrona Heights
+ 
+school-level: secondary
+school-name:  West Deer HS
+school-place: US, PA, Cheswick
+ 
+school-level: college
+school-name: University of Pittsburgh
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Mt. Airy Cemetery
+cemetery-place: US, PA, Natrona Heights

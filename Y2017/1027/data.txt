@@ -1,0 +1,19 @@
+name-last: Hallett
+name-first: Thomas
+name-given: Thomas S.
+ 
+birth-date: 1935-11-30
+birth-place: US, NY, Buffalo
+ 
+death-date: 2017-01-19
+death-place:  US, NY, Tonawanda
+ 
+school-level: secondary
+school-name:  Riverside HS
+school-place: US, NY, Buffalo
+ 
+school-level: college
+school-name: Syracuse University
+ 
+military-country: US
+military-branch:  Army

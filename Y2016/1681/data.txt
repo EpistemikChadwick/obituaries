@@ -1,0 +1,16 @@
+name-last: Osinski
+name-first: Joe
+name-given: Joseph Thomas
+ 
+birth-date: 1931-06-26
+birth-place: US, PA, Taylor
+ 
+death-date: 2016-12-28
+ 
+school-level: secondary
+school-name:  East Side HS
+school-place: US, NJ, Newark
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

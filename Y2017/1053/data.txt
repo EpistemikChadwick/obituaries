@@ -1,0 +1,20 @@
+name-last: Butler
+name-first: Robert
+name-given: Robert W.
+ 
+birth-place: US, IL, Chicago
+ 
+death-date: 2017-01-24
+ 
+school-level: secondary
+school-name:  Rocky River HS
+school-place: US, OH, Rocky River
+ 
+school-level: college
+school-name: Purdue University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Rose Hill Cemetery
+cemetery-place: US, OH, Mason

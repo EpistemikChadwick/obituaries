@@ -1,0 +1,11 @@
+name-last: Ferrell
+name-first: Jackie
+name-given: Jackie Lee
+ 
+birth-date: 1936-03-11
+birth-place:  US, SC, Rock Hill
+ 
+death-date: 2017-01-18
+ 
+cemetery-name: White Chapel Memorial Gardens
+cemetery-place: US, GA, Duluth

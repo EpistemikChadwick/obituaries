@@ -1,0 +1,15 @@
+name-last: Stibora
+name-first: Tom
+name-given: Thomas A.
+ 
+birth-date: 1958-03-27
+ 
+death-date: 2016-12-18
+death-place:  US, OH, Sandusky
+ 
+school-level: secondary
+school-name:  Parma HS
+school-place: US, OH, Parma
+ 
+school-level: college
+school-name: Cleveland State University

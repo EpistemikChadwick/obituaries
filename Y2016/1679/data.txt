@@ -1,0 +1,22 @@
+name-last: Sinnott
+name-first: Brian
+name-given: Edward Brian
+ 
+birth-date: 1943-02-16
+birth-place: US, CA, Santa Cruz
+ 
+death-date: 2016-12-30
+death-place:  US, CA, Felton
+ 
+school-level: secondary
+school-name:  Holy Cross HS
+school-place: US, CA, Santa Cruz
+ 
+school-level: college
+school-name: Cabrillo College
+ 
+school-level: college
+school-name: California State University, Fresno
+ 
+military-country: US
+military-branch:  Marines

@@ -1,0 +1,13 @@
+name-last: Pettit
+name-first: Jim
+name-given: James R.
+ 
+birth-date: 1929-06-16
+birth-place: US, MO, St. Louis
+ 
+death-date: 2017-01-10
+death-place:  US, IL, Quincy
+ 
+school-level: secondary
+school-name:  Beaumont HS
+school-place:  US, MO, St. Louis

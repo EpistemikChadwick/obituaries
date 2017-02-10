@@ -1,0 +1,16 @@
+name-last: Ford
+name-first: Bill
+name-given: Billy James
+ 
+birth-date: 1927-12-03
+birth-place: US, NC, Cabarrus County
+ 
+death-date: 2017-01-12
+death-place:  US, NC, Harrisburg
+ 
+school-level: secondary
+school-name:  Hartsell HS
+school-place: US, NC, Concord
+ 
+school-level: college
+school-name: Catawba College

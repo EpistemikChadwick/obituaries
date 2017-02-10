@@ -1,0 +1,13 @@
+name-last: Mihok
+name-first: Stephen
+name-given: Stephen A.
+ 
+birth-date: 1921-08-06
+birth-place: US, NJ, Bayonne
+ 
+death-date: 2017-01-22
+death-place:  US, NJ, Toms River
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

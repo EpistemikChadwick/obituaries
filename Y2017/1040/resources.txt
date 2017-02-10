@@ -1,0 +1,8 @@
+source-title: Oak Lawn Funeral Home
+source-date: 2017-01-25
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Kenneth-Wright%2c&lc=2623&pid=183692712&mid=7264212
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-25

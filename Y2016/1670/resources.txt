@@ -1,0 +1,8 @@
+source-title: TOFT Funeral Home
+source-date: 2017-01-02
+source-url: http://www.toftfh.com/notices/Thomas-Stibora
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-02

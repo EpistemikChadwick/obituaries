@@ -1,0 +1,8 @@
+source-title: Cecil M. Burton Funeral Home
+source-date: 2017-01-10
+source-url: http://www.cecilmburtonfuneralhome.com/memsol.cgi?user_id=1901231
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-10

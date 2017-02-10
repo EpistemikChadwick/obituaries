@@ -1,0 +1,9 @@
+name-last: Lack
+name-first: Dick
+name-given: Richard Vernon
+ 
+birth-date: 1933-01-16
+birth-place: US, WA, Tacoma
+ 
+death-date: 2017-01-01
+death-place:  US, TX, Lubbock

@@ -1,0 +1,8 @@
+source-title: Plain Dealer
+source-date: 2017-01-31
+source-url: http://obits.cleveland.com/obituaries/cleveland/obituary.aspx?n=Robert-W-Butler&pid=183818025
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-31

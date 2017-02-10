@@ -1,0 +1,16 @@
+name-last: Bleyer
+name-first: Bill
+name-given: William Charles
+ 
+birth-date: 1926-05-27
+birth-place: US, IL, Carterville
+ 
+death-date: 2016-12-26
+death-place:  US, IL, Carbondale
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Willowrest Cemetery
+cemetery-place: US, IL, Carterville

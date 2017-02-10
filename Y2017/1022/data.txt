@@ -1,0 +1,16 @@
+name-last: Freeman
+name-first: Bill
+name-given: William
+ 
+birth-date: 1940-01-28
+birth-place: US, WI, Eau Claire
+ 
+death-date: 2017-01-10
+death-place:  US, WI, Rice Lake
+ 
+school-level: secondary
+school-name:  Birchwood HS
+school-place: US, WI, Birchwood
+ 
+school-level: college
+school-name: University of Wisconsin-River Falls

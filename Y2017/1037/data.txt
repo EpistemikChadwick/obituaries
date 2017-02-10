@@ -1,0 +1,6 @@
+name-last: Marte
+name-first: Andy
+ 
+death-date: 2017-01-22
+death-place:  DO, ,
+ 

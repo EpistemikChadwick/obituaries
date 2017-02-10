@@ -1,0 +1,12 @@
+name-last: Bowles
+name-first: Robert
+name-given: Robert L.
+ 
+birth-date: 1927-01-04
+birth-place: US, CA, Dunsmuir
+ 
+death-date: 2017-01-18
+ 
+school-level: secondary
+school-name:  Shasta Union HS
+school-place: US, CA, Redding

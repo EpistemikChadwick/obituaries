@@ -1,0 +1,8 @@
+source-title: Lillis Funeral home
+source-date: 2017-01-28
+source-url: https://lillisfuneralhome.wordpress.com/2017/01/24/trowbridge-james-h/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-28

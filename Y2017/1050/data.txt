@@ -1,0 +1,14 @@
+name-last: Glaum
+name-first: Steve
+name-given: Steven Dale
+ 
+birth-date: 1954-11-26
+ 
+death-date: 2017-01-24
+ 
+school-level: secondary
+school-name:  Aptos HS
+school-place: US, CA, Aptos
+ 
+school-level: college
+school-name: University of California, Riverside

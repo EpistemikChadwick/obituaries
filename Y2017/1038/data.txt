@@ -1,0 +1,5 @@
+name-last: Ventura
+name-first: Yordano
+ 
+death-date: 2016-01-22
+death-place:  DO, Monsenor Nouel, Juan Adrian

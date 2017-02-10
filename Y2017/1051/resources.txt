@@ -1,0 +1,8 @@
+source-title: Cleveland Jewish News
+source-date: 2017-01-24
+source-url: http://www.clevelandjewishnews.com/community/lifecycles/obituaries/hodous-albert/article_09824d4a-e271-11e6-bcb0-cbb4c1cba617.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-30

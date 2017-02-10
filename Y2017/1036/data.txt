@@ -1,0 +1,14 @@
+name-last: Walker
+name-first: Ronnie
+name-given: Ronald Lee
+ 
+birth-date: 1937-10-06
+ 
+death-date: 2017-01-21
+ 
+school-level: secondary
+school-name:  Petersburg HS
+school-place: US, VA, Petersburg
+ 
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, VA, Chester

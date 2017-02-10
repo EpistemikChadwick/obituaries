@@ -1,0 +1,23 @@
+name-last: Fischer
+name-first: Bob
+name-given: Robert William
+name-suffix: Jr.
+ 
+birth-date: 1935-04-08
+birth-place: US, NJ, Bergen County
+ 
+death-date: 2017-01-05
+death-place:  US, NC, Pineville
+ 
+school-level: secondary
+school-name:  Bergenfield HS
+school-place: US, NJ, Bergenfield
+ 
+school-level: college
+school-name: University of Kansas
+ 
+school-level: college
+school-name: Coffeyville Community College
+ 
+military-country: US
+military-branch:  Army

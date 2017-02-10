@@ -1,0 +1,8 @@
+source-title: Joondalup Times
+source-date: 2017-01-06
+source-url: http://www.communitynews.com.au/joondalup-times/sport/greg-jelks-death-devastates-carine-cats/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-06

@@ -1,0 +1,13 @@
+name-last: Minor
+name-first: Harry
+name-given: Harry M.
+ 
+birth-date: 1928-03-07
+birth-place: US, CA, San Pedro
+ 
+death-date: 2017-01-18
+death-place:  US, CA, Long Beach
+ 
+school-level: secondary
+school-name:  Woodrow Wilson HS
+school-place: US, CA, Long Beach

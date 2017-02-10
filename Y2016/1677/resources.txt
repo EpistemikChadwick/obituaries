@@ -1,0 +1,8 @@
+source-title: Miami Herald
+source-date: 2017-01-06
+source-url: http://www.legacy.com/obituaries/herald/obituary.aspx?n=ANDRES-MARRERO-DEL-CAMPO&pid=183449578
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-08

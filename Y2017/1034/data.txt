@@ -1,0 +1,18 @@
+name-last: Green
+name-first: Will
+name-given: William Oscar
+ 
+birth-date: 1972-11-01
+birth-place: US, AL, Tuskegee
+ 
+death-date: 2017-01-17
+ 
+school-level: secondary
+school-name:  Charles Henderson HS
+school-place: US, AL, Troy
+ 
+school-level: college
+school-name: Chipola College
+ 
+school-level: college
+school-name: Troy State University

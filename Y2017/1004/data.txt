@@ -1,0 +1,7 @@
+name-last: Pennington
+name-first: Art
+name-nick: Superman
+ 
+birth-place: US, TN, Memphis
+ 
+death-date: 2017-01-04

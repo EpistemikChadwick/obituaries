@@ -1,0 +1,16 @@
+name-last: Reber
+name-first: Bud
+name-given: Donald
+ 
+birth-date: 1925-09-11
+birth-place: US, MN, St. Joseph
+ 
+death-date: 2017-01-14
+death-place:  US, MN, St. Cloud
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Minnesota State Veterans Cemetery
+cemetery-place: US, MN, Little Falls

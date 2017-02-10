@@ -1,0 +1,8 @@
+source-title: The Record
+source-date: 2017-01-03
+source-url: http://www.therecord.com/sports-story/7048208-smith-won-stanley-cup-with-carolina/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-06

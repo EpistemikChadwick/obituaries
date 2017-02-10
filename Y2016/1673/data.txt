@@ -1,0 +1,15 @@
+name-last: Speas
+name-first: Kreisler
+name-given: Kreisler
+ 
+birth-date: 1935-09-24
+birth-place: US, NC, Forsyth County
+ 
+death-date: 2016-12-19
+death-place:  US, NC, Pfafftown
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Tabernacle United Methodist Church Cemetery
+cemetery-place: US, NC, Tobaccoville

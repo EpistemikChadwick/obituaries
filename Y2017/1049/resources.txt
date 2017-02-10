@@ -1,0 +1,8 @@
+source-title: Forbis & Dick Funeral Home
+source-date: 2017-01-29
+source-url: http://www.forbisanddick.com/obituaries/Walter-Streuli/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-29

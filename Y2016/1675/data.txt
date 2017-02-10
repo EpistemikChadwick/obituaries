@@ -1,0 +1,9 @@
+name-last: Schaefer
+name-first: Dick
+name-given: Richard
+
+birth-date: 1930-07-21
+birth-place: US, CA, San Francisco
+
+death-date: 2016-12-15
+death-place: US, CO, Estes Park

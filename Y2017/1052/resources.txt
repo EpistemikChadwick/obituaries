@@ -1,0 +1,9 @@
+source-title: LastingMemories.com
+source-date: 2017-01-31
+source-url: http://www.lastingmemories.com/memorial/robert-leroy-bowman?about
+source-url: http://www.lastingmemories.com/memorial/robert-leroy-bowman?obituaries
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-31

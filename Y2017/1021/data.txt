@@ -1,0 +1,9 @@
+name-last: Brown
+name-first: Jackie
+name-given: Jackie Gene
+ 
+death-date: 2017-01-08
+ 
+school-level: secondary
+school-name:  Moss HS
+school-place: US, OK, Holdenville

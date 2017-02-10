@@ -1,0 +1,8 @@
+source-title: Decatur Daily.com
+source-date: 2017-01-19
+source-url: http://www.decaturdaily.com/news/morgan_county/decatur/austin-high-s-gentle-giant-dies/article_152060d1-a5ce-5647-ba33-27f4d641b89b.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-23

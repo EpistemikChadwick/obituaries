@@ -1,0 +1,17 @@
+name-last: Reynolds
+name-first: Stuart
+name-given: Stuart Colby
+ 
+birth-date: 1926-08-15
+birth-place: US, WA, Concrete
+ 
+death-date: 2017-01-02
+ 
+school-level: secondary
+school-name:  Concrete HS
+school-place: US, WA, Concrete
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
