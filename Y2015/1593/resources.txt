@@ -1,0 +1,8 @@
+source-title: Kimball Funeral Home
+source-date: 2015-03-30
+source-url: http://www.kimballfh.com/fh/obituaries/obituary.cfm?o_id=3018700&fh_id=13407
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-30

@@ -1,0 +1,17 @@
+name-last: Elliott
+name-first: Bob
+name-given: Robert Vance
+
+birth-date: 1925-08-16
+
+death-date: 2015-03-29
+
+school-level: college
+school-name: University of Tennessee
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Arlington Memorial Park
+cemetery-place: US, GA, Sandy Springs

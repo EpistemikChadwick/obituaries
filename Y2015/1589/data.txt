@@ -1,0 +1,5 @@
+name-last: Sanchez
+name-first: Victor
+
+death-date: 2015-03-28
+death-place: VE

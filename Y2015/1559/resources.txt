@@ -1,0 +1,12 @@
+source-title: Zwick & Jahn Funeral Home
+source-date: 2015-03-23
+source-url: http://www.zwickjahn.com/memsol.cgi?user_id=1546579
+
+source-title: News-Sentinel.com
+source-date: 2015-03-21
+source-url: http://www.news-sentinel.com/apps/pbcs.dll/article?AID=/20150321/SPORTS/150329971
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-23

@@ -1,0 +1,8 @@
+source-title: Eastside Memorial
+source-date: 2015-03-25
+source-url: http://www.eastsidememorial.com/book-of-memories/2087453/Hornby-Sr-Richmond/obituary.php
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-25

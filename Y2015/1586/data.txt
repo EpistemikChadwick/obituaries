@@ -1,0 +1,14 @@
+name-last: Allen
+name-first: Gary
+name-given: Gary Randall
+name-suffix: Sr.
+
+birth-date: 1938-05-19
+birth-place: US, GA, Statesboro
+
+death-date: 2015-03-27
+death-place: US, GA, Savannah
+
+school-level: secondary
+school-name: Savannah HS
+school-place: US, GA, Savannah

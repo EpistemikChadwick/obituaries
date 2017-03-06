@@ -1,0 +1,18 @@
+name-last: Pruett
+name-first: Dick
+name-given: Richard L.
+
+birth-date: 1928-03-20
+birth-place: US, WI, Appleton
+
+death-date: 2015-03-20
+death-place: US, WI, West Bend
+
+meta-throws: left
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Washington County Memorial Park
+cemetery-place: US, WI, West Bend

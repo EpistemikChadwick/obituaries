@@ -1,0 +1,7 @@
+name-last: Ingram
+name-first: Riccardo
+
+death-date: 2015-03-31
+
+school-level: college
+school-name: Georgia Tech

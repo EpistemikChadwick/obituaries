@@ -1,0 +1,16 @@
+name-last: Henson
+name-first: Ron
+name-given: Ronald Jon
+
+birth-date: 1946-05-18
+birth-place: US, TX, San Angelo
+
+death-date: 2015-03-29
+death-place: US, TX, Weatherford
+
+school-level: secondary
+school-name: San Angelo HS
+school-place: US, TX, San Angelo
+
+school-level: college
+school-name: Rice University

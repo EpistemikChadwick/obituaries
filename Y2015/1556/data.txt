@@ -1,0 +1,9 @@
+name-last: Anderson
+name-first: Bob
+name-given: Robert Carl
+
+birth-date: 1935-09-29
+birth-place: US, IL, East Chicago
+
+death-date: 2015-03-12
+death-place: US, OK, Tulsa

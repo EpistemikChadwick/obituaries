@@ -1,0 +1,16 @@
+name-last: Scholten
+name-first: Bob
+name-given: Robert Gene
+
+birth-date: 1932-04-11
+birth-place: US, MO, Rhineland
+
+death-date: 2015-03-19
+death-place: US, TX, Spring
+
+military-country: US
+military-branch: Air Force
+military-conflict: Korean War
+
+cemetery-name: Houston National Cemetery
+cemetery-place: US, TX, Houston

@@ -1,0 +1,12 @@
+name-last: Hoffman
+name-first: Tom
+name-given: Thomas Raymond
+
+birth-date: 1933-06-21
+birth-place: US, CA, Saint Helena
+
+death-date: 2015-03-31
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

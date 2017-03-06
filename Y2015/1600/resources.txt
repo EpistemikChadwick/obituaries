@@ -1,0 +1,8 @@
+source-title: Pittsburgh Tribune
+source-date: 2015-04-02
+source-url: http://triblive.com/sports/hssports/football/8099279-74/valley-coaching-football#axzz3WDkVu7ZC
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-03

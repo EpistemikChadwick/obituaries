@@ -1,0 +1,8 @@
+source-title: Yahoo Sports
+source-date: 2015-03-29
+source-url: http://sports.yahoo.com/blogs/mlb-big-league-stew/mariners-prospect-victor-sanchez-dies-from-injuries-in-boating-accident-023212340.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-30

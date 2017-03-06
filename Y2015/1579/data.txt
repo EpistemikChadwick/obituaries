@@ -1,0 +1,15 @@
+name-last: Spears
+name-first: Tom
+name-given: Thomas Nathaniel
+
+birth-date: 1923-05-11
+birth-place: US, AR, Greenbrier
+
+death-date: 2015-03-28
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: St. Stephen’s Lutheran Church Cemetery
+cemetery-place: US, SC, Lexington

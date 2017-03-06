@@ -1,0 +1,9 @@
+name-last: King
+name-first: Chip
+name-given: Travis P.
+name-suffix: Jr.
+
+birth-date: 1947-02-17
+birth-place: US, SC, Florence
+
+death-date: 2015-03-25

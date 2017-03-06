@@ -1,0 +1,8 @@
+source-title: Birmingham News
+source-date: 2015-03-25
+source-url: http://obits.al.com/obituaries/birmingham/obituary.aspx?n=Burke-Finney-McLaughlin&pid=174476190
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-25

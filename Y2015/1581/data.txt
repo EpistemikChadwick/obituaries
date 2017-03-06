@@ -1,0 +1,17 @@
+name-last: Iannaccone
+name-first: Angelo
+
+birth-date: 1929-08-04
+birth-place: US, NJ, Newark
+
+death-date: 2015-03-26
+
+school-level: secondary
+school-name: Barringer HS
+school-place: US, NJ, Newark
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Immaculate Conception Cemetery
+cemetery-place: US, NJ, Montclair

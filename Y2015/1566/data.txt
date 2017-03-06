@@ -1,0 +1,11 @@
+name-last: Baker
+name-first: Floyd
+name-given: Floyd L.
+
+birth-date: 1929-07-27
+birth-place: US, MI, Ferndale
+
+death-date: 2015-02-13
+
+military-country: US
+military-conflict: Korean War

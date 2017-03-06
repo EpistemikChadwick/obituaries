@@ -1,0 +1,8 @@
+source-title: Deseret News
+source-date: 2015-03-27
+source-url: http://www.legacy.com/obituaries/deseretnews/obituary.aspx?n=Arik-Jeffery-Mack&pid=174492613
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-30

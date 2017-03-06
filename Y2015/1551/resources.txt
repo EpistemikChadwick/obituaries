@@ -1,0 +1,8 @@
+source-title: El Propio
+source-date: 2015-02-13
+source-url: http://www.elpropio.com/deportes/beisbol/Fallece-leyenda-beisbol-Manuel-Gonzalez_0_683331666.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-14

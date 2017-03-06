@@ -1,0 +1,21 @@
+name-last: Hornby
+name-first: Dick
+name-given: Richmond Alden
+name-suffix: Sr.
+
+birth-date: 1928-08-05
+birth-place: US, MA, Attleboro
+
+death-date: 2015-03-14
+death-place: US, CT, Rocky Hill
+
+school-level: secondary
+school-name: East HS
+school-place: US, RI, Pawtucket
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Riverside Cemetery
+cemetery-place: US, RI, Pawtucket

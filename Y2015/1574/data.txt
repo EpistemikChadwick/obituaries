@@ -1,0 +1,16 @@
+name-last: Zigmund
+name-first: John
+name-given: John Paul
+
+birth-date: 1923-12-05
+
+death-date: 2015-03-06
+death-place: US, NJ, Jackson Township
+
+school-level: secondary
+school-name: Jenkins Township HS
+school-place: US, PA, Jenkins Township
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

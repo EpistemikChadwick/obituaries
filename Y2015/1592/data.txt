@@ -1,0 +1,7 @@
+name-last: Rico
+name-first: Nick
+name-given: Nick Joseph
+
+birth-date: 1928-08-20
+
+death-date: 2015-03-28

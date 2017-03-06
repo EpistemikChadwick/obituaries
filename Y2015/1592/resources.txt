@@ -1,0 +1,8 @@
+source-title: Lynett Funeral Home
+source-date: 2015-03-30
+source-url: http://lynettfuneralhome.sharingmemories.ca/site/NicoleRico.html?s=40
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-30

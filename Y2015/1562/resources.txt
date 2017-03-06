@@ -1,0 +1,8 @@
+source-title: Ledger
+source-date: 2015-03-23
+source-url: http://www.legacy.com/obituaries/theledger/obituary.aspx?n=adolph-long-jr&pid=174457811&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-23

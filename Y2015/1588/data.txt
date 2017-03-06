@@ -1,0 +1,18 @@
+name-last: Newell
+name-first: Bobby
+name-given: Robert W.
+
+birth-date: 1930-09-06
+birth-place: US, AR, Little Rock
+
+death-date: 2015-03-27
+
+school-level: secondary
+school-name: Newport HS
+school-place: US, AR, Newport
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Walnut Grove Cemetery
+cemetery-place: US, AR, Newport

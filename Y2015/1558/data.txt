@@ -1,0 +1,19 @@
+name-last: Lukosius
+name-first: Luke
+name-given: Justin William
+
+birth-date: 1934
+birth-place: US, NJ, Elizabeth
+
+death-date: 2015-03-15
+death-place: US, NJ, Jackson Township
+
+school-level: secondary
+school-name: Thomas A. Edison HS
+school-place: US, NJ, Elizabeth
+
+military-country: US
+military-branch: Marine
+
+cemetery-name: Mount Calvary Cemetery
+cemetery-place: US, NJ, Neptune

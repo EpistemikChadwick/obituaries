@@ -1,0 +1,16 @@
+name-last: Stoudt
+name-first: B.J.
+name-given: Byrd James
+
+birth-date: 1931-04-27
+birth-place: US, PA, Strausstown
+
+death-date: 2015-03-30
+death-place: US, PA, Chambersburg
+
+school-level: college
+school-name: East Stroudsburg University
+school-place: US, PA, East Stroudsburg
+
+cemetery-name: Zion Church Cemetery
+cemetery-place: US, PA, Strausstown

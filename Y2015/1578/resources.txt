@@ -1,0 +1,8 @@
+source-title: Addison Funeral Home
+source-date: 2015-03-25
+source-url: http://addisonfuneralhomes.com/obits/obit.html?id=107332
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-25

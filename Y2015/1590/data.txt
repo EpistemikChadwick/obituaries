@@ -1,0 +1,9 @@
+name-last: Shea
+name-first: Steve
+name-given: Steven
+
+death-date: 2015-03-04
+death-place: US, NH, North Hampton
+
+school-level: college
+school-name: University of Massachusetts

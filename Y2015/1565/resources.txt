@@ -1,0 +1,12 @@
+source-title: Magner Funeral Home
+source-date: 2015-04-13
+source-url: http://www.magnerfuneralhome.com/notices/Philip-Matregrano
+
+source-title: The Hour
+source-date: 2015-04-11
+source-url: http://www.thehour.com/sports/norwalk-baseball-coaching-legend-phil-the-skipper-matregrano-passes-away/article_fe2f66aa-e06d-11e4-8348-9b07b66f8d4e.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-13

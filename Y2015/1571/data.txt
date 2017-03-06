@@ -1,0 +1,17 @@
+name-last: Czarnecki
+name-first: John
+name-given: John J.
+
+birth-place: US, NJ, Lyndhurst
+
+death-date: 2015-04-07
+
+school-level: secondary
+school-name: Lyndhurst HS
+school-place: US, NJ, Lyndhurst
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Cremated

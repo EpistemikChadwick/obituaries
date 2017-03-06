@@ -1,0 +1,8 @@
+source-title: Daily Review
+source-date: 2015-04-10
+source-url: http://www.legacy.com/obituaries/thedailyreview/obituary.aspx?n=william-l-zaner&pid=174601982&fhid=30836&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-13

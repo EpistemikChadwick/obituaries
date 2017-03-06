@@ -1,0 +1,10 @@
+name-last: Friend
+name-first: Dean
+
+birth-date: 1932-10-27
+birth-place: US, AR, Hot Springs
+
+death-date: 2015-03-26
+
+military-country: US
+military-branch: Navy

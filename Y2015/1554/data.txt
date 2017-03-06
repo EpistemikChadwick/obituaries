@@ -1,0 +1,12 @@
+name-last: Bennett
+name-first: Gerald
+name-given: Gerald L.
+
+birth-place: US, SC, Spartanburg
+
+death-date: 2015-03-16
+
+meta-throws: left
+
+cemetery-name: H. Warren Smith Memorial Cemetery
+cemetery-place: US, FL, Jacksonville Beach

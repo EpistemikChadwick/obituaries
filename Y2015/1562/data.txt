@@ -1,0 +1,5 @@
+name-last: Long
+name-first: Junior
+name-given: Adolph
+
+death-date: 2015-03-11

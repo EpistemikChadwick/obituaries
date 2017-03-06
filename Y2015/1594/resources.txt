@@ -1,0 +1,8 @@
+source-title: Gainesville Sun
+source-date: 2015-04-01
+source-url: http://www.legacy.com/obituaries/gainesville/obituary.aspx?n=John-Henry-McKinney&pid=174532055
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-01

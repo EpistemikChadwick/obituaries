@@ -1,0 +1,15 @@
+name-last: Blevins
+name-first: Bob
+name-given: Robert G.
+
+birth-date: 1928-07-23
+birth-place: US, PA, Peach Bottom
+
+death-date: 2015-04-05
+death-place: US, PA, Lancaster
+
+military-country: US
+military-conflict: Korean War
+
+cemetery-name: Smithville Church of God Cemetery
+cemetery-place: US, PA, Smithville

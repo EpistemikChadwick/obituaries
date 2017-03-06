@@ -1,0 +1,8 @@
+source-title: McEwen Funeral Service
+source-date: 2015-03-19
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Bobby-Johnston&lc=4704&pid=174426957&mid=6367007
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-19

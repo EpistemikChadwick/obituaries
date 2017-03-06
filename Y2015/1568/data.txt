@@ -1,0 +1,12 @@
+name-last: Mills
+name-first: Dick
+name-given: Richard Allan
+
+birth-date: 1945-01-29
+birth-place: US, MA, Boston
+
+death-date: 2015-03-28
+death-place: US, AZ, Scottsdale
+
+school-level: college
+school-name: Parsons College

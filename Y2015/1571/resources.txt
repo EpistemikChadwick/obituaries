@@ -1,0 +1,8 @@
+source-title: The Record
+source-date: 2015-04-09
+source-url: http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=John-Czarnecki&pid=174594807
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-13

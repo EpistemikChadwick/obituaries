@@ -1,0 +1,14 @@
+name-last: Hartsell
+name-first: Dick
+name-given: Richard E.
+
+birth-date: 1930-11-27
+birth-place: US, OH, Defiance
+
+death-date: 2015-04-08
+
+military-country: US
+military-branch: Army
+
+cemetery-name: East Swanton Cemetery
+cemetery-place: US, OH, East Swanton

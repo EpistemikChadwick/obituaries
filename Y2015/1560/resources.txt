@@ -1,0 +1,8 @@
+source-title: Toledo Blade
+source-date: 2015-03-23
+source-url: http://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=Richard-Szymczak&pid=174460673
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-23

@@ -1,0 +1,23 @@
+name-last: Brayton
+name-first: Bobo
+name-given: Frederick Charles
+
+birth-date: 1925-10-20
+birth-place: US, WA, Vancouver
+
+death-date: 2015-03-28
+death-place: US, WA, Pullman
+
+school-level: secondary
+school-name: Hamilton HS
+school-place: US, WA, Hamilton
+
+school-level: college
+school-name: Washington State University
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Pullman Cemetery
+cemetery-place: US, WA, Pullman

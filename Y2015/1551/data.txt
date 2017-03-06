@@ -1,0 +1,7 @@
+name-last: Gonzalez
+name-first: Manuel
+
+death-date: 2015-02-12
+death-place: VE, , Caracas
+
+cemetery-name: Cremated

@@ -1,0 +1,11 @@
+name-last: Lucchesi
+name-first: Luke
+name-given: Adolph
+
+birth-place: US, CA, Ukiah
+
+death-date: 2015-03-16
+
+military-country: US
+military-branch: Navy
+military-conflict: Korean War

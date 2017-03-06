@@ -1,0 +1,20 @@
+name-last: McKnight
+name-first: Billy
+name-given: Billy James
+
+birth-date: 1925-08-08
+birth-place: US, OH, Coal Grove
+
+death-date: 2015-03-08
+death-place: US, WV, Charleston
+
+school-level: secondary
+school-name: Logan HS
+school-place: US, WV, Logan
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: High Lawn Memorial Park
+cemetery-place: US, WV, Oak Hill

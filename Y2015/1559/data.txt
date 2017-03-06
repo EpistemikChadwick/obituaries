@@ -1,0 +1,20 @@
+name-last: Hisner
+name-first: Parnell
+name-given: Harley Parnell
+
+birth-date: 1926-11-06
+birth-place: US, IN, Maples
+
+death-date: 2015-03-20
+death-place: US, IN, Fort Wayne
+
+school-level: secondary
+school-name: Hoagland HS
+school-place: US, IN, Hoagland
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: I.O.O.F. Cemetery
+cemetery-place: US, IN, New Haven

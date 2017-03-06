@@ -1,0 +1,20 @@
+name-last: Mack
+name-first: Arik
+name-given: Arik Jeffery
+
+birth-date: 1995-04-08
+birth-place: US, FL, Lake County
+
+death-date: 2015-03-24
+death-place: US, UT, Spanish Fork
+
+school-level: secondary
+school-name: Maple Mountain HS
+school-place: US, UT, Spanish Fork
+
+school-level: college
+school-name: Brigham Young University
+
+school-level: college
+school-name: Salt Lake Community College
+school-place: US, UT, Salt Lake City

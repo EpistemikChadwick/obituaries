@@ -1,0 +1,8 @@
+source-title: Tyree Funeral Home
+source-date: 2015-03-15
+source-url: http://www.tyreefuneralhome.com/obituaries/Billy-Mcknight/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-15

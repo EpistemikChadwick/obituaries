@@ -1,0 +1,13 @@
+name-last: Bova
+name-first: Tom
+name-given: Tom R.
+
+birth-date: 1936-10-06
+
+death-date: 2015-03-26
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Kings Highway Cemetery
+cemetery-place: US, CT, Milford

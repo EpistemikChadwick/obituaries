@@ -1,0 +1,8 @@
+source-title: Public Opinion
+source-date: 2015-04-02
+source-url: http://www.legacy.com/obituaries/publicopiniononline/obituary.aspx?n=Byrd-Stoudt&pid=174538709
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-02

@@ -1,0 +1,8 @@
+source-title: Carlsbad Current-Argus
+source-date: 2015-03-24
+source-url: http://www.legacy.com/obituaries/currentargus/obituary.aspx?n=Leo-T-Evans&pid=174466998
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-24

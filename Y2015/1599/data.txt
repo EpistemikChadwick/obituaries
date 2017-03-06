@@ -1,0 +1,11 @@
+name-last: Sass
+name-first: John
+name-suffix: Jr.
+
+birth-date: 1932-10-19
+birth-place: US, MI,
+
+death-date: 2015-03-31
+
+school-level: college
+school-name: Eastern Michigan University

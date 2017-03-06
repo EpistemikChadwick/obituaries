@@ -1,0 +1,8 @@
+source-title: Willits News
+source-date: 2015-04-09
+source-url: http://www.legacy.com/obituaries/willitsnews/obituary.aspx?n=Thomas-Raymond-Hoffman&pid=174596567
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-13

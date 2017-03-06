@@ -1,0 +1,8 @@
+source-title: Dignity Memorial.com
+source-date: 2015-04-02
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=John-Sass&lc=2233&pid=174541632&mid=6387232
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-02

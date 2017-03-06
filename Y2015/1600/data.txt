@@ -1,0 +1,11 @@
+name-last: White
+name-first: Ray
+name-nick: Whizzer
+
+birth-place: US, NY, Lackawanna
+
+death-date: 2015-04-02
+
+school-level: secondary
+school-name: Vandergrift HS
+school-place: US, PA, Vandergrift

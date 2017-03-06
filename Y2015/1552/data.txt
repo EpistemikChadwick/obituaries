@@ -1,0 +1,18 @@
+name-last: Fecker
+name-first: Henry
+name-given: Henry
+name-suffix: Jr.
+
+birth-date: 1929-12-18
+birth-place: US, MI, Detroit
+
+death-date: 2015-03-07
+death-place: US, MI, Kalamazoo
+
+school-level: secondary
+school-name: Chadsey HS
+school-place: US, MI, Detroit
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

@@ -1,0 +1,21 @@
+name-last: Zaner
+name-first: Bill
+name-given: William L.
+name-suffix: Sr.
+
+birth-date: 1930-10-19
+birth-place: US, PA, Albany
+
+death-date: 2015-04-09
+death-place: US, PA, Wyalusing
+
+school-level: secondary
+school-name: Dushore HS
+school-place: US, PA, Dushore
+
+military-country: US
+military-branch: Navy
+military-conflict: Korean War
+
+cemetery-name: Wyalusing Borough Cemetery
+cemetery-place: US, PA, Wyalusing

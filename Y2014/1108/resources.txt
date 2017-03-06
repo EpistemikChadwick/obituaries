@@ -1,0 +1,8 @@
+source-title: SalonFC.com
+source-date: 2015-03-30
+source-url: http://www.salonlfc.com/avisdedeces/28092014/PratteAndr
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-30

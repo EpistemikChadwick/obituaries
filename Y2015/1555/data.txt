@@ -1,0 +1,23 @@
+name-last: Biedermann
+name-first: Bobby
+name-given: Robert
+
+birth-date: 1936-07-04
+birth-place: US, TX, Rowena
+
+death-date: 2015-03-16
+death-place: US, TX, San Angelo
+
+school-level: secondary
+school-name: Central HS
+school-place: US, TX, San Angelo
+
+school-level: college
+school-name: Sul Ross State University
+school-place: US, TX, Alpine
+
+military-country: US
+military-branch: Army
+
+cemetery-name: St. Joseph’s Cemetery
+cemetery-place: US, TX, Rowena

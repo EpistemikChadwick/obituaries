@@ -1,0 +1,8 @@
+source-title: Asbury Park Press
+source-date: 2015-03-15
+source-url: http://www.legacy.com/obituaries/app/obituary.aspx?n=John-P-Zigmund&pid=174396911
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-15

@@ -1,0 +1,15 @@
+name-last: Johnston
+name-first: Bobby
+name-given: Bobby W.
+
+birth-date: 1934-11-14
+
+death-date: 2015-03-14
+death-place: US, VA, Cana
+
+school-level: secondary
+school-name: East Mecklenburg HS
+school-place: US, NC, Charlotte
+
+cemetery-name: Sharon Memorial Park
+cemetery-place: US, NC, Charlotte

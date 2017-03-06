@@ -1,0 +1,17 @@
+name-last: McLaughlin
+name-first: Burke
+name-given: Burke Finney
+
+birth-date: 1929-10-22
+birth-place: US, AL, Moody
+
+death-date: 2015-03-09
+
+school-level: secondary
+school-name: Leeds HS
+school-place: US, AL, Leeds
+
+military-country: US
+military-branch: Navy
+
+cemetery-place: US, TX, The Woodlands

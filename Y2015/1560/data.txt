@@ -1,0 +1,12 @@
+name-last: Szymczak
+name-first: Richard
+name-given: Richard John
+
+birth-date: 1934-05-04
+birth-place: US, OH, Toledo
+
+death-date: 2015-03-21
+death-place: US, OH, Toledo
+
+cemetery-name: Ottawa Hills Memorial Park
+cemetery-place: US, OH, Ottawa Hills

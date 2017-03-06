@@ -1,0 +1,28 @@
+name-last: Pinkston
+name-first: Brown
+name-given: Ewell Brown
+
+birth-date: 1923-04-12
+birth-place: US, GA, Parrott
+
+death-date: 2015-03-25
+death-place: US, GA, Lawrenceville
+
+school-level: secondary
+school-name: Parrott HS
+school-place: US, GA, Parrott
+
+school-level: college
+school-name: Norman College
+school-place: US, GA, Norman Park
+
+school-level: college
+school-name: Piedmont College
+school-place: US, GA, Demorest
+
+military-country: US
+military-branch: Marines
+military-conflict: Korean War
+
+cemetery-name: Lake Park Cemetery
+cemetery-place: US, GA, Lake Park

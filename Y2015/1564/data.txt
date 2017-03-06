@@ -1,0 +1,16 @@
+name-last: Evans
+name-first: Leo
+name-given: Leo T.
+name-suffix: Sr.
+
+birth-date: 1932-12-06
+birth-place: US, OK, Bokoshe
+
+death-date: 2015-03-20
+death-place: US, TX, Albany
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Carlsbad Cemetery
+cemetery-place: US, NM, Carlsbad

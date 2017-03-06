@@ -1,0 +1,11 @@
+name-last: Matregrano
+name-first: Phil
+name-given: Philip
+
+birth-place: US, NY, New York
+
+death-date: 2015-04-11
+death-place: US, CT, Wilton
+
+military-country: US
+military-conflict: World War II

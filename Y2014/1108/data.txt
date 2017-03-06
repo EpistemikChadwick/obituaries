@@ -1,0 +1,7 @@
+name-last: Pratte
+name-first: Andre
+
+birth-date: 1933
+
+death-date: 2014-09-24
+death-place: CA, QC, Montreal

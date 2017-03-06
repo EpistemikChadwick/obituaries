@@ -1,0 +1,14 @@
+name-last: Capelle
+name-first: Jack
+name-given: John Robert
+name-suffix: Jr.
+
+birth-date: 1939
+birth-place: US, TX, Baytown
+
+death-date: 2015-03-24
+death-place: US, MS, Tupelo
+
+school-level: secondary
+school-name: Greenwood-Leflore HS
+school-place: US, MS, Greenwood
