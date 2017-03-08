@@ -1,0 +1,17 @@
+name-last: DeMatteis
+name-first: Nick
+name-given: Nicholas J.
+name-suffix: Sr.
+ 
+birth-date: 1942-09-28
+birth-place: US, NY, Bronx
+ 
+death-date: 2017-02-02
+death-place:  US, FL, Boynton Beach
+ 
+school-level: secondary
+school-name:  James Monroe HS
+school-place: US, NY, Bronx
+ 
+cemetery-name: Rose Hills Memorial Park
+cemetery-place: US, NY, Putnam Valley

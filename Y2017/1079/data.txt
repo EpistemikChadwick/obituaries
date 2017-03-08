@@ -1,0 +1,17 @@
+name-last: VanSinderen
+name-first: Sid
+name-given: Sidney
+name-suffix: Jr.
+ 
+birth-date: 1923
+birth-place: US, WA, Big Lake
+ 
+death-date: 2017-02-12
+ 
+school-level: secondary
+school-name:  Bellingham HS
+school-place: US, WA, Bellingham
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II

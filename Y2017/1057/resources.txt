@@ -1,0 +1,8 @@
+source-title: Tuscaloosa News
+source-date: 2017-02-05
+source-url: http://www.legacy.com/obituaries/tuscaloosa/obituary.aspx?n=James-David-Tingle&pid=183983426
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-05

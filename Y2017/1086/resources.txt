@@ -1,0 +1,8 @@
+source-title: Georgia Cremation
+source-date: 2017-02-21
+source-url: http://georgiacremation.com/obituary/todd-dayton-todd/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-21

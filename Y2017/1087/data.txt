@@ -1,0 +1,20 @@
+name-last: Taylor
+name-first: Charley
+name-given: Charles Louis
+name-nick: Pee Wee
+ 
+birth-date: 1947-12-22
+birth-place: US, KY, Covington
+ 
+death-date: 2017-02-18
+death-place: US, KY, Erlanger
+ 
+school-level: secondary
+school-name:  Holmes HS
+school-place: US, KY, Covington
+ 
+school-level: college
+school-name: Eastern Kentucky University
+ 
+military-country: US
+military-branch:  Army

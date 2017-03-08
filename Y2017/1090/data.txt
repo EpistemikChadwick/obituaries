@@ -1,0 +1,13 @@
+name-last: MacPherson
+name-first: Harry
+name-given: Harry W.
+ 
+birth-date: 1926-07-10
+birth-place: US, MA, North Andover
+ 
+death-date: 2017-02-19
+death-place:  US, FL, Englewood
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

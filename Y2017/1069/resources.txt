@@ -1,0 +1,8 @@
+source-title: Carolina Funeral Service
+source-date: 2017-02-08
+source-url: http://www.carolinafuneral.com/notices/Glenn-HopkinsJr
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-08

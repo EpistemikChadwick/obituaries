@@ -1,0 +1,11 @@
+name-last: Schreck
+name-first: Jeff
+name-given: Jeffrey Brian
+ 
+birth-date: 1958-10-24
+ 
+death-date: 2017-02-16
+ 
+school-level: secondary
+school-name:  St. Henry District HS
+school-place: US, KY, Erlanger

@@ -1,0 +1,17 @@
+name-last: Ehlers
+name-first: Dean
+name-given: O. Dean
+ 
+birth-date: 1929-06-22
+birth-place: US, IL, Campbell Hill
+ 
+death-date: 2017-02-19
+death-place:  US, VA, Harrisonburg
+ 
+school-level: secondary
+school-name:  Campbell Hill Community HS
+school-place: US, IL, Campbell Hill
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

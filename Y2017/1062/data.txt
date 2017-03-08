@@ -1,0 +1,13 @@
+name-last: Davis
+name-first: Jim
+name-given: James F.
+ 
+birth-date: 1951-06-30
+birth-place: US, OH, Canton
+ 
+death-date: 2017-02-01
+death-place:  US, OH, Canton
+ 
+school-level: secondary
+school-name:  McKinley HS
+school-place: US, OH, Canton

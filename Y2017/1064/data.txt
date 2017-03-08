@@ -1,0 +1,12 @@
+name-last: Gwosden
+name-first: John
+name-given: John
+name-nick: Boots
+ 
+birth-date: 1921-07-30
+birth-place: US, PA, McKeesport
+ 
+death-date: 2017-02-03
+ 
+military-country: US
+military-branch:  Army

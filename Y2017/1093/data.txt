@@ -1,0 +1,9 @@
+name-last: McMinn
+name-first: Glenn
+name-given: Glenn D.
+ 
+birth-date: 1933-03-11
+birth-place: US, TX, Chillicothe
+ 
+death-date: 2017-02-03
+death-place:  US, AZ, Flagstaff

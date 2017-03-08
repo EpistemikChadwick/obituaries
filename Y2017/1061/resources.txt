@@ -1,0 +1,8 @@
+source-title: Gainesville Sun
+source-date: 2017-02-05
+source-url: http://www.legacy.com/obituaries/gainesville/obituary.aspx?n=PERRY-COLSON-MCGRIFF&pid=183988932
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-05

@@ -1,0 +1,19 @@
+name-last: Wilkinson
+name-first: Bob
+name-given: Bobby Ray
+ 
+birth-date: 1931-12-29
+birth-place: US, TX, Branchville
+ 
+death-date: 2017-01-18
+death-place:  US, TX, Temple
+ 
+school-level: secondary
+school-name:  C. H. Yoe HS
+school-place: US, TX, Cameron
+ 
+school-level: college
+school-name: Texas Christian University
+ 
+cemetery-name: Oak Hill Cemetery
+cemetery-place: US, TX, Cameron

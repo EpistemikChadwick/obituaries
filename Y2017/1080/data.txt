@@ -1,0 +1,14 @@
+name-last: Fornal
+name-first: Henry
+name-given: Henry A.
+ 
+birth-place: US, CT, Meriden
+ 
+death-date: 2017-02-11
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Adalbert Cemetery
+cemetery-place: US, NY, Rotterdam

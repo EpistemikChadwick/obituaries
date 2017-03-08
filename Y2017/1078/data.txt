@@ -1,0 +1,16 @@
+name-last: Bledsoe
+name-first: Chuck
+name-given: Charles
+name-suffix: Sr.
+ 
+birth-date: 1928-01-24
+birth-place: US, TX, San Angelo
+ 
+death-date: 2017-02-15
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Lawnhaven Memorial Gardens 
+cemetery-place: US, TX, San Angelo

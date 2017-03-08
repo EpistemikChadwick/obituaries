@@ -1,0 +1,14 @@
+name-last: Palmieri
+name-first: Ernest
+name-given: Ernest C.
+ 
+birth-date: 1934-10-20
+ 
+death-date: 2017-02-09
+ 
+school-level: secondary
+school-name:  Grover Cleveland HS
+school-place: US, NY, New York
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, NY, Coram

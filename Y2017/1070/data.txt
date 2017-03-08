@@ -1,0 +1,14 @@
+name-last: Goddard
+name-first: Bert
+name-given: Bert David
+ 
+birth-date: 1959-12-09
+ 
+death-date: 2017-02-07
+ 
+school-level: secondary
+school-name:  Marietta HS
+school-place: US, OH, Marietta
+ 
+cemetery-name: Mt. Olivet Cemetery
+cemetery-place: US, WV, Parkersburg

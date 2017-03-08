@@ -1,0 +1,16 @@
+name-last: McGriff
+name-first: Perry
+name-given: Perry Colson
+name-suffix: Jr.
+ 
+birth-date: 1937-06-29
+birth-place: US, FL, Arcaida
+ 
+death-date: 2017-02-02
+ 
+school-level: secondary
+school-name:  Gainesville HS
+school-place: US, FL, Gainesville
+ 
+school-level: college
+school-name: University of Florida

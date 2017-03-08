@@ -1,0 +1,8 @@
+source-title: Harper Funeral Home
+source-date: 2017-02-19
+source-url: http://www.harper-funeralhome.com/obituaries/Charles-Chuck-Bledsoe-Sr?obId=1373525#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-19

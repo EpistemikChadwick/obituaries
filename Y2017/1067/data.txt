@@ -1,0 +1,18 @@
+name-last: Pennacchio
+name-first: Tom
+name-given: Thomas F.
+ 
+birth-date: 1924-10-10
+birth-place: US, NY, New York
+ 
+death-date: 2017-01-31
+death-place:  US, FL, South Pasadena
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Bay Pines National Cemetery
+cemetery-place: US, FL, Bay Pines

@@ -1,0 +1,11 @@
+name-last: Ilitch
+name-first: Mike
+ 
+birth-date: 1929-07-20
+birth-place: US, MI, Detroit
+ 
+death-date: 2017-02-10
+death-place: US, MI, Detroit
+ 
+military-country: US
+military-branch:  Marines

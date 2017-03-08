@@ -1,0 +1,19 @@
+name-last: Darrell
+name-first: Tommy
+name-given: Thomas Raymond
+ 
+birth-date: 1976-07-21
+birth-place: US, PA, Mt. Pleasant
+ 
+death-date: 2017-02-13
+death-place:  US, PA, Scottdale
+ 
+school-level: secondary
+school-name: Connellsville Area HS 
+school-place: US, PA, Connellsville
+ 
+school-level: college
+school-name: Garrett Community College
+ 
+cemetery-name: Green Ridge Memorial Park
+cemetery-place: US, PA, Connellsville

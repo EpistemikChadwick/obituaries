@@ -1,0 +1,15 @@
+name-last: Cross
+name-first: Gerald
+name-given: Gerald
+ 
+birth-date: 1924-12-15
+birth-place: US, AR, Greenwood
+ 
+death-date: 2017-01-30
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Fort Smith National Cemetery
+cemetery-place: US, AR, Fort Smith

@@ -1,0 +1,11 @@
+name-last: Todd
+name-first: Dayton
+name-given: Dayton
+ 
+birth-date: 1932-10-30
+birth-place: US, OH, Wakeman
+ 
+death-date: 2017-02-17
+ 
+military-country: US
+military-branch:  Air Force

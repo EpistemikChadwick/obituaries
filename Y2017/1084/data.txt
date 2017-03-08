@@ -1,0 +1,7 @@
+name-last: Taylor
+name-first: Charley
+ 
+death-date: 2017-02-18
+ 
+school-level: college
+school-name: Eastern Kentucky University

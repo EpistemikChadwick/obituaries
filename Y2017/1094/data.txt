@@ -1,0 +1,19 @@
+name-last: Bellusci
+name-first: Joe
+name-given: Joseph Vincent
+ 
+birth-date: 1928-03-02
+birth-place: US, NY, Mt. Kisco
+ 
+death-date: 2017-01-12
+ 
+school-level: secondary
+school-name:  Peekskill Military Academy
+school-place: US, NY, Peekskill
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: South Florida National Cemetery
+cemetery-place: US, FL, Lake Worth

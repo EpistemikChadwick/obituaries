@@ -1,0 +1,16 @@
+name-last: Garver
+name-first: Ned
+name-given: Ned F.
+ 
+birth-date: 1925-12-25
+birth-place: US, OH, Ney
+ 
+death-date: 2017-02-26
+death-place:  US, OH, Bryan
+ 
+school-level: secondary
+school-name:  Ney HS
+school-place: US, OH, Ney
+ 
+cemetery-name: Ney Cemetery
+cemetery-place: US, OH, Ney

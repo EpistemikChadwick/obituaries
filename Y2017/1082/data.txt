@@ -1,0 +1,12 @@
+name-last: Rittweger
+name-first: Bill
+name-given: William Joseph
+ 
+birth-date: 1957-07-19
+birth-place: US, NJ, Plainfield
+ 
+death-date: 2017-02-14
+death-place: US, FL, Celebration
+ 
+school-level: college
+school-name: Seton Hall University

@@ -1,0 +1,16 @@
+name-last: Simon
+name-first: George
+name-given: George John
+ 
+birth-date: 1918-12-21
+birth-place: US, PA, Pittsburgh
+ 
+death-date: 2017-01-27
+death-place:  US, OH, Findlay
+ 
+school-level: secondary
+school-name:  Warren G. Harding HS
+school-place: US, OH, Warren
+ 
+cemetery-name: Maple Grove Cemetery
+cemetery-place: US, OH, Findlay

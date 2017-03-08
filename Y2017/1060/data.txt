@@ -1,0 +1,20 @@
+name-last: Moran
+name-first: Kirk
+name-given: Kirk M.
+ 
+birth-date: 1931-11-26
+birth-place: US, MA, Springfield
+ 
+death-date: 2017-02-03
+death-place:  US, MA, Stoneham
+ 
+school-level: secondary
+school-name:  Wakefield Memorial HS
+school-place: US, MA, Wakefield
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  Korean War
+ 
+cemetery-name: Lakeside Cemetery
+cemetery-place: US, MA, Wakefield

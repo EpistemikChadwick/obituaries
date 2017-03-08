@@ -1,0 +1,8 @@
+source-title: Tributes.com
+source-date: 2017-02-10
+source-url: http://www.tributes.com/obituary/show/Bert-David-Goddard-104450782
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-10

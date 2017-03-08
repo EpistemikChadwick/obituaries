@@ -1,0 +1,8 @@
+source-title: Lozano’s Flagstaff Mortuary
+source-date: 2017-02-22
+source-url: http://www.flagstaffmortuary.com/obits/obituary.php?id=635772
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-22

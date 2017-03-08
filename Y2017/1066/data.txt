@@ -1,0 +1,18 @@
+name-last: McBride
+name-first: Tom
+name-given: Thomas J.
+ 
+birth-date: 1936-03-23
+birth-place: US, MA, Boston
+ 
+death-date: 2017-02-03
+ 
+school-level: secondary
+school-name:  Cathedral HS
+school-place: US, MA, Boston
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Mary Cemetery
+cemetery-place: US, MA, Randolph

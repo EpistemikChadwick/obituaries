@@ -1,0 +1,8 @@
+name-last: Santoro
+name-first: Michael
+name-given: Michael John
+ 
+death-date: 2017-01-28
+ 
+military-country: US
+military-branch:  Army

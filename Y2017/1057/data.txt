@@ -1,0 +1,22 @@
+name-last: Tingle
+name-first: Jim
+name-given: James David
+ 
+birth-date: 1927-03-24
+birth-place: US, AL, Haleyville
+ 
+death-date: 2017-02-03
+ 
+school-level: secondary
+school-name:  John Bartram HS
+school-place: US, PA, Philadelphia
+ 
+school-level: college
+school-name: University of Alabama
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Memory Hill Gardens
+cemetery-place: US, AL, Tuscaloosa

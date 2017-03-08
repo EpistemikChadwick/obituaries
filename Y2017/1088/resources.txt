@@ -1,0 +1,8 @@
+source-title: Kyger Funeral Home
+source-date: 2017-02-21
+source-url: http://kygers.com/?pagetype=obitlink&obit_id=1925651
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-21

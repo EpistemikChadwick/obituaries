@@ -1,0 +1,8 @@
+source-title: Detroit Free Press
+source-date: 2017-02-10
+source-url: http://www.freep.com/story/money/business/columnists/2017/02/10/ilitch-detroit-pizza-red-wings-tigers-hockey-forbes/91475642/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-11

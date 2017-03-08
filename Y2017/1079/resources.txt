@@ -1,0 +1,8 @@
+source-title: Bellingham Herald
+source-date: 2017-02-17
+source-url: http://www.legacy.com/obituaries/bellinghamherald/obituary.aspx?n=Sidney-VanSinderen&pid=184165963
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-19

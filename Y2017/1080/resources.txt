@@ -1,0 +1,8 @@
+source-title: DeMarco Stone Funeral Home
+source-date: 2017-02-19
+source-url: http://www.demarcostonefuneralhome.com/notices/Henry-Fornal
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-19

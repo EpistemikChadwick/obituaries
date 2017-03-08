@@ -1,0 +1,8 @@
+name-last: Brownson
+name-first: Mark
+name-given: Marshall P.
+name-suffix: III
+ 
+birth-date: 1975-06-17
+ 
+death-date: 2017-02-01

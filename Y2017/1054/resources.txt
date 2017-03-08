@@ -1,0 +1,8 @@
+source-title: Edwards Funeral Home
+source-date: 2017-02-01
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Gerald-Cross&lc=4727&pid=183817802&mid=7272670
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-01

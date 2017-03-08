@@ -1,0 +1,17 @@
+name-last: Porter
+name-first: Orville
+name-given: William Orville
+ 
+birth-date: 1934-01-30
+ 
+death-date: 2017-01-30
+ 
+school-level: secondary
+school-name:  Ivanhoe HS
+school-place: US, VA, Wytheville
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Fairview United Methodist Church Cemetery
+cemetery-place: US, VA, Ivanhoe

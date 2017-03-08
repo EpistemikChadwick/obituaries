@@ -1,0 +1,9 @@
+source-title: Enterprise Journal
+source-date: 2017-02-26
+source-url: http://www.enterprise-journal.com/obituaries/article_80591934-fbe0-11e6-95f0-035dd32cd9a5.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-27
+ 

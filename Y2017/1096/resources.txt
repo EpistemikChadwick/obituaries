@@ -1,0 +1,8 @@
+source-title: Desert Sun
+source-date: 2017-02-24
+source-url: http://obituaries.desertsun.com/obituaries/thedesertsun/obituary.aspx?n=kenneth-david-balch&pid=184230797&eid=sp_ommatch&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-26

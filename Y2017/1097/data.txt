@@ -1,0 +1,11 @@
+name-last: Jenkins
+name-first: Raymond
+name-given: C. Raymond
+ 
+birth-date: 1933-02-10
+ 
+death-date: 2017-02-24
+death-place:  US, MS, Centreville
+ 
+military-country: US
+military-branch:  Army

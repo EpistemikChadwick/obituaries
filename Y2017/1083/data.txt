@@ -1,0 +1,19 @@
+name-last: Skemp
+name-first: William
+name-given: William P.
+ 
+birth-date: 1934-05-08
+birth-place: US, WI, La Crosse
+ 
+death-date: 2017-02-17
+death-place:  US, WI, La Crosse
+ 
+school-level: secondary
+school-name:  Aquinas HS
+school-place: US, WI, La Crosse
+ 
+school-level: college
+school-name: St. Mary’s University of Minnesota
+ 
+cemetery-name: Gate of Heaven Catholic Cemetery
+cemetery-place: US, WI, La Crosse

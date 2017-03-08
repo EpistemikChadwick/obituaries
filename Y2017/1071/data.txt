@@ -1,0 +1,8 @@
+name-last: Ilitch
+name-first: Mike
+ 
+death-date: 2017-02-10
+ 
+school-level: secondary
+school-name:  Cooley HS
+school-place: US, MI, Detroit

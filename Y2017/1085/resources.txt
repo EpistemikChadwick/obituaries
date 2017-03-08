@@ -1,0 +1,8 @@
+source-title: CCHeadliner.com
+source-date: 2017-02-13
+source-url: http://ccheadliner.com/obituaries/robert-keith-mcdaniel/article_e7656e20-f20d-11e6-a317-57009495b2c0.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-20

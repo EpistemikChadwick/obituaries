@@ -1,0 +1,8 @@
+source-title:  Maiorano Funeral Home
+source-date: 2017-02-19
+source-url: http://www.maioranofuneralhome.com/fh/obituaries/obituary.cfm?o_id=4098513&fh_id=10796
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-19

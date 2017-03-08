@@ -1,0 +1,19 @@
+name-last: Nicolls
+name-first: Keith
+name-given: Clarence K.
+ 
+birth-date: 1927-08-17
+birth-place: US, PA, Conneautville
+ 
+death-date: 2017-02-04
+death-place:  US, PA, Conneautville
+ 
+school-level: secondary
+school-name:  Conneautville High School
+school-place: US, PA, Conneautville
+ 
+school-level: college
+school-name: Edinboro University
+ 
+military-country: US
+military-branch:  Navy

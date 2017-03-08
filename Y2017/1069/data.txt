@@ -1,0 +1,21 @@
+name-last: Hopkins
+name-first: Glenn
+name-given: Glenn W.
+name-suffix: Jr.
+ 
+birth-date: 1925-07-16
+birth-place: US, NC, Charlotte
+ 
+death-date: 2017-02-05
+death-place:  US, NC, Charlotte
+ 
+school-level: secondary
+school-name:  Tech HS
+school-place: US, NC, Charlotte
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Forest Lawn West Cemetery
+cemetery-place: US, NC, Charlotte

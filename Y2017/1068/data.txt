@@ -1,0 +1,16 @@
+name-last: Smith
+name-first: Al
+name-given: Albert Sidney
+name-suffix: Jr.
+ 
+birth-date: 1926-06
+ 
+death-date: 2017-02-02
+ 
+school-level: secondary
+school-name:  Point Loma HS
+school-place: US, CA, San Diego
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
