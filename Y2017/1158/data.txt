@@ -1,0 +1,20 @@
+name-last: Leach
+name-first: Dick
+name-given: Richard M.
+ 
+birth-date: 1932-08-03
+ 
+death-date: 2017-03-23
+ 
+school-level: secondary
+school-name:  Central HS
+school-place: US, MI, Flint
+ 
+school-level: college
+school-name: University of Michigan
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, MI, Grand Blanc

@@ -1,0 +1,9 @@
+name-last: Modica
+name-first: Benjamin
+name-given: Benjamin P.
+ 
+birth-date: 1934-05-11
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2017-03-08
+death-place:  US, PA, East Norriton

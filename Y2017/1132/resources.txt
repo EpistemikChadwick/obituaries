@@ -1,0 +1,8 @@
+source-title: Ventura County Star
+source-date: 2017-03-15
+source-url: http://www.legacy.com/obituaries/venturacountystar/obituary.aspx?n=Steven-H-Loiselle&pid=184514406
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-15

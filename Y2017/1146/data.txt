@@ -1,0 +1,17 @@
+name-last: Lanham
+name-first: Joe
+name-given: Joseph K.
+ 
+birth-date: 1924-08-19
+birth-place: US, GA, Cedartown
+ 
+death-date: 2017-02-27
+death-place:  US, WY, Casper
+ 
+school-level: secondary
+school-name:  Cedartown HS
+school-place: US, GA, Cedartown
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

@@ -1,0 +1,8 @@
+source-title: Criswell Funeral Home
+source-date: 2017-03-20
+source-url: http://www.criswellfh.com/home/index.cfm/obituaries/view/fh_id/10302/id/3891664
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-20

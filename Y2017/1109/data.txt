@@ -1,0 +1,19 @@
+name-last: Corbett
+name-first: Ron
+name-given: Ronald A.
+ 
+birth-place: US, MA, Medford
+ 
+death-date: 2017-02-12
+death-place:  US, SC, Myrtle Beach
+ 
+school-level: secondary
+school-name:  Medford HS
+school-place: US, MA, Medford
+ 
+school-level: college
+school-name: Suffolk University
+school-place: US, MA, Boston
+ 
+military-country: US
+military-branch:  Army

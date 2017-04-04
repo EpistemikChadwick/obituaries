@@ -1,0 +1,12 @@
+name-last: Kurtz
+name-first: Jerry
+name-given: Gerald Don
+ 
+birth-date: 1934-01-31
+birth-place: US, LA, Thibodaux
+ 
+death-date: 2017-03-04
+ 
+school-level: secondary
+school-name:  Thibodaux HS
+school-place: US, LA, Thibodaux

@@ -1,0 +1,7 @@
+name-last: Hancock
+name-first: Eddie
+name-given: Eddie Lee
+ 
+birth-date: 1933-02-27
+ 
+death-date: 2017-03-04

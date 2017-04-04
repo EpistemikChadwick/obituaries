@@ -1,0 +1,15 @@
+name-last: Schultz
+name-first: Eric
+name-given: Eric R.
+ 
+birth-date: 1923-09-26
+birth-place: US, CT, Middletown
+ 
+death-date: 2017-03-14
+ 
+school-level: secondary
+school-name:  Woodrow Wilson HS
+school-place: US, CT, Middletown
+ 
+cemetery-name: Pine Grove Cemetery
+cemetery-place: US, CT, Middletown

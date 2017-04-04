@@ -1,0 +1,15 @@
+name-last: Stokes
+name-first: Bruce
+name-given: Bruce Alan
+ 
+birth-date: 1949-03-28
+birth-place: US, PA, West Reading
+ 
+death-date: 2017-03-28
+death-place:  US, PA, Lebanon
+ 
+military-country: US
+military-branch: Navy
+ 
+cemetery-name: Midway Brethren Cemetery
+cemetery-place: US, PA, Lebanon

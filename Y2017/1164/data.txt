@@ -1,0 +1,13 @@
+name-last: McGuckin
+name-first: Charles
+ 
+death-date: 2017-01-15
+death-place:  US, NY, Melville
+ 
+school-level: secondary
+school-name:  Chaminade HS
+school-place: US, NY, Mineola
+ 
+school-level: college
+school-name: Villanova University
+ 

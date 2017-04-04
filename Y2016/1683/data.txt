@@ -1,0 +1,20 @@
+name-last: Gilbo
+name-first: Jack
+name-given: John Oakley
+name-suffix: Jr.
+ 
+birth-date: 1924-08-31
+birth-place: US, NY, Port Henry
+ 
+death-date: 2016-03-21
+ 
+school-level: secondary
+school-name:  Port Henry HS
+school-place: US, NY, Port Henry
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, NY, Ticonderoga

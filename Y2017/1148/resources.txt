@@ -1,0 +1,8 @@
+source-title: Hillside Funeral Home
+source-date: 2017-03-20
+source-url: http://www.hillsidefuneral.com/home/obituary/4130798
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-20

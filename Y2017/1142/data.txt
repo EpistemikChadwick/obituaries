@@ -1,0 +1,13 @@
+name-last: Hoffman
+name-first: Ken
+name-given: Kenneth Edgar
+ 
+birth-place: US, TX, Luling
+ 
+death-date: 2017-03-07
+ 
+school-level: college
+school-name: Texas Lutheran University
+ 
+cemetery-name: Lockhart Municipal Burial Park
+cemetery-place: US, TX, Lockhart

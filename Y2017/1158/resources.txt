@@ -1,0 +1,8 @@
+source-title: Swartz Funeral Home
+source-date: 2017-03-27
+source-url: http://www.swartzfuneralhomeinc.com/memsol.cgi?user_id=1941550
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-27

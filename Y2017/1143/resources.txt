@@ -1,0 +1,8 @@
+source-title: Jeffcoat-Trant Funeral Home
+source-date: 2017-03-20
+source-url: http://www.jeffcoattrant.com/fh/obituaries/obituary.cfm?o_id=4166760&fh_id=13855
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-20

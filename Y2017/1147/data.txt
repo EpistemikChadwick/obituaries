@@ -1,0 +1,12 @@
+name-last: Clawson
+name-first: Charles
+name-given: Charles Hamilton
+ 
+birth-date: 1922-11-06
+birth-place: US, OH, Cleveland
+ 
+death-date: 2017-02-13
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II

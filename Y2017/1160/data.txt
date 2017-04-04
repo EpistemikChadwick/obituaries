@@ -1,0 +1,14 @@
+name-last: Polich
+name-first: Joe
+name-given: Joseph W.
+ 
+birth-place: US, CA, San Francisco
+ 
+death-date: 2017-03-14
+death-place:  US, CA, Santa Rosa
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Santa Rosa Memorial Park
+cemetery-place: US, CA, Santa Rosa

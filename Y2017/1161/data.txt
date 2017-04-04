@@ -1,0 +1,13 @@
+name-last: Snyders
+name-first: Ray
+name-given: Raymond
+ 
+birth-date: 1935-09-27
+birth-place: US, SD, Sioux Falls
+ 
+death-date: 2017-03-24
+death-place:  US, SD, Freeman
+ 
+school-level: secondary
+school-name:  Larchwood HS
+school-place: US, IA, Larchwood

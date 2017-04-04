@@ -1,0 +1,18 @@
+name-last: Kristinik
+name-first: Dick
+name-given: Richard Henry
+ 
+birth-date: 1939-08-07
+birth-place: US, TX, Houston
+ 
+death-date: 2017-03-01
+ 
+school-level: secondary
+school-name:  St. Thomas HS
+school-place: US, TX, Houston
+ 
+school-level: college
+school-name: Rice University
+ 
+military-country: US
+military-branch:  Marines

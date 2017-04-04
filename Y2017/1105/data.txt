@@ -1,0 +1,7 @@
+name-last: McWaters
+name-first: George
+name-given: George W.
+name-suffix: Jr.
+ 
+death-date: 2017-02-28
+death-place:  US, LA, New Orleans

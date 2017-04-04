@@ -1,0 +1,20 @@
+name-last: Summerlin
+name-first: Gene
+name-given: Gene Armond
+ 
+birth-date: 1931-04-22
+birth-place: US, NC, Goldsboro
+ 
+death-date: 2017-03-05
+death-place:  US, NC, Goldsboro
+ 
+school-level: secondary
+school-name:  Goldsboro HS
+school-place: US, NC, Goldsboro
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Princeton Cemetery
+cemetery-place: US, NC, Princeton

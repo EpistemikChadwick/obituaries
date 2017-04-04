@@ -1,0 +1,19 @@
+name-last: Yarbrough
+name-first: Jim
+name-given: James Rhett
+ 
+birth-date: 1939-08-22
+birth-place: US, AL, Blanton
+ 
+death-date: 2017-03-15
+death-place:  US, AL, Auburn
+ 
+school-level: secondary
+school-name:  Auburn HS
+school-place: US, AL, Auburn
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Auburn Memorial Park Cemetery
+cemetery-place: US, AL, Auburn

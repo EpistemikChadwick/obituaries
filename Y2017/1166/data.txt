@@ -1,0 +1,11 @@
+name-last: Elser
+name-first: Barney
+ 
+death-date: 2017-03-27
+ 
+school-level: secondary
+school-name:  Belleville Township HS
+school-place: Us, IL, Belleville
+ 
+military-country: US
+military-branch:  Army

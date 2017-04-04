@@ -1,0 +1,12 @@
+name-last: Curby
+name-first: Ronald
+name-given: Ronald Bessette
+ 
+birth-date: 1928-10-22
+birth-place: CA, AB, Calgary
+ 
+death-date: 2017-03-18
+ 
+school-level: secondary
+school-name:  John Oliver SS
+school-place: CA, BC, Vancouver

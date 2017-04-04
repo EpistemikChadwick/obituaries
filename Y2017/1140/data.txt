@@ -1,0 +1,4 @@
+name-last: Bruce
+name-first: Bob
+ 
+death-date: 2017-03-15

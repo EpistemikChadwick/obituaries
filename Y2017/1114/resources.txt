@@ -1,0 +1,8 @@
+source-title: Bratley-Nelson Funeral Home
+source-date: 2017-03-10
+source-url: http://www.bratley-nelsonchapels.com/?pagetype=obitlink&obit_id=1931155
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-10

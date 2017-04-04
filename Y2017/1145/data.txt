@@ -1,0 +1,16 @@
+name-last: VanCamp
+name-first: Charles
+name-given: Charles Gordon
+ 
+birth-date: 1945-03-10
+birth-place: US, ND, Drayton
+ 
+death-date: 2017-03-10
+death-place:  US, ND, Grafton
+ 
+school-level: secondary
+school-name:  Drayton HS
+school-place: US, ND, Drayton
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,16 @@
+name-last: Wiegand
+name-first: Dick
+name-given: Diedrich Henry
+ 
+birth-date: 1932-02-29
+birth-place: US, NE, Overton
+ 
+death-date: 2017-02-28
+ 
+school-level: secondary
+school-name:  Kearney HS
+school-place: US, NE, Kearney
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

@@ -1,0 +1,12 @@
+name-last: Phillips
+name-first: Jim
+name-given: James F.
+ 
+birth-date: 1939-04-16
+birth-place: US, NY, Cambridge
+ 
+death-date: 2017-03-17
+death-place:  US, NY, Huntington
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, NY, Salem

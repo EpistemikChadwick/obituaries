@@ -1,0 +1,12 @@
+name-last: Dixon
+name-first: Sam
+name-given: Sam Vickroy
+ 
+birth-date: 1928-04-17
+birth-place: US, MO, St. Louis
+ 
+death-date: 2017-03-19
+death-place:  US, KS, Lawrence
+ 
+school-level: college
+school-name: Harris-Stowe State University

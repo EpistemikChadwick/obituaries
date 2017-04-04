@@ -1,0 +1,18 @@
+name-last: Loiselle
+name-first: Steve
+name-given: Steven H.
+ 
+birth-date: 1951-01-10
+ 
+death-date: 2017-02-22
+death-place:  US, CA, Camarillo
+ 
+school-level: secondary
+school-name:  Channel Islands HS
+school-place: US, CA, Oxnard
+ 
+school-level: college
+school-name: University of California, Los Angeles
+ 
+cemetery-name: Conejo Mountain Memorial Park
+cemetery-place: US, CA, Camarillo

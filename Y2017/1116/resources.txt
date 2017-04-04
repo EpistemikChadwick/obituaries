@@ -1,0 +1,8 @@
+source-title: Arizona Republic
+source-date: 2017-03-08
+source-url: http://www.legacy.com/obituaries/azcentral/obituary.aspx?n=Diedrich-Henry-Wiegand&pid=184400822
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-10

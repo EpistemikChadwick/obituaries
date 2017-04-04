@@ -1,0 +1,8 @@
+source-title: The Repository
+source-date: 2017-03-17
+source-url: http://www.legacy.com/obituaries/cantonrep/obituary.aspx?n=George-M-Boselo&pid=184547330
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-17

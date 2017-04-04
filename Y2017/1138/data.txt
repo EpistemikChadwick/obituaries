@@ -1,0 +1,12 @@
+name-last: Benvenuto
+name-first: Leroy
+name-given: Leroy
+name-nick: Peanuts
+ 
+birth-date: 1931-08-06
+ 
+death-date: 2017-03-14
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

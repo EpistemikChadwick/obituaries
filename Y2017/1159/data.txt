@@ -1,0 +1,16 @@
+name-last: Pool
+name-first: Mace
+name-given: Howard Mason
+ 
+birth-date: 1930-04-30
+birth-place: US, KS, Circleville
+ 
+death-date: 2017-03-15
+death-place:  US, AZ, Phoenix
+ 
+school-level: secondary
+school-name:  Topeka HS
+school-place: US, KS, Topeka
+ 
+military-country: US
+military-branch:  Air Force

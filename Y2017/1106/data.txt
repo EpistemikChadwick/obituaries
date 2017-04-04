@@ -1,0 +1,16 @@
+name-last: Kaydo
+name-first: Joe
+name-given: Joseph
+name-suffix: Jr.
+ 
+birth-date: 1932-05-12
+birth-place: US, WI, Racine
+ 
+death-date: 2017-02-16
+death-place: 
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Washington Park HS
+school-place: US, WI, Racine

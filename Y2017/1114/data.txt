@@ -1,0 +1,10 @@
+name-last: Strainis
+name-first: Stan
+name-given: Stanley
+name-suffix: Jr.
+ 
+birth-date: 1939-07-22
+birth-place: US, IL, Springfield
+ 
+death-date: 2017-03-04
+death-place:  US, WI, Hayward

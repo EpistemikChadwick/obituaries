@@ -1,0 +1,18 @@
+name-last: Schellhouse
+name-first: Fred
+name-given: Fred
+name-suffix:  Jr.
+ 
+birth-date: 1922-12-22
+birth-place: US, TX, Houston
+ 
+death-date: 2017-03-02
+death-place:  US, TX, Denison
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Moore Memorial Gardens
+cemetery-place: US, TX, Arlington
+ 

@@ -1,0 +1,8 @@
+source-title: Ordoyne Funeral Home
+source-date: 2017-03-06
+source-url: https://www.meaningfulfunerals.net/home/index.cfm?action=obituaries.obit_view&CFID=40d80226-d6af-418e-90fd-3edaa8b6e77b&CFTOKEN=0&o_id=4150642&fh_id=15102
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-06

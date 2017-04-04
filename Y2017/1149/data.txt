@@ -1,0 +1,16 @@
+name-last: Armour
+name-first: Jerome
+name-given: Jerome Hall
+ 
+birth-date: 1934-06-10
+birth-place: US, AR, Bono
+ 
+death-date: 2017-02-25
+death-place:  US, MO, Thayer
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Trinity Cemetery
+cemetery-place: US, AR, Bono

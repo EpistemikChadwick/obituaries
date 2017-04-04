@@ -1,0 +1,8 @@
+source-title: National Cremation
+source-date: 2017-03-04
+source-url: http://www.legacy.com/obituaries/national-cremation/obituary.aspx?n=Joseph-Kaydo&lc=5476&pid=184211326&uuid=797d45a1-fdbf-4f7f-9762-22073bb509d6&Affiliate=journaltimes&PersonID=184211326&FHID=32232
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-04

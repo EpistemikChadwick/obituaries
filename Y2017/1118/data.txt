@@ -1,0 +1,7 @@
+name-last: Hands
+name-first: Bill
+name-nick: Froggy
+ 
+death-date: 2017-03-09
+death-place:  US, FL, Orlando
+ 

@@ -1,0 +1,16 @@
+name-last: Bruce
+name-first: R.W.
+ 
+birth-date: 1930-02-16
+birth-place: US, LA, Pleasant Hill
+ 
+death-date: 2017-03-26
+death-place:  US, LA, Shreveport
+ 
+school-level: secondary
+school-name:  C. E. Byrd HS
+school-place: US, LA, Shreveport
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

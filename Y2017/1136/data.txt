@@ -1,0 +1,15 @@
+name-last: Herell
+name-first: John
+name-given: John Bob
+ 
+birth-date: 1924-01-17
+birth-place: US, OK, Healdton
+ 
+death-date: 2017-03-14
+ 
+school-level: college
+school-name: Southern Illinois University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

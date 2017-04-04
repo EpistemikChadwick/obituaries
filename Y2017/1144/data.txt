@@ -1,0 +1,19 @@
+name-last: Fisher
+name-first: Bill
+name-given: Bill
+ 
+birth-date: 1948-09-29
+birth-place: US, OK, Tahlequah
+ 
+death-date: 2017-03-09
+death-place:  US, OK, Hulbert
+ 
+school-level: secondary
+school-name:  Tahlequah HS
+school-place: US, OK, Tahlequah
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: New Home Cemetery
+cemetery-place: US, OK, Peggs

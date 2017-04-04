@@ -1,0 +1,16 @@
+name-last: Foell
+name-first: Buddy
+name-given: George Edward
+ 
+birth-date: 1932-01-18
+birth-place: US, GA, Fort Benning
+ 
+death-date: 2017-02-07
+death-place:  US, MO, Republic
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Missouri Veterans Cemetery
+cemetery-place: US, MO, Springfield

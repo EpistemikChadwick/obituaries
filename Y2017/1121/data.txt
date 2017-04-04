@@ -1,0 +1,18 @@
+name-last: Potter
+name-first: Paul
+name-given: Paul Eugene
+ 
+birth-date: 1934-01-10
+ 
+death-date: 2017-03-09
+death-place:  US, TN, Chattanooga
+ 
+school-level: secondary
+school-name:  Chattanooga Central HS
+school-place: US, TN, Harrison
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Varner Cemetery
+cemetery-place: US, TN, Soddy-Daisy

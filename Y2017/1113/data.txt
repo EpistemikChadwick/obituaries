@@ -1,0 +1,24 @@
+name-last: Jacobs
+name-first: Dan
+name-given: Daniel Wayne
+ 
+birth-date: 1956-04-07
+birth-place: US, IL, Galesburg
+ 
+death-date: 2017-03-03
+death-place:  US, IL, Galesburg
+ 
+school-level: secondary
+school-name:  Galesburg HS
+school-place: US, IL, Galesburg
+ 
+school-level: college
+school-name: Monmouth College
+ 
+military-country: US
+military-branch:  Air Force            
+military-conflict:  Gulf War
+ 
+cemetery-name: Rock Island National Cemetery
+cemetery-place: US, IL, Rock Island
+ 

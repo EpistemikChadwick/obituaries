@@ -1,0 +1,19 @@
+name-last: Dallas
+name-first: Bob
+name-given: Robert E.
+ 
+birth-date: 1931-04-14
+birth-place: US, CA, Merced County
+ 
+death-date: 2017-02-26
+death-place:  US, CA, Livingston
+ 
+school-level: secondary
+school-name:  Merced HS
+school-place: US, CA, Merced
+ 
+school-level: college
+school-name: St. Mary’s College of California
+ 
+cemetery-name: Winton Cemetery
+cemetery-place: US, CA, Winton

@@ -1,0 +1,17 @@
+name-last: Eltzholtz
+name-first: Ed
+name-given: Edward A.
+ 
+birth-place: US, NJ, Montclair
+ 
+death-date: 2017-03-12
+ 
+school-level: secondary
+school-name:  Montclair HS
+school-place: US, NJ, Montclair
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Immaculate Conception Cemetery
+cemetery-place: US, NJ, Montclair

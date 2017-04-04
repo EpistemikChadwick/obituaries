@@ -1,0 +1,8 @@
+source-title: Bradford-O’Keefe Funeral Home
+source-date: 2017-03-10
+source-url: http://www.bradfordokeefe.com/obituaries/Raymond-Beaugez/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-10

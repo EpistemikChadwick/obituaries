@@ -1,0 +1,20 @@
+name-last: Lach
+name-first: Joseph
+name-given: Joseph John
+ 
+birth-date: 1924-11-04
+birth-place: US, IN, Gary
+ 
+death-date: 2017-03-08
+death-place:  US, OH, Holland
+ 
+school-level: secondary
+school-name:  Catholic Central HS
+school-place: US, IN, Hammond
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Florida National Cemetery
+cemetery-place: US, FL, Bushnell

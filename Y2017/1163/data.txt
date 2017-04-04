@@ -1,0 +1,9 @@
+name-last: Zardon
+name-first: Tony
+name-given: Jose Antonio
+name-matrilineal: Sanchez
+name-nick: Guineo
+ 
+birth-date: 1922-05-02
+ 
+death-date: 2017-03-21

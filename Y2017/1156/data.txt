@@ -1,0 +1,7 @@
+name-last: Green
+name-first: Dallas
+ 
+birth-date: 1934-08-04
+ 
+death-date: 2017-03-22
+death-place:  US, PA, Philadelphia

@@ -1,0 +1,7 @@
+name-last: Ferree
+name-first: Tom
+name-given: John Thomas
+ 
+birth-date: 1931-10-14
+ 
+death-date: 2017-03-10

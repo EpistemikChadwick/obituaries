@@ -1,0 +1,8 @@
+source-title: McClellan-Gariepy Funeral Home
+source-date: 2017-03-22
+source-url: http://www.gariepyfuneralhomes.com/notices/James-Phillips
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-22

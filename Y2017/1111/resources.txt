@@ -1,0 +1,8 @@
+source-title: Regency Mortuary
+source-date: 2017-03-06
+source-url: http://www.regencymortuary.com/book-of-memories/2862461/Trejo-Gilbert/obituary.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-06

@@ -1,0 +1,13 @@
+name-last: Beaugez
+name-first: Raymond
+name-given: Raymond Sidney
+name-nick: Big Boy
+ 
+death-date: 2017-03-06
+ 
+school-level: secondary
+school-name:  Ocean Springs HS
+school-place: US, MS, Ocean Springs
+ 
+cemetery-name: Bellande Cemetery
+cemetery-place: US, MS, Ocean Springs

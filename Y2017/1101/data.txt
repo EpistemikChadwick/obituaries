@@ -1,0 +1,14 @@
+name-last: Rosenfield
+name-first: Dave
+ 
+birth-date: 1929
+birth-place: US, TX, El Paso
+ 
+death-date:  2017-02-28
+death-place:  US, VA, Norfolk
+ 
+school-level: college
+school-name: University of California, Los Angeles
+ 
+military-country: US
+military-branch:  Navy

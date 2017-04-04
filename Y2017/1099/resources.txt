@@ -1,0 +1,8 @@
+source-title: Merced Sun Star
+source-date: 2017-03-01
+source-url: http://www.legacy.com/obituaries/mercedsunstar/obituary.aspx?n=Robert-Dallas&pid=184283709
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-01

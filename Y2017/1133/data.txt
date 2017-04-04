@@ -1,0 +1,19 @@
+name-last: Goetz
+name-first: Russ
+name-given: Russell Louis
+ 
+birth-date: 1930-05-31
+birth-place: US, PA, McKeesport
+ 
+death-date: 2017-03-15
+ 
+school-level: secondary
+school-name:  McKeesport HS
+school-place: US, PA, McKeesport
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: McKeesport and Versailles Cemetery
+cemetery-place: US, PA, McKeesport

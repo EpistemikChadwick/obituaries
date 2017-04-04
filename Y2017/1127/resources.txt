@@ -1,0 +1,8 @@
+source-title: Pittsburgh Post-Gazette
+source-date: 2017-02-16
+source-url: http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=VENCIL-STANLEY-JELOVCHAN-VENCE&pid=184153226
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-14

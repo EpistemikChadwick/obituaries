@@ -1,0 +1,16 @@
+name-last: Howard
+name-first: Barry
+name-given: Barry Craig
+ 
+birth-date: 1939-06-12
+birth-place: US, IL, Augusta
+ 
+death-date: 2017-03-14
+death-place:  US, IL, Peoria
+ 
+school-level: secondary
+school-name:  Augusta HS
+school-place: US, IL, Augusta
+ 
+cemetery-name: Scott’s Cemetery
+cemetery-place: US, IL, McDonough County

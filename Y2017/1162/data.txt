@@ -1,0 +1,16 @@
+name-last: Rudeau
+name-first: George
+name-given: George
+ 
+birth-date: 1926-09-27
+birth-place: US, NJ, Jersey City
+ 
+death-date: 2017-03-21
+death-place:  US, NJ, Mansfield Township
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Patrick’s Cemetery
+cemetery-place: US, NJ, Belvidere

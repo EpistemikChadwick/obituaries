@@ -1,0 +1,22 @@
+name-last: Ray
+name-first: Jack
+name-given: Jack Junior
+ 
+birth-date: 1927-10-21
+birth-place: US, OK, Clarita
+ 
+death-date: 2016-09-16
+death-place:  US, OK, Ada
+ 
+school-level: secondary
+school-name:  Clarita HS
+school-place: US, OK, Clarita
+ 
+school-level: college
+school-name: East Central University
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Moore Cemetery
+cemetery-place: US, OK, Clarita

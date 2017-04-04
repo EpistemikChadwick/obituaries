@@ -1,0 +1,23 @@
+name-last: Trejo
+name-first: Gilbert
+name-given: Gilbert Brady
+ 
+birth-date: 1926-10-24
+birth-place: US, AZ, Phoenix
+ 
+death-date: 2017-02-26
+death-place:  US, AZ, Litchfield Park
+ 
+school-level: secondary
+school-name:  Phoenix Union HS
+school-place: US, AZ, Phoenix
+ 
+school-level: college
+school-name: Arizona State University
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: St. Francis Cemetery
+cemetery-place: US, AZ, Phoenix

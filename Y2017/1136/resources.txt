@@ -1,0 +1,8 @@
+source-title: Nalley-Pickle & Welch Funeral Home
+source-date: 2017-03-17
+source-url: http://www.npwelch.com/obituary/john-bob-herell/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-17

@@ -1,0 +1,8 @@
+source-title: Chicago Tribune
+source-date: 2017-03-09
+source-url: http://www.chicagotribune.com/sports/baseball/cubs/ct-bill-hands-cubs-obit-spt-0310-20170309-story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-10

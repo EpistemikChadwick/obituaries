@@ -1,0 +1,20 @@
+name-last: Guidotti
+name-first: Hugo
+name-given: Hugo George
+name-suffix: Jr.
+ 
+birth-date: 1933
+birth-place: US, MA, Somerville
+ 
+death-date: 2017-02-28
+death-place:  US, MA, Hudson
+ 
+school-level: secondary
+school-name:  Hudson HS
+school-place: US, MA, Hudson
+ 
+school-level: college
+school-name: Yale University
+ 
+cemetery-name: St. Michael Cemetery
+cemetery-place: US, MA, Hudson

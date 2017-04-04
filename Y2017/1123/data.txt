@@ -1,0 +1,24 @@
+name-last: Espanet
+name-first: Charlie
+name-given: Charles H.
+name-suffix: Jr.
+ 
+birth-date: 1920-11-29
+birth-place: US, MA, Milford
+ 
+death-date: 2017-03-09
+death-place:  US, MA, Milford
+ 
+school-level: secondary
+school-name:  Milford
+school-place: US, MA, Milford
+ 
+school-level: college
+school-name: Boston University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Hopedale Village Cemetery
+cemetery-place: US, MA, Hopedale

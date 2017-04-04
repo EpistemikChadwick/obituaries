@@ -1,0 +1,8 @@
+source-title: Clary Funeral Home
+source-date: 2017-03-20
+source-url: http://www.claryfuneralhome.com/viewobit.php?obit_id=2240
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-20

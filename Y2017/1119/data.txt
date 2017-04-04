@@ -1,0 +1,15 @@
+name-last: Galante
+name-first: Joe
+name-given: Joseph E.
+ 
+birth-date: 1953-08-26
+ 
+death-date: 2017-03-09
+death-place:  US, NY, Syracuse
+ 
+school-level: secondary
+school-name:  Christian Brothers Academy
+school-place: US, NY, Syracuse
+ 
+school-level: college
+school-name: Cayuga Community College

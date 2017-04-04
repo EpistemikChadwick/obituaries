@@ -1,0 +1,18 @@
+name-last: Cook
+name-first: Dave
+name-given: David P.
+ 
+birth-date: 1927
+birth-place: US, NY, Albany
+ 
+death-date: 2017-03-18
+ 
+school-level: college
+school-name: College of the Holy Cross
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, NY, Rensselaer

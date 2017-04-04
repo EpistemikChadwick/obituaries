@@ -1,0 +1,19 @@
+name-last: MacCallum
+name-first: Nels
+name-given: Nelson
+ 
+birth-date: 1929-12-15
+ 
+death-date: 2017-02-01
+death-place:  US, NY, Rochester
+ 
+school-level: secondary
+school-name:  Hastings HS
+school-place: US, NY, Hastings-on-Hudson
+ 
+school-level: college
+school-name: Colgate University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

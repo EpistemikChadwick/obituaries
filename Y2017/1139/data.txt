@@ -1,0 +1,21 @@
+name-last: Billings
+name-first: Frank
+name-given: Frank Samuel
+name-suffix: Sr.
+ 
+birth-date: 1934-03-25
+birth-place: US, ME, Calais
+ 
+death-date: 2017-03-15
+death-place:  US, MD, Bishopville
+ 
+school-level: secondary
+school-name:  Coolidge HS
+school-place: US, DC, Washington
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Eastern Shore Veterans Cemetery
+cemetery-place: US, MD, Hurlock

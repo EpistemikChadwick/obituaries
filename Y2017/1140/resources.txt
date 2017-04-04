@@ -1,0 +1,8 @@
+source-title: Chron.com
+source-date: 2017-03-17
+source-url: http://www.chron.com/sports/astros/article/Bob-Bruce-Astros-pitcher-first-Astrodome-game-dies-11006398.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-17

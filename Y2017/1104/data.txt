@@ -1,0 +1,14 @@
+name-last: Cooper
+name-first: Gerald
+name-given: Gerald Romaine
+ 
+birth-date: 1933-12-25
+birth-place: US, OK, Guthrie
+ 
+death-date: 2017-02-28
+ 
+school-level: college
+school-name: El Camino College Compton Center
+ 
+cemetery-name: Pleasant Grove City Cemetery
+cemetery-place: US, UT, Pleasant Grove

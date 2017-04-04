@@ -1,0 +1,13 @@
+name-last: Ferree
+name-first: Tom
+name-given: John Thomas
+name-nick: Mopey
+ 
+death-date: 2017-03-10
+ 
+school-level: secondary
+school-name:  Warwick HS
+school-place: US, VA, Newport News
+ 
+cemetery-name: Peninsula Memorial Park
+cemetery-place: US, VA, Newport News

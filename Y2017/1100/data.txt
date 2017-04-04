@@ -1,0 +1,8 @@
+name-last: Edwards
+name-first: Larry
+name-given: Larry Randolph
+ 
+death-date: 2017-02-26
+ 
+school-level: college
+school-name: Erskine College

@@ -1,0 +1,8 @@
+source-title: Virginian-Pilot
+source-date: 2017-03-01
+source-url: http://pilotonline.com/news/local/obituaries/dave-rosenfield-synonymous-with-baseball-in-hampton-roads-dies-at/article_d3c94a50-bc47-5345-8bb7-6a98fa24fe5b.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-01

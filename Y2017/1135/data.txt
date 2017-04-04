@@ -1,0 +1,14 @@
+name-last: Boselo
+name-first: George
+name-given: George M.
+ 
+death-date: 2017-03-06
+death-place:  US, CA, Costa Mesa
+ 
+school-level: secondary
+school-name:  Timken HS
+school-place: US, OH, Canton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,16 @@
+name-last: Dovalina
+name-first: Alfredo
+name-given: Alfredo G.
+ 
+birth-date: 1915-08-08
+ 
+death-date: 2017-02-20
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Catholic Cemetery
+cemetery-place: US, TX, Laredo

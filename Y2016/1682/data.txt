@@ -1,0 +1,19 @@
+name-last: Wilsman
+name-first: Bill
+name-given: William D.
+ 
+birth-date: 1927-11-26
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2016-10-21
+ 
+school-level: secondary
+school-name:  Bok Technical HS
+school-place: US, PA, Philadelphia
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Joseph’s Cemetery
+cemetery-place: US, NJ, Chews Landing

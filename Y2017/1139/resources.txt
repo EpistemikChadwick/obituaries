@@ -1,0 +1,8 @@
+source-title: Burbage Funeral Home
+source-date: 2017-03-17
+source-url: https://www.meaningfulfunerals.net/home/index.cfm?action=obituaries.obit_view&CFID=f0582216-4547-4295-93d0-1ea18711c78c&CFTOKEN=0&o_id=4166737&fh_id=14208
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-17

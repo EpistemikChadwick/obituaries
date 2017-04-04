@@ -1,0 +1,7 @@
+name-last: McGuckin
+name-first: Charles
+name-given: Charles Gerard
+ 
+birth-date: 1932
+ 
+death-date: 2017-01-15

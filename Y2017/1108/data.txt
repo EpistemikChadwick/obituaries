@@ -1,0 +1,14 @@
+name-last: Bromann
+name-first: Craig
+name-given: Craig Jonathan
+ 
+birth-date: 1950-07-27
+ 
+death-date: 2017-03-02
+ 
+school-level: secondary
+school-name:  Glenbard West HS
+school-place: US, IL, Glen Ellyn
+ 
+school-level: college
+school-name: University of Denver

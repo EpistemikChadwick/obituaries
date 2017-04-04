@@ -1,0 +1,8 @@
+source-title: Kinzley Funeral Home
+source-date: 2017-03-27
+source-url: http://www.kinzleyfh.com/fh/obituaries/obituary.cfm?o_id=4173195&fh_id=12085
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-27

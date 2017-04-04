@@ -1,0 +1,8 @@
+source-title: Wilson Memorial Service
+source-date: 2017-03-14
+source-url: http://www.directorsadvantage.net/sites/wilsonms/new_view.php?id=9307576
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-14

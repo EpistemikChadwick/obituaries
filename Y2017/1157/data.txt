@@ -1,0 +1,15 @@
+name-last: Green
+name-first: Dallas
+name-given: G. Dallas
+ 
+birth-date: 1934-08-04
+birth-place: US, DE, Wilmington
+ 
+death-date: 2017-03-22
+ 
+school-level: secondary
+school-name:  Conrad HS
+school-place: US, DE, Newport
+ 
+school-level: college
+school-name: University of Delaware

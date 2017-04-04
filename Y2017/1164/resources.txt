@@ -1,0 +1,8 @@
+source-title: Newsday
+source-date: 2017-03-27
+source-url: http://www.newsday.com/long-island/obituaries/charles-mcguckin-ex-li-school-coach-jets-scout-dead-at-84-1.13321708
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-27

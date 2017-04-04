@@ -1,0 +1,8 @@
+source-title: Daily Press
+source-date: 2017-03-14
+source-url: http://www.legacy.com/obituaries/dailypress/obituary.aspx?n=John-Thomas-Ferree&pid=184496647
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-14

@@ -1,0 +1,15 @@
+name-last: Shepherd
+name-first: Preston
+name-given: Walter Preston
+ 
+birth-place: US, MO, St. Louis
+ 
+death-date: 2017-02-23
+ 
+school-level: secondary
+school-name:  Mexico HS
+school-place: US, MO, Mexico
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

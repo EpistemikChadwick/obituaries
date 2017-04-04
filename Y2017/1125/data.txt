@@ -1,0 +1,11 @@
+name-last: Stone
+name-first: Bud
+name-given: Edmund F.
+ 
+birth-date: 1931-01-11
+ 
+death-date: 2017-03-06
+ 
+school-level: secondary
+school-name:  Denby HS
+school-place: US, MI, Detroit

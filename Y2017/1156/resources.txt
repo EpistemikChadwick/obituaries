@@ -1,0 +1,8 @@
+source-title: Legacy.com
+source-date: 2017-03-24
+source-url: http://www.legacy.com/ns/dallas-green-obituary/184645596
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-24

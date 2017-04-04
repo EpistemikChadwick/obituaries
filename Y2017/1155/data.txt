@@ -1,0 +1,16 @@
+name-last: Mason
+name-first: John
+name-given: John Bell
+ 
+birth-date: 1928-04-03
+birth-place: US, TN, Nashville
+ 
+death-date: 2017-03-21
+death-place:  US, TX, Odessa
+ 
+school-level: secondary
+school-name:  West End HS
+school-place: US, TN, Nashville
+ 
+military-country: US
+military-branch:  Marines

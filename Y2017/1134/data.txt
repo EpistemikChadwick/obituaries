@@ -1,0 +1,16 @@
+name-last: Kelly
+name-first: Tom
+name-given: John Thomas
+ 
+birth-date: 1927-10-15
+birth-place: US, CA, San Francisco
+ 
+death-date: 2017-03-12
+death-place:  US, CA, Walnut Creek
+ 
+school-level: secondary
+school-name:  St. Ignatius College Preparatory
+school-place: US, CA, San Francisco
+ 
+school-level: college
+school-name: Santa Clara University

@@ -1,0 +1,13 @@
+name-last: Jelovchan
+name-first: Vence
+name-given: Vencil Stanley
+ 
+birth-place: US, PA, Pittsburgh
+ 
+death-date: 2017-02-14
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Arlington National Cemetery
+cemetery-place: US, VA, Arlington
