@@ -1,0 +1,10 @@
+source-title: Robert Gutwiller obit
+source-file-name: Robert Gutwiller obit.pdf
+source-file-type: Robert Gutwiller obit /pdf
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-18
+ 
+ 

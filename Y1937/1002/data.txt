@@ -1,0 +1,6 @@
+name-last: Kelly
+name-first: Finney
+name-given: Charles E.
+ 
+death-date: 1937-10-26
+death-place:  US, DC, Washington

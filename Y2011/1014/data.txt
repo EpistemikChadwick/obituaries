@@ -1,0 +1,7 @@
+name-last: Mankovitch
+name-first: Frank
+name-given: Frank Edward
+ 
+birth-date: 1937-03-12
+ 
+death-date: 2011-03-27

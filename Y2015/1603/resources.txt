@@ -1,0 +1,8 @@
+source-title: Hutchens-Stygar Funeral Home
+source-date: 2016-12-08
+source-url: http://www.hutchens-stygar.com/obituary/george-a-martak/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-08

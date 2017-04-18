@@ -1,0 +1,20 @@
+name-last: Wolford
+name-first: John
+name-given: John Thornton
+ 
+birth-date: 1928-11-09
+birth-place: US, OH, Otway
+ 
+death-date: 2012-06-11
+death-place:  US, OH, Portsmouth
+ 
+school-level: secondary
+school-name:  Otway HS
+school-place: US, OH, Otway
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Scioto Burial Park
+cemetery-place: US, OH, McDermott

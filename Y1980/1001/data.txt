@@ -1,0 +1,17 @@
+name-last: Swails
+name-given: Armstrong Calhoun
+name-suffix: Jr.
+ 
+birth-place: US, SC, Williamsburg County
+ 
+death-date: 1980-06-08
+ 
+school-level: college
+school-name: Clemson University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Williamsburg Presbyterian Cemetery
+cemetery-place: US, SC, Kingstree

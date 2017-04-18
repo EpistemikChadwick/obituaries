@@ -1,0 +1,8 @@
+source-title: Cincinnati.com
+source-date: 2008-09-24
+source-url: http://www.legacy.com/obituaries/cincinnati/obituary.aspx?page=lifestory&pid=148664080
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

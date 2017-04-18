@@ -1,0 +1,8 @@
+name-last: Conroy
+name-first: William
+name-suffix: Jr.
+ 
+death-date: 2013-02-25
+ 
+military-country: US
+military-branch:  Army

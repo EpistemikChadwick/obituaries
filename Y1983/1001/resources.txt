@@ -1,0 +1,8 @@
+source-title: Hubert Hardcastle obit
+source-file-name: Hubert Willis Lefty Hardcastle died.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-25

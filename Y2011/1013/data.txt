@@ -1,0 +1,21 @@
+name-last: Tupper
+name-first: Jack
+name-given: John Borden
+name-suffix: Jr.
+ 
+birth-date: 1937-08-29
+birth-place: US, NJ, Montclair
+ 
+death-date: 2011-11-27
+death-place:  US, WI, Wausau
+ 
+school-level: secondary
+school-name:  Montclair HS
+school-place: US, NJ, Montclair
+ 
+school-level: college
+school-name: Nichols College
+school-place: US, MA, Dudley
+ 
+military-country: US
+military-branch:  Army

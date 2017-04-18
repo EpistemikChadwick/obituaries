@@ -1,0 +1,8 @@
+name-last: DeVormer
+name-given:  Oral A.
+ 
+death-date: 1939-07-21
+death-place: US, MI, Grand Rapids
+
+Son of Al DeVormer [254926bc]
+ 

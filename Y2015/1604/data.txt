@@ -1,0 +1,23 @@
+name-last: Caton
+name-first: Bob
+name-given: Bob Gene
+ 
+birth-date: 1932-08-08
+birth-place: US, CO, Julesburg
+ 
+death-date: 2015-01-11
+death-place:  US, WA, Yakima
+ 
+school-level: secondary
+school-name:  Highland HS
+school-place: US, WA, Cowiche
+ 
+school-level: college
+school-name: Yakima Valley Community College
+school-place: US, WA, Yakima
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: West Hills Memorial Park
+cemetery-place: US, WA, Yakima

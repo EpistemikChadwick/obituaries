@@ -1,0 +1,13 @@
+name-last: Hackett
+name-first: Dale
+ 
+birth-place: US, MO, Burlington Junction
+ 
+death-date: 1977-07-19
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Farragut Cemetery
+cemetery-place: US, IA, Farragut
+ 

@@ -1,0 +1,8 @@
+name-last: Reed
+name-first: George
+name-given: George M.
+ 
+birth-place: US, PA, Danville
+ 
+death-date: 1947-05-13
+death-place:  US, NM, Albuquerque

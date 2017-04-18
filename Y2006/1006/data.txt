@@ -1,0 +1,13 @@
+name-last: Weatherwax
+name-first: Bill
+name-given: William
+ 
+birth-date: 1929-12-03
+birth-place: US, CA, Orange
+ 
+death-date: 2006-12-01
+death-place:  US, CA, Costa Mesa
+ 
+school-level: secondary
+school-name:  Newport Harbor HS
+school-place: US, CA, Newport Beach

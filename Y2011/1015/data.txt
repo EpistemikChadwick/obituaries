@@ -1,0 +1,20 @@
+name-last: Drapp
+name-first: Dave
+name-given: David L.
+ 
+birth-date: 1932-10-16
+birth-place: US, IL, Streator
+ 
+death-date: 2011-08-22
+death-place:  US, IL, Streator
+ 
+school-level: secondary
+school-name:  Streator Township HS
+school-place: US, IL, Streator
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Hillcrest Memorial Park
+cemetery-place: US, IL, Streator

@@ -1,0 +1,6 @@
+name-last: Gray
+name-first: Dick
+name-given: Francis D.
+ 
+death-date: 1930-09-03
+death-place:  US, MO, New Madrid

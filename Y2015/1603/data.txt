@@ -1,0 +1,8 @@
+name-last: Martak
+name-first: George
+name-given: George A.
+ 
+death-date: 2015-03-06
+ 
+cemetery-name: Jefferson Barracks National Cemetery
+cemetery-place: US, MO, St. Louis

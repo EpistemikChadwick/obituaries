@@ -1,0 +1,8 @@
+source-title: Napa Valley Register
+source-date: 2002-01-15
+source-url: http://napavalleyregister.com/news/local/obituaries/dennis-rathjen/article_1de65c27-c6a5-56d1-bda0-64e61967b42a.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-05

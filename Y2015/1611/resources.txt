@@ -1,0 +1,8 @@
+source-title: Everden Rust Funeral Home
+source-date: 2016-04-26
+source-url: http://www.everdenrust.com/obituaries/obituary-listings?obId=429784#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-26

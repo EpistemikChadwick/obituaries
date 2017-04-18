@@ -1,0 +1,8 @@
+source-title: Martin Reisch obit
+source-file-name: Martin Reisch obit.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-10-13

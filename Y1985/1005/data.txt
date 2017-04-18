@@ -1,0 +1,5 @@
+name-last: Kluttz
+name-given: Alvin Clifton
+ 
+death-date: 1985-05-26
+death-place:  US, NC, Asheville

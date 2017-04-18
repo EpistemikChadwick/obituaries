@@ -1,0 +1,8 @@
+source-title: Dick Gray obit
+source-file-name: Dick_Gray_death_details.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20

@@ -1,0 +1,16 @@
+name-last: Wessel
+name-first: Paul
+name-given: Paul Francis
+ 
+birth-date: 1940-01-01
+birth-place: US, MO, Dutzow
+ 
+death-date: 2013-08-02
+death-place:  US, MO, Creve Coeur
+ 
+school-level: secondary
+school-name:  St. Francis Borgia Regional HS
+school-place: US, MO, Washington
+ 
+cemetery-name: St. Vincent de Paul Catholic Cemetery
+cemetery-place: US, MO, Dutzow

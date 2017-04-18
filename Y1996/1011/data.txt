@@ -1,0 +1,13 @@
+name-last: Perkowski
+name-first: Frank
+name-given: Frank J.
+ 
+alias-type: birth
+alias-last: Piorkowski
+ 
+birth-place: US, PA, Forest City
+ 
+death-date: 1996-01-25
+ 
+cemetery-name: St. Joseph Catholic Cemetery
+cemetery-place: US, NY, Auburn

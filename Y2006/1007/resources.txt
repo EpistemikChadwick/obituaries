@@ -1,0 +1,9 @@
+source-title: Hugh Oser obit
+source-file-name: Hugh Oser obit.docx
+source-file-type: application/docx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-11-23
+ 

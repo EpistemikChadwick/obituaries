@@ -1,0 +1,8 @@
+source-title: Star Tribune
+source-date: 2006-07-18
+source-url: http://www.legacy.com/Obituaries.asp?Page=LifeStory&PersonId=18515369
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-04

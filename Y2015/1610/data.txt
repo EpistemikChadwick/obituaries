@@ -1,0 +1,20 @@
+name-last: Handzo
+name-first: John
+name-given: John G.
+ 
+birth-date: 1933-09-07
+birth-place: US, NJ, Elizabeth
+ 
+death-date: 2015-05-03
+death-place:  US, PA, Rome
+ 
+school-level: secondary
+school-name:  Linden HS
+school-place: US, NJ, Linden
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War
+ 
+cemetery-name: St. Gertrude Cemetery
+cemetery-place: US, NJ, Colonia

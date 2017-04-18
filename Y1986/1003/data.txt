@@ -1,0 +1,14 @@
+name-last: Westervelt
+name-first: Ted
+name-given: Frederick
+ 
+death-date: 1986-07-06
+death-place:  US, PA, Chester
+ 
+school-level: secondary
+school-name:  Upper Darby HS
+school-place: US, PA, Upper Darby
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

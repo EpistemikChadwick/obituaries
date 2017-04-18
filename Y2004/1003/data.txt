@@ -1,0 +1,7 @@
+name-last: Jones
+name-first: Alvin
+name-nick: Boomer
+ 
+birth-date: 1954-08-14
+ 
+death-date: 2004-03-27

@@ -1,0 +1,13 @@
+name-last: Monninger
+name-first: Warren
+name-given: Warren Dean
+name-nick: Manolete
+ 
+birth-date: 1922-08-17
+birth-place: US, KS, Elmo
+ 
+death-date: 2006-05-04
+death-place:  US, CA, Calexico
+ 
+cemetery-name: Mountain View Cemetery
+cemetery-place: US, CA, Calexico

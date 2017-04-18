@@ -1,0 +1,8 @@
+source-title: Dale Hackett obit
+source-file-name: clipping_8733073.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-03

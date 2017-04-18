@@ -1,0 +1,13 @@
+name-last: Ryan
+name-first: James
+name-given: James Joseph
+ 
+birth-date: 1928-10-19
+birth-place: US, KY, Covington
+ 
+death-date: 1958-03-28
+death-place:  US, MI, Detroit
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

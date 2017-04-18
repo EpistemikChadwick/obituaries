@@ -1,0 +1,8 @@
+source-title: Chicago Tribune
+source-date: 2013-02-28
+source-url: http://www.legacy.com/obituaries/chicagotribune/obituary.aspx?pid=163360612
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-05

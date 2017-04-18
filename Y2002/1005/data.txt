@@ -1,0 +1,15 @@
+name-last: Rathjen
+name-first: Dennis
+name-given: Dennis Charles
+ 
+birth-date: 1957-10-12
+ 
+death-date: 2002-01-11
+death-place:  US, CA, Napa
+ 
+school-level: secondary
+school-name:  Vintage HS
+school-place: US, CA, Napa
+ 
+school-level: college
+school-name: California State University, Fresno

@@ -1,0 +1,10 @@
+name-last: Daniels
+name-first: William
+name-given: William Russell
+ 
+death-date: 1994-05-30
+death-place:  US, FL, Sebring
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

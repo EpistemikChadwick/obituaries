@@ -1,0 +1,12 @@
+name-last: Clevenger
+name-first: Zora
+name-given: Zora G.
+ 
+death-date: 1970-11-24
+death-place:  US, IN, Bloomington
+ 
+school-level: college
+school-name: Indiana University
+ 
+cemetery-name: Beech Grove Cemetery
+cemetery-place: US, IN, Muncie

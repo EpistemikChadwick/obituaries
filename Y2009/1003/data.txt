@@ -1,0 +1,12 @@
+name-last: Reisch
+name-first: Martin
+name-given: Martin Claude
+ 
+birth-date: 1924-08-27
+birth-place: US, MO, St. Louis
+ 
+death-date: 2009-06-08
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

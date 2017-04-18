@@ -1,0 +1,8 @@
+name-last: Andrews
+name-first: John
+name-given: John Clinton
+ 
+birth-date: 1932-06-15
+birth-place: US, OK, Oklahoma City
+ 
+death-date: 2015-11-14

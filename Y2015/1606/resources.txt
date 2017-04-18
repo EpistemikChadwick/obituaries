@@ -1,0 +1,8 @@
+source-title: Hoffman Funeral Home
+source-date: 2016-08-18
+source-url: http://www.hoffmanfh.com/obituary/Richard-L.-Burgard/Carlisle-PA/1471575
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-18

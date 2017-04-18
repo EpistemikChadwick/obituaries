@@ -1,0 +1,8 @@
+source-title: Quad City Times
+source-date: 2015-07-29
+source-url: http://qctimes.com/news/local/obituaries/frederick-stephens/article_909e58c4-a712-583f-8a3a-efccc03da2fc.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-05

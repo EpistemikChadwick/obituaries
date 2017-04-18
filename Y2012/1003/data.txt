@@ -1,0 +1,10 @@
+name-last: Pleau
+name-first: Andre
+ 
+birth-date: 1937
+ 
+death-date: 2012-08-11
+death-place:  CA, QC, Trois-Rivieres
+ 
+cemetery-name: Columbarium de Rousseau
+cemetery-place: CA, QC, Trois-Rivieres

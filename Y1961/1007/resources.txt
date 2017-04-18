@@ -1,0 +1,8 @@
+source-title: Malone Sanders obit
+source-file-name: Malone_Sanders_obit_2.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-16

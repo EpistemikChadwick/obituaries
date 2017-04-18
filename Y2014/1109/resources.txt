@@ -1,0 +1,8 @@
+source-title: Tributes.com
+source-date: 2016-12-05
+source-url: http://www.tributes.com/obituary/show/Edward-Raletich-100905993
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-05

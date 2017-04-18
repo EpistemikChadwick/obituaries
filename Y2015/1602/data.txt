@@ -1,0 +1,19 @@
+name-last: Schelich
+name-first: Merrill
+name-given: Merrill E.
+ 
+birth-date: 1932-12-15
+birth-place: US, MO, Washington
+ 
+death-date: 2015-12-28
+death-place:  US, MO, Washington
+ 
+school-level: secondary
+school-name:  St. Francis Borgia Regional HS
+school-place: US, MO, Washington
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Gertrude Cemetery
+cemetery-place: US, MO, Washington

@@ -1,0 +1,6 @@
+name-last: Oser
+name-first: Hugh
+name-given: Hugh Wilkinson
+name-suffix: Sr.
+ 
+death-date: 2006-07-02

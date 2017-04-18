@@ -1,0 +1,7 @@
+name-last: Nance
+name-first: Clyde
+name-given: Clyde L.
+name-nick: Farmer
+ 
+death-date: 1929-04-01
+death-place:  US, CA, Merced

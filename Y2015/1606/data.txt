@@ -1,0 +1,24 @@
+name-last: Burgard
+name-first: Richard
+name-given: Richard L.
+ 
+birth-date: 1928-11-28
+birth-place: US, PA, Carlisle
+ 
+death-date: 2015-01-14
+death-place:  US, PA, Hollidaysburg
+ 
+school-level: secondary
+school-name:  Carlisle HS
+school-place: US, PA, Carlisle
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: Cumberland Valley Memorial Gardens
+cemetery-place: US, PA, Carlisle

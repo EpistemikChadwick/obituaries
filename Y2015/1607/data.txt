@@ -1,0 +1,14 @@
+name-last: Stephens
+name-first: Fred
+name-given: Frederick
+ 
+birth-date: 1931-08-09
+ 
+death-date: 2015-07-25
+death-place:  US, IL, Rock Island
+ 
+school-level: secondary
+school-name:  Wilton HS
+school-place: US, IA, Wilton
+ 
+cemetery-name: Cremated

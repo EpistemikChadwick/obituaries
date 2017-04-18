@@ -1,0 +1,6 @@
+name-last: Hardcastle
+name-first: Hubert
+name-given: Hubert Willis
+name-nick: Lefty
+ 
+death-date: 1983-04-10

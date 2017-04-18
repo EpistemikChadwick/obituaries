@@ -1,0 +1,8 @@
+source-title: James Ryan obit
+source-file-name: James Ryan obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-16

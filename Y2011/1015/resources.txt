@@ -1,0 +1,8 @@
+source-title: MyWebTimes.com
+source-date: 2011-08-23
+source-url: http://www.mywebtimes.com/obituaries/david-l-drapp/article_eecb6028-4010-51e4-8918-20601cbeca54.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-02

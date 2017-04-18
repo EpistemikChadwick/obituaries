@@ -1,0 +1,8 @@
+source-title: Imperial Valley Press
+source-date: 2006-05-08
+source-url: http://www.legacy.com/obituaries/ivpressonline/obituary.aspx?n=warren-dean-monninger-manolete&pid=17646454
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-03-15

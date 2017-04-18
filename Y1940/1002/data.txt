@@ -1,0 +1,15 @@
+name-last: Hoffman
+name-first: Jack
+ 
+birth-date: 1921-11-24
+birth-place: US, TX, Burkburnett
+ 
+death-date: 1940-09-28
+death-place:  US, OH, Bettsville
+ 
+school-level: secondary
+school-name:  Bettsville HS
+school-place: US, OH, Bettsville
+ 
+cemetery-name: Maple Grove Cemetery
+cemetery-place: US, OH, Bettsville

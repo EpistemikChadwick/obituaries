@@ -1,0 +1,5 @@
+name-last: Gutzwiller
+name-first: Robert
+name-given: Robert W.
+ 
+death-date: 1981-10-28

@@ -1,0 +1,9 @@
+name-last: Moore
+name-first: Clarence
+name-given: Clarence Wilberto
+name-suffix: Sr.
+ 
+birth-date: 1930-01-31
+birth-place: PA, , Panama City
+ 
+death-date: 2015

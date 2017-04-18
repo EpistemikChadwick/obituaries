@@ -1,0 +1,11 @@
+name-last: Holland
+name-given: Joseph G.
+ 
+death-date: 1955-12-08
+death-place:  US, GA, Augusta
+ 
+school-level: college
+school-name: Clemson University
+ 
+cemetery-name: East View Cemetery
+cemetery-place: US, SC, Edgefield

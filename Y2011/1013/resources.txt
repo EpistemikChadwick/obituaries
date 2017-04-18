@@ -1,0 +1,8 @@
+source-title: Wausau Daily Herald
+source-date: 2011-12-01
+source-url: http://www.legacy.com/obituaries/wausaudailyherald/obituary.aspx?pid=154832037
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-09-08

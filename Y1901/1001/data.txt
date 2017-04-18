@@ -1,0 +1,6 @@
+name-last: Galligan
+name-first: James
+name-given: James M.
+ 
+death-date: 1901-07-17
+death-place: US, NY, New York

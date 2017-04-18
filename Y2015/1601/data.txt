@@ -1,0 +1,11 @@
+name-last: Field
+name-first: Danny
+name-given: Daniel Kenneth Joseph
+ 
+birth-date: 1952-01-12
+ 
+death-date: 2015-06-15
+death-place:  US, AZ, Peoria
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, IL, River Grove

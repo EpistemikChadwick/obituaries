@@ -1,0 +1,8 @@
+source-title:  The Allentown Leader clipping from July 7, 1901
+source-file-name: clipping_3474552.pdf
+source-file-type: application/pdf
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-25
+contributor-email: timcopeland64@gmail.com

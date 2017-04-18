@@ -1,0 +1,9 @@
+source-title: Zora Clevenger obits
+source-file-name: Zora Clevenger obit part 1.pdf & Zora Clevenger obit part 2
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-17
+ 

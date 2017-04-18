@@ -1,0 +1,8 @@
+source-title: Rousseau Centre Funeraire
+source-date: 2016-05-01
+source-url: http://www.avisdedeces.ca/moddeces-avis_de_deces-650-fr-86328-andre__1937___2012+pleau+trois_rivieres.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-05-01

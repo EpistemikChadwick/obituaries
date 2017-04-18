@@ -1,0 +1,10 @@
+name-last: Scanlon
+name-first: Paul
+name-given: Paul Francis
+ 
+birth-date: 1927-04-09
+ 
+death-date: 2006-07-16
+ 
+cemetery-name: Fort Snelling National Cemetery
+cemetery-place:  US, MN, Minneapolis

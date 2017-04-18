@@ -1,0 +1,14 @@
+name-last: Perez
+name-first: Clifton
+name-given: Clifton J.
+name-nick: C.J.
+ 
+death-date: 2001-02-07
+death-place:  US, LA, Chalmette
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Vincent De Paul Cemetery #3
+cemetery-place: US, LA, New Orleans

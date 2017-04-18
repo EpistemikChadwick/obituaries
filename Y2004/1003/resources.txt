@@ -1,0 +1,8 @@
+source-title: Seguin Gazette
+source-date: 2004-03-29
+source-url: http://seguingazette.com/news/article_c239551d-6c7b-53c3-935a-8480ea2eb314.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-15

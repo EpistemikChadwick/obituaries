@@ -1,0 +1,10 @@
+name-last: Smith
+name-first: Lee
+name-given: Wilbur Lee
+ 
+birth-date: 1927-11-17
+ 
+death-date: 2013-09-01
+ 
+military-country: US
+military-branch:  Navy

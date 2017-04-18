@@ -1,0 +1,10 @@
+name-last: Sanders         
+name-first: Malone
+name-given: Battle Malone
+name-nick: Bones
+ 
+death-date: 1961-01-27
+death-place:  US, TX, Texas City
+ 
+cemetery-name: Oakwood Cemetery
+cemetery-place: US, TX, Corsicana

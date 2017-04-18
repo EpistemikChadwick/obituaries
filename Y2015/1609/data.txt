@@ -1,0 +1,9 @@
+name-last: Markus
+name-first: Dewey
+name-given: Duane
+ 
+death-date: 2015-07-02
+death-place:  US, MN, Wayzata
+ 
+school-level: college
+school-name: University of Minnesota

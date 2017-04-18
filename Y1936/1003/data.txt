@@ -1,0 +1,14 @@
+name-last: Campbell
+name-first: William
+name-given: William E.
+name-nick: Spud
+ 
+death-date: 1936-03-27
+death-place:  US, IN, Wheeler
+ 
+school-level: college
+school-name: Franklin College
+school-place: US, IN, Franklin
+ 
+cemetery-name: Holy Cross & St. Joseph Cemetery
+cemetery-place: US, IN, Indianapolis

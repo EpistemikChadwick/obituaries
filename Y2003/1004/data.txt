@@ -1,0 +1,16 @@
+name-last: DiBlasi
+name-first: Sam
+name-given: Sam V.
+ 
+birth-date: 1922-08-13
+birth-place: US, DC, Washington
+ 
+death-date: 2003-08-18
+death-place:  US, OH, Massillon
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: North Lawn Cemetery
+cemetery-place: US, OH, Canton

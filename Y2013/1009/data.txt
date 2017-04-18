@@ -1,0 +1,7 @@
+name-last: Danseglio
+name-first: Anthony
+name-given: Anthony
+ 
+birth-date: 1936-05-23
+ 
+death-date: 2013-09-04
