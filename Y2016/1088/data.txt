@@ -1,15 +1,26 @@
+name-person: jim
 name-last: Alviso
 name-first: Jim
 name-given: James
 name-nick: Jumbo
- 
+
+birth-person: jim
 birth-date: 1948-05-27
 birth-place: US, CA, Livermore
- 
+
+death-person: jim
 death-date: 2016-02-02
- 
+
+school-person: jim
 school-level: secondary
 school-name:  Granada HS
 school-place: US, CA, Livermore
- 
-[0b9c203e ] James Alviso is the father of [6d53cc1d] Jerome Alviso
+
+name-person: jerome
+name-last: Alviso
+name-first: Jerome
+
+relationship-person1: jim
+relationship-person2: jerome
+relationship-type: father
+

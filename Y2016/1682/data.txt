@@ -15,5 +15,5 @@ military-country: US
 military-branch:  Army
 military-conflict:  Korean War
  
-cemetery-name: St. Joseph’s Cemetery
+cemetery-name: St. Joseph's Cemetery
 cemetery-place: US, NJ, Chews Landing

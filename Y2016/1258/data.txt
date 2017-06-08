@@ -1,19 +1,19 @@
 name-last: Briscoe
 name-first: Paul
 name-given: Paul Burton
- 
+
 birth-date: 1920-02-11
- 
+
 death-date: 2016-05-05
-death-place:  US, NY, Scotia
- 
+death-place: US, NY, Scotia
+
 school-level: secondary
-school-name:  Draper HS
+school-name: Draper HS
 school-place: US, NY, Rotterdam
- 
+
 military-country: US
-military-branch:  Navy
-military-conflict:  World War II
- 
+military-branch: Navy
+military-conflict: World War II
+
 cemetery-name: Gerald B. H. Solomon Saratoga National Cemetery
 cemetery-place: US, NY, Schuylerville

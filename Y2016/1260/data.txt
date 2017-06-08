@@ -12,5 +12,5 @@ school-level: secondary
 school-name:  Norwich Free Academy
 school-place: US, CT, Norwich
  
-cemetery-name: St. Mary’s Cemetery
+cemetery-name: St. Mary's Cemetery
 cemetery-place: US, CT, Griswold

@@ -15,5 +15,5 @@ school-place: US, MA, Worcester
 school-level: college
 school-name: College of the Holy Cross
  
-cemetery-name: St. John’s Cemetery
+cemetery-name: St. John's Cemetery
 cemetery-place: US, MA, Worcester

@@ -1,7 +1,7 @@
 name-last: Gutierrez
 name-first: Ulises
 name-given: Juan Ulises
-name-martilineal: Reyes
+name-matrilineal: Reyes
 
 death-date: 2015-05-24
 death-place: MX, Sonora, Puerto Penasco

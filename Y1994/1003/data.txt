@@ -20,5 +20,5 @@ military-country: US
 military-branch: Navy
 military-conflict:  World War II
  
-cemetery-name: St. Peter’s Episcopal Churchyard
+cemetery-name: St. Peter's Episcopal Churchyard
 cemetery-place: US, DE, Lewes

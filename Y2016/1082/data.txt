@@ -1,4 +1,4 @@
-name-last: O’Mara
+name-last: O'Mara
 name-first: Larry
 name-given: Laurence Edward
  
@@ -13,7 +13,7 @@ school-name:  Hammond HS
 school-place: US, IN, Hammond
  
 school-level: college
-school-name:  St. Joseph’s College
+school-name:  St. Joseph's College
 school-place: US, IN, Rensselaer
  
 military-country: US

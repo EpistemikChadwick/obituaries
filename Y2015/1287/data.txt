@@ -12,5 +12,5 @@ military-country: US
 military-branch:  Navy
 military-conflict:  Korean War
  
-cemetery-name: St. Peter’s Cemetery
+cemetery-name: St. Peter's Cemetery
 cemetery-place: US, NY, Poughkeepsie

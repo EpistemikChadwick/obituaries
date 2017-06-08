@@ -8,5 +8,5 @@ military-country: US
 military-branch:  Army
 military-conflict:  Korean War
  
-cemetery-name: St. John’s Cemetery
+cemetery-name: St. John's Cemetery
 cemetery-place: US, KY, Covington

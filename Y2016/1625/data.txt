@@ -13,6 +13,6 @@ school-level: secondary
 school-name:  Susquehanna Township HS
 school-place: US, PA, Harrisburg
  
-cemetery-name: St. John’s United Methodist Church Cemetery
+cemetery-name: St. John's United Methodist Church Cemetery
 cemetery-place: US, PA, Grantville
  

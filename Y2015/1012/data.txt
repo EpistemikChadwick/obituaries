@@ -11,5 +11,5 @@ death-place:  US, CT, Branford
 military-country: US
 military-branch:  Army
  
-cemetery-name: St. Mary’s Cemetery
+cemetery-name: St. Mary's Cemetery
 cemetery-place: US, CT, Milford

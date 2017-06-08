@@ -13,5 +13,5 @@ military-country: US
 military-branch:  Marines
 military-conflict:  World War II
  
-cemetery-name: St. Mary’s Cemetery
+cemetery-name: St. Mary's Cemetery
 cemetery-place: US, PA, Lower Burrell

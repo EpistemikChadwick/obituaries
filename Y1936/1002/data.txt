@@ -5,5 +5,5 @@ name-given: John J.
 death-date: 1936-03-06
 death-place:  US, NY, Poughkeepsie
  
-cemetery-name: St. Peter’s Cemetery
+cemetery-name: St. Peter's Cemetery
 cemetery-place: US, NY, Poughkeepsie

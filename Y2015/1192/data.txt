@@ -1,15 +1,26 @@
+name-person: bill
 name-last: Killinger
 name-first: Bill
 name-given: William G.
 name-suffix: Jr.
- 
+
+birth-person: bill
 birth-place: US, PA, Harrisburg
  
+death-person: bill
 death-date: 2015-10-01
 death-place:  US, PA, Media
- 
+
+school-person: bill
 school-level: college
 school-name: Lafayette College
 
-[98ef4788] Bill Killinger is the son of [7685eaf3] Glenn Killinger
+name-person: glenn
+name-last: Killinger
+name-first: Glenn
+
+relationship-person1: glenn
+relationship-person2: bill
+relationship-type: father
+
 

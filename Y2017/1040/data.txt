@@ -12,5 +12,5 @@ school-level: secondary
 school-name:  Escambia HS
 school-place: US, FL, Pensacola
  
-cemetery-name: St. John’s Cemetery
+cemetery-name: St. John's Cemetery
 cemetery-place: US, FL, Pensacola

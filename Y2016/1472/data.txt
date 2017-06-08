@@ -1,7 +1,28 @@
+name-person: domingo
 name-last: Carrasquel
 name-first: Domingo
- 
+
+death-person: domingo
 death-date: 2016-09-11
 death-place:  VE, Lara, Barquisimeto
 
-Brother of Chico Carrasquel and nephew of Alex Carrasquel
+name-person: chico
+name-last: Carrasquel
+name-first: Chico
+
+name-person: alex
+name-last: Carrasquel
+name-first: Alex
+
+relationship-person1: domingo
+relationship-person2: chico
+relationship-type: brother
+
+relationship-person1: domingo
+relationship-person2: alex
+relationship-type: brother
+
+relationship-person1: chico
+relationship-person2: alex
+relationship-type: brother
+

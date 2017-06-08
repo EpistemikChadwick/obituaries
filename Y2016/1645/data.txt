@@ -12,5 +12,5 @@ school-name: Long Island University
 school-level: college
 school-name: East Carolina University
  
-cemetery-name: St. Matthew’s United Methodist Church Cemetery
+cemetery-name: St. Matthew's United Methodist Church Cemetery
 cemetery-place: US, VA, Henrico

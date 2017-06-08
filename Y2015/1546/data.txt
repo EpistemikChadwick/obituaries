@@ -1,16 +1,28 @@
+name-person: eddie
 name-last: Lodigiani
 name-first: Eddie
 
+birth-person: eddie
 birth-date: 1920-10-07
 birth-place: US, CA, San Francisco
 
+death-person: eddie
 death-date: 2015-04-02
 
+school-person: eddie
 school-level: secondary
 school-name: Galileo HS
 school-place: US, CA, San Francisco
 
+cemetery-person: eddie
 cemetery-name: St. Mary's Catholic Cemetery
 cemetery-place: US, CA, Sacramento
 
-Brother of Dario Lodigiani
+name-person: dario
+name-last: Lodigiani
+name-first: Dario
+
+relationship-person1: eddie
+relationship-person2: dario
+relationship-type: brother
+

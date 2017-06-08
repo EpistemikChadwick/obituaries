@@ -1,0 +1,877 @@
+branch,conflict,country,"date,end","date,start",person,source
+Navy,World War I,US,,,_subject,Y1938/1001
+Army,World War I,US,,,_subject,Y1943/1001
+Army,World War II,US,,,_subject,Y1944/1001
+Navy,World War I,US,,,_subject,Y1947/1001
+,World War I,US,,,_subject,Y1953/1001
+Navy,World War I,US,,,_subject,Y1954/1002
+,Korean War,US,,,_subject,Y1955/1001
+Army,World War II,US,,,_subject,Y1958/1004
+Army,World War II,US,,,_subject,Y1961/1003
+Army,World War II,US,,,_subject,Y1964/1002
+Army,World War I # from 1918-10-21 to ?,US,,,_subject,Y1965/1001
+Army,World War I,US,,,_subject,Y1967/1004
+Navy,World War II,US,,,_subject,Y1974/1001
+Navy,World War II,US,,,_subject,Y1974/1002
+Navy,World War II,US,,,_subject,Y1976/1001
+,World War II,US,,,_subject,Y1976/1002
+,World War II,US,,,_subject,Y1977/1005
+Army,World War II,US,,,_subject,Y1979/1001
+,World War I,US,,,_subject,Y1979/1002
+Army,World War II,US,,,_subject,Y1980/1001
+Navy,World War II,US,,,_subject,Y1982/1001
+Army,World War II,US,,,_subject,Y1984/1002
+Marines,World War II,US,,,_subject,Y1985/1001
+Navy,World War II,US,,,_subject,Y1985/1002
+Army,World War II,US,,,_subject,Y1985/1003
+Army,World War II,US,,,_subject,Y1986/1003
+Army,World War II,US,,,_subject,Y1987/1001
+Army,World War II,US,,,_subject,Y1993/1005
+Navy,World War I,US,,,_subject,Y1993/1006
+Navy,World War II,US,,,_subject,Y1994/1003
+Army,World War II,US,,,_subject,Y1994/1004
+Army,,US,,,_subject,Y1994/1006
+Army,World War II,US,,,_subject,Y1994/1007
+Navy,World War II,US,,,_subject,Y1994/1010
+Army,World War II,US,,,_subject,Y1995/1001
+Coast Guard,World War II,US,,,_subject,Y1995/1003
+Navy,Korean War # from 1952-09-23 to,US,,,_subject,Y1995/1005
+Navy,World War II # from 1944-07-01,US,,,_subject,Y1995/1006
+Army,World War II # from 1944-12-18 to 1946-08-24,US,,,_subject,Y1995/1008
+Navy,World War II # from 1943-02-18 to 1946-01-17,US,,,_subject,Y1995/1009
+Army,World War II,US,,,_subject,Y1996/1001
+Army,World War II # from 1942-08-01 to 1945-10-25,US,,,_subject,Y1996/1002
+Army,World War II,US,,,_subject,Y1996/1004
+Army,World War II # from 1943-05-29 to 1946-02-23,US,,,_subject,Y1996/1005
+Marines,Korean War,US,,,_subject,Y1996/1009
+Navy,World War II,US,,,_subject,Y1996/1010
+Army,World War II # from 1941-05-21 to ?,US,,,_subject,Y1997/1001
+Marines,Korean War,US,,,_subject,Y1997/1002
+Army,World War II # from 1941-06-07 to 1945-12-22,US,,,_subject,Y1997/1005
+Army,World War II,US,,,_subject,Y1997/1006
+Air Force,Korean War,US,,,_subject,Y1997/1006
+Navy,World War II # from 1942-11-27 to 1946-02-28,US,,,_subject,Y1997/1007
+Army,World War II # from 1942-09-17 to 1945-11-09,US,,,_subject,Y1997/1008
+Army,,US,,,_subject,Y1998/1001
+Army,World War II # from 1945-06-16 to 1946-12-02,US,,,_subject,Y1998/1002
+Navy,,US,,,_subject,Y1998/1005
+Army,,US,,,_subject,Y1998/1006
+Navy,World War II,US,,,_subject,Y1998/1007
+Navy,Korean War,US,,,_subject,Y1998/1007
+Army,World War II,US,1946-01-30,1943-06-10,_subject,Y1998/1008
+Army,World War II # from 1942-12-30 to 1945-12-13,US,,,_subject,Y1998/1009
+Army,World War II,US,,,_subject,Y1998/1010
+Army,World War II,US,,,_subject,Y1998/1011
+Army,World War II,US,,,_subject,Y1999/1001
+Army,,US,,,_subject,Y1999/1003
+Army,World War II,US,,,_subject,Y1999/1004
+Navy,World War II,US,,,_subject,Y2000/1001
+Army,World War II,US,,,_subject,Y2001/1001
+Army,,US,,,_subject,Y2001/1003
+Army,World War II,US,,,_subject,Y2001/1004
+Navy,World War II,US,,,_subject,Y2002/1001
+Navy,World War II,US,,,_subject,Y2002/1003
+Army,World War II,US,,,_subject,Y2002/1004
+Air Force,Korean War,US,,,_subject,Y2003/1001
+Army,,US,,,_subject,Y2003/1002
+Army,World War II,US,,,_subject,Y2003/1003
+Army,World War II,US,,,_subject,Y2003/1004
+Army,,US,,,_subject,Y2005/1003
+Army,World War II,US,,,_subject,Y2006/1003
+Army,World War II,US,,,_subject,Y2007/1001
+Army,World War II,US,,,_subject,Y2007/1002
+Army,World War II,US,,,_subject,Y2009/1003
+Navy,World War II,US,,,_subject,Y2011/1010
+Marine,World War II,US,,,_subject,Y2011/1011
+Army,,US,,,_subject,Y2011/1013
+Army,Korean War,US,,,_subject,Y2011/1015
+Army,Korean War,US,,,_subject,Y2012/1002
+Navy,,US,,,_subject,Y2013/1002
+Navy,World War II,US,,,_subject,Y2013/1003
+Navy,World War II,US,,,_subject,Y2013/1004
+Army,World War II,US,,,_subject,Y2013/1005
+Army,,US,,,_subject,Y2013/1006
+Army,,US,,,_subject,Y2013/1010
+Navy,,US,,,_subject,Y2013/1011
+Army,,US,,,_subject,Y2014/1001
+Navy,World War II,US,,,_subject,Y2014/1002
+Army,World War II,US,,,_subject,Y2014/1003
+Navy,Korean War,US,,,_subject,Y2014/1004
+Army,,US,,,_subject,Y2014/1005
+Army,Korean War,US,,,_subject,Y2014/1008
+Army,World War II,US,,,_subject,Y2014/1010
+Navy,,US,,,_subject,Y2014/1012
+Army,World War II,US,,,_subject,Y2014/1013
+Army,World War II,US,,,_subject,Y2014/1014
+Navy,World War II,US,,,_subject,Y2014/1015
+Army,,US,,,_subject,Y2014/1017
+,,US,,,_subject,Y2014/1020
+Army,,US,,,_subject,Y2014/1021
+Army,World War II,US,,,_subject,Y2014/1022
+Navy,,US,,,_subject,Y2014/1024
+Army,World War II,US,,,_subject,Y2014/1026
+Army,Vietnam War,US,,,_subject,Y2014/1027
+Army,World War II,US,,,_subject,Y2014/1029
+Army,Korean War,US,,,_subject,Y2014/1030
+Army,,US,,,_subject,Y2014/1031
+Air Force,,US,,,_subject,Y2014/1036
+Navy,World War II,US,,,_subject,Y2014/1037
+Navy,World War II,US,,,_subject,Y2014/1038
+,Korean War,US,,,_subject,Y2014/1042
+Army,Korean War,US,,,_subject,Y2014/1045
+Navy,World War II,US,,,_subject,Y2014/1048
+Navy,Korean War,US,,,_subject,Y2014/1050
+Army,World War II,US,,,_subject,Y2014/1051
+Marines,World War II,US,,,_subject,Y2014/1052
+Navy,World War II,US,,,_subject,Y2014/1053
+Army,Korean War,US,,,_subject,Y2014/1055
+Coast Guard,World War II,US,,,_subject,Y2014/1056
+Navy,World War II,US,,,_subject,Y2014/1057
+Army,,US,,,_subject,Y2014/1060
+Marines,,US,,,_subject,Y2014/1062
+Navy,,US,,,_subject,Y2014/1063
+Army,World War II,US,,,_subject,Y2014/1065
+Navy,World War II,US,,,_subject,Y2014/1067
+Navy,World War II,US,,,_subject,Y2014/1071
+Army,World War II,US,,,_subject,Y2014/1073
+Army,World War II,US,,,_subject,Y2014/1074
+Army,World War II,US,,,_subject,Y2014/1075
+Marines,Korean War,US,,,_subject,Y2014/1077
+Army,Korean War,US,,,_subject,Y2014/1079
+Army,,US,,,_subject,Y2014/1080
+Army,,US,,,_subject,Y2014/1081
+Air Force,,US,,,_subject,Y2014/1082
+Army,World War II,US,,,_subject,Y2014/1084
+Army,,US,,,_subject,Y2014/1085
+Navy,World War II,US,,,_subject,Y2014/1087
+Army,,US,,,_subject,Y2014/1088
+Army,,US,,,_subject,Y2014/1089
+Navy,World War II,US,,,_subject,Y2014/1091
+Army,,US,,,_subject,Y2014/1093
+Army,World War II,US,,,_subject,Y2014/1094
+Navy,World War II,US,,,_subject,Y2014/1099
+Air Force,,US,,,_subject,Y2014/1100
+Army,World War II,US,,,_subject,Y2014/1103
+Navy,World War II,US,,,_subject,Y2014/1104
+Army,,US,,,_subject,Y2015/1006
+Army,Korean War,US,,,_subject,Y2015/1007
+Army,Korean War,US,,,_subject,Y2015/1009
+Army,,US,,,_subject,Y2015/1010
+Army,,US,,,_subject,Y2015/1012
+Army,,US,,,_subject,Y2015/1013
+Army,Korean War,US,,,_subject,Y2015/1014
+Army,,US,,,_subject,Y2015/1018
+Navy,,US,,,_subject,Y2015/1024
+,Korean War,US,,,_subject,Y2015/1026
+Army,World War II,US,,,_subject,Y2015/1028
+Army,Korean War,US,,,_subject,Y2015/1029
+Army,,US,,,_subject,Y2015/1030
+Navy,World War II,US,,,_subject,Y2015/1035
+Navy,Vietnam,US,,,_subject,Y2015/1036
+Marines,,US,,,_subject,Y2015/1037
+Navy,,US,,,_subject,Y2015/1040
+Army,World War II,US,,,_subject,Y2015/1041
+Army,Korean War,US,,,_subject,Y2015/1042
+Navy,World War II,US,,,_subject,Y2015/1043
+Navy,World War II,US,,,_subject,Y2015/1044
+Army,World War II,US,,,_subject,Y2015/1045
+Air Force,,US,,,_subject,Y2015/1046
+Army,Korean War,US,,,_subject,Y2015/1047
+Army,,US,,,_subject,Y2015/1048
+Army,World War II,US,,,_subject,Y2015/1049
+Army,World War II,US,,,_subject,Y2015/1052
+,Korean War,US,,,_subject,Y2015/1055
+Navy,World War II,US,,,_subject,Y2015/1059
+Army,World War II,US,,,_subject,Y2015/1062
+Air Force,Korean War,US,,,_subject,Y2015/1063
+Army,World War II,US,,,_subject,Y2015/1064
+Army,,US,,,_subject,Y2015/1067
+Army,World War II,US,,,_subject,Y2015/1068
+Navy,World War II,US,,,_subject,Y2015/1069
+Army,,US,,,_subject,Y2015/1070
+Army,World War II,US,,,_subject,Y2015/1071
+Army,World War II,US,,,_subject,Y2015/1073
+Army,World War II,US,,,_subject,Y2015/1075
+,World War II,US,,,_subject,Y2015/1078
+Army,Korean War,US,,,_subject,Y2015/1079
+Marines,,US,,,_subject,Y2015/1085
+Army,World War II,US,,,_subject,Y2015/1093
+Army,Korean War,US,,,_subject,Y2015/1094
+Army,World War II,US,,,_subject,Y2015/1095
+Air Force,Korean War,US,,,_subject,Y2015/1096
+Army,Korean War,US,,,_subject,Y2015/1097
+Army,Korean War,US,,,_subject,Y2015/1098
+Army,World War II,US,,,_subject,Y2015/1103
+Army,World War II,US,,,_subject,Y2015/1105
+Army,World War II,US,,,_subject,Y2015/1106
+Air Force,Korean War,US,,,_subject,Y2015/1106
+Air Force,Vietnam War,US,,,_subject,Y2015/1106
+Army,Korean War,US,,,_subject,Y2015/1108
+Air Force,Korean War,US,,,_subject,Y2015/1109
+Army,World War II,US,,,_subject,Y2015/1110
+Army,World War II,US,,,_subject,Y2015/1111
+Army,,US,,,_subject,Y2015/1112
+Army,,US,,,_subject,Y2015/1116
+Navy,World War II,US,,,_subject,Y2015/1117
+Army,,US,,,_subject,Y2015/1118
+Army,,US,,,_subject,Y2015/1120
+Army,World War II,US,,,_subject,Y2015/1121
+Air Force,,US,,,_subject,Y2015/1122
+Navy,World War II,US,,,_subject,Y2015/1123
+Navy,World War II,US,,,_subject,Y2015/1124
+Navy,World War II,US,,,_subject,Y2015/1126
+Army,World War II,US,,,_subject,Y2015/1131
+Navy,,US,,,_subject,Y2015/1134
+Army,Korean War,US,,,_subject,Y2015/1135
+Army,Korean War,US,,,_subject,Y2015/1136
+Navy,,US,,,_subject,Y2015/1137
+,World War II,US,,,_subject,Y2015/1140
+Army,Korean War,US,,,_subject,Y2015/1142
+Army,Korean War,US,,,_subject,Y2015/1146
+Navy,World War II,US,,,_subject,Y2015/1147
+Army,Korean War,US,,,_subject,Y2015/1149
+Navy,,US,,,_subject,Y2015/1150
+Army,Korean War,US,,,_subject,Y2015/1152
+Army,World War II,US,,,_subject,Y2015/1153
+Army,,US,,,_subject,Y2015/1154
+Navy,World War II,US,,,_subject,Y2015/1156
+Army,,US,,,_subject,Y2015/1157
+Army,World War II,US,,,_subject,Y2015/1159
+Army,,US,,,_subject,Y2015/1160
+Army,World War II,US,,,_subject,Y2015/1162
+Army,,US,,,_subject,Y2015/1163
+Army,,US,,,_subject,Y2015/1167
+Army,World War II,US,,,_subject,Y2015/1168
+Army,,US,,,_subject,Y2015/1171
+Army,,US,,,_subject,Y2015/1172
+Navy,World War II,US,,,_subject,Y2015/1174
+Air Force,Korean War,US,,,_subject,Y2015/1175
+Army,World War II,US,,,_subject,Y2015/1178
+Army,Korean War,US,,,_subject,Y2015/1179
+,Korean War,US,,,_subject,Y2015/1180
+Marines,,US,,,_subject,Y2015/1182
+Army,,US,,,_subject,Y2015/1183
+Marines,,US,,,_subject,Y2015/1184
+Air Force,Korean War,US,,,_subject,Y2015/1189
+Army,Korean War,US,,,_subject,Y2015/1190
+Army,Korean War,US,,,_subject,Y2015/1191
+Army,,US,,,_subject,Y2015/1193
+Navy,World War II,US,,,_subject,Y2015/1194
+Air Force,Korean War,US,,,_subject,Y2015/1195
+Marines,Korean War,US,,,_subject,Y2015/1197
+National Guard,Korean War,US,,,_subject,Y2015/1201
+Navy,,US,,,_subject,Y2015/1204
+Army,,US,,,_subject,Y2015/1210
+Army,Korean War,US,,,_subject,Y2015/1211
+Navy,,MX,,,_subject,Y2015/1216
+Army,Korean War,US,,,_subject,Y2015/1217
+Army,World War II,US,,,_subject,Y2015/1218
+Army,Korean War,US,,,_subject,Y2015/1223
+Army,,US,,,_subject,Y2015/1224
+Army,World War II,US,,,_subject,Y2015/1225
+Army,,US,,,_subject,Y2015/1228
+Army,,US,,,_subject,Y2015/1230
+Army,,US,,,_subject,Y2015/1231
+Army,Korean War,US,,,_subject,Y2015/1232
+Army,World War II,US,,,charles,Y2015/1233
+Air Force,,US,,,_subject,Y2015/1234
+Army,,US,,,_subject,Y2015/1238
+Army,Korean War,US,,,_subject,Y2015/1240
+Army,World War II,US,,,_subject,Y2015/1243
+Marines,World War II,US,,,_subject,Y2015/1244
+Army,,US,,,_subject,Y2015/1245
+Navy,World War II,US,,,_subject,Y2015/1246
+Army,,US,,,_subject,Y2015/1247
+Army,,US,,,_subject,Y2015/1248
+Army,,US,,,_subject,Y2015/1249
+Army,,US,,,_subject,Y2015/1252
+Air Force,,US,,,_subject,Y2015/1255
+Army,World War II,US,,,_subject,Y2015/1256
+Air Force,Korean War,US,,,_subject,Y2015/1257
+Marines,World War II,US,,,_subject,Y2015/1258
+Air Force,,US,,,_subject,Y2015/1259
+Army,World War II,US,,,_subject,Y2015/1261
+Army,Korean War,US,,,_subject,Y2015/1262
+Army,Korean War,US,,,_subject,Y2015/1263
+Navy,World War II,US,,,_subject,Y2015/1265
+Army,,US,,,_subject,Y2015/1267
+Marines,World War II,US,,,_subject,Y2015/1269
+Army,World War II,US,,,_subject,Y2015/1271
+Army,World War II,US,,,_subject,Y2015/1272
+,World War II,US,,,_subject,Y2015/1273
+Army,Korean War,US,,,_subject,Y2015/1274
+Army,Korean War,US,,,_subject,Y2015/1275
+Navy,World War II,US,,,_subject,Y2015/1276
+Marines,Korean War,US,,,_subject,Y2015/1277
+Army,,US,,,_subject,Y2015/1278
+Army,World War II,US,,,_subject,Y2015/1280
+Army,,US,,,_subject,Y2015/1285
+Navy,World War II,US,,,_subject,Y2015/1286
+Navy,Korean War,US,,,_subject,Y2015/1287
+Air Force,Korean War,US,,,_subject,Y2015/1288
+Navy,Korean War,US,,,_subject,Y2015/1289
+Army,,US,,,_subject,Y2015/1290
+Army,Korean War,US,,,_subject,Y2015/1291
+Army,,US,,,_subject,Y2015/1292
+Army,,US,,,_subject,Y2015/1295
+Army,,US,,,_subject,Y2015/1296
+Army,Korean War,US,,,_subject,Y2015/1298
+,World War II,US,,,_subject,Y2015/1299
+Army,,US,,,_subject,Y2015/1300
+Marines,,US,,,_subject,Y2015/1305
+Army,Korean War,US,,,_subject,Y2015/1306
+Navy,World War II,US,,,_subject,Y2015/1307
+Army,World War II,US,,,_subject,Y2015/1308
+Army,,US,,,_subject,Y2015/1309
+Navy,World War II,US,,,_subject,Y2015/1310
+Marines,,US,,,_subject,Y2015/1312
+Marines,Korean War,US,,,_subject,Y2015/1314
+Army,,US,,,_subject,Y2015/1315
+Army,World War II,US,,,_subject,Y2015/1317
+Army,Korean War,US,,,_subject,Y2015/1319
+Army,World War II,US,,,_subject,Y2015/1322
+Army,Korean War,US,,,_subject,Y2015/1326
+Army,World War II,US,,,_subject,Y2015/1330
+Army,World War II,US,,,_subject,Y2015/1333
+Navy,World War II,US,,,_subject,Y2015/1336
+Marines,World War II,US,,,_subject,Y2015/1337
+,Korean War,US,,,_subject,Y2015/1342
+Army,,US,,,_subject,Y2015/1343
+Army,Korean War,US,,,_subject,Y2015/1344
+Army,World War II,US,,,_subject,Y2015/1345
+Navy,World War II,US,,,_subject,Y2015/1347
+Army,Korean War,US,,,_subject,Y2015/1348
+Army,Vietnam War,US,,,_subject,Y2015/1352
+Army,World War II,US,,,_subject,Y2015/1353
+Navy,World War II,US,,,_subject,Y2015/1356
+Army,,US,,,_subject,Y2015/1358
+Navy,World War II,US,,,_subject,Y2015/1359
+Army,,US,,,_subject,Y2015/1361
+Navy,World War II,US,,,_subject,Y2015/1364
+Army,World War II,US,,,_subject,Y2015/1370
+Army,Korean War,US,,,_subject,Y2015/1373
+Army,Korean War,US,,,_subject,Y2015/1375
+Army,,US,,,_subject,Y2015/1377
+Army,World War II,US,,,_subject,Y2015/1379
+Army,Korean War,US,,,_subject,Y2015/1381
+Army,,US,,,_subject,Y2015/1382
+Army,,US,,,_subject,Y2015/1383
+Army,,US,,,_subject,Y2015/1388
+Army,Korean War,US,,,_subject,Y2015/1389
+Navy,World War II,US,,,_subject,Y2015/1391
+Army,World War II from #1943-11-23 to 1946-01-15,US,,,_subject,Y2015/1393
+Marines,World War II,US,,,_subject,Y2015/1395
+Navy,,US,,,_subject,Y2015/1396
+Navy,World War II,US,,,_subject,Y2015/1400
+Army,,US,,,_subject,Y2015/1402
+Army,,US,,,_subject,Y2015/1403
+Marines,,US,,,_subject,Y2015/1407
+Army,World War II,US,,,_subject,Y2015/1409
+Navy,World War II,US,,,_subject,Y2015/1413
+Army,Korean War,US,,,_subject,Y2015/1414
+Army,World War II,US,,,_subject,Y2015/1415
+Army,,US,,,_subject,Y2015/1416
+Army,Korean War,US,,,_subject,Y2015/1417
+Army,,US,,,_subject,Y2015/1421
+Army,Korean War,US,,,_subject,Y2015/1422
+Army,Korean War,US,,,_subject,Y2015/1431
+Army,,US,,,_subject,Y2015/1432
+National Guard,,US,,,_subject,Y2015/1435
+Air Force,,US,,,_subject,Y2015/1436
+Army,World War II,US,,,_subject,Y2015/1437
+Army,,US,,,_subject,Y2015/1438
+Army,,US,,,_subject,Y2015/1439
+Marines,World War II,US,,,_subject,Y2015/1440
+Army,,US,,,_subject,Y2015/1442
+Navy,World War II,US,,,_subject,Y2015/1443
+Army,World War II,US,,,_subject,Y2015/1445
+Army,World War II,US,,,_subject,Y2015/1447
+Air Force,Korean War,US,,,_subject,Y2015/1449
+Marines,Vietnam War,US,,,_subject,Y2015/1450
+Coast Guard,,US,,,_subject,Y2015/1453
+Army,World War II,US,,,_subject,Y2015/1454
+Army,World War II,US,,,_subject,Y2015/1458
+Army,,US,,,_subject,Y2015/1462
+Army,World War II,US,,,_subject,Y2015/1465
+Army,,US,,,_subject,Y2015/1466
+Army,,US,,,_subject,Y2015/1468
+Army,,US,,,_subject,Y2015/1469
+Army,,US,,,_subject,Y2015/1470
+Army,World War II,US,,,_subject,Y2015/1472
+Army,,US,,,_subject,Y2015/1473
+Navy,,US,,,_subject,Y2015/1474
+Navy,,US,,,_subject,Y2015/1475
+Army,World War II,US,,,_subject,Y2015/1476
+Navy,Korean War,US,,,_subject,Y2015/1480
+Army,,US,,,_subject,Y2015/1481
+Army,Korean War,US,,,_subject,Y2015/1484
+Army,,US,,,_subject,Y2015/1485
+Navy,,US,,,_subject,Y2015/1490
+Navy,World War II,US,,,_subject,Y2015/1491
+Air National Guard,,US,,,_subject,Y2015/1494
+Army,Korean War,US,,,_subject,Y2015/1498
+Marines,Korean War,US,,,_subject,Y2015/1499
+Army,World War II,US,,,_subject,Y2015/1500
+Army,,US,,,_subject,Y2015/1504
+,World War II,US,,,_subject,Y2015/1509
+,World War II,US,,,_subject,Y2015/1512
+,World War II,US,,,_subject,Y2015/1515
+Army,Korean War,US,,,_subject,Y2015/1516
+Army,,US,,,_subject,Y2015/1517
+Army,Korean War,US,,,_subject,Y2015/1519
+Army,Korean War,US,,,_subject,Y2015/1522
+Navy,World War II,US,,,_subject,Y2015/1523
+Air Force,Korean War,US,,,_subject,Y2015/1525
+Navy,World War II,US,,,_subject,Y2015/1527
+Army,,US,,,_subject,Y2015/1528
+Navy,World War II,US,,,_subject,Y2015/1529
+Marines,,US,,,_subject,Y2015/1534
+Army,Korean War,US,,,_subject,Y2015/1535
+Army,Korean War,US,,,_subject,Y2015/1538
+Army,,US,,,_subject,Y2015/1541
+Army,,US,,,_subject,Y2015/1542
+Army,World War II,US,,,_subject,Y2015/1544
+,World War II,CA,,,_subject,Y2015/1545
+Army,Korean War,US,,,_subject,Y2015/1552
+Army,World War II,US,,,_subject,Y2015/1553
+Army,,US,,,_subject,Y2015/1555
+Marine,,US,,,_subject,Y2015/1558
+Army,World War II,US,,,_subject,Y2015/1559
+Army,,US,,,_subject,Y2015/1561
+Army,Korean War,US,,,_subject,Y2015/1563
+Army,,US,,,_subject,Y2015/1564
+,World War II,US,,,_subject,Y2015/1565
+,Korean War,US,,,_subject,Y2015/1566
+,Korean War,US,,,_subject,Y2015/1567
+Navy,Korean War,US,,,_subject,Y2015/1569
+Army,,US,,,_subject,Y2015/1570
+Army,Korean War,US,,,_subject,Y2015/1571
+Air Force,Korean War,US,,,_subject,Y2015/1572
+Army,Korean War,US,,,_subject,Y2015/1573
+Navy,World War II,US,,,_subject,Y2015/1574
+Marines,Korean War,US,,,_subject,Y2015/1575
+Navy,,US,,,_subject,Y2015/1576
+Navy,World War II,US,,,_subject,Y2015/1577
+Air Force,Korean War,US,,,_subject,Y2015/1578
+Army,World War II,US,,,_subject,Y2015/1579
+Army,,US,,,_subject,Y2015/1580
+Army,,US,,,_subject,Y2015/1581
+Navy,,US,,,_subject,Y2015/1584
+Navy,Korean War,US,,,_subject,Y2015/1587
+Army,,US,,,_subject,Y2015/1588
+Army,World War II,US,,,_subject,Y2015/1593
+Air Force,,US,,,_subject,Y2015/1594
+Army,World War II,US,,,_subject,Y2015/1595
+Army,,US,,,_subject,Y2015/1602
+Army,,US,,,_subject,Y2015/1604
+Navy,World War II,US,,,_subject,Y2015/1606
+Navy,Korean War,US,,,_subject,Y2015/1606
+Marines,Korean War,US,,,_subject,Y2015/1610
+Army,,US,,,_subject,Y2016/1003
+Army,,US,,,_subject,Y2016/1006
+Army,Korean War,US,,,_subject,Y2016/1007
+Army,World War II,US,,,_subject,Y2016/1011
+Air Force,,US,,,_subject,Y2016/1014
+Army,World War II,US,,,_subject,Y2016/1015
+Navy,,US,,,_subject,Y2016/1017
+Army,World War II,US,,,_subject,Y2016/1018
+Army,World War II,US,,,_subject,Y2016/1020
+Army,World War II,US,,,_subject,Y2016/1025
+Navy,World War II,US,,,_subject,Y2016/1030
+Navy,World War II,US,,,_subject,Y2016/1031
+Army,Korean War,US,,,_subject,Y2016/1032
+Navy,,US,,,_subject,Y2016/1033
+Army,,US,,,_subject,Y2016/1034
+Marines,Korean War,US,,,_subject,Y2016/1035
+Army,Korean War,US,,,_subject,Y2016/1036
+Navy,World War II,US,,,_subject,Y2016/1037
+Army,,US,,,_subject,Y2016/1038
+Army,Korean War,US,,,_subject,Y2016/1039
+Army,Korean War,US,,,_subject,Y2016/1040
+Navy,World War II,US,,,_subject,Y2016/1041
+Army,Korean War,US,,,_subject,Y2016/1042
+Army,Korean War,US,,,_subject,Y2016/1043
+Coast Guard,Korean War,US,,,_subject,Y2016/1044
+Army,Korean War,US,,,_subject,Y2016/1047
+Army,Korean War,US,,,_subject,Y2016/1053
+Navy,World War II,US,,,_subject,Y2016/1054
+Air Force,Korean War,US,,,_subject,Y2016/1055
+Army,Vietnam War,US,,,_subject,Y2016/1065
+Army,World War II,US,,,_subject,Y2016/1066
+Navy,World War II,US,,,_subject,Y2016/1067
+Army,Korean War,US,,,_subject,Y2016/1069
+Navy,World War II,US,,,_subject,Y2016/1072
+Army,,US,,,_subject,Y2016/1073
+Navy,World War II,US,,,_subject,Y2016/1074
+Army,World War II,US,,,_subject,Y2016/1075
+Marines,Korean War,US,,,_subject,Y2016/1076
+Marines,,US,,,_subject,Y2016/1081
+Army,,US,,,_subject,Y2016/1082
+Army,,US,,,_subject,Y2016/1083
+Army,World War II,US,,,_subject,Y2016/1085
+Air Force,,US,,,_subject,Y2016/1087
+Marines,World War II,US,,,_subject,Y2016/1092
+Air Force,,US,,,_subject,Y2016/1093
+Coast Guard,World War II,US,,,_subject,Y2016/1099
+Army,World War II,US,,,_subject,Y2016/1100
+Army,World War II,US,,,_subject,Y2016/1104
+Army,,US,,,_subject,Y2016/1106
+Army,,US,,,_subject,Y2016/1108
+Army,World War II,US,,,_subject,Y2016/1110
+Navy,,US,,,_subject,Y2016/1112
+Army,Korean War,US,,,_subject,Y2016/1114
+Army,Korean War,US,,,_subject,Y2016/1116
+Army,Korean War,US,,,_subject,Y2016/1119
+Air Force,Korean War,US,,,_subject,Y2016/1122
+Army,World War II,US,,,_subject,Y2016/1125
+Army,Korean War,US,,,_subject,Y2016/1126
+,World War II,US,,,_subject,Y2016/1128
+,Korean War,US,,,_subject,Y2016/1128
+Navy,World War II,US,,,_subject,Y2016/1132
+Army,Korean War,US,,,_subject,Y2016/1135
+Army,Korean War,US,,,_subject,Y2016/1136
+Army,,US,,,_subject,Y2016/1138
+Army,World War II,US,,,_subject,Y2016/1139
+Army,World War II,US,,,_subject,Y2016/1141
+Army,,US,,,_subject,Y2016/1144
+Army,Korean War,US,,,_subject,Y2016/1147
+Army,World War II,US,,,_subject,Y2016/1148
+Army,Korean War,US,,,_subject,Y2016/1150
+Navy,World War II,US,,,_subject,Y2016/1151
+Army,World War II,US,,,_subject,Y2016/1153
+Air Force,Korean War,US,,,_subject,Y2016/1153
+Army,World War II,US,,,_subject,Y2016/1154
+Army,World War II,US,,,_subject,Y2016/1155
+Navy,World War II,US,,,_subject,Y2016/1160
+Navy,World War II,US,,,_subject,Y2016/1162
+Navy,World War II,US,,,_subject,Y2016/1163
+Army,Korean War,US,,,_subject,Y2016/1164
+Air Force,Korean War,US,,,_subject,Y2016/1165
+Army,,US,,,_subject,Y2016/1166
+Army,World War II,US,,,_subject,Y2016/1167
+Marines,World War II,US,,,_subject,Y2016/1168
+Army,World War II,US,,,_subject,Y2016/1169
+Army,,US,,,_subject,Y2016/1175
+Navy,World War II,US,,,_subject,Y2016/1176
+Army,,US,,,_subject,Y2016/1177
+Army,Korean War,US,,,_subject,Y2016/1178
+Army,Korean War,US,,,_subject,Y2016/1179
+Army,,US,,,_subject,Y2016/1180
+Army,World War II,US,,,_subject,Y2016/1184
+Coast Guard,World War II,US,,,_subject,Y2016/1185
+Army,World War II,US,,,_subject,Y2016/1195
+Army,World War II,US,,,_subject,Y2016/1198
+Navy,,US,,,_subject,Y2016/1199
+Army,Korean War,US,,,_subject,Y2016/1201
+Army,Korean War,US,,,_subject,Y2016/1202
+Coast Guard,World War II,US,,,_subject,Y2016/1203
+Army,Vietnam War,US,,,_subject,Y2016/1204
+Air Force,,US,,,_subject,Y2016/1205
+Army,,US,,,_subject,Y2016/1206
+Army,World War II,US,,,_subject,Y2016/1207
+Army,,US,,,_subject,Y2016/1209
+Army,World War II,US,,,_subject,Y2016/1212
+Navy,World War II,US,,,_subject,Y2016/1214
+Army,Korean War,US,,,_subject,Y2016/1217
+Navy,World War II,US,,,_subject,Y2016/1219
+Army,,US,,,_subject,Y2016/1220
+Air Force,,US,,,_subject,Y2016/1221
+Army,,US,,,_subject,Y2016/1224
+Army,World War II,US,,,_subject,Y2016/1225
+Army,Korean War,US,,,_subject,Y2016/1228
+Navy,World War II,US,,,_subject,Y2016/1231
+Army,,US,,,_subject,Y2016/1233
+Army,Vietnam War,US,,,_subject,Y2016/1235
+Army,World War II,US,,,_subject,Y2016/1237
+Navy,World War II,US,,,_subject,Y2016/1238
+Marines,Korean War,US,,,_subject,Y2016/1240
+Army,Korean War,US,,,_subject,Y2016/1241
+Army,,US,,,_subject,Y2016/1243
+Army,Vietnam War,US,,,_subject,Y2016/1245
+Army,World War II,US,,,_subject,Y2016/1247
+Navy,,US,,,_subject,Y2016/1249
+Army,Korean War,US,,,_subject,Y2016/1251
+Army,,US,,,_subject,Y2016/1252
+Air Force,Korean War,US,,,_subject,Y2016/1254
+Marines,,US,,,_subject,Y2016/1255
+Army,,US,,,_subject,Y2016/1257
+Navy,World War II,US,,,_subject,Y2016/1258
+,World War II,US,,,_subject,Y2016/1261
+Army,World War II,US,,,_subject,Y2016/1264
+Air Force,,US,,,_subject,Y2016/1267
+Marines,,US,,,_subject,Y2016/1274
+Navy,,US,,,_subject,Y2016/1275
+Navy,World War II,US,,,_subject,Y2016/1277
+Army,,US,,,_subject,Y2016/1279
+Army,,US,,,_subject,Y2016/1282
+Navy,World War II,US,,,_subject,Y2016/1285
+Army,,US,,,_subject,Y2016/1286
+Army,World War II,US,,,_subject,Y2016/1296
+Marines,World War II,US,,,_subject,Y2016/1298
+Army,Korean War,US,,,_subject,Y2016/1299
+Navy,World War II,US,,,_subject,Y2016/1300
+Army,World War II,US,,,_subject,Y2016/1301
+Air Force,Korean War,US,,,_subject,Y2016/1301
+Army,Korean War,US,,,_subject,Y2016/1304
+Army,Korean War,US,,,_subject,Y2016/1305
+Air Force,,US,,,_subject,Y2016/1308
+Army,Vietnam War,US,,,_subject,Y2016/1310
+Marines,World War II,US,,,_subject,Y2016/1312
+Navy,,US,,,_subject,Y2016/1313
+Army,World War II,US,,,_subject,Y2016/1314
+Army,Korean War,US,,,_subject,Y2016/1317
+Air Force,,US,,,_subject,Y2016/1319
+Army,,US,,,_subject,Y2016/1320
+Army,World War II,US,,,_subject,Y2016/1321
+Navy,World War II,US,,,_subject,Y2016/1323
+Navy,Korean War,US,,,_subject,Y2016/1324
+Army,Korean War,US,,,_subject,Y2016/1327
+Air Force,,US,,,_subject,Y2016/1329
+Navy,World War II,US,,,_subject,Y2016/1330
+Army,,US,,,_subject,Y2016/1336
+Army,,US,,,_subject,Y2016/1339
+Navy,World War II,US,,,_subject,Y2016/1340
+Army,Korean War,US,,,_subject,Y2016/1344
+Navy,World War II,US,,,_subject,Y2016/1345
+Air Force,,US,,,_subject,Y2016/1346
+Army,Korean War,US,,,_subject,Y2016/1347
+Air Force,,US,,,_subject,Y2016/1348
+Navy,World War II,US,,,_subject,Y2016/1350
+Navy,World War II,US,,,_subject,Y2016/1352
+,Korean War,US,,,_subject,Y2016/1360
+Navy,World War II,US,,,_subject,Y2016/1366
+Army,,US,,,_subject,Y2016/1371
+Army,,US,,,_subject,Y2016/1372
+Army,World War II,US,,,_subject,Y2016/1374
+Army,World War II,US,,,_subject,Y2016/1375
+Army,,US,,,_subject,Y2016/1378
+Army,,US,,,_subject,Y2016/1379
+Marines,World War II,US,,,_subject,Y2016/1380
+Marines,Korean War,US,,,_subject,Y2016/1380
+,World War II,US,,,_subject,Y2016/1381
+Army,,US,,,_subject,Y2016/1382
+Navy,World War II,US,,,_subject,Y2016/1384
+Army,World War II,US,,,_subject,Y2016/1386
+,World War II,US,,,_subject,Y2016/1387
+Army,Korean War,US,,,_subject,Y2016/1388
+Army,,US,,,_subject,Y2016/1390
+Navy,,US,,,_subject,Y2016/1392
+Army,Korean War,US,,,_subject,Y2016/1393
+Army,World War II,US,,,_subject,Y2016/1395
+Army,Korean War,US,,,_subject,Y2016/1396
+Army,Vietnam War,US,,,_subject,Y2016/1396
+Navy,,US,,,_subject,Y2016/1402
+Army,,US,,,_subject,Y2016/1403
+Army,,US,,,_subject,Y2016/1404
+Army,Korean War,US,,,_subject,Y2016/1408
+Marines,World War II,US,,,_subject,Y2016/1409
+Army,World War II,US,,,_subject,Y2016/1410
+Army,,US,,,_subject,Y2016/1417
+Army,,US,,,_subject,Y2016/1418
+Army,,US,,,_subject,Y2016/1423
+Army,Korean War,US,,,_subject,Y2016/1425
+Army,World War II,US,,,_subject,Y2016/1427
+Army,World War II,US,,,_subject,Y2016/1429
+Air Force,,US,,,_subject,Y2016/1430
+Army,,US,,,_subject,Y2016/1432
+Army,World War II,US,,,_subject,Y2016/1434
+Army,World War II,US,,,_subject,Y2016/1437
+Air Force,Korean War,US,,,_subject,Y2016/1438
+Marines,World War II,US,,,_subject,Y2016/1439
+Navy,World War II,US,,,_subject,Y2016/1443
+Marines,Korean War,US,,,_subject,Y2016/1444
+Marines,Korean War,US,,,_subject,Y2016/1445
+Army,Korean War,US,,,_subject,Y2016/1449
+Marines,,US,,,_subject,Y2016/1452
+,Korean War,US,,,_subject,Y2016/1453
+Navy,World War II,US,,,_subject,Y2016/1455
+Army,,US,,,_subject,Y2016/1456
+Army,,US,,,_subject,Y2016/1461
+Army,World War II,US,,,_subject,Y2016/1464
+Army,World War II,US,,,_subject,Y2016/1466
+Navy,World War II,US,,,_subject,Y2016/1467
+Navy,World War II,US,,,charles,Y2016/1468
+Army,,US,,,_subject,Y2016/1471
+Navy,World War II,US,,,_subject,Y2016/1478
+Navy,World War II,US,,,_subject,Y2016/1481
+Army,Korean War,US,,,_subject,Y2016/1483
+Army,Korean War,US,,,_subject,Y2016/1486
+Army,World War II,US,,,_subject,Y2016/1488
+Army,World War II,US,,,_subject,Y2016/1489
+Army,World War II,US,,,_subject,Y2016/1490
+Marines,World War II,US,,,_subject,Y2016/1491
+Army,World War II,US,,,_subject,Y2016/1493
+Army,World War II,US,,,_subject,Y2016/1497
+Army,World War II,US,,,_subject,Y2016/1499
+Navy,World War II,US,,,_subject,Y2016/1502
+Army,Vietnam War,US,,,_subject,Y2016/1503
+Army,,US,,,_subject,Y2016/1508
+Army,,US,,,_subject,Y2016/1510
+Navy,World War II,US,,,_subject,Y2016/1511
+Army,Korean War,US,,,_subject,Y2016/1512
+Army,,US,,,_subject,Y2016/1514
+Army,World War II,US,,,_subject,Y2016/1515
+Army,,US,,,_subject,Y2016/1516
+Army,,US,,,_subject,Y2016/1518
+Army,Korean War,US,,,_subject,Y2016/1519
+Army,,US,,,_subject,Y2016/1520
+Navy,World War II,US,,,_subject,Y2016/1521
+Army,,US,,,_subject,Y2016/1526
+Army,World War II,US,,,_subject,Y2016/1528
+Army,World War II,US,,,_subject,Y2016/1529
+Navy,,US,,,_subject,Y2016/1531
+Army,,US,,,_subject,Y2016/1535
+Army,,US,,,_subject,Y2016/1536
+Navy,,US,,,_subject,Y2016/1541
+Navy,World War II,US,,,_subject,Y2016/1542
+Army,Korean War,US,,,_subject,Y2016/1544
+Army,Korean War,US,,,_subject,Y2016/1545
+Navy,World War II,US,,,_subject,Y2016/1546
+Navy,World War II,US,,,_subject,Y2016/1549
+Air Force,,US,,,_subject,Y2016/1550
+World War II,Army,US,,,_subject,Y2016/1552
+Army,Korean War,US,,,_subject,Y2016/1554
+Coast Guard,Korean War,US,,,_subject,Y2016/1555
+Army,,US,,,_subject,Y2016/1557
+Army,,US,,,_subject,Y2016/1558
+Navy,World War II,US,,,_subject,Y2016/1559
+Army,,US,,,_subject,Y2016/1560
+Army,World War II,US,,,_subject,Y2016/1565
+Navy,World War II,US,,,_subject,Y2016/1569
+Army,Korean War,US,,,_subject,Y2016/1572
+Marines,,US,,,_subject,Y2016/1573
+Army,Korean War,US,,,_subject,Y2016/1577
+Marines,World War II,US,,,_subject,Y2016/1579
+Army,Korean War,US,,,_subject,Y2016/1580
+Army,World War II,US,,,_subject,Y2016/1582
+Army,,US,,,_subject,Y2016/1584
+Marines,,US,,,_subject,Y2016/1586
+Air Force,,US,,,_subject,Y2016/1587
+Army,World War II,US,,,_subject,Y2016/1588
+Army,,US,,,_subject,Y2016/1589
+Coast Guard,World War II,US,,,_subject,Y2016/1590
+Army,,US,,,_subject,Y2016/1592
+Army,World War II,US,,,_subject,Y2016/1593
+Marines,,US,,,_subject,Y2016/1594
+Army,Korean War,US,,,_subject,Y2016/1595
+Army,,US,,,_subject,Y2016/1598
+Coast Guard,World War II,US,,,_subject,Y2016/1601
+Air Force,Korean War,US,,,_subject,Y2016/1602
+Coast Guard,World War II,US,,,_subject,Y2016/1606
+Navy,,US,,,_subject,Y2016/1610
+Merchant Marines,World War II,US,,,_subject,Y2016/1616
+Air Force,Korean War,US,,,_subject,Y2016/1621
+Army,,US,,,_subject,Y2016/1622
+Coast Guard,World War II,US,,,_subject,Y2016/1626
+Navy,Korean War,US,,,_subject,Y2016/1627
+,Korean War,US,,,_subject,Y2016/1630
+Air Force,Korean War,US,,,_subject,Y2016/1632
+Army,Korean War,US,,,_subject,Y2016/1637
+Navy,Korean War,US,,,_subject,Y2016/1638
+Army,,US,,,_subject,Y2016/1640
+Army,World War II,US,,,_subject,Y2016/1641
+Navy,World War II,US,,,_subject,Y2016/1643
+Army,World War II,US,,,_subject,Y2016/1644
+Air Force,,US,,,_subject,Y2016/1647
+Army,,US,,,_subject,Y2016/1649
+Air Force,,US,,,_subject,Y2016/1652
+,World War II,US,,,_subject,Y2016/1655
+Navy,World War II,US,,,_subject,Y2016/1657
+Army,World War II,US,,,_subject,Y2016/1660
+Navy,World War II,US,,,_subject,Y2016/1662
+Army,World War II,US,,,_subject,Y2016/1663
+Air Force,,US,,,_subject,Y2016/1669
+Navy,World War II,US,,,_subject,Y2016/1671
+Army,,US,,,_subject,Y2016/1673
+Army,Korean War,US,,,_subject,Y2016/1676
+Marines,,US,,,_subject,Y2016/1679
+Army,Korean War,US,,,_subject,Y2016/1681
+Army,Korean War,US,,,_subject,Y2016/1682
+Navy,World War II,US,,,_subject,Y2016/1683
+Army,Korean War,US,,,_subject,Y2017/1006
+Army,,US,,,_subject,Y2017/1007
+Army,World War II,US,,,_subject,Y2017/1010
+Navy,,US,,,_subject,Y2017/1011
+Army,,US,,,_subject,Y2017/1012
+Coast Guard,,US,,,_subject,Y2017/1014
+Army,World War II,US,,,_subject,Y2017/1015
+Navy,World War II,US,,,_subject,Y2017/1018
+Air Force,Korean War,US,,,_subject,Y2017/1018
+Army,Korean War,US,,,_subject,Y2017/1020
+Army,World War II,US,,,_subject,Y2017/1023
+Army,,US,,,_subject,Y2017/1027
+Army,World War II,US,,,_subject,Y2017/1030
+Army,World War II,US,,,_subject,Y2017/1031
+Army,World War II,US,,,_subject,Y2017/1032
+Army,,US,,,_subject,Y2017/1035
+Coast Guard,World War II,US,,,_subject,Y2017/1042
+Air Force,,US,,,_subject,Y2017/1043
+Navy,World War II,US,,,_subject,Y2017/1044
+Navy,World War II,US,,,_subject,Y2017/1046
+Army,Korean War,US,,,_subject,Y2017/1048
+Army,,US,,,_subject,Y2017/1053
+Army,World War II,US,,,_subject,Y2017/1054
+Army,,US,,,_subject,Y2017/1055
+Army,Korean War,US,,,_subject,Y2017/1056
+Marines,World War II,US,,,_subject,Y2017/1057
+Coast Guard,Korean War,US,,,_subject,Y2017/1060
+Navy,,US,,,_subject,Y2017/1063
+Army,,US,,,_subject,Y2017/1064
+Army,,US,,,_subject,Y2017/1065
+Army,,US,,,_subject,Y2017/1066
+Army,World War II,US,,,_subject,Y2017/1067
+Navy,World War II,US,,,_subject,Y2017/1068
+Navy,World War II,US,,,_subject,Y2017/1069
+Marines,,US,,,_subject,Y2017/1072
+Navy,World War II,US,,,_subject,Y2017/1078
+Marines,World War II,US,,,_subject,Y2017/1079
+Army,World War II,US,,,_subject,Y2017/1080
+Air Force,,US,,,_subject,Y2017/1086
+Army,,US,,,_subject,Y2017/1087
+Army,Korean War,US,,,_subject,Y2017/1088
+Army,,US,,,_subject,Y2017/1089
+Navy,World War II,US,,,_subject,Y2017/1090
+Navy,,US,,,_subject,Y2017/1091
+Army,Korean War,US,,,_subject,Y2017/1094
+Army,,US,,,_subject,Y2017/1096
+Army,,US,,,_subject,Y2017/1097
+Navy,,US,,,_subject,Y2017/1101
+Army,Korean War,US,,,_subject,Y2017/1102
+Marines,World War II,US,,,_subject,Y2017/1107
+Army,,US,,,_subject,Y2017/1109
+Marines,,US,,,_subject,Y2017/1110
+Marines,World War II,US,,,_subject,Y2017/1111
+Air Force,Gulf War,US,,,_subject,Y2017/1113
+Army,Korean War,US,,,_subject,Y2017/1116
+Army,World War II,US,,,_subject,Y2017/1120
+Army,,US,,,_subject,Y2017/1121
+Army,Korean War,US,,,_subject,Y2017/1122
+Army,World War II,US,,,_subject,Y2017/1123
+Army,Korean War,US,,,_subject,Y2017/1126
+Marines,,US,,,_subject,Y2017/1127
+Army,Korean War,US,,,_subject,Y2017/1128
+Army,,US,,,_subject,Y2017/1131
+Navy,Korean War,US,,,_subject,Y2017/1133
+Army,World War II,US,,,_subject,Y2017/1135
+Navy,World War II,US,,,_subject,Y2017/1136
+Army,Korean War,US,,,_subject,Y2017/1138
+Army,Korean War,US,,,_subject,Y2017/1139
+Air Force,,US,,,_subject,Y2017/1143
+Army,,US,,,_subject,Y2017/1144
+Army,,US,,,_subject,Y2017/1145
+Navy,World War II,US,,,_subject,Y2017/1146
+Marines,World War II,US,,,_subject,Y2017/1147
+Army,World War II,US,,,_subject,Y2017/1148
+Army,Korean War,US,,,_subject,Y2017/1149
+Army,,US,,,_subject,Y2017/1150
+Navy,,US,,,_subject,Y2017/1151
+Army,Korean War,US,,,_subject,Y2017/1152
+Marines,,US,,,_subject,Y2017/1155
+Army,,US,,,_subject,Y2017/1158
+Air Force,,US,,,_subject,Y2017/1159
+Army,,US,,,_subject,Y2017/1160
+Army,World War II,US,,,_subject,Y2017/1162
+Army,,US,,,_subject,Y2017/1166
+Navy,,US,,,_subject,Y2017/1169
+Air Force,Korean War,US,,,_subject,Y2017/1170
+Army,Korean War,US,,,_subject,Y2017/1171

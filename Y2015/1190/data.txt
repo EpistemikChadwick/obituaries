@@ -12,5 +12,5 @@ military-country: US
 military-branch:  Army
 military-conflict:  Korean War
  
-cemetery-name: St. Mary’s Cemetery
+cemetery-name: St. Mary's Cemetery
 cemetery-place: US, MI, Muskegon

@@ -7,5 +7,5 @@ birth-place: US, GA, Juliette
  
 death-date: 2015-12-30
  
-cemetery-name: Forsyth City Cemetery.
+cemetery-name: Forsyth City Cemetery
 cemetery-place: US, GA, Forsyth

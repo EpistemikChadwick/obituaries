@@ -1,4 +1,4 @@
-name-last: O’Connor
+name-last: O'Connor
 name-first: Thomas
 name-given: Thomas F.
  
@@ -10,7 +10,9 @@ death-place: US, MA, Holyoke
  
 military-country: US
 military-branch: Army
-military-conflict:  World War II # from 1943-06-10 to 1946-01-30
+military-conflict:  World War II
+military-date-start: 1943-06-10
+military-date-end: 1946-01-30
  
 cemetery-name: St. Jerome Cemetery
 cemetery-place: US, MA, Holyoke

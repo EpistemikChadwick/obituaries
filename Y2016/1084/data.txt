@@ -7,6 +7,6 @@ birth-date: 1932-09-01
  
 death-date: 2016-01-10
  
-cemetery-name: St. John’s Cemetery
+cemetery-name: St. John's Cemetery
 cemetery-place: US, NE, Bellevue
  

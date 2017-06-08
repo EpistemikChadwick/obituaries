@@ -11,5 +11,5 @@ military-country: US
 military-branch: Army
 military-conflict: World War II
 
-cemetery-name: St. Stephen’s Lutheran Church Cemetery
+cemetery-name: St. Stephen's Lutheran Church Cemetery
 cemetery-place: US, SC, Lexington

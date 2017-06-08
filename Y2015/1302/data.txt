@@ -1,6 +1,5 @@
 name-last: McDonald
 name-first: Mike
-
 name-given: Michael D.
  
 birth-date: 1947-01-03

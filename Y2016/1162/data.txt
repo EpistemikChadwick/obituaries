@@ -9,7 +9,7 @@ death-date: 2016-03-22
 death-place:  US, NY, Schenectady
  
 school-level: secondary
-school-name:  St. Mary’s Catholic Institute
+school-name:  St. Mary's Catholic Institute
 school-place: US, NY, Amsterdam
  
 school-level: college
@@ -20,5 +20,5 @@ military-country: US
 military-branch:  Navy
 military-conflict:  World War II
  
-cemetery-name: St. Mary’s Cemetery
+cemetery-name: St. Mary's Cemetery
 cemetery-place: US, NY, Fort Johnson

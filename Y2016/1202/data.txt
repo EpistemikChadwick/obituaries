@@ -13,5 +13,5 @@ military-country: US
 military-branch:  Army
 military-conflict:  Korean War
  
-cemetery-name: St. Paul’s Lutheran Church Cemetery
+cemetery-name: St. Paul's Lutheran Church Cemetery
 cemetery-place: US, PA, Zelienople

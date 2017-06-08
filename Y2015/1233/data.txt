@@ -1,18 +1,29 @@
-[6c0b58cc] Charles Bamberger is the brother of [54295f34] George Bamberger
-
+name-person: charles
 name-last: Bamberger
 name-first: Charles
 name-given: Charles F.
- 
+
+birth-person: charles
 birth-place: US, NY, Staten Island
  
+death-person: charles
 death-date: 2015-01-13
 death-place:  US, NJ, Brick
- 
+
+school-person: charles
 school-level: secondary
 school-name:  McKee Tech HS
 school-place: US, NY, Staten Island
- 
+
+military-person: charles
 military-country: US
 military-branch:  Army
 military-conflict:  World War II
+
+name-person: george
+name-last: Bamberger
+name-first: George
+
+relationship-person1: charles
+relationship-person2: george
+relationship-type: brother

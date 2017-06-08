@@ -1,6 +1,26 @@
+name-person: jeff
 name-last: Barton
 name-first: Jeff
- 
+
+death-person: jeff
 death-date: 2015-11-12
 
-Jeff Barton is the son of Larry Barton [105b65f3] and the grandson of Larry Barton [5f64cdee].
+name-person: larryjr
+name-last: Barton
+name-first: Larry
+
+name-person: larrysr
+name-last: Barton
+name-first: Larry
+
+relationship-person1: larrysr
+relationship-person2: larryjr
+relationship-type: father
+
+relationship-person1: larryjr
+relationship-person2: jeff
+relationship-type: father
+
+relationship-person1: larrysr
+relationship-person2: jeff
+relationship-type: grandfather

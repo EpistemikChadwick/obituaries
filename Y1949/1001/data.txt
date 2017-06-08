@@ -9,8 +9,8 @@ death-date: 1949-10-14
 death-place: US, CA, San Francisco
  
 school-level: college
-school-name: St. Mary’s College
+school-name: St. Mary's College
 school-place: US, CA, Moraga
  
-cemetery-name: St. Mary’s Cemetery
+cemetery-name: St. Mary's Cemetery
 cemetery-place: US, CA, Oakland

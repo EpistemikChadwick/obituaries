@@ -7,5 +7,5 @@ birth-date: 1936
 death-date: 2016-11-02
 death-place:  CA, PE, Charlottetown
  
-cemetery-name: People’s Roman Catholic Cemetery
+cemetery-name: People's Roman Catholic Cemetery
 cemetery-place: CA, PE, Charlottetown

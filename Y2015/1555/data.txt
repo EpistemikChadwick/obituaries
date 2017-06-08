@@ -19,5 +19,5 @@ school-place: US, TX, Alpine
 military-country: US
 military-branch: Army
 
-cemetery-name: St. Joseph’s Cemetery
+cemetery-name: St. Joseph's Cemetery
 cemetery-place: US, TX, Rowena

@@ -1,4 +1,4 @@
-ame-last: Lavender
+name-last: Lavender
 name-first: Robert
 name-given: Robert Keith
 name-suffix: Jr.

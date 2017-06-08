@@ -1,18 +1,30 @@
+name-person: charles
 name-last: Rowland
 name-first: Buddy
 name-given: Charles H.
 name-suffix: Jr.
- 
+
+birth-person: charles
 birth-place: US, GA, Keysville
- 
+
+death-person: charles
 death-date: 2016-09-10
 death-place:  US, GA, Augusta
- 
+
+military-person: charles
 military-country: US
 military-branch:  Navy
 military-conflict:  World War II
- 
+
+cemetery-person: charles
 cemetery-name: Hillcrest Memorial Park Cemetery
 cemetery-place: US, GA, Augusta
 
-Brother of Wilton Rowland [1b68e4e8]
+name-person: wilton
+name-last: Rowland
+name-first: Wilton
+
+relationship-person1: charles
+relationship-person2: wilton
+relationship-type: brother
+

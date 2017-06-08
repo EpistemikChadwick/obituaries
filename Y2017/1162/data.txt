@@ -12,5 +12,5 @@ military-country: US
 military-branch:  Army
 military-conflict:  World War II
  
-cemetery-name: St. Patrick’s Cemetery
+cemetery-name: St. Patrick's Cemetery
 cemetery-place: US, NJ, Belvidere

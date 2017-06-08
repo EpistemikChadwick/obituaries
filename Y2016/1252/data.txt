@@ -18,5 +18,5 @@ school-place: US, ME, Standish
 military-country: US
 military-branch:  Army
  
-cemetery-name: Dow’s Corner Cemetery
+cemetery-name: Dow's Corner Cemetery
 cemetery-place: US, ME, Standish

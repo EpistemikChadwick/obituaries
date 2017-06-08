@@ -12,5 +12,5 @@ school-level: secondary
 school-name:  J. M. Wright Technical HS
 school-place: US, CT, Stamford
  
-cemetery-name: St. John’s Catholic Cemetery
+cemetery-name: St. John's Catholic Cemetery
 cemetery-place: US, CT, Darien
