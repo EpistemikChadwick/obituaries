@@ -1,0 +1,12 @@
+name-last: Jankowski
+name-first: Steve
+name-given: Steve J.
+ 
+birth-date: 1932-11-15
+birth-place: US, OH, Cleveland
+ 
+death-date: 2017-04-09
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, OH, Cleveland
+

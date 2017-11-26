@@ -1,0 +1,17 @@
+name-last: Kemp
+name-first: Mike
+name-given: Milan Wayne
+ 
+birth-date: 1930-08-12
+birth-place: US, PA, Reading
+ 
+death-date: 2017-04-08
+death-place:  US, PA, Laureldale
+ 
+school-level: secondary
+school-name:  Reading HS
+school-place: US, PA, Reading
+ 
+cemetery-name: Forest Hills Memorial Park
+cemetery-place: US, PA, Reiffton
+

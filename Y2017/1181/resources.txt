@@ -1,0 +1,8 @@
+source-title: Cleburne Times-Review
+source-date: 2017-04-03
+source-url: http://obituaries.cleburnetimesreview.com/story/douglas-gassaway-1934-2017-901151072
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-04

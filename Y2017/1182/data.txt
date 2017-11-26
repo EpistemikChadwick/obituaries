@@ -1,0 +1,23 @@
+name-last: Lawrence
+name-first: Wendy
+name-given: Wendell
+ 
+birth-place: US, OH, Monclova
+ 
+death-date: 2017-03-31
+death-place:  US, OH, Sylvania
+ 
+school-level: secondary
+school-name:  Whitehouse HS
+school-place: US, OH, Whitehouse
+ 
+school-level: college
+school-name: Michigan State University
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:   Vietnam War

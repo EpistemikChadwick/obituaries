@@ -1,0 +1,13 @@
+name-last: Baron
+name-first: Stanley
+name-given: Stanley T.
+ 
+birth-date: 1927-02-12
+birth-place: US, MI, Detroit
+ 
+death-date: 2017-04-02
+death-place:  US, NY, Jamestown
+ 
+military-country: US
+military-branch:  Army
+

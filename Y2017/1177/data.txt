@@ -1,0 +1,21 @@
+name-last: Rogers
+name-first: Fred
+name-given: Fred D.
+ 
+birth-date: 1935-08-19
+birth-place: US, PA, Meadville
+ 
+death-date: 2017-03-31
+death-place:  US, WI, Woodville
+ 
+school-level: secondary
+school-name:  Madison West HS
+school-place: US, WI, Madison
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: Roselawn Memorial Park
+cemetery-place: US, WI, Monona
+ 

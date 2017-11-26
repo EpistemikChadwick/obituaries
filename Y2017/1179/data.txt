@@ -1,0 +1,19 @@
+name-last: Mele
+name-first: Jack
+name-given: John Anthony
+ 
+birth-date: 1922-01-17
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2017-03-29
+ 
+school-level: secondary
+school-name:  Phineas Banning HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: Whittier College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

@@ -1,0 +1,16 @@
+name-last: Schaefer
+name-first: Don
+name-given: Donald Frederick
+ 
+birth-date: 1936-03-22
+birth-place: US, OR, Jameson
+ 
+death-date: 2017-03-27
+ 
+school-level: secondary
+school-name:  Lebanon HS
+school-place: US, OR, Lebanon
+ 
+school-level: college
+school-name: Linfield College
+ 

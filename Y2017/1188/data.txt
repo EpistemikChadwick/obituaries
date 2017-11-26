@@ -1,0 +1,20 @@
+name-last: Carabina
+name-first: Christy
+name-given: Christy
+ 
+birth-date: 1931-07-28
+birth-place: US, CT, North Grosvenordale
+ 
+death-date: 2017-04-04
+ 
+school-level: secondary
+school-name:  Tourtellotte Memorial HS
+school-place: US, CT, Thompson
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Lawncroft Cemetery
+cemetery-place: US, CT, Fairfield
+ 

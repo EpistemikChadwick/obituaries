@@ -1,0 +1,10 @@
+name-last: Deters
+name-first: Donald
+name-given: Donald Henry
+ 
+death-date: 2017-04-04
+death-place:  US, NC, Kinston
+ 
+cemetery-name: Pinelawn Memorial Park
+cemetery-place: US, NC, Kinston
+

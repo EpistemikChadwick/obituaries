@@ -1,0 +1,15 @@
+name-last: Lott
+name-first: Charles
+name-given: Charles Lee
+ 
+birth-date: 1930-08-03
+ 
+death-date: 2017-03-29
+ 
+school-level: secondary
+school-name:  Jefferson Davis HS
+school-place: US, TX, Houston
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War

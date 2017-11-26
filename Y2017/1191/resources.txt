@@ -1,0 +1,8 @@
+source-title: Pilot-Tribune & Enterprise
+source-date: 2017-04-07
+source-url: http://www.enterprisepub.com/news/local_news/former-yankee-bob-cerv-dies-at/article_024e35b8-1ba9-11e7-9a2b-5722de6d414d.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-10

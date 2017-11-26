@@ -1,0 +1,8 @@
+source-title: StatesmanJournal
+source-date: 2017-04-05
+source-url: http://www.legacy.com/obituaries/statesmanjournal/obituary.aspx?n=Donald-Schaefer&pid=184867508
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-05

@@ -1,0 +1,12 @@
+name-last: Lucas
+name-first: Lloyd
+name-given: Lloyd Carl
+ 
+birth-place: US, TN, Kingsport
+ 
+death-date: 2017-04-01
+death-place:  US, MD, Ocean City
+ 
+military-country: US
+military-branch:  Marines
+

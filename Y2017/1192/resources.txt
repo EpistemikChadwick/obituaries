@@ -1,0 +1,8 @@
+source-title: Robert Schoem’s Menorah Chapel
+source-date: 2017-04-10
+source-url: http://www.schoemschapel.com/component/memorials/item/769.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-10

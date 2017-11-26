@@ -1,0 +1,10 @@
+name-last: Amaro
+name-first: Ruben
+name-given: Ruben
+name-suffix: Sr.
+ 
+birth-place: MX, Tamaulipas, Nuevo Laredo
+ 
+death-date: 2017-03-31
+death-place:  US, FL, Weston
+

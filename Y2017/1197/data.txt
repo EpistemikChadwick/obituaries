@@ -1,0 +1,23 @@
+name-last: Joslin
+name-first: Hinky
+name-given: John Hinsdale
+ 
+birth-date: 1924-12-02
+ 
+death-date: 2017-04-06
+death-place:  US, NC, Raleigh
+ 
+school-level: secondary
+school-name:  Needham B. Broughton HS
+school-place: US, NC, Raleigh
+ 
+school-level: college
+school-name: North Carolina State University
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Oakwood Cemetery
+cemetery-place: US, NC, Raleigh
+

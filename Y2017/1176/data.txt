@@ -1,0 +1,16 @@
+name-last: Serpas
+name-first: John
+name-given: John V.
+name-suffix: Jr.
+ 
+birth-date: 1923-10-06
+birth-place: US, LA, New Orleans
+ 
+death-date: 2017-03-29
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Lake Lawn Park Cemetery and Mausoleum
+cemetery-place: US, LA, New Orleans

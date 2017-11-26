@@ -1,0 +1,8 @@
+source-title: Commercial Appeal
+source-date: 2017-04-01
+source-url: http://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=Chester-Richard-Figiel&pid=184782402
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-03

@@ -1,0 +1,8 @@
+source-title: Post-Journal
+source-date: 2017-04-09
+source-url: http://www.post-journal.com/obituaries/2017/04/stanley-t-baron/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+

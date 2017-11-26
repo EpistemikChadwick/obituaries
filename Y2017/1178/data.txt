@@ -1,0 +1,22 @@
+name-last: Jones
+name-first: Lee Roy
+name-given: Lee Roy
+ 
+birth-date: 1923-02-13
+birth-place: US, MO, Mayview
+ 
+death-date: 2017-03-25
+ 
+school-level: secondary
+school-name:  Farmers HS
+school-place: US, MO, Mayview
+ 
+school-level: college
+school-name: Missouri Valley College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Zion Hill Cemetery
+cemetery-place: US, MO, Warrensburg

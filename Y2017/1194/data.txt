@@ -1,0 +1,16 @@
+name-last: Stewart
+name-first: Jimmy
+name-given: James Ponder
+ 
+birth-date: 1949-01-22
+ 
+death-date: 2017-04-08
+death-place:  US, LA, Doyline
+ 
+school-level: secondary
+school-name:  Doyline HS
+school-place: US, LA, Doyline
+ 
+school-level: college
+school-name: Northwestern State University
+

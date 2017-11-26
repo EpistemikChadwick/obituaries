@@ -1,0 +1,17 @@
+name-last: Bocian
+name-first: Ed
+name-given: Edward F.
+ 
+death-date: 2017-04-07
+ 
+school-level: secondary
+school-name:  Bowen HS
+school-place: US, IL, Chicago
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Abraham Lincoln National Cemetery
+cemetery-place: US, IL, Elwood
+

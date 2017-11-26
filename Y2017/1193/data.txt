@@ -1,0 +1,17 @@
+name-last: Cilento
+name-first:  Robert
+name-given: Robert Frank
+ 
+birth-date: 1930-09-28
+birth-place: US, NJ, Newark
+ 
+death-date: 2017-04-08
+death-place:  US, NJ, Wall
+ 
+school-level: secondary
+school-name:  West Side HS
+school-place: US, NJ, Newark
+ 
+school-level: college
+school-name: George Washington University
+

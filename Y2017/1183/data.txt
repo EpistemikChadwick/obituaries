@@ -1,0 +1,17 @@
+name-last: DePalo
+name-first: Jimmy
+name-given: James William
+ 
+birth-date: 1932-08-12
+birth-place: US, NY, White Plains
+ 
+death-date: 2017-03-29
+death-place:  US, FL, Naples
+ 
+school-level: secondary
+school-name:  Hackley School
+school-place: US, NY, Tarrytown
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

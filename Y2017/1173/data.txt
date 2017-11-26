@@ -1,0 +1,10 @@
+name-last: Figiel
+name-first: Chester
+name-given: Chester Richard
+ 
+birth-date: 1928-09-25
+ 
+death-date: 2017-03-30
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, TN, Memphis

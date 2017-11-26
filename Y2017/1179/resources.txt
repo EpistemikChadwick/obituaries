@@ -1,0 +1,8 @@
+source-title: White Emerson Mortuary
+source-date: 2017-04-04
+source-url: http://www.whiteemerson.com/obituaries/Jack-Mele/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-04

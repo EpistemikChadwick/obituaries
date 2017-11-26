@@ -1,0 +1,13 @@
+name-last: Edelstein
+name-first: Jacob
+name-given: Jacob
+ 
+birth-date: 1932-11-14
+ 
+death-date: 2017-04-08
+ 
+military-country: US
+military-conflict:  Korean War
+ 
+cemetery-name: Congregation B’nai Israel Cemetery
+cemetery-place: US, NJ, Saddle Brook

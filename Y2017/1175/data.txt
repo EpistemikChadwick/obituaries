@@ -1,0 +1,21 @@
+name-last: Dunn
+name-first: Steve
+name-given: Steven Mark
+ 
+birth-date: 1958-11-07
+ 
+death-date: 2017-03-29
+death-place:  US, MS, Hattiesburg
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Central HS
+school-place: US, MO, Springfield
+ 
+school-level: college
+school-name: Missouri State University
+ 
+cemetery-name: Linden Cemetery
+cemetery-place: US, MO, Linden
+ 
