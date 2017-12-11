@@ -1,0 +1,12 @@
+source-title: James H Cole Funeral Home
+source-date: 2015-03-03
+source-url: http://jameshcolefh.frontrunnerpro.com/book-of-memories/2074822/Johnson--Alexander-/service-details.php
+
+source-title: Detroit News
+source-date: 2015-03-03
+source-url: http://www.detroitnews.com/story/sports/mlb/tigers/2015/03/02/alex-johnson-al-batting-champ-dies/24299643/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-03

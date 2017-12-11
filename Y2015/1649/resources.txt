@@ -1,0 +1,16 @@
+source-title: Huskers.com
+source-date: 2015-02-24
+source-url: http://www.huskers.com/ViewArticle.dbml?DB_OEM_ID=100&ATCLID=209903734
+
+source-title: DignityMemorial.com
+source-date: 2015-02-24
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Raymond-NOVAK&lc=4585&pid=174236393&mid=6336445
+
+source-title: Nebraska High School Hall of Fame
+source-date: 2015-02-24
+source-url: http://www.nebhalloffame.org/inductee.php?hofid=127&type=name
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-24

@@ -1,0 +1,11 @@
+name-last: Johnson
+name-first: Alex
+name-given: Alexander
+
+birth-date: 1942-12-07
+
+death-date: 2015-02-28
+
+school-level: secondary
+school-name: Northwestern HS
+school-place: US, MI, Detroit

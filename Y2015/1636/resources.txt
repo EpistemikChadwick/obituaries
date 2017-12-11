@@ -1,0 +1,8 @@
+source-title: The State
+source-date: 2015-03-02
+source-url: http://www.thestate.com/2015/03/02/4020711_former-big-leaguer-jeff-mcknight.html?rh=1
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-03

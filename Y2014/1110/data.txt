@@ -1,0 +1,5 @@
+name-last: Saum
+name-first: Lewis
+
+death-date: 2014-06-23
+death-place: US, CA, Chico

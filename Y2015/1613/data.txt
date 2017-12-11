@@ -1,0 +1,13 @@
+name-last: Page
+name-first: Chuck
+name-given: Charles Herbert
+
+birth-date: 1936-03-28
+birth-place: US, OK, Hillsdale
+
+death-date: 2015-04-02
+death-place: US, OK, Oklahoma City
+
+school-level: secondary
+school-name: Capitol Hill HS
+school-place: US, OK, Oklahoma City

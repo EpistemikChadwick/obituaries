@@ -1,0 +1,8 @@
+source-title: Hennessey Funeral Homes
+source-date: 2015-03-11
+source-url: http://www.hennesseyfuneralhomes.com/obituaries/Gil-N-Kuhn-4172449838/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-11

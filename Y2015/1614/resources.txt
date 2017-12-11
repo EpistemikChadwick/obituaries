@@ -1,0 +1,8 @@
+source-title: San Jose Mercury
+source-date: 2015-04-05
+source-url: http://www.mercurynews.com/giants/ci_27854692/lon-simmons-giants-hall-fame-broadcaster-dies-at
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-05

@@ -1,0 +1,8 @@
+source-title: Clarion Ledger
+source-date: 2015-03-03
+source-url: http://www.legacy.com/obituaries/clarionledger/obituary.aspx?n=Robert-Flynt&pid=174294497
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-03

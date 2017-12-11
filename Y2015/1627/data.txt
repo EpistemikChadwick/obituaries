@@ -1,0 +1,12 @@
+name-last: Keenan
+name-first: John
+name-given: John R.
+
+birth-date: 1940-05-16
+birth-place: US, KS, Great Bend
+
+death-date: 2015-03-05
+death-place: US, KS, Riley
+
+cemetery-name: Lakin Comanche Cemetery
+cemetery-place: US, KS, Ellinwood

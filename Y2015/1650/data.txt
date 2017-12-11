@@ -1,0 +1,22 @@
+name-last: Schulz
+name-first: Skip
+name-given: Ralph L.
+
+birth-date: 1934-10-15
+birth-place: US, MO, Sedalia
+
+death-date: 2015-02-21
+death-place: US, MO, Kansas City
+
+school-level: secondary
+school-name: Smith-Cotton HS
+school-place: US, MO, Sedalia
+
+school-level: college
+school-name: Missouri University
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Crown Hill Cemetery
+cemetery-place: US, MO, Sedalia

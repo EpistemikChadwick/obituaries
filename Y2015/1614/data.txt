@@ -1,0 +1,10 @@
+name-last: Simmons
+name-first: Lon
+
+birth-date: 1923-07-19
+
+death-date: 2015-04-05
+
+military-country: US
+military-branch: Coast Guard
+military-conflict: World War II

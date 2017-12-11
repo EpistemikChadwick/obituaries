@@ -1,0 +1,16 @@
+name-last: Lee
+name-first: Bennie
+name-given: Bennie M.
+
+birth-date: 1929-10-14
+birth-place: US, KS, Baxter Springs
+
+death-date: 2015-02-26
+
+school-level: college
+school-name: Northeastern Oklahoma A&M College
+school-place: US, OK, Miami
+
+school-level: college
+school-name: Wichita State University
+school-place: US, KS, Wichita

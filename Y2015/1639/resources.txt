@@ -1,0 +1,8 @@
+source-title: Potter Funeral Home
+source-date: 2015-03-02
+source-url: http://potterfuneralhome.com/?p=2482
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-02

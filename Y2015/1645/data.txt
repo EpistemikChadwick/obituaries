@@ -1,0 +1,11 @@
+name-last: King
+name-first: Jim
+name-given: James H.
+
+birth-date: 1932-08-27
+
+death-date: 2015-02-23
+death-place: US, AR, Fayetteville
+
+cemetery-name: Mt. Olive Cemetery
+cemetery-place: US, AR, Elkins

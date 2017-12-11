@@ -1,0 +1,9 @@
+source-title: Santa Barbara News-Press Online Edition
+source-date: 2015-02-25
+source-url: http://www.legacy.com/obituaries/newspress/obituary.aspx?n=Gary-Lee-Woods&pid=174250814
+
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

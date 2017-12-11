@@ -1,0 +1,4 @@
+name-last: McKnight
+name-first: Jeff
+
+death-date: 2015-03-01

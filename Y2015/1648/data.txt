@@ -1,0 +1,15 @@
+name-last: Meyer
+name-first: Henry
+name-given: Henry C.
+
+birth-date: 1917-07-10
+
+death-date: 2015-02-15
+death-place: US, IL, Roselle
+
+military-country: US
+military-branch: Marines
+military-conflict: World War II
+
+cemetery-name: St. Michael the Archangel Catholic Cemetery
+cemetery-place: US, IL, Palatine

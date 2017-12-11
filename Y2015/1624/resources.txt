@@ -1,0 +1,8 @@
+source-title: Toledo Blade
+source-date: 2015-03-04
+source-url: http://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=Marvin-Dubbs&pid=174307485
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-04

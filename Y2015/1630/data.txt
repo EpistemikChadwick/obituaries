@@ -1,0 +1,16 @@
+name-last: Jancse
+name-first: John
+name-given: John Frank
+
+birth-date: 1930-08-15
+birth-place: US, PA, Forest Hills
+
+death-date: 2015-03-05
+death-place: US, PA, Harrisville
+
+school-level: secondary
+school-name: Hooker HS
+school-place: US, PA, Hooker
+
+military-country: US
+military-branch: Air Force

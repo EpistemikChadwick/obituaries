@@ -1,0 +1,10 @@
+name-last: Evans
+name-first: Brad
+name-given: Brad Alan
+
+death-date: 2015-03-05
+death-place: US, OK, Sapulpa
+
+school-level: secondary
+school-name: Glenpool HS
+school-place: US, OK, Glenpool

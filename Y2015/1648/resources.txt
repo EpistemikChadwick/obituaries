@@ -1,0 +1,8 @@
+source-title: Countryside Funeral Homes
+source-date: 2015-02-24
+source-url: http://www.countrysidefuneralhomes.com/home/index.cfm/obituaries/view/fh_id/11599/id/2974753
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-24

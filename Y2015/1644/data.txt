@@ -1,0 +1,8 @@
+name-last: Leslie
+name-first: Arlen
+name-given: Arlen C.
+name-nick: Les
+
+birth-date: 1931-12-03
+
+death-date: 2015-02-24

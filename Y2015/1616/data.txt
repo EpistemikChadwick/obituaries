@@ -1,0 +1,15 @@
+name-last: Anderson
+name-first: Dick
+name-given: Richard Earl
+
+birth-date: 1935-01-14
+birth-place: US, MN, Austin
+
+death-date: 2015-04-04
+death-place: US, NC, Fuquay-Varina
+
+school-level: college
+school-name: University of Minnesota
+
+military-country: US
+military-branch: Navy

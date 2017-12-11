@@ -1,0 +1,14 @@
+name-last: White
+name-first: Ray
+name-given: Raymond Reed
+name-nick: Whizzer
+
+
+birth-date: 1937-03-08
+birth-place: US, NY, Buffalo
+
+death-date: 2015-04-02
+
+school-level: secondary
+school-name: Vandergrift HS
+school-place: US, PA, Vandergrift

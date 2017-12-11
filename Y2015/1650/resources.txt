@@ -1,0 +1,8 @@
+source-title: SedaliaDemocrat.com
+source-date: 2015-02-24
+source-url: http://www.legacy.com/obituaries/sedaliademocrat/obituary.aspx?n=Ralph-Schulz&pid=174229310
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-24

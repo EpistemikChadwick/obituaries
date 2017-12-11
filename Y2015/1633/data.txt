@@ -1,0 +1,21 @@
+name-last: Tran
+name-first: Ray
+name-given: William Raymond
+
+birth-date: 1919-01-11
+birth-place: CA, SK, Kamsack
+
+death-date: 2015-01-15
+death-place: US, NV, Gardnerville
+
+school-level: secondary
+school-name: Franklin HS
+school-place: US, WA, Seattle
+
+school-level: college
+school-name: St. Mary’s College
+school-place: US, CA, Moraga
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

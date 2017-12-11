@@ -1,0 +1,5 @@
+name-last: Capellan
+name-first: Jose
+
+death-date: 2015-04-07
+death-place: US, PA, Philadelphia

@@ -1,0 +1,15 @@
+name-last: Little
+name-first: Mickey
+name-given: Michael E.
+
+birth-place: US, PA, Shenandoah
+
+death-date: 2015-04-01
+death-place: US, PA, Frackville
+
+school-level: secondary
+school-name: Shenandoah Catholic HS
+school-place: US, PA, Shenandoah
+
+school-level: college
+school-name: Elon University

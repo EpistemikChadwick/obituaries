@@ -1,0 +1,8 @@
+source-title: ESPN
+source-date: 2015-04-08
+source-url: http://espn.go.com/mlb/story/_/id/12645170/jose-capellan-former-mlb-pitcher-dies-age-34-apparent-heart-attack
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-08

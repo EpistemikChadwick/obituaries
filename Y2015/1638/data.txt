@@ -1,0 +1,16 @@
+name-last: Haney
+name-given: Clayton
+name-suffix: Jr.
+name-nick: Bink
+
+birth-date: 1930-12-15
+birth-place: US, AL, Limestone County
+
+death-date: 2015-02-02
+death-place: US, AL, Huntsville
+
+military-country: US
+military-branch: Air Force
+
+cemetery-name: Antioch Cemetery
+cemetery-place: US, AL, Elkmont

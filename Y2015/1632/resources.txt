@@ -1,0 +1,8 @@
+source-title: Tulsa World
+source-date: 2015-03-08
+source-url: http://www.tulsaworld.com/communities/sapulpa/sapulpa-softball-coach-brad-alan-evans-charged-with-rape-found/article_346cdaed-9e74-52d9-8de2-48d3dcead94e.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-08

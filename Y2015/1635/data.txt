@@ -1,0 +1,20 @@
+name-last: Kuhn
+name-first: Gil
+name-given: Gilbert N.
+name-nick: Nappy
+
+birth-date: 1930-04-10
+birth-place: US, WA, Hoquiam
+
+death-date: 2015-03-07
+death-place:
+
+school-level: secondary
+school-name: Hoquiam HS
+school-place: US, WA, Hoquiam
+
+military-country: US
+military-branch: Air Force
+
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, WA, Spokane

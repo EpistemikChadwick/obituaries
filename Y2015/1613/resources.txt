@@ -1,0 +1,8 @@
+source-title: Resthaven Funeral Home
+source-date: 2015-04-05
+source-url: http://www.resthavenokc.com/obituaries/Charles-H-Page-4252459102/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-04-05

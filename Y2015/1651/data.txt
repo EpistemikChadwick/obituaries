@@ -1,0 +1,16 @@
+name-last: Clark
+name-first: John
+name-given: John H.
+
+birth-date: 1929-06-03
+birth-place: US, PA, Spruce Hill Township
+
+death-date: 2015-02-21
+death-place: US, PA, Lewistown
+
+school-level: secondary
+school-name: Juniata HS
+school-place: US, PA, Mifflintown
+
+cemetery-name: Lind Memorial Cemetery
+cemetery-place: US, PA, Lewistown

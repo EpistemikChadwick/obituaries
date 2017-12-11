@@ -1,0 +1,8 @@
+source-title: Sun-Sentinel
+source-date: 2015-03-06
+source-url: http://www.legacy.com/obituaries/sunsentinel/obituary.aspx?n=Carmen-J-Cononie&pid=174328222
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-06

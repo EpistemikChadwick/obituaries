@@ -1,0 +1,12 @@
+source-title: Lake Forest College athletics website
+source-date: 2015-03-01
+source-url: http://www.goforesters.com/releases/20150226triptow
+
+source-title: Chicago Tribune
+source-date: 2015-02-24
+source-url: http://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=Richard-Triptow&pid=174233401
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-01

@@ -1,0 +1,15 @@
+name-last: Oakes
+name-first: Terry
+name-given: Terry F.
+
+birth-date: 1946-01-07
+birth-place: US, WA, Bellingham
+
+death-date: 2015-03-04
+
+military-country: US
+military-branch: Army
+military-conflict: Vietnam War
+
+cemetery-name: Greenacres Memorial Park
+cemetery-place: US, WA, Ferndale

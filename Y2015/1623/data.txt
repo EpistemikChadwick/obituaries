@@ -1,0 +1,17 @@
+name-last: McDonald
+name-first: Bobby
+name-given: Robert E.
+name-suffix: Jr.
+
+birth-date: 1952-03-14
+birth-place: US, PA, Chambersburg
+
+death-date: 2015-03-02
+death-place: US, PA, Hershey
+
+school-level: secondary
+school-name: Chambersburg HS
+school-place: US, PA, Chambersburg
+
+cemetery-name: Lincoln Cemetery
+cemetery-place: US, PA, Chambersburg

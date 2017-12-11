@@ -1,0 +1,8 @@
+source-title: Lewistown Sentinel
+source-date: 2015-02-23
+source-url: http://lewistownsentinel.com/page/content.detail/id/562492/John-H--Clark.html?nav=5007
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-01

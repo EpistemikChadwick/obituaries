@@ -1,0 +1,18 @@
+name-last: Galloway
+name-first: Mo
+name-given: Morris Dale
+
+birth-date: 1943-01-02
+birth-place: US, TX, Mission
+
+death-date: 2015-02-18
+
+school-level: secondary
+school-name: Carrollton HS
+school-place: US, TX, Carrollton
+
+military-country: US
+military-branch: Air Force
+
+cemetery-name: Dallas-Fort Worth National Cemetery
+cemetery-place: US, TX, Dallas

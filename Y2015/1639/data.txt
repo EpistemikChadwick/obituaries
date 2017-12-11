@@ -1,0 +1,17 @@
+name-last: Dunnack
+name-first: Delton
+name-given: Delton Vincent
+name-suffix: Sr.
+
+birth-date: 1925-04-29
+birth-place: US, CT, Mansfield
+
+death-date: 2015-01-04
+death-place: US, CT, Andover
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Townsend Cemetery
+cemetery-place: US, CT, Andover

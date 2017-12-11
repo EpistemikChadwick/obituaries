@@ -1,0 +1,15 @@
+name-last: Helton
+name-first: Jerry
+name-given: Jerry Lynn
+
+birth-date: 1950-02-03
+
+death-date: 2015-03-07
+death-place: US, PA, Paoli
+
+school-level: secondary
+school-name: Rule HS
+school-place: US, TN, Knoxville
+
+cemetery-name: Lynnhurst Cemetery
+cemetery-place: US, TN, Knoxville

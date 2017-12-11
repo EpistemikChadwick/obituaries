@@ -1,0 +1,18 @@
+name-last: O’Nan
+name-first: Norman
+
+birth-date: 1927-02-02
+birth-place: US, KY, Little Dixie
+
+death-date: 2015-04-05
+death-place: US, KY, Hanson
+
+school-level: secondary
+school-name: Niagara HS
+school-place: US, KY, Niagara
+
+military-country: US
+military-conflict: World War II
+
+cemetery-name: St. Louis Cemetery
+cemetery-place: US, KY, Henderson

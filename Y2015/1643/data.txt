@@ -1,0 +1,19 @@
+name-last: Glunn
+name-first: Dale
+name-given: Dale A.
+
+birth-date: 1936-01-18
+birth-place: US, WI, Waushara County
+
+death-date: 2015-02-20
+death-place: US, AZ, Florence
+
+school-level: secondary
+school-name: Wautoma HS
+school-place: US, WI, Wautoma
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Mt. Morris Holden Lutheran Cemetery
+cemetery-place: US, WI, Mt. Morris

@@ -1,0 +1,9 @@
+name-last: Red
+name-first: Socrates
+name-given: Socrates G.
+
+death-date: 2015-03-27
+death-place: US, FL, Clearwater
+
+military-country: US
+military-branch: Air Force

@@ -1,0 +1,19 @@
+name-last: Dubbs
+name-first: Marv
+name-given: Marvin Keith
+
+birth-date: 1922-03-03
+birth-place: US, OH, Toledo
+
+death-date: 2015-02-26
+
+school-level: secondary
+school-name: Clay HS
+school-place: US, OH, Oregon
+
+school-level: college
+school-name: University of Toledo
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

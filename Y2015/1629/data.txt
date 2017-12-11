@@ -1,0 +1,17 @@
+name-last: Badeker
+name-first: William
+name-given: William G.
+name-suffix: Jr.
+
+birth-date: 1934-04-07
+birth-place: US, PA, Emigsville
+
+death-date: 2015-03-04
+death-place: US, PA, York
+
+school-level: secondary
+school-name: North York HS
+school-place: US, PA, North York
+
+cemetery-name: Susquehanna Memorial Gardens
+cemetery-place: US, PA, York

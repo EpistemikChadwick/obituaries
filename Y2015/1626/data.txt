@@ -1,0 +1,15 @@
+name-last: Cerick
+name-given: Peter Aull
+
+birth-date: 1931-05-22
+birth-place: US, DC, Washington
+
+death-date: 2015-01-30
+
+school-level: secondary
+school-name: Western HS
+school-place: US, DC, Washington
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

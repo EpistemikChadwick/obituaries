@@ -1,0 +1,15 @@
+name-last: Triptow
+name-first: Dick
+name-given: Richard F.
+
+birth-date: 1922-11-03
+
+death-date: 2015-02-20
+death-place: US, IL, Lake Forest
+
+school-level: secondary
+school-name: Lane Tech College Prep HS
+school-place: US, IL, Chicago
+
+school-level: college
+school-name: DePaul University

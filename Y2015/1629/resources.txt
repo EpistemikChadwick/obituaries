@@ -1,0 +1,8 @@
+source-title: York Daily Record & York Dispatch
+source-date: 2015-03-07
+source-url: http://www.legacy.com/obituaries/york/obituary.aspx?n=William-G-Badeker&pid=174336174
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-07

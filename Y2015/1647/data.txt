@@ -1,0 +1,7 @@
+name-last: Kim
+name-first: Wendell
+name-nick: WK
+
+birth-date: 1950-03-09
+
+death-date: 2015-02-15

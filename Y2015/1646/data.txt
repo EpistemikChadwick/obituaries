@@ -1,0 +1,16 @@
+name-last: Woods
+name-first: Gary
+
+birth-date: 1953-07-20
+birth-place: US, CA, Santa Barbara
+
+death-date: 2015-02-18
+death-place: US, CA,
+
+school-level: secondary
+school-name: San Marcos HS
+school-place: US, CA, Santa Barbara
+
+school-level: college
+school-name: Santa Barbara City College
+school-place: US, CA, Santa Barbara

@@ -1,0 +1,12 @@
+name-last: Cononie
+name-first: Carmen
+name-given: Carmen James
+
+birth-date: 1935-06-23
+birth-place: US, PA, Johnstown
+
+death-date: 2015-03-03
+death-place: US, FL,
+
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, FL, Jacksonville

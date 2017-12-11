@@ -1,0 +1,8 @@
+source-title: Rhoton Funeral Home
+source-date: 2015-03-04
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Morris-Galloway&lc=4581&pid=174293840&mid=6345869
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-04

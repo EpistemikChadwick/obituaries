@@ -1,0 +1,12 @@
+name-last: Malack
+name-first: Ed
+name-given: Edward R.
+
+birth-date: 1930-09-14
+birth-place: US, PA, Rankin
+
+death-date: 2015-01-26
+death-place: US, PA, McKeesport
+
+cemetery-name: Twin Valley Memorial Park and Mausoleum
+cemetery-place: US, PA, Delmont

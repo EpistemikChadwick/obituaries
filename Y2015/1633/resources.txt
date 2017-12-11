@@ -1,0 +1,8 @@
+source-title: Benched Athletes blog
+source-date: 2015-03-09
+source-url: https://benchedathletes.wordpress.com/2015/03/09/ray-tran/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-03-09

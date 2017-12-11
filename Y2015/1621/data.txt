@@ -1,0 +1,13 @@
+name-last: Flynt
+name-first: Bobby
+name-given: Robert Earl
+
+birth-date: 1950-05-24
+birth-place: US, MS, Jackson
+
+death-date: 2015-02-28
+death-place: US, MS, Jackson
+
+school-level: secondary
+school-name: Provine HS
+school-place: US, MS, Jackson
