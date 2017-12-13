@@ -1,0 +1,15 @@
+name-last: Ford
+name-first: Bonny
+name-given: Thomas Henry
+name-suffix: Jr.
+ 
+death-date: 2017-04-19
+death-place:  US, GA, Augusta
+ 
+school-level: secondary
+school-name:  Academy of Richmond County
+school-place: US, GA, Augusta
+ 
+school-level: college
+school-name: Newberry College
+

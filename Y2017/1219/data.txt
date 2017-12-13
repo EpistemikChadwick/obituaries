@@ -1,0 +1,17 @@
+name-last: Woodlief
+name-first: Don
+name-given: Donald Eugene
+ 
+death-date: 2017-04-23
+death-place:  US, VA, Bracey
+ 
+school-level: secondary
+school-name:  Hopewell HS
+school-place: US, VA, Hopewell
+ 
+school-level: college
+school-name: Wake Forest University
+ 
+military-country: US
+military-branch:  Army
+

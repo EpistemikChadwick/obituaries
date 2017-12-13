@@ -1,0 +1,18 @@
+name-last: Hoover
+name-first: Don
+name-given: Donald H.
+ 
+birth-date: 1929-08-29
+birth-place: US, PA, Greencastle
+ 
+death-date: 2017-04-18
+death-place:  US, PA, Chambersburg
+ 
+school-level: secondary
+school-name:  Greencastle HS
+school-place: US, PA, Greencastle
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

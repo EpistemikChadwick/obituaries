@@ -1,0 +1,9 @@
+name-last: Tewell
+name-first: Terrance
+name-given: Terrance Stewart
+ 
+birth-date: 1969-08-12
+birth-place: US, CA, Orange
+ 
+death-date: 2017-03-31
+

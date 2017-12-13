@@ -1,0 +1,13 @@
+name-last: Doehring
+name-first: Butch
+name-given: Delbert E.
+ 
+birth-date: 1928-07-21
+birth-place: US, IL Shelby County
+ 
+death-date: 2017-04-18
+death-place:  US, IL, Nashville
+ 
+cemetery-name: Trinity Lutheran Cemetery
+cemetery-place: US, IL, Nashville
+

@@ -1,0 +1,17 @@
+name-last: Heist
+name-first: John
+name-given: John B.
+name-suffix: Jr.
+ 
+birth-date: 1937-08-03
+birth-place: US, PA, Norristown
+ 
+death-date: 2017-04-10
+ 
+school-level: secondary
+school-name:  Norristown HS
+school-place: US, PA, Norristown
+ 
+cemetery-name: All Faiths Cemetery
+cemetery-place: US, MA, Worcester
+

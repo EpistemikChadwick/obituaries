@@ -1,0 +1,20 @@
+name-last: Haddix
+name-first: Fred
+name-given: Frederick E.
+ 
+birth-date: 1930-11-21
+ 
+death-date: 2017-04-19
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Catawba HS
+school-place: US, OH, South Vienna
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Rose Hill Burial Park
+cemetery-place: US, OH, Springfield
+

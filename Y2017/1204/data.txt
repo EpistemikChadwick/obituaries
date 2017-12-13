@@ -1,0 +1,18 @@
+name-last: Garner
+name-first: Homer
+name-given: Homer Neal
+name-suffix: Jr.
+ 
+birth-date: 1929-06-09
+birth-place: US, OK, Shawnee
+ 
+death-date: 2017-04-16
+death-place:  US, TX, Dallas
+ 
+school-level: secondary
+school-name:  Byrd HS
+school-place: US, LA, Shreveport
+ 
+cemetery-name: Pleasant Hill Cemetery
+cemetery-place: US, TX, Paris
+

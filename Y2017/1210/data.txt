@@ -1,0 +1,20 @@
+name-last: Corley
+name-first: Leo
+name-given: Harold L.
+ 
+birth-date: 1927-02-23
+birth-place: US, GA, Atlanta
+ 
+death-date: 2017-04-18
+ 
+school-level: secondary
+school-name:  Tech HS
+school-place: US, GA, Atlanta
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Arlington Memorial Park
+cemetery-place: US, GA, Sandy Springs
+

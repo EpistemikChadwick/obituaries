@@ -1,0 +1,17 @@
+name-last: Denny
+name-first: Stan
+name-given: Stanley
+name-nick: Strawberry
+ 
+birth-date: 1935-01-26
+birth-place: US, IN, New Albany
+ 
+death-date: 2017-04-16
+ 
+school-level: secondary
+school-name:  New Albany HS
+school-place: US, IN, New Albany
+ 
+school-level: college
+school-name: Indiana University Bloomington
+

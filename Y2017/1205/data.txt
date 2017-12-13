@@ -1,0 +1,17 @@
+name-last: Toon
+name-first: Pete
+name-given: Herod Andrew
+name-suffix: Jr.
+ 
+birth-date: 1926-01-22
+birth-place: US, IN, New Bethel
+ 
+death-date: 2017-04-03
+ 
+school-level: secondary
+school-name:  Franklin Central HS
+school-place: US, IN, Indianapolis
+ 
+school-level: college
+school-name: Butler University
+

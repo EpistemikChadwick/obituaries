@@ -1,0 +1,18 @@
+name-last: McMahan
+name-first: Bobby
+name-given: Ernest Robert
+name-suffix: Jr.
+ 
+birth-date: 1950-05-14
+birth-place: US, SC, Anderson
+ 
+death-date: 2017-03-14
+death-place:  US, SC, Charleston
+ 
+school-level: secondary
+school-name:  Garrett HS
+school-place: US, SC, Charleston
+ 
+military-country: US
+military-branch:  Navy
+

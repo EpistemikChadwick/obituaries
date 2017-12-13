@@ -1,0 +1,20 @@
+name-last: Wilkins
+name-first: Philip
+name-given: Philip Charles
+name-suffix: Jr.
+ 
+birth-date: 1982-08-29
+birth-place: US, SC, Lexington
+ 
+death-date: 2017-04-19
+ 
+school-level: secondary
+school-name:  Richard Winn Academy
+school-place: US, SC, Winnsboro
+ 
+school-level: college
+school-name: College of Charleston
+ 
+cemetery-name: Fairfield Memorial Cemetery
+cemetery-place: US, SC, Winnsboro
+

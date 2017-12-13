@@ -1,0 +1,8 @@
+source-title: Progress-Index
+source-date: 2017-04-26
+source-url: http://www.legacy.com/obituaries/progress-index/obituary.aspx?n=DONALD-E-WOODLIEF&pid=185205033
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-26

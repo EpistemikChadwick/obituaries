@@ -1,0 +1,16 @@
+name-last: Bertschy
+name-first: Bob
+name-given: Robert Chickering
+ 
+birth-date: 1938-10-25
+birth-place: US, MA, Dover
+ 
+death-date: 2017-04-10
+ 
+school-level: secondary
+school-name:  Dover HS
+school-place: US, MA, Dover
+ 
+school-level: college
+school-name: Boston University
+

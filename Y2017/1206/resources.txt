@@ -1,0 +1,8 @@
+source-title: Caruth-Hale Funeral Home
+source-date: 2017-04-20
+source-url: http://www.caruth-hale.com/obituaries/Bruce-Lewis-McIntosh?obId=1705612#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-04-20

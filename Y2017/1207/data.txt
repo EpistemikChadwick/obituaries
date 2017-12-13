@@ -1,0 +1,8 @@
+name-last: Morton
+name-first: Lon
+name-given: Lon
+ 
+birth-date: 1945-03-28
+ 
+death-date: 2017-04-17
+

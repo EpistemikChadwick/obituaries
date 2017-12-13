@@ -1,0 +1,20 @@
+name-last: Higgins
+name-first: Mark
+name-given: Mark Douglas
+ 
+birth-date: 1963-07-19
+birth-place: US, FL, Miami
+ 
+death-date: 2017-03-22
+death-place:  US, GA, Duluth
+ 
+school-level: secondary
+school-name:  Shaw HS
+school-place: US, AL, Mobile
+ 
+school-level: college
+school-name: Chipola College
+ 
+school-level: college
+school-name: University of New Orleans
+

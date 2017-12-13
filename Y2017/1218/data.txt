@@ -1,0 +1,18 @@
+name-last: Watychowicz
+name-first: Stanley
+name-given: Stanley
+ 
+birth-date: 1933-04-04
+birth-place: US, PA, Indianola
+ 
+death-date: 2017-04-23
+death-place:  US, PA, Natrona Heights
+ 
+school-level: secondary
+school-name:  West Deer HS
+school-place: US, PA, Cheswick
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

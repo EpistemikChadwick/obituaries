@@ -1,0 +1,17 @@
+name-last: Vaughn
+name-first: Ron
+name-given: Ronald Lewis
+ 
+birth-date: 1961-01-10
+birth-place: US, TN, Cookeville
+ 
+death-date: 2017-04-23
+death-place:  US, AL, Decatur
+ 
+school-level: secondary
+school-name:  Grissom HS
+school-place: US, AL, Huntsville
+ 
+school-level: college
+school-name: Middle Tennessee State University
+

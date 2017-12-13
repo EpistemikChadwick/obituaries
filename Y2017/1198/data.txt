@@ -1,0 +1,22 @@
+name-last: Salreno
+name-first: Louis
+name-given: Louis
+ 
+birth-date: 1925-10-02
+birth-place: US, OH, Youngstown
+ 
+death-date: 2017-04-11
+ 
+school-level: secondary
+school-name:  Chaney HS
+school-place: US, OH, Youngstown
+ 
+school-level: college
+school-name: Youngstown State University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, OH, Youngstown

@@ -1,0 +1,20 @@
+name-last: Barnhart
+name-first: Victor
+name-given: Victor D.
+ 
+birth-date: 1922-09-01
+birth-place:  US, MD, Hagerstown
+ 
+death-date: 2017-04-13
+death-place:  US, MD, Hagerstown
+ 
+school-level: secondary
+school-name:  Hagerstown HS
+school-place: US, MD, Hagerstown
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Rest Haven Cemetery
+cemetery-place: US, MD, Hagerstown
