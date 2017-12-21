@@ -1,0 +1,4 @@
+name-last: Bergman
+name-first: Dave
+
+death-date: 2015-02-02

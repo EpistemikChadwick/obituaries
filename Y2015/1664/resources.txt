@@ -1,0 +1,8 @@
+source-title: Austin American-Statesman
+source-date: 2015-02-14
+source-url: http://www.legacy.com/obituaries/statesman/obituary.aspx?n=Iva-Rudolph-PALMER-Rudy&pid=174151322
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-17

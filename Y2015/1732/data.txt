@@ -1,0 +1,20 @@
+name-last: Nix
+name-first: Joe
+name-given: Joe Purdy
+
+birth-date: 1930-06-15
+birth-place: US, CO, Boulder
+
+death-date: 2015-01-14
+
+school-level: secondary
+school-name: Boulder HS
+school-place: US, CO, Boulder
+
+school-level: college
+school-name: University of Colorado
+
+military-country: US
+military-branch: Army
+
+cemetery-place: US, CO, Red Wing

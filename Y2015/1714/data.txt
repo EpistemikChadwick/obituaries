@@ -1,0 +1,11 @@
+name-last: Simpson
+name-given: Herbert Harold
+
+death-date: 2015-01-07
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: McDonoghville Cemetery
+cemetery-place: US, LA, Gretna

@@ -1,0 +1,20 @@
+name-last: Johnson
+name-first: Ken
+name-given: Kenneth A.
+
+birth-date: 1927-11-07
+
+death-date: 2015-02-02
+
+school-level: secondary
+school-name: Nott Terrace HS
+school-place: US, NY, Schenectady
+
+school-level: college
+school-name: Syracuse University
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Vale Cemetery
+cemetery-place: US, NY, Schenectady

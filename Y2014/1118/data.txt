@@ -1,0 +1,6 @@
+name-last: Comas
+name-first: Pedro
+name-given: Pedro
+name-matrilineal: Pena
+
+death-date: 2014-10-29

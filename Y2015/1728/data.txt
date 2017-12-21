@@ -1,0 +1,16 @@
+name-last: Koback
+name-first: Nick
+name-given: Nicholas N.
+
+birth-date: 1935-07-19
+birth-place: US, CT, Hartford
+
+death-date: 2015-01-23
+death-place: US, CT, Hartford
+
+school-level: secondary
+school-name: Hartford Public HS
+school-place: US, CT, Hartford
+
+military-country: US
+military-branch: National Guard

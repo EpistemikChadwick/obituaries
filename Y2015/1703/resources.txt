@@ -1,0 +1,8 @@
+source-title: Daytona Beach News-Journal
+source-date: 2015-01-29
+source-url: http://www.news-journalonline.com/article/20150128/SPORTS/150129440/1001?p=all&tc=pgall
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-29

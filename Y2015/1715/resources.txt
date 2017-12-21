@@ -1,0 +1,8 @@
+source-title: Wisconsin Rapids Daily Tribune
+source-date: 2015-01-13
+source-url: http://www.legacy.com/obituaries/wisconsinrapidstribune/obituary.aspx?n=William-Kautzer&pid=173824423
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-13

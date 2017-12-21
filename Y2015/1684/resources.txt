@@ -1,0 +1,9 @@
+source-title: Dignity Memorial.com
+source-date: 2015-02-10
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Raymond-Ferruolo&lc=7417&pid=174108472&mid=6317438&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-10
+\

@@ -1,0 +1,8 @@
+source-title: News & Observer
+source-date: 2015-02-16
+source-url: http://www.legacy.com/obituaries/newsobserver/obituary.aspx?n=william-e-eutsler-bill&pid=174162905&fhid=8962&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-16

@@ -1,0 +1,22 @@
+name-last: Lane
+name-first: Bruce
+name-given: Bruce W.
+
+birth-date: 1934-02-09
+birth-place: US, PA, Philadelphia
+
+death-date: 2015-02-18
+death-place: US, PA, Downingtown
+
+school-level: secondary
+school-name: Downingtown HS
+school-place: US, PA, Downingtown
+
+school-level: college
+school-name: Pennsylvania State University
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Philadelphia Memorial Park
+cemetery-place: US, PA, Frazer

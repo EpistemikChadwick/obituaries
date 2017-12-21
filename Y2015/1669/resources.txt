@@ -1,0 +1,8 @@
+source-title: Quad-City Times
+source-date: 2015-02-15
+source-url: http://qctimes.com/news/local/obituaries/john-w-hanssen/article_417d466f-29f5-5334-adbb-9ee9c83300bc.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-15

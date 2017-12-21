@@ -1,0 +1,7 @@
+name-last: Torres
+name-first: Yeralf
+name-given: Yeralf Jose
+name-matrilineal: Hernandez
+
+death-date: 2015-01-14
+death-place: VE, Lara, Barquisimeto

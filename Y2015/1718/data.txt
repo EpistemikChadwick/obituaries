@@ -1,0 +1,14 @@
+name-last: Conway
+name-first: Bob
+name-given: Robert Richard
+name-suffix: Sr.
+
+birth-date: 1939-01-07
+birth-place: US, DE, Wilmington
+
+death-date: 2015-01-20
+death-place: US, DE, Newark
+
+school-level: secondary
+school-name: Newark HS
+school-place: US, DE, Newark

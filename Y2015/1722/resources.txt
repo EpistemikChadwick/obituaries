@@ -1,0 +1,8 @@
+source-title: Robert Funeral Home
+source-date: 2015-01-25
+source-url: http://www.robertsofdunnellon.com/obits/obituary.php?id=525500
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-25

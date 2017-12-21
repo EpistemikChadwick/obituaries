@@ -1,0 +1,17 @@
+name-last: Schnieders
+name-first: Paul
+name-given: Paul Herman
+name-nick: Hook
+
+birth-date: 1926-08-22
+birth-place: US, MO, Cole County
+
+death-date: 2015-01-07
+death-place: US, MO, St. James
+
+military-country: US
+military-branch: Army
+military-conflict: World War II # from 1945-02-22 to 1946-11-29
+
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, MO, Jefferson City

@@ -1,0 +1,8 @@
+source-title: The State
+source-date: 2015-02-10
+source-url: http://www.legacy.com/obituaries/thestate/obituary.aspx?n=Daniel-Albert-Rhame-Buster&pid=174107187
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-10

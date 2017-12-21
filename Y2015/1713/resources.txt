@@ -1,0 +1,8 @@
+source-title: Frontera.info
+source-date: 2015-01-04
+source-url: http://www.frontera.info/Movil/EdicionEnLinea/DeportesLocal/Notas/927090.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-01

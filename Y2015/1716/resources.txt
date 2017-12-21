@@ -1,0 +1,8 @@
+source-title: Syracuse Post Standard
+source-date: 2015-01-15
+source-url: http://obits.syracuse.com/obituaries/syracuse/obituary.aspx?n=Stephen-B-Hoey&pid=173852532
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-15

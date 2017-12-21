@@ -1,0 +1,5 @@
+name-last: Kannenberg
+name-first: Scott
+name-given: Scott August
+
+death-date: 2015

@@ -1,0 +1,8 @@
+name-last: Ruel
+name-first: Claude
+
+birth-date: 1938-09-12
+birth-place: CA, QC, Sherbrooke
+
+death-date: 2015-02-09
+death-place: CA, QC, Longueuil

@@ -1,0 +1,23 @@
+name-last: Dunegan
+name-first: Jim
+name-given: James William
+name-suffix: Jr.
+
+birth-date: 1947-08-06
+birth-place: US, IA, Burlington
+
+death-date: 2014-10-20
+death-place: US, IA, Iowa City
+
+school-level: secondary
+school-name: Burlington HS
+school-place: US, IA, Burlington
+
+school-level: college
+school-name: Bacone College
+
+school-level: college
+school-name: Iowa State University
+
+cemetery-name: Aspen Grove Cemetery
+cemetery-place: US, IA, Burlington

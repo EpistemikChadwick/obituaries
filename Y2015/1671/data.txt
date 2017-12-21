@@ -1,0 +1,19 @@
+name-last: Knepper
+name-first: Lars
+name-given: Lars Christopher
+
+birth-date: 1986-04-13
+birth-place: US, CA, Huntington Beach
+
+death-date: 2015-02-04
+
+school-level: secondary
+school-name: Redmond HS
+school-place: US, WA, Redmond
+
+school-level: college
+school-name: Bellevue College
+school-place: US, WA, Bellevue
+
+school-level: college
+school-name: University of Hawaii at Hilo

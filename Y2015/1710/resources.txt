@@ -1,0 +1,8 @@
+source-title: Mystic Funeral Home
+source-date: 2015-02-01
+source-url: http://www.mysticfuneralhome.com/fh/obituaries/obituary.cfm?o_id=2937149&fh_id=14402
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-01

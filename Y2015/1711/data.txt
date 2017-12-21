@@ -1,0 +1,9 @@
+name-last: Oliver
+name-first: Reynaldo
+name-nick: Pochi
+
+birth-date: 1932-03-26
+birth-place: PR, , Ponce
+
+death-date: 2015-01-19
+death-place: PR, , San Juan

@@ -1,0 +1,12 @@
+source-title: Schramka Funeral Home
+source-date: 2015-01-25
+source-url: http://www.schramkafuneralhome.com/book-of-memories/2009871/Peregrine-Richard/obituary.php
+
+source-title: Obit from Cedarburg News Graphic
+source-file-name: Dick Peregrine obit.docx
+source-file-type: application/docx
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-25

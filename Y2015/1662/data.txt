@@ -1,0 +1,11 @@
+name-last: Fudoli
+name-first: Jim
+
+birth-date: 1941-12-05
+birth-place: US, IL, Peoria
+
+death-date: 2015-02-15
+death-place: US, AR, Mountain Home
+
+cemetery-name: Kirby's Tucker Memorial Cemetery
+cemetery-place: US, AR, Mountain Home

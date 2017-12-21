@@ -1,0 +1,8 @@
+source-title: Mynatt Funeral Home
+source-date: 2015-02-21
+source-url: http://mynatt.mem.com/Obituary/6332436/86639451/86639442?title=Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

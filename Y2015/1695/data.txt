@@ -1,0 +1,8 @@
+name-last: Moretti
+name-first: Roy
+name-given: Roy Daryl
+
+birth-date: 1955-11-26
+birth-place: CA, BC, Victoria
+
+death-date: 2015-01-27

@@ -1,0 +1,16 @@
+name-last: Smiley
+name-first: Ron
+name-given: Ron Potter
+
+birth-date: 1935-11-14
+birth-place: US, PA, Old Forge
+
+death-date: 2015-01-26
+death-place: US, TX, Richardson
+
+school-level: secondary
+school-name: Mount Penn HS
+school-place: US, PA, Mount Penn
+
+military-country: US
+military-branch: Army

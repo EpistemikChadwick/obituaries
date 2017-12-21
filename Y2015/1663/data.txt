@@ -1,0 +1,15 @@
+name-last: Sickel
+name-first: Todd
+name-given: Todd Allen
+
+birth-date: 1934-02-06
+birth-place: US, MO, Kansas City
+
+death-date: 2015-02-06
+
+school-level: secondary
+school-name: Central HS
+school-place: US, MO, Kansas City
+
+school-level: college
+school-name: University of Missouri

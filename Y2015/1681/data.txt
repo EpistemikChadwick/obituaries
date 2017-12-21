@@ -1,0 +1,19 @@
+name-last: Rhame
+name-first: Buster
+name-given: Daniel Albert
+
+birth-date: 1932-02-10
+birth-place: US, SC, Columbia
+
+death-date: 2015-02-09
+
+school-level: secondary
+school-name: University HS
+school-place: US, SC, Columbia
+
+military-country: US
+military-branch: Air Force
+military-conflict: Korean War
+
+cemetery-name: Lake Murray Presbyterian Church Celebration Garden cemetery
+cemetery-place: US, SC, Chapin

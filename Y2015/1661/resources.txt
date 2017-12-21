@@ -1,0 +1,8 @@
+source-title: Daily Local
+source-date: 2015-02-21
+source-url: http://www.legacy.com/obituaries/dailylocal/obituary.aspx?n=Bruce-W-Lane&pid=174203220
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

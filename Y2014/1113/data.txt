@@ -1,0 +1,11 @@
+name-last: Speckenbach
+name-first: Paul
+
+birth-place: US, NY, Brooklyn
+
+death-date: 2014-09-15
+death-place: US, NY, Roslyn
+
+school-level: secondary
+school-name: St. Francis Preparatory School
+school-place: US, NY, New York

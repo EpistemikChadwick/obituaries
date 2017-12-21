@@ -1,0 +1,12 @@
+name-last: Slutter
+name-first: Daniel
+name-given: Daniel P.
+
+birth-date: 1936-01-19
+birth-place: US, PA, Lower Nazareth Township
+
+death-date: 2015-01-18
+death-place: US, PA, East Stroudsburg
+
+military-country: US
+military-branch: Army

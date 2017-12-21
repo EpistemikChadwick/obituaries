@@ -1,0 +1,12 @@
+source-title: Chicago Tribune
+source-date: 2015-02-20
+source-url: http://www.chicagotribune.com/sports/baseball/cubs/chi-gary-woods-dies-20150220-story.html
+
+source-title: CSN Chicago
+source-date: 2015-02-20
+source-url: http://www.csnchicago.com/white-sox/former-white-sox-scout-gary-woods-passes-away
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

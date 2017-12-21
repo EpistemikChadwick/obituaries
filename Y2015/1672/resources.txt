@@ -1,0 +1,8 @@
+source-title: Arizona Republic
+source-date: 2015-02-15
+source-url: http://www.legacy.com/obituaries/azcentral/obituary.aspx?n=Eddie-Pullins&pid=174154999
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-15

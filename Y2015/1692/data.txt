@@ -1,0 +1,11 @@
+name-last: Borghi
+name-first: Frank
+
+death-date: 2015-02-02
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Jefferson Barracks National Cemetery
+cemetery-place: US, MO, Lemay

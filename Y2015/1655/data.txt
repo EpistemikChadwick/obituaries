@@ -1,0 +1,17 @@
+name-last: Bunch
+name-first: Rudy
+name-given: William Rudolph
+
+birth-date: 1931-08-05
+
+death-date: 2015-02-18
+
+school-level: secondary
+school-name: Knoxville HS
+school-place: US, TN, Knoxville
+
+military-country: US
+military-conflict: Korean War
+
+cemetery-name: Highland Memorial Cemetery
+cemetery-place: US, TN, Knoxville

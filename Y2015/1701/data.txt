@@ -1,0 +1,13 @@
+name-last: Monbouquette
+name-first: Bill
+name-given: William Charles
+
+birth-date: 1936-08-11
+birth-place: US, MA, Medford
+
+death-date: 2015-01-25
+death-place: US, MA, Boston
+
+school-level: secondary
+school-name: Medford HS
+school-place: US, MA, Medford

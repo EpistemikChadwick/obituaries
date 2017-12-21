@@ -1,0 +1,8 @@
+source-title: Devlin Funeral Home
+source-date: 2015-01-26
+source-url: http://www.devlinfuneralhome.com/fh/obituaries/obituary.cfm?o_id=2925734&fh_id=13061
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-26

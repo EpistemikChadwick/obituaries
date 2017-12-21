@@ -1,0 +1,8 @@
+source-title: South Coast Today
+source-date: 2015-01-31
+source-url: http://www.southcoasttoday.com/article/20150131/Obituaries/150139908
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-01

@@ -1,0 +1,20 @@
+name-last: Sparagna
+name-first: Francis
+name-given: Francis A.
+name-nick: Spitz
+
+birth-place: US, NJ, Vineland
+
+death-date: 2015-02-10
+death-place: US, NJ, Millville
+
+school-level: secondary
+school-name: Sacred Heart HS
+school-place: US, NJ, Vineland
+
+school-level: college
+school-name: St. Joseph’s University
+school-place: US, PA, Philadelphia
+
+cemetery-name: Sacred Heart Cemetery
+cemetery-place: US, NJ, Vineland

@@ -1,0 +1,8 @@
+source-title: Detroit Free Press
+source-date: 2015-02-02
+source-url: http://www.freep.com/story/sports/mlb/tigers/2015/02/02/detroit-tigers-dave-bergman/22755701/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-02

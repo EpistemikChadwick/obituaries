@@ -1,0 +1,6 @@
+name-last: Banks
+name-first: Ernie
+
+birth-date: 1931-01-31
+
+death-date: 2015-01-23

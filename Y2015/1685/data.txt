@@ -1,0 +1,5 @@
+name-last: Linares
+name-first: Serguey
+
+death-date: 2015-02-07
+death-place: US, FL, Miami

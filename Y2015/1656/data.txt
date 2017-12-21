@@ -1,0 +1,5 @@
+name-last: Woods
+name-first: Gary
+
+death-date: 2015-02-19
+death-place: US, CA, Solvang

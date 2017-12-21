@@ -1,0 +1,8 @@
+source-title: Restland Funeral Home
+source-date: 2015-01-29
+source-url: http://www.restlandfuneralhome.com/obituaries/Ron-Smiley-2/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-29

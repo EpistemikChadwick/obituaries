@@ -1,0 +1,9 @@
+name-last: Putnam
+name-first: Kit
+name-given: Christopher
+
+birth-date: 1944-01-06
+birth-place: US, NY, New York
+
+death-date: 2014-12-25
+death-place: US, CA, Visalia

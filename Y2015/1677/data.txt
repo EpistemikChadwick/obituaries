@@ -1,0 +1,19 @@
+name-last: Hatz
+name-first: Walt
+name-given: Walter
+
+birth-date: 1931-01-27
+birth-place: US, DE, Wilmington
+
+death-date: 2015-02-09
+death-place: US, DE, Rehoboth Beach
+
+school-level: secondary
+school-name: Brown Vocational HS
+school-place: US, DE, Wilmington
+
+military-country: US
+military-branch: Air Force
+
+cemetery-name: All Saints Cemetery
+cemetery-place: US, DE, Wilmington

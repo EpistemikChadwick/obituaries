@@ -1,0 +1,8 @@
+source-title: Winscott Road Funeral Home
+source-date: 2015-02-05
+source-url: http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2949519&fh_id=14670
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-05

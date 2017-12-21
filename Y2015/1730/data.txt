@@ -1,0 +1,13 @@
+name-last: La Scala
+name-first: Joe
+name-given: Joseph Edward
+
+birth-date: 1931-01-27
+birth-place: US, NY, Brooklyn
+
+death-date: 2015-01-13
+death-place: US, AZ, Mesa
+
+school-level: secondary
+school-name: Lafayette HS
+school-place: US, NY, Brooklyn

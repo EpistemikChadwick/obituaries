@@ -1,0 +1,8 @@
+source-title: Giants.mlb.com
+source-date: 2015-01-30
+source-url: http://m.giants.mlb.com/news/article/107939788/tracy-ringolsby-rocky-bridges-vintage-baseball-guy
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-02

@@ -1,0 +1,17 @@
+name-last: Simmons
+name-first: Bill
+name-given: William Emmanuel
+
+birth-date: 1932-03-18
+birth-place: US, CA, San Diego
+
+death-date: 2015-01-21
+death-place: US, SD, Sturgis
+
+school-level: secondary
+school-name: La Jolla Academy
+school-place: US, CA, La Jolla
+
+military-country: US
+military-branch: Marines
+military-conflict: Korean War

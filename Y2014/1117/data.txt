@@ -1,0 +1,11 @@
+name-last: Cruz
+name-first: Concepcion
+name-given: Jose Concepcion
+name-nick: Concho
+name-matrilineal: Hernandez
+
+birth-date: 1941-10-30
+birth-place: MX, Jalisco, San Miguel el Alto
+
+death-date: 2014-09-21
+death-place: MX, Aguascalientes, Aguascalientes

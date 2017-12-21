@@ -1,0 +1,8 @@
+source-title: Sultanes.com.mx
+source-date: 2014-09-22
+source-url: http://www.sultanes.com.mx/index.php/todas-las-noticias/1264-descanse-en-paz-concho-cruz.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-01

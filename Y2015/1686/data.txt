@@ -1,0 +1,16 @@
+name-last: Lucas
+name-first: Flip
+name-given: Ralph T.
+
+birth-date: 1928-12-11
+birth-place: US, OH, Springfield
+
+death-date: 2015-02-07
+death-place: US, OH, Springfield
+
+school-level: secondary
+school-name: Springfield HS
+school-place: US, OH, Springfield
+
+cemetery-name: Ferncliff Cemetery
+cemetery-place: US, OH, Springfield

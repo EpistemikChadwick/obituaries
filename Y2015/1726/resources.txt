@@ -1,0 +1,8 @@
+source-title: Concord Monitor
+source-date: 2015-01-26
+source-url: http://www.legacy.com/obituaries/concordmonitor/obituary.aspx?n=Robert-H-Batchelder&pid=173964392
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-26

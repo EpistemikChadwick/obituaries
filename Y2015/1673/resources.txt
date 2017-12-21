@@ -1,0 +1,8 @@
+source-title: YourDailyJournal.com
+source-date: 2015-02-15
+source-url: http://www.yourdailyjournal.com/news/home_top-localnews1-sports/151865647/Former-Rockingham-coach-Bill-Eutsler-dies-at-96
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-15

@@ -1,0 +1,20 @@
+name-last: Bertles
+name-first: James
+name-given: James M.
+
+birth-date: 1923-07-15
+birth-place: US, KS, Salina
+
+death-date: 2015-02-03
+death-place: US, KS, Salina
+
+school-level: college
+school-name: Kansas Wesleyan University
+school-place: US, KS, Salina
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Roselawn Memorial Park Cemetery
+cemetery-place: US, KS, Salina

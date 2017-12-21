@@ -1,0 +1,8 @@
+source-title: Denver Post
+source-date: 2015-01-25
+source-url: http://www.legacy.com/obituaries/denverpost/obituary.aspx?n=Scott-August-Kannenberg&pid=173945301
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-25

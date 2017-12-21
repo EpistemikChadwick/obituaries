@@ -1,0 +1,11 @@
+name-last: Holley
+name-first: J. D.
+name-given: Joseph D.
+
+birth-date: 1936-03-25
+
+death-date: 2015-02-09
+death-place: US, GA, Augusta
+
+cemetery-name: Mt Olive Memorial Gardens
+cemetery-place: US, GA, Augusta

@@ -1,0 +1,12 @@
+source-title: Local10.com
+source-date: 2015-02-07
+source-url: http://www.local10.com/news/1-person-dead-in-west-miamidade-salon-shooting/31154002
+
+source-title: Local10.com
+source-date: 2015-02-09
+source-url: http://www.local10.com/news/gunman-in-west-miamidade-county-salon-shooting-played-pro-baseball/31181316
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-10

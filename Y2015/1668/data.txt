@@ -1,0 +1,19 @@
+name-last: Speares
+name-first: Benny
+name-given: Benny Dewitt
+
+birth-date: 1933-07-24
+birth-place: US, SC, Anderson
+
+death-date: 2015-02-14
+death-place: US, SC, Anderson
+
+school-level: secondary
+school-name: Anderson Boys’ HS
+school-place: US, SC, Anderson
+
+school-level: college
+school-name: Clemson University
+
+cemetery-name: Forest Lawn Memorial Cemetery
+cemetery-place: US, SC, Anderson

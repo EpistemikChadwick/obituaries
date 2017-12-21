@@ -1,0 +1,13 @@
+name-last: Bryant
+name-first: Don
+name-given: Donald Ray
+name-nick: Bear
+
+birth-date: 1941-07-13
+birth-place: US, FL, Jasper
+
+death-date: 2015-01-22
+
+school-level: secondary
+school-name: Paxon HS
+school-place: US, FL, Jacksonville

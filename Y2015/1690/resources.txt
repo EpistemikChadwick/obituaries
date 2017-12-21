@@ -1,0 +1,8 @@
+source-title: Tri-City Herald
+source-date: 2015-02-04
+source-url: http://www.legacy.com/obituaries/tricityherald/obituary.aspx?n=ROBERT-LAMAR-ROBERTS&pid=174048856
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-04

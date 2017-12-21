@@ -1,0 +1,23 @@
+name-last: Sokol
+name-first: Chester
+name-given: Chester Joseph
+
+birth-date: 1926-12-29
+birth-place: US, WV, Benwood
+
+death-date: 2015-01-17
+
+school-level: secondary
+school-name: Wheeling Central Catholic HS
+school-place: US, WV, Wheeling
+
+school-level: college
+school-name: West Liberty University
+school-place: US, WV, West Liberty
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Mount Calvary Cemetery
+cemetery-place: US, WV, Wheeling

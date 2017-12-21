@@ -1,0 +1,8 @@
+source-title: oanow.com
+source-date: 2015-01-27
+source-url: http://www.oanow.com/obituaries/article_b6ea9175-8774-5583-8671-c4d0c9e67352.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-30

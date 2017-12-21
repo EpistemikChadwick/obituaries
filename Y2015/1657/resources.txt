@@ -1,0 +1,8 @@
+source-title: DignityMemorial.com
+source-date: 2015-02-21
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Michael-Abarbanel&lc=9758&pid=174160766&uuid=2b10eee2-2386-4593-bae6-a216db23a0ed
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

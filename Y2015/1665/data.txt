@@ -1,0 +1,8 @@
+name-last: Kim
+name-first: Wendell
+
+death-date: 2015-02-15
+death-place: US, AZ,
+
+school-level: college
+school-name: California Polytechnic State University, Pomona

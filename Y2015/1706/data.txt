@@ -1,0 +1,22 @@
+name-last: Ralston
+name-first: Kris
+name-given: Kristopher Mance
+
+birth-place: US, MO, Carthage
+
+death-date: 2015-01-25
+death-place: US, AR, Springdale
+
+school-level: secondary
+school-name: Carthage HS
+school-place: US, MO, Carthage
+
+school-level: college
+school-name: Crowder College
+school-place: US, MO, Neosho
+
+school-level: college
+school-name: Central Missouri State University
+
+cemetery-name: Park Cemetery
+cemetery-place: US, MO, Carthage

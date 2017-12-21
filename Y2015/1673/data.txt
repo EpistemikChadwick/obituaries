@@ -1,0 +1,11 @@
+name-last: Eutsler
+name-first: Bill
+
+death-date: 2015-02-14
+
+school-level: college
+school-name: Wake Forest University
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

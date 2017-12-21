@@ -1,0 +1,8 @@
+source-title: Baxter Bulletin
+source-date: 2015-02-18
+source-url: http://www.legacy.com/obituaries/baxterbulletin/obituary.aspx?n=Jim-Fudoli&pid=174175225
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-18

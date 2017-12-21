@@ -1,0 +1,8 @@
+source-title: Visalia Times-Delta
+source-date: 2015-01-24
+source-url: http://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=Christopher-Putnam-Kit&pid=173951032
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-25

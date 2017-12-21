@@ -1,0 +1,8 @@
+source-title: Times-Picayune
+source-date: 2015-01-13
+source-url: http://obits.nola.com/obituaries/nola/obituary.aspx?n=Herbert-Harold-Simpson&pid=173835981
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-10

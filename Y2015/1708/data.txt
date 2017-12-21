@@ -1,0 +1,17 @@
+name-last: Letlow
+name-first: Louie
+name-given: Louie Eldridge
+
+birth-date: 1929-08-07
+birth-place: US, AL, Lee County
+
+death-date: 2015-01-25
+death-place: US, AL, Opelika
+
+school-level: secondary
+school-name: Clift HS
+school-place: US, AL, Opelika
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

@@ -1,0 +1,12 @@
+name-last: Locke
+name-first: Charles
+name-given: Charles E.
+
+birth-date: 1932-05-05
+birth-place: US, MO, Malden
+
+death-date: 2015-01-09
+death-place: US, MO, Poplar Bluff
+
+cemetery-name: Dexter Cemetery
+cemetery-place: US, MO, Dexter

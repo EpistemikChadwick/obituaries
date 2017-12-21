@@ -1,0 +1,8 @@
+source-title: Lakeshore Mortuary
+source-date: 2015-01-15
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Joseph-La+Scala&lc=2414&pid=173840967&mid=6277752
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-15

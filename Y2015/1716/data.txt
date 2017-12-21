@@ -1,0 +1,10 @@
+name-last: Hoey
+name-first: Steve
+name-given: Stephen B.
+
+death-date: 2015-01-14
+death-place: US, NY, Onondaga Hill
+
+school-level: secondary
+school-name: Christian Brothers Academy
+school-place: US, NY, Syracuse

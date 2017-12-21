@@ -1,0 +1,15 @@
+name-last: Kautzer
+name-first: Bill
+name-given: William
+
+birth-date: 1954-12-15
+birth-place: US, WI, Wisconsin Rapids
+
+death-date: 2015-01-11
+
+school-level: secondary
+school-name: Nekoosa HS
+school-place: US, WI, Nekoosa
+
+cemetery-name: Riverside Cemetery
+cemetery-place: US, WI, Nekoosa

@@ -1,0 +1,22 @@
+name-last: Gruell
+name-first: Jack
+name-given: John R.
+
+birth-date: 1929-12-13
+birth-place: US, CA, Ventura
+
+death-date: 2015-01-03
+
+school-level: secondary
+school-name: Ventura HS
+school-place: US, CA, Ventura
+
+school-level: college
+school-name: Ventura College
+school-place: US, CA, Ventura
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Cremated

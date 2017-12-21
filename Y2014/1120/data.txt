@@ -1,0 +1,8 @@
+name-last: Parrish
+name-first: Bill
+name-given: William Allan
+
+birth-date: 1928-04-18
+birth-place: CA, SK, Woodrow
+
+death-date: 2014-12-22

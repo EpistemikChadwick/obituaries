@@ -1,0 +1,15 @@
+name-last: Batchelder
+name-first: Robert
+name-given: Robert H.
+
+birth-place: US, NH, Goffstown
+
+death-date: 2015-01-24
+death-place: US, NH, Allenstown
+
+school-level: secondary
+school-name: Pembroke Academy
+school-place: US, NH, Pembroke
+
+military-country: US
+military-branch: Army

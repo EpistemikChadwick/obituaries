@@ -1,0 +1,11 @@
+name-last: Knight
+name-first: Don
+name-given: Donald Eugene
+
+birth-date: 1931-04-10
+birth-place: US, AL, Birmingham
+
+death-date: 2015-01-12
+
+military-country: US
+military-branch: Army

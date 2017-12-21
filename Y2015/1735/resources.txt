@@ -1,0 +1,8 @@
+source-title: Altmeyer Funeral Homes
+source-date: 2015-01-19
+source-url: http://www.altmeyer.com/_mgxroot/page_10863.php?id=1472446
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-19

@@ -1,0 +1,8 @@
+source-title: Home News Tribune
+source-date: 2015-02-14
+source-url: http://www.legacy.com/obituaries/mycentraljersey/obituary.aspx?n=Edward-T-Skladany&pid=174144369
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-14

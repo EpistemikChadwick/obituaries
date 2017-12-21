@@ -1,0 +1,20 @@
+name-last: Palmer
+name-first: Rudy
+name-given: Iva Rudolph
+
+birth-date: 1929-01-17
+birth-place: US, AR, Greenbrier
+
+death-date: 2015-02-13
+death-place: US, TX, Austin
+
+school-level: secondary
+school-name: Conway HS
+school-place: US, AR, Conway
+
+school-level: college
+school-name: University of Central Arkansas
+school-place: US, AR, Conway
+
+military-country: US
+military-branch: Air Force

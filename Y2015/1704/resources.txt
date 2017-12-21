@@ -1,0 +1,13 @@
+source-title: MyFox8.com
+source-date: 2015-01-19
+source-url: http://myfox8.com/2015/01/19/nc-state-alumni-murdered-police-arrest-wifes-ex-husband/
+
+source-title: FoxNews
+source-date: 2015-01-19
+source-url: http://www.foxnews.com/us/2015/01/21/tech-mogul-charged-with-murdering-ex-wife-husband-in-home-invasion-shooting/
+
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-29

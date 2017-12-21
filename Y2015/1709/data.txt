@@ -1,0 +1,18 @@
+name-last: Gabella
+name-first: Bob
+name-given: Robert R.
+
+birth-date: 1929-04-25
+birth-place: US, OH, Cleveland
+
+death-date: 2015-01-24
+
+meta-height: 72
+meta-weight: 190
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War from # 1950-10-05 to 1952-10-05
+
+cemetery-name: Restland Cemetery
+cemetery-place: US, OH, Bainbridge

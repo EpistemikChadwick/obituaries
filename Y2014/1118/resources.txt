@@ -1,0 +1,8 @@
+source-title: Yucatanahora.com
+source-date: 2014-10-30
+source-url: http://yucatanahora.com/noticias/fallecio-pedro-comas-historico-pelota-profesional-yucateca-42508/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-01

@@ -1,0 +1,6 @@
+name-last: Rayle
+name-first: Jose
+name-matrilineal: Preciado
+name-nick: El Aleman
+
+death-date: 2015-01-03

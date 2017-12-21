@@ -1,0 +1,8 @@
+source-title: Albany Times Union
+source-date: 2015-02-05
+source-url: http://www.legacy.com/obituaries/timesunion-albany/obituary.aspx?n=Kenneth-A-Johnson&pid=174049984
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-05

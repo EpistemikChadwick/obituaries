@@ -1,0 +1,22 @@
+name-last: Touchberry
+name-first: Burt
+name-given: Eddie
+
+birth-date: 1934-07-27
+birth-place: US, SC, Columbia
+
+death-date: 2015-01-20
+death-place: US, FL, Dunnellon
+
+school-level: secondary
+school-name: Dentsville HS
+school-place: US, SC, Columbia
+
+school-level: college
+school-name: University of Florida
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Florida National Cemetery
+cemetery-place: US, FL, Bushnell

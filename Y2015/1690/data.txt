@@ -1,0 +1,8 @@
+name-last: Roberts
+name-first: Bob
+name-given: Robert Lamar
+
+birth-date: 1928-09-30
+birth-place: US, WA, Spokane
+
+death-date: 2015-01-11

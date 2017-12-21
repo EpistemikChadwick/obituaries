@@ -1,0 +1,10 @@
+name-last: Wilson
+name-first: Wayne
+
+birth-place: US, CT, Norwalk
+
+death-date: 2015-01-26
+
+school-level: college
+school-name: Springfield College
+school-place: US, MA, Springfield

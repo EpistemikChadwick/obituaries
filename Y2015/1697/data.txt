@@ -1,0 +1,21 @@
+name-last: Mallette
+name-first: Pat
+
+birth-date: 1932-09-25
+birth-place: US, NE, Dodge County
+
+death-date: 2015-01-29
+death-place: US, NE, Omaha
+
+school-level: secondary
+school-name: Uehling HS
+school-place: US, NE, Uehling
+
+school-level: college
+school-name: University of Nebraska
+
+military-country: US
+military-branch: Air Force
+
+cemetery-name: Blair Cemetery
+cemetery-place: US, NE, Blair

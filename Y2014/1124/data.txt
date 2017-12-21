@@ -1,0 +1,11 @@
+name-last: Ariss
+name-first: Gordie
+name-given: Gordon Thaler
+
+birth-date: 1928-07-12
+birth-place: CA, ON, Kitchener
+
+death-date: 2014-11-10
+
+cemetery-name: Memory Gardens
+cemetery-place: CA, ON, Breslau

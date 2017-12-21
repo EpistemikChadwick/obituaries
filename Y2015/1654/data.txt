@@ -1,0 +1,17 @@
+name-last: Johnson
+name-first: Don
+name-given: Don R.
+
+birth-date: 1926-11-12
+birth-place: US, OR, Portland
+
+death-date: 2015-02-10
+death-place: US, OR, Portland
+
+school-level: secondary
+school-name: Jefferson HS
+school-place: US, OR, Portland
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

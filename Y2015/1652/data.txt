@@ -1,0 +1,20 @@
+name-last: Hamilton
+name-first: Martin
+name-given: Martin J.
+name-suffix: Jr.
+
+birth-date: 1919
+birth-place: US, MA, Lawrence
+
+death-date: 2015-02-18
+
+school-level: secondary
+school-name: Lawrence HS
+school-place: US, MA, Lawrence
+
+military-country: US
+military-branch: Coast Guard
+military-conflict: World War II
+
+cemetery-name: Puritan Lawn Memorial Park
+cemetery-place: US, MA, Peabody

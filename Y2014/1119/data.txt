@@ -1,0 +1,16 @@
+name-last: Conner
+name-first: Joe
+name-given: Joe Raymond
+
+birth-date: 1924-03-14
+birth-place: US, TX, Olney
+
+death-date: 2014-01-10
+death-place: US, OK, Durant
+
+military-country: US
+military-branch: Army
+military-conflict: World War II # from 1943-04-21 to 1945-12-13
+
+cemetery-name: Powell Cemetery
+cemetery-place: US, OK, Powell

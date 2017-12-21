@@ -1,0 +1,8 @@
+source-title: Dulle-Trimble Funeral Home
+source-date: 2015-01-15
+source-url: http://www.dulletrimble.com/obituary/Paul-Hook-Herman-Schnieders/Jefferson-City-MO/1468823
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-15

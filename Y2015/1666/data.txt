@@ -1,0 +1,16 @@
+name-last: Nickisch
+name-first: Leon
+name-nick: Nick
+
+birth-date: 1939-08-12
+birth-place: US, WI, Manitowoc
+
+death-date: 2015-02-15
+death-place: US, WI, Manitowoc
+
+school-level: secondary
+school-name: Lincoln HS
+school-place: US, WI, Manitowoc
+
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, WI, Manitowoc

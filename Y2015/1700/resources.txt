@@ -1,0 +1,8 @@
+source-title: Stribling Funeral Home
+source-date: 2015-01-27
+source-url: http://www.striblingfuneralhome.net/memsol.cgi?user_id=1507258
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-27

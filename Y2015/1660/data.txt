@@ -1,0 +1,11 @@
+name-last: Orphal
+name-first: John
+
+birth-date: 1917-11
+birth-place: US, OH, Wapakoneta
+
+death-date: 2015-02-11
+
+school-level: secondary
+school-name: Blume HS
+school-place: US, OH, Wapakoneta

@@ -1,0 +1,18 @@
+name-last: Pullins
+name-first: Eddie
+
+birth-date: 1921-12-23
+birth-place: US, AZ, Glendale
+
+death-date: 2015-02-07
+
+school-level: secondary
+school-name: Glendale HS
+school-place: US, AZ, Glendale
+
+school-level: college
+school-name: University of Arizona
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

@@ -1,0 +1,11 @@
+name-last: Utley
+name-first: Ewell
+name-given: Ewell Lee
+
+birth-place: US, AR, Paris
+
+death-date: 2014-12-28
+
+school-level: secondary
+school-name: Paris HS
+school-place: US, AR, Paris

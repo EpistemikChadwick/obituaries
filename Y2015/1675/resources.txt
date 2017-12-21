@@ -1,0 +1,8 @@
+source-title: Asheville Citizen-Times
+source-date: 2015-02-13
+source-url: http://www.legacy.com/obituaries/citizen-times/obituary.aspx?n=Ray-Hathaway&pid=174129189
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-13

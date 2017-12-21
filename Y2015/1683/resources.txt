@@ -1,0 +1,8 @@
+source-title: Dayton Daily News
+source-date: 2015-02-10
+source-url: http://www.legacy.com/obituaries/dayton/obituary.aspx?n=charles-paetz&pid=174105136&fhid=7515&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-10

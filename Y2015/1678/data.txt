@@ -1,0 +1,23 @@
+name-last: Hedman
+name-first: Wally
+name-given: Wallace Ray
+
+birth-date: 1927-02-18
+birth-place: US, NY, Brooklyn
+
+death-date: 2015-02-01
+death-place: US, RI, Westerly
+
+school-level: secondary
+school-name: Ridgewood HS
+school-place: US, NJ, Ridgewood
+
+school-level: college
+school-name: College of William and Mary
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Rhode Island Veterans Memorial Cemetery
+cemetery-place: US, RI, Exeter

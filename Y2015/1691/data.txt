@@ -1,0 +1,20 @@
+name-last: Kenny
+name-first: Kenneth
+name-given: Kenneth Eugene
+
+alias-type: birth
+alias-last: Rasmussen
+
+birth-date: 1913
+birth-place: US, IA,
+
+death-date: 2015-01-12
+
+military-country: US
+military-branch: Navy
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Riverside National Cemetery
+cemetery-place: US, CA, Riverside

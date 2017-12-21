@@ -1,0 +1,10 @@
+name-last: Florentino
+name-first: Jhon
+name-given: John Nerys
+name-matrilineal: Deleon
+
+birth-date: 1983-08-22
+birth-place: DO, Azua, Azua
+
+death-date: 2015-01-26
+death-place: US, FL, Miami

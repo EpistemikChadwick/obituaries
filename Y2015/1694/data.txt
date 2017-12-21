@@ -1,0 +1,12 @@
+name-last: Butler
+name-first: Tom
+name-given: Thomas David
+
+birth-date: 1951-08-10
+birth-place: US, AK, Fairbanks
+
+death-date: 2015-01-31
+death-place: US, TX, Fort Worth
+
+school-level: college
+school-name: Texas Christian University

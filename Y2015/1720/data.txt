@@ -1,0 +1,25 @@
+name-last: Goehl
+name-first: Ted
+name-given: Theodore F.
+name-suffix: Jr.
+
+birth-date: 1934-02-06
+birth-place: US, IL, Quincy
+
+death-date: 2015-01-21
+death-place: US, OK, Tulsa
+
+school-level: secondary
+school-name: Seymour HS
+school-place: US, IL, Payson
+
+school-level: college
+school-name: Quincy University
+school-place: US, IL, Quincy
+
+school-level: college
+school-name: Culver-Stockton College
+school-place: US, MO, Canton
+
+military-country: US
+military-branch: Army # from 1955 to 1957

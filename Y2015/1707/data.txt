@@ -1,0 +1,7 @@
+name-last: Bridges
+name-first: Rocky
+name-given: Everett Lamar
+
+birth-place: US, TX, Refugio
+
+death-date: 2015-01-27

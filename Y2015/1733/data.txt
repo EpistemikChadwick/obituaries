@@ -1,0 +1,20 @@
+name-last: Burford
+name-first: Cecil
+name-given: Cecil W.
+name-suffix: Jr.
+
+birth-date: 1935-01-19
+birth-place: US, TN, Memphis
+
+death-date: 2015-01-15
+death-place: US, MS, Madison
+
+school-level: secondary
+school-name: Columbia Military Academy
+school-place: US, TN, Columbia
+
+school-level: college
+school-name: University of Mississippi
+
+cemetery-name: Magnolia Cemetery
+cemetery-place: US, MS, Batesville

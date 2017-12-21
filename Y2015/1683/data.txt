@@ -1,0 +1,11 @@
+name-last: Paetz
+name-first: Charles
+
+death-date: 2015-02-06
+
+school-level: secondary
+school-name: Roosevelt HS
+school-place: US, OH, Dayton
+
+cemetery-name: Woodland Cemetery
+cemetery-place: US, OH, Dayton

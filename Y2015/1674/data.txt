@@ -1,0 +1,11 @@
+name-last: Skladany
+name-given: Edward T.
+
+birth-place: US, PA, Larksville
+
+death-date: 2015-02-10
+death-place: US, NJ, Monroe Township
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

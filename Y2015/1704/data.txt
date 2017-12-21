@@ -1,0 +1,12 @@
+name-last: Mattison
+name-first: Corey
+
+death-date: 2015-01-15
+death-place: US, VA, Ashburn
+
+school-level: secondary
+school-name: Williams HS
+school-place: US, NC, Burlington
+
+school-level: college
+school-name: North Carolina State University

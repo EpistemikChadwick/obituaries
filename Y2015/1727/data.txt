@@ -1,0 +1,9 @@
+name-last: Hirsch
+name-first: James
+name-given: James F.
+name-nick: Chubby
+
+death-date: 2015-01-24
+
+school-level: college
+school-name: University of Florida

@@ -1,0 +1,8 @@
+source-title: Repository
+source-date: 2015-02-06
+source-url: http://www.legacy.com/obituaries/cantonrep/obituary.aspx?n=sam-a-purses&pid=174074373&fhid=27695&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-06

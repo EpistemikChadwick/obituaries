@@ -1,0 +1,8 @@
+source-title: Wells Funeral Home
+source-date: 2015-01-19
+source-url: http://www.wellsfuneralhome.net/fh/obituaries/obituary.cfm?o_id=2916968&fh_id=11662
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-19

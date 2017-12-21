@@ -1,0 +1,12 @@
+name-last: Hanssen
+name-first: John
+name-given: John W.
+
+birth-date: 1926-09-25
+birth-place: US, IA, Burlington
+
+death-date: 2015-02-13
+death-place: US, IA, Davenport
+
+military-country: US
+military-branch: Army

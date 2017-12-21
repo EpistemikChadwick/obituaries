@@ -1,0 +1,8 @@
+source-title: Feerick Funeral Home
+source-date: 2015-02-21
+source-url: http://www.meaningfulfunerals.net/home/index.cfm?action=public:obituaries.view&o_id=2972816&fh_id=14932
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

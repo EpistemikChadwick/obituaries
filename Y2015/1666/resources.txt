@@ -1,0 +1,8 @@
+source-title: Manitowoc Herald Times Reporter
+source-date: 2015-02-17
+source-url: http://www.legacy.com/obituaries/htrnews/obituary.aspx?n=Leon-Nickisch&pid=174165835
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-17

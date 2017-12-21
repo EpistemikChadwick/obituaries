@@ -1,0 +1,8 @@
+name-last: Calloway
+name-first: Neil
+name-given: Neil Spencer
+name-nick: Snookie
+
+birth-date: 1939-07-28
+
+death-date: 2015-02-08

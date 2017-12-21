@@ -1,0 +1,8 @@
+source-title: Westerly Sun
+source-date: 2015-02-11
+source-url: http://www.legacy.com/obituaries/thewesterlysun/obituary.aspx?n=Wallace-Ray-Hedman&pid=174111288
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-11

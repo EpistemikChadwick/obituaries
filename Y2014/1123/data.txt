@@ -1,0 +1,14 @@
+name-last: Peregrine
+name-first: Dick
+name-given: Richard W.
+
+birth-date: 1929-07-29
+
+death-date: 2014-12-20
+
+school-level: secondary
+school-name: Juneau HS
+school-place: US, WI, Milwaukee
+
+school-level: college
+school-name: University of Wisconsin-La Crosse

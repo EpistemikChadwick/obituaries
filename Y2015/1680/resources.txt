@@ -1,0 +1,12 @@
+source-title: NHL.com
+source-date: 2015-02-09
+source-url: http://www.nhl.com/ice/news.htm?id=752468
+
+source-title: CBC News
+source-date: 2015-02-09
+source-url: http://www.cbc.ca/news/canada/montreal/claude-ruel-former-montreal-canadiens-coach-dies-at-76-1.2950092
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-10

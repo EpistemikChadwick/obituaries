@@ -1,0 +1,8 @@
+source-title: Spokesman-Review
+source-date: 2015-01-29
+source-url: http://www.spokesman.com/stories/2015/jan/29/rocky-bridges-career-baseball-man-dies-coeur-dalen/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-30

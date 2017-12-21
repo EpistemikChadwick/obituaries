@@ -1,0 +1,8 @@
+source-title: Schuller Family Funeral Home
+source-date: 2015-02-22
+source-url: http://www.schullerfamilyfh.com/obituaries/Charles-Meekins/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-22

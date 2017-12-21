@@ -1,0 +1,8 @@
+source-title: Wapakoneta Daily News
+source-date: 2015-02-21
+source-url: http://www.legacy.com/obituaries/wapakdailynews/obituary.aspx?n=John-Orphal&pid=174207045
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

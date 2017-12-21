@@ -1,0 +1,20 @@
+name-last: Cothran
+name-first: Bobby
+name-given: Bobby R.
+
+birth-date: 1934-05-07
+
+death-date: 2015-01-24
+
+school-level: secondary
+school-name: Fairforest HS
+school-place: US, SC, Spartanburg
+
+school-level: college
+school-name: Wofford College
+
+military-country: US
+military-conflict: Korean War
+
+cemetery-name: Nazareth Presbyterian Church cemetery
+cemetery-place: US, SC, Moore

@@ -1,0 +1,8 @@
+source-title: Post-Bulletin
+source-date: 2015-02-20
+source-url: http://www.legacy.com/obituaries/postbulletin/obituary.aspx?n=Dick-Henry-Morgan&pid=174206189
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-21

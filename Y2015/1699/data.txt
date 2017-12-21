@@ -1,0 +1,9 @@
+name-last: Phillips
+name-first: Wally
+name-given: Walter M.
+name-suffix: Jr.
+
+death-date: 2015-02-07
+
+school-level: college
+school-name: Princeton University

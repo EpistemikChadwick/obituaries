@@ -1,0 +1,8 @@
+source-title: Daily Breeze
+source-date: 2015-02-10
+source-url: http://www.legacy.com/obituaries/dailybreeze/obituary.aspx?n=Ewell-Lee-Utley&pid=174106860
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-10

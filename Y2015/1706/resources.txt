@@ -1,0 +1,8 @@
+source-title: Joplin Globe
+source-date: 2015-01-28
+source-url: http://www.joplinglobe.com/obituaries/kristopher-mance-ralston/article_879db492-a67a-11e4-94f5-b72cb3deee68.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-30

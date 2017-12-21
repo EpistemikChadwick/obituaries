@@ -1,0 +1,8 @@
+source-title: La Prensa
+source-date: 2015-01-16
+source-url: http://www.laprensalara.com.ve/2015/01/prospecto-muere-al-caer-por-un-barranco/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-19

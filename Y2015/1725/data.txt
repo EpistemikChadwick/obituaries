@@ -1,0 +1,17 @@
+name-last: Keefe
+name-first: Socky
+name-given: Howard Robert
+
+birth-date: 1933-02-24
+birth-place: US, CA, Sonora
+
+death-date: 2015-01-07
+death-place: US, CA, Jamestown
+
+school-level: secondary
+school-name: Sonora HS
+school-place: US, CA, Sonora
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

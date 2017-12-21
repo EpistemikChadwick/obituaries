@@ -1,0 +1,8 @@
+name-last: Valenzuela
+name-first: Guillermo
+name-matrilineal: Ramirez
+name-nick: Memo
+
+birth-date: 1961-02-19
+
+death-date: 2014-01-20

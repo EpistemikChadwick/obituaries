@@ -1,0 +1,8 @@
+source-title: Tabascohoy.com
+source-date: 2014-04-20
+source-url: http://www.tabascohoy.com/2/notas/?ID=216241
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-02

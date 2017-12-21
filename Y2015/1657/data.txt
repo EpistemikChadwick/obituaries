@@ -1,0 +1,9 @@
+name-last: Abarbanel
+name-first: Mickey
+name-given: Michael Gary
+
+birth-date: 1945-12-10
+
+death-date: 2015-02-14
+
+meta-throws: left

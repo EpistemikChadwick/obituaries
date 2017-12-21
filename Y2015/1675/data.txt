@@ -1,0 +1,16 @@
+name-last: Hathaway
+name-first: Ray
+name-given: Ray Wilson
+
+birth-date: 1916-10-23
+birth-place: US, OH, Darke County
+
+death-date: 2015-02-11
+death-place: US, NC, Asheville
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Ashelawn Gardens of Memory
+cemetery-place: US, NC, Asheville

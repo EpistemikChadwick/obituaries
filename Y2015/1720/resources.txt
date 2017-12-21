@@ -1,0 +1,8 @@
+source-title: Quincy Herald-Whig
+source-date: 2015-01-25
+source-url: http://www.legacy.com/obituaries/whig/obituary.aspx?n=Theodore-F-Goehl-Ted&pid=173958749
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-25

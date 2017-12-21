@@ -1,0 +1,12 @@
+source-title: DominicanosHOY.com
+source-date: 2015-01-30
+source-url: http://movil.dominicanoshoy.com/articulos/articulo/consterna-en-miami-muerte-joven-deportista-dominicano/
+
+source-title: Jail.com
+source-date: 2015-02-02
+source-url: http://jail.com/arrest-records/jhon-florentino-deleon-5490988
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-02

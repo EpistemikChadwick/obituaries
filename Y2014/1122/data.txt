@@ -1,0 +1,17 @@
+name-last: Fincher
+name-first: Bob
+name-given: Robert Withrow
+
+birth-date: 1921-09-14
+birth-place: US, AL, Woodward
+
+death-date: 2014-11-30
+death-place: US, FL, Palm Harbor
+
+school-level: secondary
+school-name: Montgomery HS
+school-place: US, AL, Montgomery
+
+military-country: US
+military-branch: Marines
+military-conflict: World War II

@@ -1,0 +1,12 @@
+source-title: Springfield News-Sun
+source-date: 2015-02-09
+source-url: http://www.springfieldnewssun.com/news/sports/high-school/springfield-clark-county-baseball-hall-of-famer-fl/nj7Wm/
+
+source-title: Springfield News Sun
+source-date: 2015-02-09
+source-url: http://www.legacy.com/obituaries/springfield/obituary.aspx?n=Ralph-T-LUCAS-Flip&pid=174096125
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-10

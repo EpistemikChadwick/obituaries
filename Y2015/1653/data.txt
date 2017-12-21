@@ -1,0 +1,8 @@
+name-last: Meekins
+name-first: Chuck
+name-given: Charles
+
+birth-date: 1937-11-06
+birth-place: US, NY, New York
+
+death-date: 2015-02-13

@@ -1,0 +1,8 @@
+source-title: MILB.com
+source-date: 2015-01-19
+source-url: http://www.milb.com/news/article.jsp?ymd=20141024&content_id=99459558&fext=.jsp&vkey=news_l125&sid=l125
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-19

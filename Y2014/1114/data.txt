@@ -1,0 +1,9 @@
+name-last: Garcia
+name-first: Jorge
+name-nick: El Trailero
+
+death-date: 2014-04-10
+death-place: MX, Tabasco, Villahermosa
+
+cemetery-name: Cementerio Central
+cemetery-place: MX, Tabasco, Villahermosa

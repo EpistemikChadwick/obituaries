@@ -1,0 +1,8 @@
+source-title: News Journal
+source-date: 2015-02-12
+source-url: http://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=Walter-Hatz-Walt&pid=174119223
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-12

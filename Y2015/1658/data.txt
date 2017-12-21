@@ -1,0 +1,19 @@
+name-last: Dixon
+name-first: Bill
+name-given: William P.
+
+birth-date: 1939-08-02
+birth-place: US, IL, Peoria
+
+death-date: 2015-02-08
+death-place: US, WI, Wauwatosa
+
+school-level: secondary
+school-name: Washington HS
+school-place: US, IL, Washington
+
+school-level: college
+school-name: Bradley University
+
+military-country: US
+military-branch: Army

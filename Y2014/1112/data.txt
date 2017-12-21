@@ -1,0 +1,9 @@
+name-last: Conton
+name-first: Alfredo
+name-nick: Chico
+
+birth-date: 1928-10-12
+birth-place: DO, San Pedro de Macoris, Consuelo
+
+death-date: 2014-11-19
+death-place: US, NY, New York

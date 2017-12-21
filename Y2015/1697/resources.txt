@@ -1,0 +1,8 @@
+source-title: Campbell-Aman Funeral Home
+source-date: 2015-02-08
+source-url: http://www.campbellaman.com/newobituary/display.asp?id=169
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-08

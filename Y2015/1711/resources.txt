@@ -1,0 +1,12 @@
+source-title: Primerahora.com
+source-date: 2015-01-19
+source-url: http://www.primerahora.com/deportes/otros/nota/falleceelliderdeportivoreynaldopochioliver-1060069/
+
+source-title: Metro.Pr
+source-date: 2015-01-19
+source-url: http://www.metro.pr/metrosport/lamentan-fallecimiento-del-atleta-reynaldo-pochi-oliver/pGXoas!3seBMUMoS3SuI/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-02-01

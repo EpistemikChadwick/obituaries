@@ -1,0 +1,5 @@
+name-last: Diaz
+name-first: Albino
+
+death-date: 2014-10-22
+death-place: MX, Campeche, Ciudad del Carmen
