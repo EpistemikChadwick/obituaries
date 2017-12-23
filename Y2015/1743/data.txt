@@ -1,0 +1,12 @@
+name-last: Rabka
+name-given: Ervin E.
+name-nick: Porky
+
+death-date: 2015-01-05
+
+school-level: secondary
+school-name: Blue Island HS
+school-place: US, IL, Blue Island
+
+cemetery-name: St. Benedict Cemetery
+cemetery-place: US, IL, Crestwood

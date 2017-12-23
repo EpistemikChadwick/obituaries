@@ -1,0 +1,19 @@
+name-last: Long
+name-first: Wallace
+name-given: Wallace Raymond
+
+death-date: 2015
+
+school-level: secondary
+school-name: Mortimer Jordan HS
+school-place: US, AL, Kimberly
+
+school-level: college
+school-name: Auburn University
+
+military-country: US
+military-branch: Maritime Service
+military-conflict: World War II
+
+cemetery-name: Marvin's Chapel Cemetery
+cemetery-place: US, AL, Pinson

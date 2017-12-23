@@ -1,0 +1,12 @@
+name-last: Hager
+name-first: Dick
+name-given: Richard D.
+
+birth-date: 1929-01-22
+birth-place: US, MI, Ann Arbor
+
+death-date: 2014-12-29
+
+school-level: secondary
+school-name: Ann Arbor HS
+school-place: US, MI, Ann Arbor

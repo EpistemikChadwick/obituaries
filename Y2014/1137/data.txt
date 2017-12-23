@@ -1,0 +1,7 @@
+name-last: Fernandez
+name-first: Bernard
+
+birth-date: 1918-03-05
+birth-place: US, FL, Tampa
+
+death-date: 2014-11-19

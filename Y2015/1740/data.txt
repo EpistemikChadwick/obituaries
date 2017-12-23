@@ -1,0 +1,8 @@
+name-last: Long
+name-first: Carl
+name-given: Carl Russell
+
+birth-date: 1935-05-09
+birth-place: US, SC, Rock Hill
+
+death-date: 2015-01-12

@@ -1,0 +1,8 @@
+source-title: Japan Times
+source-date: 2015-01-19
+source-url: http://www.japantimes.co.jp/sports/2015/01/19/baseball/japanese-baseball/taiwan-born-ballplayer-taiho-dies-leukemia/#.VL2V7rcfrX4
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-19

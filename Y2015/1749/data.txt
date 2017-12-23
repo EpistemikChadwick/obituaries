@@ -1,0 +1,19 @@
+name-last: Andrikowich
+name-given: Gene
+
+birth-date: 1928-05-19
+birth-place: US, NH, Manchester
+
+death-date: 2015-01-01
+death-place: US, NH, Manchester
+
+school-level: secondary
+school-name: Central HS
+school-place: US, NH, Manchester
+
+school-level: college
+school-name: St. Anselm College
+school-place: US, NH, Manchester
+
+cemetery-name: St. Hedwig Cemetery
+cemetery-place: US, NH, Bedford

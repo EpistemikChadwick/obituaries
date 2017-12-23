@@ -260,6 +260,29 @@ date,person,place,source
 1924-04-01,_subject,"US, ND, Oakes",Y2014/1104
 1933,_subject,,Y2014/1108
 1930-08-28,_subject,,Y2014/1109
+,_subject,"US, AR, Paris",Y2014/1111
+1928-10-12,_subject,"DO, San Pedro de Macoris, Consuelo",Y2014/1112
+,_subject,"US, NY, Brooklyn",Y2014/1113
+1961-02-19,_subject,,Y2014/1115
+1947-08-06,_subject,"US, IA, Burlington",Y2014/1116
+1941-10-30,_subject,"MX, Jalisco, San Miguel el Alto",Y2014/1117
+1924-03-14,_subject,"US, TX, Olney",Y2014/1119
+1928-04-18,_subject,"CA, SK, Woodrow",Y2014/1120
+1944-01-06,_subject,"US, NY, New York",Y2014/1121
+1921-09-14,_subject,"US, AL, Woodward",Y2014/1122
+1929-07-29,_subject,,Y2014/1123
+1928-07-12,_subject,"CA, ON, Kitchener",Y2014/1124
+1927-10-25,_subject,"US, TN, Etowah",Y2014/1126
+1926-08-01,_subject,"US, MA, Quincy",Y2014/1127
+1922-12-15,_subject,"US, NJ, Trenton",Y2014/1128
+1934-02-17,_subject,"US, CT, Chester",Y2014/1129
+1943-07-26,_subject,,Y2014/1130
+1929-01-22,_subject,"US, MI, Ann Arbor",Y2014/1131
+1952-11-25,_subject,"US, PA, St. Marys",Y2014/1132
+1925-07-09,_subject,"CU, Pinar del Rio, San Juan y Martinez",Y2014/1133
+1922-08-08,_subject,"US, OK, Drumright",Y2014/1134
+1928,_subject,"US, OH, Port Clinton",Y2014/1136
+1918-03-05,_subject,"US, FL, Tampa",Y2014/1137
 1925-12-11,_subject,"US, RI, Providence",Y2015/1001
 1931-04-14,_subject,"US, TX, Greenville",Y2015/1002
 1933-05-02,_subject,"US, CA, Stockton",Y2015/1003
@@ -834,6 +857,97 @@ date,person,place,source
 1931-06-05,_subject,,Y2015/1649
 1934-10-15,_subject,"US, MO, Sedalia",Y2015/1650
 1929-06-03,_subject,"US, PA, Spruce Hill Township",Y2015/1651
+1919,_subject,"US, MA, Lawrence",Y2015/1652
+1937-11-06,_subject,"US, NY, New York",Y2015/1653
+1926-11-12,_subject,"US, OR, Portland",Y2015/1654
+1931-08-05,_subject,,Y2015/1655
+1945-12-10,_subject,,Y2015/1657
+1939-08-02,_subject,"US, IL, Peoria",Y2015/1658
+1927-04-13,_subject,"US, CA, El Monte",Y2015/1659
+1917-11,_subject,"US, OH, Wapakoneta",Y2015/1660
+1934-02-09,_subject,"US, PA, Philadelphia",Y2015/1661
+1941-12-05,_subject,"US, IL, Peoria",Y2015/1662
+1934-02-06,_subject,"US, MO, Kansas City",Y2015/1663
+1929-01-17,_subject,"US, AR, Greenbrier",Y2015/1664
+1939-08-12,_subject,"US, WI, Manitowoc",Y2015/1666
+1918,_subject,"US, NC, Raleigh",Y2015/1667
+1933-07-24,_subject,"US, SC, Anderson",Y2015/1668
+1926-09-25,_subject,"US, IA, Burlington",Y2015/1669
+1932-03-18,_subject,"US, CA, San Diego",Y2015/1670
+1986-04-13,_subject,"US, CA, Huntington Beach",Y2015/1671
+1921-12-23,_subject,"US, AZ, Glendale",Y2015/1672
+,_subject,"US, PA, Larksville",Y2015/1674
+1916-10-23,_subject,"US, OH, Darke County",Y2015/1675
+,_subject,"US, NJ, Vineland",Y2015/1676
+1931-01-27,_subject,"US, DE, Wilmington",Y2015/1677
+1927-02-18,_subject,"US, NY, Brooklyn",Y2015/1678
+1936-03-25,_subject,,Y2015/1679
+1938-09-12,_subject,"CA, QC, Sherbrooke",Y2015/1680
+1932-02-10,_subject,"US, SC, Columbia",Y2015/1681
+1939-07-28,_subject,,Y2015/1682
+1934-06-07,_subject,"US, RI, Providence",Y2015/1684
+1928-12-11,_subject,"US, OH, Springfield",Y2015/1686
+1983-08-22,_subject,"DO, Azua, Azua",Y2015/1687
+,_subject,"US, TX, Refugio",Y2015/1688
+1928-09-30,_subject,"US, WA, Spokane",Y2015/1690
+1913,_subject,"US, IA,",Y2015/1691
+1927-11-07,_subject,,Y2015/1693
+1951-08-10,_subject,"US, AK, Fairbanks",Y2015/1694
+1955-11-26,_subject,"CA, BC, Victoria",Y2015/1695
+1921-09-24,_subject,,Y2015/1696
+1932-09-25,_subject,"US, NE, Dodge County",Y2015/1697
+1923-07-15,_subject,"US, KS, Salina",Y2015/1698
+1934-05-07,_subject,,Y2015/1700
+1936-08-11,_subject,"US, MA, Medford",Y2015/1701
+1941-07-13,_subject,"US, FL, Jasper",Y2015/1702
+,_subject,"US, NY, Flushing",Y2015/1703
+1935-11-14,_subject,"US, PA, Old Forge",Y2015/1705
+,_subject,"US, MO, Carthage",Y2015/1706
+,_subject,"US, TX, Refugio",Y2015/1707
+1929-08-07,_subject,"US, AL, Lee County",Y2015/1708
+1929-04-25,_subject,"US, OH, Cleveland",Y2015/1709
+1944-11-09,_subject,"US, NY, Brooklyn",Y2015/1710
+1932-03-26,_subject,"PR, , Ponce",Y2015/1711
+,_subject,"US, CT, Norwalk",Y2015/1712
+1954-12-15,_subject,"US, WI, Wisconsin Rapids",Y2015/1715
+1939-01-07,_subject,"US, DE, Wilmington",Y2015/1718
+1931-01-31,_subject,,Y2015/1719
+1934-02-06,_subject,"US, IL, Quincy",Y2015/1720
+1934-07-27,_subject,"US, SC, Columbia",Y2015/1722
+1936-01-19,_subject,"US, PA, Lower Nazareth Township",Y2015/1723
+1932-05-05,_subject,"US, MO, Malden",Y2015/1724
+1933-02-24,_subject,"US, CA, Sonora",Y2015/1725
+,_subject,"US, NH, Goffstown",Y2015/1726
+1935-07-19,_subject,"US, CT, Hartford",Y2015/1728
+1931-04-10,_subject,"US, AL, Birmingham",Y2015/1729
+1931-01-27,_subject,"US, NY, Brooklyn",Y2015/1730
+1926-08-22,_subject,"US, MO, Cole County",Y2015/1731
+1930-06-15,_subject,"US, CO, Boulder",Y2015/1732
+1935-01-19,_subject,"US, TN, Memphis",Y2015/1733
+1929-12-13,_subject,"US, CA, Ventura",Y2015/1734
+1926-12-29,_subject,"US, WV, Benwood",Y2015/1735
+1924-04-28,_subject,,Y2015/1736
+,_subject,"TW, ,",Y2015/1737
+1927-12-10,_subject,"US, OH, Columbus",Y2015/1738
+1921-01-01,_subject,,Y2015/1739
+1935-05-09,_subject,"US, SC, Rock Hill",Y2015/1740
+1934-02-09,_subject,"US, IN, Gary",Y2015/1741
+1919-04-21,_subject,"US, NJ, Woodbridge",Y2015/1742
+1929-01-10,_subject,,Y2015/1744
+,_subject,"US, SC,",Y2015/1745
+1932-06-15,_subject,"US, NY, Queens",Y2015/1746
+1919-11-21,_subject,,Y2015/1747
+1928-05-19,_subject,"US, NH, Manchester",Y2015/1749
+1924-09-16,_subject,"US, MO, St. Louis",Y2015/1750
+1930-12-11,_subject,"CA, ON, Windsor",Y2015/1751
+1927-07-12,_subject,"US, PA, Jersey Shore",Y2015/1752
+1934-08-17,_subject,"US, NY, Albany",Y2015/1755
+1944-04-20,_subject,"US, TN, Knoxville",Y2015/1756
+1927-12-26,_subject,"US, MA, Northampton",Y2015/1757
+1932,_subject,,Y2015/1758
+1934-06-19,_subject,,Y2015/1759
+,_subject,"US, LA, Hahnville",Y2015/1760
+1935-12-11,_subject,,Y2015/1761
 1931-01-11,_subject,"US, OH, Milton Township",Y2016/1001
 ,_subject,"US, NY, Troy",Y2016/1002
 1934-02-09,_subject,"US, AL, Montgomery",Y2016/1003

@@ -1,0 +1,11 @@
+name-last: Coley
+name-first: Steve
+name-given: Steve Wayne
+
+birth-date: 1943-07-26
+
+death-date: 2014-12-31
+death-place: US, SC, Inman
+
+cemetery-name: Evergreen Memorial Gardens
+cemetery-place: US, SC, Landrum

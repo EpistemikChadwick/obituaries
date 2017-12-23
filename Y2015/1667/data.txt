@@ -2,8 +2,8 @@ name-last: Eutsler
 name-first: Bill
 name-given: William E.
 
-born-date: 1918
-born-place: US, NC, Raleigh
+birth-date: 1918
+birth-place: US, NC, Raleigh
 
 death-date: 2015-02-14
 death-place: US, NC, Cheraw

@@ -1,0 +1,16 @@
+name-last: Zanardi
+name-first: Mike
+name-given: Harold Mike
+
+birth-date: 1934-02-17
+birth-place: US, CT, Chester
+
+death-date: 2014-12-30
+death-place: US, CT, Centerbrook
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, CT, Westbrook

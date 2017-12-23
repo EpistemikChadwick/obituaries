@@ -1,0 +1,15 @@
+name-last: Wilkins
+name-first: Bill
+name-given: William
+
+birth-date: 1924-04-28
+
+death-date: 2015-01-10
+death-place: US, TN, Elizabethton
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Happy Valley Memorial Park
+cemetery-place: US, TN, Johnson City

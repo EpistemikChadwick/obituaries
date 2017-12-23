@@ -1,0 +1,8 @@
+source-title: Birmingham News
+source-date: 2015-01-04
+source-url: http://obits.al.com/obituaries/birmingham/obituary.aspx?n=Redmond-Wheeler-Flemming&pid=173717009
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-04

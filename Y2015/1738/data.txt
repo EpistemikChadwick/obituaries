@@ -1,0 +1,19 @@
+name-last: Matthews
+name-first: Norm
+name-given: Wesley Norman
+
+birth-date: 1927-12-10
+birth-place: US, OH, Columbus
+
+death-date: 2015-01-17
+
+school-level: secondary
+school-name: Mifflin HS
+school-place: US, OH, Columbus
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Mifflin Cemetery
+cemetery-place: US, OH, Columbus

@@ -1,0 +1,17 @@
+name-person: joe
+name-last: Macko
+name-first: Joe
+
+birth-date: 1928
+birth-place: US, OH, Port Clinton
+
+death-date: 2014-12-26
+death-place: US, TX, Fort Worth
+
+name-person: steve
+name-last: Macko
+name-first: Steve
+
+relationship-person1: joe
+relationship-person2: steve
+relationship-type: father

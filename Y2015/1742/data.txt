@@ -1,0 +1,17 @@
+name-last: Keating
+name-first: Bernie
+name-given: Bernard Joseph
+
+birth-date: 1919-04-21
+birth-place: US, NJ, Woodbridge
+
+death-date: 2015-01-07
+death-place: US, NC, Stokesdale
+
+school-level: college
+school-name: Dickinson College
+school-place: US, PA, Carlisle
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

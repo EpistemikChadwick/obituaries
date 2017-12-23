@@ -1,0 +1,18 @@
+name-last: Ferguson
+name-first: Leo
+
+birth-date: 1922-08-08
+birth-place: US, OK, Drumright
+
+death-date: 2014-12-28
+
+school-level: secondary
+school-name: Foster HS
+school-place: US, OK, Oklahoma City
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Hayes Grace Memorial Park
+cemetery-place: US, TX, Hitchcock

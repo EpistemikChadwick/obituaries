@@ -1,0 +1,8 @@
+source-title: Forbis & Dick
+source-date: 2015-01-11
+source-url: http://forbisanddick.com/obituaries/bernard-joseph-keating/100761/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-11

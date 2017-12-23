@@ -1,0 +1,8 @@
+source-title: Lansing State Journal
+source-date: 2015-01-08
+source-url: http://www.legacy.com/obituaries/lsj/obituary.aspx?n=Phillip-Brown&pid=173766572
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-10

@@ -1,0 +1,11 @@
+name-last: Coley
+name-first: Steve
+
+death-date: 2014-12-31
+
+school-level: secondary
+school-name: Landrum HS
+school-place: US, SC, Landrum
+
+school-level: college
+school-name: University of North Carolina, Wilmington

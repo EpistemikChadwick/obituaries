@@ -1,0 +1,19 @@
+name-last: Kearns
+name-first: Bill
+name-given: William Michael
+
+death-date: 2015-01-01
+
+school-level: secondary
+school-name: Watertown HS
+school-place: US, MA, Watertown
+
+school-level: college
+school-name: Tufts University
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Milton Cemetery
+cemetery-place: US, MA, Milton

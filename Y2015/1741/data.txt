@@ -1,0 +1,15 @@
+name-last: Uzelatz
+name-first: Max
+name-suffix: Jr.
+
+birth-date: 1934-02-09
+birth-place: US, IN, Gary
+
+death-date: 2015-01-18
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Oak Hill Burial Park
+cemetery-place: US, FL, Lakeland

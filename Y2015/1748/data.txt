@@ -1,0 +1,13 @@
+name-last: Kearns
+name-first: Bill
+
+death-date: 2015-01-01
+death-place: US, MA, Boston
+
+school-level: secondary
+school-name: Watertown HS
+school-place: US, MA, Watertown
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

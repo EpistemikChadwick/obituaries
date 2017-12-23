@@ -1,0 +1,8 @@
+source-title: Windsor Chapel
+source-date: 2015-01-04
+source-url: http://www.windsorchapel.com/obituary.aspx?ObitID=12592
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-04

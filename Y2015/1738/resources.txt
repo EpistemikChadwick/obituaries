@@ -1,0 +1,8 @@
+source-title: Columbus Dispatch
+source-date: 2015-01-19
+source-url: http://www.legacy.com/obituaries/dispatch/obituary.aspx?n=wesley-norman-matthews&pid=173888846&fhid=5755&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-19

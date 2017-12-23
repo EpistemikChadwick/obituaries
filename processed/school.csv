@@ -190,6 +190,23 @@ college,University of Oklahoma,_subject,,Y2014/1099
 secondary,Northeast Catholic HS,_subject,"US, PA, Philadelphia",Y2014/1103
 secondary,Oakes HS,_subject,"US, ND, Oakes",Y2014/1104
 secondary,Yawatahama HS,_subject,"JP, Ehime Prefecture, Yawatahama",Y2014/1106
+secondary,Paris HS,_subject,"US, AR, Paris",Y2014/1111
+secondary,St. Francis Preparatory School,_subject,"US, NY, New York",Y2014/1113
+secondary,Burlington HS,_subject,"US, IA, Burlington",Y2014/1116
+college,Bacone College,_subject,,Y2014/1116
+college,Iowa State University,_subject,,Y2014/1116
+secondary,Montgomery HS,_subject,"US, AL, Montgomery",Y2014/1122
+secondary,Juneau HS,_subject,"US, WI, Milwaukee",Y2014/1123
+college,University of Wisconsin-La Crosse,_subject,,Y2014/1123
+college,University of Tennessee,_subject,,Y2014/1126
+secondary,Thayer Academy,_subject,"US, MA, Braintree",Y2014/1127
+college,Tufts University,_subject,"US, MA, Medford",Y2014/1127
+secondary,Hamilton West HS,_subject,"US, NJ, Hamilton",Y2014/1128
+secondary,Ann Arbor HS,_subject,"US, MI, Ann Arbor",Y2014/1131
+secondary,Williamsport HS,_subject,"US, PA, Williamsport",Y2014/1132
+secondary,Foster HS,_subject,"US, OK, Oklahoma City",Y2014/1134
+secondary,Landrum HS,_subject,"US, SC, Landrum",Y2014/1135
+college,"University of North Carolina, Wilmington",_subject,,Y2014/1135
 secondary,Adamson HS,_subject,"US, TX, Dallas",Y2015/1002
 college,University of Texas,_subject,,Y2015/1002
 secondary,Cooley HS,_subject,"US, MI, Detroit",Y2015/1004
@@ -715,6 +732,108 @@ college,University of Nebraska-Lincoln,_subject,,Y2015/1649
 secondary,Smith-Cotton HS,_subject,"US, MO, Sedalia",Y2015/1650
 college,Missouri University,_subject,,Y2015/1650
 secondary,Juniata HS,_subject,"US, PA, Mifflintown",Y2015/1651
+secondary,Lawrence HS,_subject,"US, MA, Lawrence",Y2015/1652
+secondary,Jefferson HS,_subject,"US, OR, Portland",Y2015/1654
+secondary,Knoxville HS,_subject,"US, TN, Knoxville",Y2015/1655
+secondary,Washington HS,_subject,"US, IL, Washington",Y2015/1658
+college,Bradley University,_subject,,Y2015/1658
+secondary,El Monte HS,_subject,"US, CA, El Monte",Y2015/1659
+secondary,Blume HS,_subject,"US, OH, Wapakoneta",Y2015/1660
+secondary,Downingtown HS,_subject,"US, PA, Downingtown",Y2015/1661
+college,Pennsylvania State University,_subject,,Y2015/1661
+secondary,Central HS,_subject,"US, MO, Kansas City",Y2015/1663
+college,University of Missouri,_subject,,Y2015/1663
+secondary,Conway HS,_subject,"US, AR, Conway",Y2015/1664
+college,University of Central Arkansas,_subject,"US, AR, Conway",Y2015/1664
+college,"California Polytechnic State University, Pomona",_subject,,Y2015/1665
+secondary,Lincoln HS,_subject,"US, WI, Manitowoc",Y2015/1666
+secondary,Whiteville HS,_subject,"US, NC, Whiteville",Y2015/1667
+college,Wake Forest University,_subject,,Y2015/1667
+secondary,Anderson Boys’ HS,_subject,"US, SC, Anderson",Y2015/1668
+college,Clemson University,_subject,,Y2015/1668
+secondary,La Jolla Academy,_subject,"US, CA, La Jolla",Y2015/1670
+secondary,Redmond HS,_subject,"US, WA, Redmond",Y2015/1671
+college,Bellevue College,_subject,"US, WA, Bellevue",Y2015/1671
+college,University of Hawaii at Hilo,_subject,,Y2015/1671
+secondary,Glendale HS,_subject,"US, AZ, Glendale",Y2015/1672
+college,University of Arizona,_subject,,Y2015/1672
+college,Wake Forest University,_subject,,Y2015/1673
+secondary,Sacred Heart HS,_subject,"US, NJ, Vineland",Y2015/1676
+college,St. Joseph’s University,_subject,"US, PA, Philadelphia",Y2015/1676
+secondary,Brown Vocational HS,_subject,"US, DE, Wilmington",Y2015/1677
+secondary,Ridgewood HS,_subject,"US, NJ, Ridgewood",Y2015/1678
+college,College of William and Mary,_subject,,Y2015/1678
+secondary,University HS,_subject,"US, SC, Columbia",Y2015/1681
+secondary,Roosevelt HS,_subject,"US, OH, Dayton",Y2015/1683
+secondary,Mt. Pleasant HS,_subject,"US, RI, Providence",Y2015/1684
+secondary,Springfield HS,_subject,"US, OH, Springfield",Y2015/1686
+secondary,Nott Terrace HS,_subject,"US, NY, Schenectady",Y2015/1693
+college,Syracuse University,_subject,,Y2015/1693
+college,Texas Christian University,_subject,,Y2015/1694
+secondary,Canton McKinley HS,_subject,"US, OH, Canton",Y2015/1696
+secondary,Uehling HS,_subject,"US, NE, Uehling",Y2015/1697
+college,University of Nebraska,_subject,,Y2015/1697
+college,Kansas Wesleyan University,_subject,"US, KS, Salina",Y2015/1698
+college,Princeton University,_subject,,Y2015/1699
+secondary,Fairforest HS,_subject,"US, SC, Spartanburg",Y2015/1700
+college,Wofford College,_subject,,Y2015/1700
+secondary,Medford HS,_subject,"US, MA, Medford",Y2015/1701
+secondary,Paxon HS,_subject,"US, FL, Jacksonville",Y2015/1702
+secondary,Williams HS,_subject,"US, NC, Burlington",Y2015/1704
+college,North Carolina State University,_subject,,Y2015/1704
+secondary,Mount Penn HS,_subject,"US, PA, Mount Penn",Y2015/1705
+secondary,Carthage HS,_subject,"US, MO, Carthage",Y2015/1706
+college,Crowder College,_subject,"US, MO, Neosho",Y2015/1706
+college,Central Missouri State University,_subject,,Y2015/1706
+secondary,Clift HS,_subject,"US, AL, Opelika",Y2015/1708
+secondary,Baldwin HS,_subject,"US, NY, Baldwin",Y2015/1710
+college,Wagner University,_subject,,Y2015/1710
+college,Springfield College,_subject,"US, MA, Springfield",Y2015/1712
+secondary,Nekoosa HS,_subject,"US, WI, Nekoosa",Y2015/1715
+secondary,Christian Brothers Academy,_subject,"US, NY, Syracuse",Y2015/1716
+secondary,Newark HS,_subject,"US, DE, Newark",Y2015/1718
+secondary,Seymour HS,_subject,"US, IL, Payson",Y2015/1720
+college,Quincy University,_subject,"US, IL, Quincy",Y2015/1720
+college,Culver-Stockton College,_subject,"US, MO, Canton",Y2015/1720
+secondary,Dentsville HS,_subject,"US, SC, Columbia",Y2015/1722
+college,University of Florida,_subject,,Y2015/1722
+secondary,Sonora HS,_subject,"US, CA, Sonora",Y2015/1725
+secondary,Pembroke Academy,_subject,"US, NH, Pembroke",Y2015/1726
+college,University of Florida,_subject,,Y2015/1727
+secondary,Hartford Public HS,_subject,"US, CT, Hartford",Y2015/1728
+secondary,Lafayette HS,_subject,"US, NY, Brooklyn",Y2015/1730
+secondary,Boulder HS,_subject,"US, CO, Boulder",Y2015/1732
+college,University of Colorado,_subject,,Y2015/1732
+secondary,Columbia Military Academy,_subject,"US, TN, Columbia",Y2015/1733
+college,University of Mississippi,_subject,,Y2015/1733
+secondary,Ventura HS,_subject,"US, CA, Ventura",Y2015/1734
+college,Ventura College,_subject,"US, CA, Ventura",Y2015/1734
+secondary,Wheeling Central Catholic HS,_subject,"US, WV, Wheeling",Y2015/1735
+college,West Liberty University,_subject,"US, WV, West Liberty",Y2015/1735
+secondary,Mifflin HS,_subject,"US, OH, Columbus",Y2015/1738
+college,Dickinson College,_subject,"US, PA, Carlisle",Y2015/1742
+secondary,Blue Island HS,_subject,"US, IL, Blue Island",Y2015/1743
+secondary,LaPorte HS,_subject,"US, IN, La Porte",Y2015/1744
+college,Butler University,_subject,,Y2015/1744
+secondary,St. John’s Preparatory School,_subject,"US, NY, Queens",Y2015/1746
+college,St. John’s University,_subject,"US, NY, Queens",Y2015/1746
+secondary,Ramsay HS,_subject,"US, AL, Birmingham",Y2015/1747
+college,Samford University,_subject,,Y2015/1747
+secondary,Watertown HS,_subject,"US, MA, Watertown",Y2015/1748
+secondary,Central HS,_subject,"US, NH, Manchester",Y2015/1749
+college,St. Anselm College,_subject,"US, NH, Manchester",Y2015/1749
+secondary,Windsor College School,_subject,"CA, ON, Windsor",Y2015/1751
+secondary,Watertown HS,_subject,"US, MA, Watertown",Y2015/1753
+college,Tufts University,_subject,,Y2015/1753
+secondary,Mortimer Jordan HS,_subject,"US, AL, Kimberly",Y2015/1754
+college,Auburn University,_subject,,Y2015/1754
+secondary,Vincentian Institute,_subject,"US, NY, Albany",Y2015/1755
+college,Ithaca College,_subject,,Y2015/1755
+secondary,Carter HS,_subject,"US, TN, Strawberry Plains",Y2015/1756
+secondary,Concordia HS,_subject,"US, CA, Oakland",Y2015/1758
+secondary,J. W. Sexton HS,_subject,"US, MI, Lansing",Y2015/1759
+secondary,Russellville HS,_subject,"US, AR, Russellville High School",Y2015/1761
+college,Oklahoma State University,_subject,,Y2015/1761
 secondary,Catholic Central HS,_subject,"US, NY, Troy",Y2016/1002
 secondary,Ypsilanti HS,_subject,"US, MI, Ypsilanti",Y2016/1003
 secondary,Paxon HS,_subject,"US, FL, Jacksonville",Y2016/1004

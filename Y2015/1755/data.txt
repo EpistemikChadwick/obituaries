@@ -1,0 +1,20 @@
+name-last: Judd
+name-first: Walter
+name-given: Walter J.
+name-suffix: Jr.
+
+birth-date: 1934-08-17
+birth-place: US, NY, Albany
+
+death-date: 2015-01-05
+death-place: US, NY, Albany
+
+school-level: secondary
+school-name: Vincentian Institute
+school-place: US, NY, Albany
+
+school-level: college
+school-name: Ithaca College
+
+military-country: US
+military-branch: Army

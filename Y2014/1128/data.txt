@@ -1,0 +1,19 @@
+name-last: Rowe
+name-first: Jim
+name-given: James G.
+
+birth-date: 1922-12-15
+birth-place: US, NJ, Trenton
+
+death-date: 2014-12-24
+
+school-level: secondary
+school-name: Hamilton West HS
+school-place: US, NJ, Hamilton
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Sarasota National Cemetery
+cemetery-place: US, FL, Sarasota

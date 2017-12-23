@@ -1,0 +1,12 @@
+name-last: Simpson
+name-first: Herb
+name-nick: Briefcase
+
+birth-place: US, LA, Hahnville
+
+death-date: 2015-01-07
+death-place: US, LA, New Orleans
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

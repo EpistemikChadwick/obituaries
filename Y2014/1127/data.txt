@@ -1,0 +1,24 @@
+name-last: Heap
+name-first: Ed
+name-given: Edwin James
+name-suffix: Jr.
+
+birth-date: 1926-08-01
+birth-place: US, MA, Quincy
+
+death-date: 2014-12-31
+
+school-level: secondary
+school-name: Thayer Academy
+school-place: US, MA, Braintree
+
+school-level: college
+school-name: Tufts University
+school-place: US, MA, Medford
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Mayflower Cemetery
+cemetery-place: US, MA, Duxbury

@@ -1,0 +1,8 @@
+source-title: Ann Arbor News
+source-date: 2015-01-04
+source-url: http://obits.mlive.com/obituaries/annarbor/obituary.aspx?n=Richard-Hager&pid=173705820
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-04

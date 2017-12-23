@@ -1,0 +1,9 @@
+name-last: Miller
+name-first: Stu
+name-given: Stuart Leonard
+
+birth-date: 1927-12-26
+birth-place: US, MA, Northampton
+
+death-date: 2015-01-04
+death-place: US, CA, Cameron Park

@@ -1,0 +1,9 @@
+name-last: Peters
+name-first: Hank
+name-given: Henry John
+
+birth-date: 1924-09-16
+birth-place: US, MO, St. Louis
+
+death-date: 2015-01-04
+death-place: US, FL, Boca Raton

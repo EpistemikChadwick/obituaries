@@ -1,0 +1,8 @@
+source-title: Las Vegas Review-Journal
+source-date: 2014-12-25
+source-url: http://www.reviewjournal.com/sports/negro-leagues-baseball-player-s-legacy-lives-family
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-28

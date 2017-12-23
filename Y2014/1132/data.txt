@@ -1,0 +1,17 @@
+name-last: Croyle
+name-first: Dave
+name-given: David M.
+name-suffix: Jr.
+
+birth-date: 1952-11-25
+birth-place: US, PA, St. Marys
+
+death-date: 2014-12-21
+death-place: US, PA, Emporium
+
+school-level: secondary
+school-name: Williamsport HS
+school-place: US, PA, Williamsport
+
+cemetery-name: Newton Cemetery
+cemetery-place: US, PA, Emporium

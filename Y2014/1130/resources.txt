@@ -1,0 +1,8 @@
+source-title: Petty Funeral Home
+source-date: 2015-01-02
+source-url: http://www.pettyfuneralhome.com/obits/obituary.php?id=520603
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-02

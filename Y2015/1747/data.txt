@@ -1,0 +1,20 @@
+name-last: Flemming
+name-given: Redmond Wheeler
+
+birth-date: 1919-11-21
+
+death-date: 2015-01-02
+
+school-level: secondary
+school-name: Ramsay HS
+school-place: US, AL, Birmingham
+
+school-level: college
+school-name: Samford University
+
+military-country: US
+military-branch: Marines
+military-conflict: World War II
+
+cemetery-name: Elmwood Cemetery
+cemetery-place: US, AL, Birmingham

@@ -1,0 +1,15 @@
+name-last: Emmert
+name-first: Richard
+name-given: Richard Harrell
+
+birth-date: 1944-04-20
+birth-place: US, TN, Knoxville
+
+death-date: 2015-01-05
+
+school-level: secondary
+school-name: Carter HS
+school-place: US, TN, Strawberry Plains
+
+cemetery-name: Emma Jarnagin Cemetery
+cemetery-place: US, TN, Morristown

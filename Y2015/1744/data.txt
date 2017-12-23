@@ -1,0 +1,14 @@
+name-last: Alsop
+name-first: Charlie
+name-given: Charles
+
+birth-date: 1929-01-10
+
+death-date: 2015-01-08
+
+school-level: secondary
+school-name: LaPorte HS
+school-place: US, IN, La Porte
+
+school-level: college
+school-name: Butler University

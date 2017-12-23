@@ -1,0 +1,19 @@
+name-last: Hunrick
+name-first: George
+name-given: George Bernard
+name-suffix: Jr.
+
+birth-date: 1932
+
+death-date: 2015-01-02
+death-place: US, CA, Woodbridge
+
+school-level: secondary
+school-name: Concordia HS
+school-place: US, CA, Oakland
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Sacramento Valley National Cemetery
+cemetery-place: US, CA, Dixon

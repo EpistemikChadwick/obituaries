@@ -1,0 +1,12 @@
+source-title: MLB.com
+source-date: 2015-01-09
+source-url: http://m.mlb.com/news/article/106037126/negro-leaguer-herb-simpson-passes-away
+
+source-title: WWLTV.com
+source-date: 2015-01-09
+source-url: http://www.wwltv.com/story/sports/2015/01/09/herb-simpson-pioneering-black-baseball-player--no-native-dies-at-94/21512381/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-10

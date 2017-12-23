@@ -1,0 +1,12 @@
+name-last: Kinnamon
+name-first: George
+name-given: George Woodrow
+
+birth-date: 1927-10-25
+birth-place: US, TN, Etowah
+
+death-date: 2014-12-27
+death-place: US, NC, Charlotte
+
+school-level: college
+school-name: University of Tennessee

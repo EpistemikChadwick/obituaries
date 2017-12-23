@@ -1,0 +1,8 @@
+source-title: WITN.com
+source-date: 2015-01-12
+source-url: http://www.witn.com/sports/headlines/Former-Negro-League-player-Carl-Long-dies-288338661.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-11

@@ -1,0 +1,6 @@
+name-last: Long
+name-first: Carl
+
+birth-place: US, SC,
+
+death-date: 2015-01-12

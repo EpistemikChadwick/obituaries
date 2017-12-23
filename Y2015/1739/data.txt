@@ -1,0 +1,11 @@
+name-last: Frumin
+name-first: Zeke
+name-given: Zelig
+
+birth-date: 1921-01-01
+
+death-date: 2015-01-17
+death-place: US, FL, Sarasota
+
+cemetery-name: New Jewish Cemetery
+cemetery-place: US, TN, Knoxville

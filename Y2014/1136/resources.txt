@@ -1,0 +1,16 @@
+source-title: Star Telegram
+source-date: 2014-12-26
+source-url: http://www.star-telegram.com/sports/mlb/texas-rangers/article5011065.html
+
+source-title: Dallas Morning News
+source-date: 2014-12-26
+source-url: http://rangersblog.dallasnews.com/2014/12/joe-macko-the-minor-league-great-who-became-the-rangers-goodwill-ambassador-dies-at-86.html/
+
+source-title: New York Times
+source-date: 2014-12-27
+source-url: http://www.nytimes.com/2014/12/27/sports/baseball/joe-macko-86-dies.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-27

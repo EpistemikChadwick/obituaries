@@ -1,0 +1,8 @@
+source-title: River Valley Leader
+source-date: 2015-01-05
+source-url: http://www.rivervalleyleader.com/obituaries/article_328617ca-94f4-11e4-9486-43219a6610f8.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-10

@@ -1,0 +1,17 @@
+name-last: Cuomo
+name-first: Mario
+name-given: Mario Matthew
+
+birth-date: 1932-06-15
+birth-place: US, NY, Queens
+
+death-date: 2015-01-01
+death-place: US, NY, Manhattan
+
+school-level: secondary
+school-name: St. John’s Preparatory School
+school-place: US, NY, Queens
+
+school-level: college
+school-name: St. John’s University
+school-place: US, NY, Queens

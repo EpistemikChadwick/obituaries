@@ -1,0 +1,15 @@
+name-last: DeLuca
+name-first: Albert
+name-given: Albert Richard
+name-nick: Big Red
+name-nick: Duke
+
+birth-date: 1930-12-11
+birth-place: CA, ON, Windsor
+
+death-date: 2015-01-02
+death-place: CA, ON, Windsor
+
+school-level: secondary
+school-name: Windsor College School
+school-place: CA, ON, Windsor

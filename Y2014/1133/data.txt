@@ -1,0 +1,11 @@
+name-last: Ramos
+name-first: Julio
+name-matrilineal: Padrino
+
+birth-date: 1925-07-09
+birth-place: CU, Pinar del Rio, San Juan y Martinez
+
+death-date: 2014-12-30
+
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, NM, Albuquerque

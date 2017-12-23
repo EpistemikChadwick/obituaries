@@ -1,0 +1,16 @@
+name-last: Miller
+name-first: Jack
+name-given: Jack LaVerne
+
+birth-date: 1927-07-12
+birth-place: US, PA, Jersey Shore
+
+death-date: 2015-01-01
+death-place: US, NC, Sanford
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Lee Memory Garden
+cemetery-place: US, NC, Sanford

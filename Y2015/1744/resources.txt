@@ -1,0 +1,8 @@
+source-title: South Bend Tribune
+source-date: 2015-01-11
+source-url: http://www.legacy.com/obituaries/southbendtribune/obituary.aspx?n=charles-alsop&pid=173809098&fhid=20973&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-11

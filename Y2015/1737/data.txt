@@ -1,0 +1,11 @@
+name-last: Taiho
+name-first: Yasuaki
+
+alias-type: birth
+alias-last: Tai-feng
+alias-first: Chen
+
+birth-place: TW, ,
+
+death-date: 2015-01-18
+death-place: JP, Chuba, Nagoya

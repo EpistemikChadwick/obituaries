@@ -1,0 +1,11 @@
+name-last: Brown
+name-first: Phillip
+name-given: Phillip Walter
+
+birth-date: 1934-06-19
+
+death-date: 2015-01-06
+
+school-level: secondary
+school-name: J. W. Sexton HS
+school-place: US, MI, Lansing

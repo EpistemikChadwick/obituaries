@@ -1,0 +1,8 @@
+source-title: Galveston County Daily News
+source-date: 2014-12-30
+source-url: http://www.galvestondailynews.com/obituaries/article_dff57456-9066-11e4-a5c3-4758a72f0d1f.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-06

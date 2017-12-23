@@ -1,0 +1,12 @@
+source-title: Boston Globe
+source-date: 2015-01-02
+source-url: http://www.bostonglobe.com/sports/2015/01/02/bill-kearns-long-time-major-league-scout-dies/a4RBgAOgZ8haBrNGmQwkfJ/story.html
+
+source-title: Seattle Times
+source-date: 2015-01-02
+source-url: http://seattletimes.com/html/mariners/2025364669_regional02xml.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-02

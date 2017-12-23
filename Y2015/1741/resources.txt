@@ -1,0 +1,8 @@
+source-title: Ledger
+source-date: 2015-01-20
+source-url: http://www.legacy.com/obituaries/theledger/obituary.aspx?n=max-uzelatz&pid=173907443&fhid=7795&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-20
