@@ -1,0 +1,20 @@
+name-last: Sanchez
+name-first: Hank
+name-given: Henry Thomas
+name-suffix: Jr.
+ 
+birth-date: 1986-11-29
+birth-place: US, CA, Stockton
+ 
+death-date: 2017-04-30
+ 
+school-level: secondary
+school-name:  Mission Bay HS
+school-place: US, CA, San Diego
+ 
+school-level: college
+school-name: San Diego State University
+ 
+cemetery-name: Cherokee Memorial Park
+cemetery-place: US, CA, Lodi
+

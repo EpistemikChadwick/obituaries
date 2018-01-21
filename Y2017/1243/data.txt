@@ -1,0 +1,6 @@
+name-last: Logue
+name-first: Frank
+name-given: Alison Frank
+ 
+death-date: 2017-05-03
+

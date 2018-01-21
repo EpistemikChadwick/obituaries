@@ -1,0 +1,12 @@
+name-last: Klenda
+name-first: Dave
+name-given: David Joseph
+ 
+birth-date: 1950-10-23
+birth-place: US, KS, Hillsboro
+ 
+death-date: 2017-05-18
+ 
+school-level: college
+school-name: Kansas State University
+

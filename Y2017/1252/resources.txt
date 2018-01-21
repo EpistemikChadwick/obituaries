@@ -1,0 +1,8 @@
+source-title: East Bay Times
+source-date: 2017-05-20
+source-url: http://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=david-e-anderson&pid=185416330
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-19

@@ -1,0 +1,10 @@
+name-last: Allen
+name-first: Ed
+name-given: Edwin
+ 
+birth-date: 1933-11-28
+birth-place: US, AL, Vernon
+ 
+death-date: 2017-05-17
+death-place:  US, AL, Vernon
+

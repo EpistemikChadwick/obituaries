@@ -1,0 +1,8 @@
+source-title: Seattle Times
+source-date: 2017-05-14
+source-url: http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=alison-frank-logue&pid=185387025
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-17

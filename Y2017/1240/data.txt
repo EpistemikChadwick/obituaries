@@ -1,0 +1,20 @@
+name-last: Dickey
+name-first: Douglas
+name-given: A. Douglas
+ 
+birth-date: 1933-10-01
+birth-place: US, AL, Pell City
+ 
+death-date: 2017-05-09
+death-place:  US, AL, Sylacauga
+ 
+school-level: secondary
+school-name:  Pell City HS
+school-place: US, AL, Pell City
+ 
+school-level: college
+school-name: Auburn University
+ 
+military-country: US
+military-branch:  Army
+

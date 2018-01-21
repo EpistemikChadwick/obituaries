@@ -1,0 +1,8 @@
+source-title: John Day Funeral Home
+source-date: 2017-05-03
+source-url: http://www.johnedayfuneralhome.com/tributes/Anthony-Rizzetta
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-03

@@ -1,0 +1,19 @@
+name-last: Perry
+name-first: Earl
+name-given: Earl Franklin
+ 
+birth-date: 1924-05-02
+ 
+death-date: 2017-05-04
+ 
+school-level: secondary
+school-name:  Webster HS
+school-place: US, OK, Tulsa
+ 
+school-level: college
+school-name: University of Oklahoma
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+

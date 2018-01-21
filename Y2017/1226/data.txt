@@ -1,0 +1,21 @@
+name-last: Yonkouski
+name-first: Joe
+name-given: Joseph Paul
+name-suffix: Sr.
+ 
+birth-date: 1933-03-08
+ 
+death-date: 2017-04-25
+death-place:  US, NV, Las Vegas
+ 
+school-level: secondary
+school-name:  Spalding Institute
+school-place: US, IL, Peoria
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Southern Nevada Veterans Memorial Cemetery
+cemetery-place: US, NV, Boulder City
+

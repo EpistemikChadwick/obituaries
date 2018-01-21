@@ -1,0 +1,17 @@
+name-last: Stachowsky
+name-first: Mitch
+name-given: Mitchel Leo
+ 
+birth-date: 1984-10-02
+birth-place: US, ID, Salmon
+ 
+death-date: 2017-05-27
+death-place:  US, ID, Shelley
+ 
+school-level: secondary
+school-name:  Highland HS
+school-place: US, ID, Pocatello
+ 
+school-level: college
+school-name: College of Southern Idaho
+

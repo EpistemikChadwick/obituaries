@@ -1,0 +1,14 @@
+name-last: Rizzetta
+name-first: Anthony
+name-given: Anthony Francis
+ 
+birth-date: 1926-12-06
+birth-place: US, NY, New York
+ 
+death-date: 2017-04-25
+death-place:  US, NJ, Red Bank
+ 
+school-level: secondary
+school-name:  Cardinal Hayes HS
+school-place: US, NY, Bronx
+

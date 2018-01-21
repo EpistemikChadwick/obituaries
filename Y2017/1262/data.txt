@@ -1,0 +1,19 @@
+name-last: Zera
+name-first: Angelo
+name-given: Angelo Dominic
+ 
+birth-date: 1927-03-31
+birth-place: US, IL, Evanston
+ 
+death-date: 2017-05-20
+death-place:  US, IL, Manteno
+ 
+school-level: secondary
+school-name:  St. George HS
+school-place: US, IL, Evanston
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+

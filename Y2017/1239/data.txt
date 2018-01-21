@@ -1,0 +1,16 @@
+name-last: Anderson
+name-first: Richard
+name-given: Richard E.
+ 
+birth-place: US, CT, Bridgeport
+ 
+death-date: 2017-05-07
+death-place:  US, CT, Bridgeport
+ 
+school-level: secondary
+school-name:  Trumball HS
+school-place: US, CT, Trumball
+ 
+school-level: college
+school-name: University of New Haven
+

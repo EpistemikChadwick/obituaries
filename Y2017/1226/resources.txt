@@ -1,0 +1,8 @@
+source-title: Las Vegas Review-Journal
+source-date: 2017-05-03
+source-url: http://obits.reviewjournal.com/obituaries/lvrj/obituary.aspx?n=joseph-yonkouski&pid=185265725&fhid=12178&eid=sp_ommatch&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-03

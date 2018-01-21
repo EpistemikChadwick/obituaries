@@ -1,0 +1,13 @@
+name-last: Weber
+name-first: Fred
+name-given: Frederick J.
+ 
+birth-date: 1929-07-30
+birth-place: US, WI, Sheboygan
+ 
+death-date: 2017-04-29
+ 
+school-level: secondary
+school-name:  Sheboygan Central HS
+school-place: US, WI, Sheboygan
+

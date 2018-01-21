@@ -1,0 +1,5 @@
+name-last: Morales
+name-first: Angelo
+ 
+death-date: 2017-02-14
+

@@ -1,0 +1,8 @@
+source-title: Hawthorn Funeral Home
+source-date: 2017-05-23
+source-url: http://www.hawthornfuneralhome.com/obituaries/Gene-Oden/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-23

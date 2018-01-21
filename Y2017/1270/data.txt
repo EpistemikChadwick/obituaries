@@ -1,0 +1,12 @@
+name-last: Bunning
+name-first: Jim
+ 
+birth-date: 1931-10-23
+birth-place: US, KY, Covington
+ 
+death-date: 2017-05-26
+death-place: US, KY, Edgewood
+ 
+cemetery-name: St. Stephen Cemetery
+cemetery-place: US, KY, Fort Thomas
+

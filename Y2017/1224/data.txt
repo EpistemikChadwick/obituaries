@@ -1,0 +1,17 @@
+name-last: Johnson
+name-first: Dale
+name-given: Edwin Dale
+ 
+birth-date: 1936-03-21
+birth-place: US, GA, Valdosta
+ 
+death-date: 2017-04-23
+death-place:  US, GA, Valdosta
+ 
+school-level: secondary
+school-name:  Lanier County HS
+school-place: US, GA, Lakeland
+ 
+cemetery-name: Stockton Baptist Church Cemetery
+cemetery-place: US, GA, Stockton
+

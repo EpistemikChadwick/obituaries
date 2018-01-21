@@ -1,0 +1,17 @@
+name-last: Orsborn
+name-first: Charles
+name-given: Charles
+name-nick: Ozzie
+ 
+birth-date: 1917-11-17
+birth-place: US, IL, Chicago
+ 
+death-date: 2017-05-07
+ 
+school-level: college
+school-name: Bradley University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+

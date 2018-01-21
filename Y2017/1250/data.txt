@@ -1,0 +1,15 @@
+name-last: Welch
+name-first: Fran
+name-given: Francis
+ 
+birth-date: 1924-05-13
+ 
+death-date: 2017-05-10
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Montgomery Memorial Park
+cemetery-place: US, WV, London
+

@@ -1,0 +1,14 @@
+name-last: James
+name-first: Owen
+name-given: Owen I.
+ 
+death-date: 2017-04-26
+ 
+school-level: secondary
+school-name:  North Attleborough HS
+school-place: US, MA, North Attleborough
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

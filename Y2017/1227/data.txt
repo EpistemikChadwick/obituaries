@@ -1,0 +1,20 @@
+name-last: Thomas
+name-first: Casey
+name-given: Casey Lee
+ 
+birth-date: 1993-03-16
+birth-place: US, MO, Lee’s Summit
+ 
+death-date: 2017-05-01
+death-place:  US, AZ, Phoenix
+ 
+school-level: secondary
+school-name:  Desert Vista HS
+school-place: US, AZ, Phoenix
+ 
+school-level: college
+school-name: GateWay Community College
+ 
+school-level: college
+school-name: Texas A&M University-Corpus Christi
+

@@ -1,0 +1,5 @@
+name-last: Nishi
+name-first: Mitsuo
+ 
+death-date: 2016-08-05
+

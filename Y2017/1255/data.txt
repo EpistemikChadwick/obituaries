@@ -1,0 +1,24 @@
+name-last: Oden
+name-first: Gene
+name-given: Walter Eugene
+ 
+birth-date: 1933-01-05
+birth-place: US, LA, Shreveport
+ 
+death-date: 2017-05-20
+death-place:  US, TX, DeBerry
+ 
+school-level: secondary
+school-name:  Carthage HS
+school-place: US, TX, Carthage
+ 
+school-level: college
+school-name: Panola College
+school-place: US, TX, Carthage
+ 
+school-level: college
+school-name: University of Texas at Austin
+ 
+cemetery-name: Panola Mt. Zion Cemetery
+cemetery-place: US, TX, DeBerry
+

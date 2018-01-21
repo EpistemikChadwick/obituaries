@@ -1,0 +1,13 @@
+name-last: Forry
+name-first: Dewey
+name-given: Dewey John
+name-suffix: Jr.
+ 
+birth-date: 1952
+ 
+death-date: 2017
+ 
+school-level: secondary
+school-name:  Terra Linda HS
+school-place: US, CA, San Rafael
+

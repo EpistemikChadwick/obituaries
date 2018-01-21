@@ -1,0 +1,28 @@
+name-last: Karelis
+name-first: Irving
+name-given: Irving  Phillip
+name-nick: Sheik
+ 
+birth-date: 1920-07-29
+birth-place: US, MA, Haverhill
+ 
+death-date: 2017-05-25
+death-place:  US, MA, Haverhill
+ 
+school-level: secondary
+school-name:  Haverhill HS
+school-place: US, MA, Haverhill
+ 
+school-level: secondary
+school-name:  Tilton School
+school-place: US, NH, Tilton
+ 
+school-level: college
+school-name: University of New Hampshire
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Children of Israel Cemetery
+cemetery-place: US, MA, Haverhill

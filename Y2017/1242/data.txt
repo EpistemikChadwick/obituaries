@@ -1,0 +1,6 @@
+name-last: Kalish
+name-first: Jeff
+name-given: Jeffrey H.
+ 
+death-date: 2017-05-10
+

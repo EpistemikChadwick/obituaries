@@ -1,0 +1,8 @@
+source-title: Fillmore Gazette
+source-date: 2017-05-23
+source-url: http://www.fillmoregazette.com/berthyl-bert-kimzey-bigham-1919-2017
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-23

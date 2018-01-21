@@ -1,0 +1,19 @@
+name-last: Baretta
+name-first: Paul
+name-given: Paul K.
+ 
+birth-date: 1947-08-04
+birth-place: US, CT, New Britain
+ 
+death-date: 2017-05-08
+ 
+school-level: secondary
+school-name:  Berlin HS
+school-place: US, CT, Berlin
+ 
+school-level: college
+school-name: Southern Connecticut State University
+ 
+cemetery-name: Maple Cemetery
+cemetery-place: US, CT, Berlin
+

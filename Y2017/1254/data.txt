@@ -1,0 +1,20 @@
+name-last: Bigham
+name-first: Bert
+name-given: Berthyl Kimzey
+ 
+birth-date: 1919-11-01
+birth-place: US, IL, Pinckneyville
+ 
+death-date: 2017-04-04
+ 
+school-level: secondary
+school-name:  Pinckneyville HS
+school-place: US, IL, Pinckneyville
+ 
+school-level: college
+school-name: Illinois Wesleyan University
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II
+

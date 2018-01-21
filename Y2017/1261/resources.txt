@@ -1,0 +1,8 @@
+source-title: New Haven Register
+source-date: 2017-05-26
+source-url: http://www.legacy.com/obituaries/nhregister/obituary.aspx?n=mark-teitelman&pid=185617898&fhid=4186
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-29

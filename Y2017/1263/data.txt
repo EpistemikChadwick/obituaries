@@ -1,0 +1,9 @@
+name-last: Moler
+name-first: Les
+name-given: G. Leslie
+ 
+birth-date: 1927-02-09
+birth-place: US, MD, Baltimore
+ 
+death-date: 2017-05-01
+

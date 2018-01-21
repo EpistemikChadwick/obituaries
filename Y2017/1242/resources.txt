@@ -1,0 +1,8 @@
+source-title: Pizzi Funeral Home
+source-date: 2017-05-11
+source-url: http://pizzifuneralhome.com/?p=2664
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-11

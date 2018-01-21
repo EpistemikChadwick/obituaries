@@ -1,0 +1,8 @@
+source-title: Morello Funeral Home
+source-date: 2017-05-29
+source-url: http://www.morellofuneralhome.com/sitemaker/sites/MORELL1/obit.cgi?user=17701692_JGallop
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-29

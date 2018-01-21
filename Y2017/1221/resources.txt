@@ -1,0 +1,8 @@
+source-title: New York Times
+source-date: 2017-05-02
+source-url: https://www.nytimes.com/2017/05/02/sports/baseball/luis-olmo-died-brooklyn-dodger-from-puerto-rico.html?_r=1
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-03

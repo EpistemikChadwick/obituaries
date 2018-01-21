@@ -1,0 +1,14 @@
+name-last: Weaver
+name-first: Hank
+ 
+birth-date: 1921-11-11
+birth-place: US, TX, Houston
+ 
+death-date: 2017-05-05
+death-place: US, AZ, Phoenix
+ 
+meta-throws: Right
+ 
+military-country: US
+military-conflict:  World War II
+

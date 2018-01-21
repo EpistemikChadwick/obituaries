@@ -1,0 +1,8 @@
+source-title: Chicago Sun-Times
+source-date: 2017-05-28
+source-url: http://legacy.suntimes.com/obituaries/chicagosuntimes/obituary.aspx?n=angelo-zera&pid=185638594&fhid=2069
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-29

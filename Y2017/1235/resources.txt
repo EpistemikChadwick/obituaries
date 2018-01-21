@@ -1,0 +1,8 @@
+source-title: Dolan Funeral Home
+source-date: 2017-05-09
+source-url: http://www.dolanfuneral.com/2017/05/lawrence-j-barry-jr/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-09

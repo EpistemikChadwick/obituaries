@@ -1,0 +1,8 @@
+source-title: Record-Journal
+source-date: 2017-05-29
+source-url: http://www.legacy.com/obituaries/record-journal/obituary.aspx?n=willaim-h-nagel&pid=185643047&fhid=6835
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-29

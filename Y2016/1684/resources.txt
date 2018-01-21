@@ -1,0 +1,8 @@
+source-title: Daily.co.jp
+source-date: 2017-04-06
+source-url: https://www.daily.co.jp/baseball/2017/04/06/0010072182.shtml
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-05

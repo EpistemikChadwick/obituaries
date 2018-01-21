@@ -1,0 +1,15 @@
+name-last: Cole
+name-first: Art
+name-given: Arthur J.
+ 
+birth-date: 1939-06-07
+birth-place: US, NJ, Somerville
+ 
+death-date: 2017-02-08
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Hillside Cemetery
+cemetery-place: US, MT, Cascade
+

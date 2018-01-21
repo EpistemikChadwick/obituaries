@@ -1,0 +1,20 @@
+name-last: Gallop
+name-first: Jack
+name-given: John R.
+ 
+birth-date: 1935-02-02
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2017-05-22
+death-place:  US, PA, Easton
+ 
+school-level: college
+school-name: St. Joseph’s University
+school-place: US, PA, Philadelphia
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Gethsemane Cemetery
+cemetery-place: US, PA, Easton
+

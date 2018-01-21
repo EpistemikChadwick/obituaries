@@ -1,0 +1,11 @@
+name-last: Fantasia
+name-first: Sal
+name-given: Salvatore A.
+ 
+birth-date: 1933-12-01
+ 
+death-date: 2017-05-20
+ 
+cemetery-name: Wood End Cemetery
+cemetery-place: US, MA, Reading
+

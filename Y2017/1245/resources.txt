@@ -1,0 +1,8 @@
+source-title: Great Falls Tribune
+source-date: 2017-05-17
+source-url: http://www.legacy.com/obituaries/greatfallstribune/obituary.aspx?n=arthur-cole&pid=185374362
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-17

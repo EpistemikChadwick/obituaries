@@ -1,0 +1,19 @@
+name-last: Hodgskin
+name-first: Jimmy
+name-given: James Gardiner
+name-suffix: III
+ 
+birth-date: 1992-03-21
+ 
+death-date: 2016-10-23
+ 
+school-level: secondary
+school-name:  Bishop Moore HS
+school-place: US, FL, Orlando
+ 
+school-level: college
+school-name: Troy University
+ 
+school-level: college
+school-name: University of Tampa
+

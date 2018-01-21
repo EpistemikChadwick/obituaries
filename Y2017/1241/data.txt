@@ -1,0 +1,15 @@
+name-last: Schuhrke
+name-first: Bill
+name-given: William L.
+ 
+birth-date: 1936-10-30
+ 
+death-date: 2017-05-09
+ 
+school-level: secondary
+school-name:  George Rogers Clark HS
+school-place: US, KY, Winchester
+ 
+cemetery-name: Concordia Cemetery
+cemetery-place: US, IN, Hammond
+

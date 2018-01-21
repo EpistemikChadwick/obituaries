@@ -1,0 +1,23 @@
+name-last: Wheeler
+name-first: Bob
+name-given: Robert
+ 
+birth-date: 1925-02-23
+birth-place: US, MN, St. Paul
+ 
+death-date: 2017-05-07
+ 
+school-level: secondary
+school-name:  Kemper Military School
+school-place: US, MO, Boonville
+ 
+school-level: college
+school-name: Georgia Military College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, IL, Rockford
+

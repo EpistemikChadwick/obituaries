@@ -1,0 +1,15 @@
+name-last: Barry
+name-first: Larry
+name-given: Lawrence J.
+name-suffix: Jr.
+ 
+death-date: 2017-05-05
+death-place:  US, MA, Milton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Mount Wollaston Cemetery
+cemetery-place: US, MA, Quincy
+

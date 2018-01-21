@@ -1,0 +1,21 @@
+name-last: Anderson
+name-first: Dave
+name-given: David E.
+ 
+birth-date: 1929-03-24
+birth-place: US, CA, San Francisco
+ 
+death-date: 2017-04-23
+death-place:  US, CA, Danville
+ 
+school-level: secondary
+school-name:  Abraham Lincoln HS
+school-place: US, CA, San Francisco
+ 
+school-level: college
+school-name: University of California, Berkeley
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+

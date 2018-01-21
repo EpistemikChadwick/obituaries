@@ -1,0 +1,19 @@
+name-last: Nagel
+name-first: Bill
+name-given: William H.
+ 
+birth-date: 1933
+ 
+death-date: 2017-05-27
+ 
+school-level: secondary
+school-name:  Meriden HS
+school-place: US, CT, Meriden
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Gethsemane Cemetery
+cemetery-place: US, CT, Meriden
+

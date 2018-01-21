@@ -1,0 +1,8 @@
+source-title: Higgins Memorial Home
+source-date: 2017-05-29
+source-url: http://www.higginsmemorialhome.com/obituaries/Raymond-Francis-Pennett?obId=1871123#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-29

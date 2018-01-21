@@ -1,0 +1,21 @@
+name-last: Purslow
+name-first: Jim
+name-given: James Charles
+ 
+birth-date: 1937-10-20
+birth-place: US, IN, Gary
+ 
+death-date: 2017-05-14
+death-place:  US, LA, New Orleans
+ 
+school-level: secondary
+school-name:  Maur Hill Prep School
+school-place: US, KS, Atchison
+ 
+school-level: college
+school-name: Benedictine College
+school-place: US, KS, Atchison
+ 
+cemetery-name: St. John’s Cemetery
+cemetery-place: US, LA, Plaquemine
+

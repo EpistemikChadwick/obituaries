@@ -1,0 +1,21 @@
+name-last: Mele
+name-first: Sam
+name-given: Sabath A.
+ 
+birth-date: 1922-01-21
+ 
+death-date: 2017-05-01
+ 
+school-level: secondary
+school-name:  Bryant HS
+school-place: US, NY, Astoria
+ 
+school-level: college
+school-name: New York University
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Mt. Wollaston Cemetery
+cemetery-place: US, MA, Quincy

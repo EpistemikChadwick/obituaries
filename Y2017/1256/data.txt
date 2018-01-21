@@ -1,0 +1,11 @@
+name-last: Kuzava
+name-first: Bob
+name-given: Robert L.
+ 
+birth-date: 1923-05-28
+ 
+death-date: 2017-05-15
+ 
+military-country: US
+military-conflict:  World War II
+

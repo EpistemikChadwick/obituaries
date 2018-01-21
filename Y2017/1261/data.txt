@@ -1,0 +1,12 @@
+name-last: Teitelman
+name-first: Mark
+name-given: Mark
+ 
+death-date: 2017-05-24
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: B’nai Jacob Memorial Park
+cemetery-place: US, CT, New Haven
+

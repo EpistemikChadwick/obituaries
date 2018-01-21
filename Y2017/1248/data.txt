@@ -1,0 +1,25 @@
+name-last: Lary
+name-first: Yale
+name-given: Robert Yale
+name-suffix: Sr.
+ 
+birth-date: 1930-11-24
+birth-place: US, TX, Fort Worth
+ 
+death-date: 2017-05-11
+death-place:  US, TX, Fort Worth
+ 
+school-level: secondary
+school-name:  North Side HS
+school-place: US, TX, Fort Worth
+ 
+school-level: college
+school-name: Texas A&M University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Greenwood Memorial Park & Mausoleum
+cemetery-place: US, TX, Fort Worth
+

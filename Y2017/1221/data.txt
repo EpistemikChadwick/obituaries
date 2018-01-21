@@ -1,0 +1,12 @@
+name-last: Olmo
+name-first: Luis
+name-given: Luis Francisco
+name-matrilineal: Olmo
+ 
+alias-type: birth
+alias-last: Rodriguez
+ 
+birth-date: 1919-08-11
+ 
+death-date: 2017-04-28
+death-place:  PR, , Santurce

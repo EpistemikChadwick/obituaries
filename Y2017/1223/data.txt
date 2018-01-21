@@ -1,0 +1,12 @@
+name-last: Schulte
+name-first: Jay
+name-given: James Thomas
+ 
+birth-date: 1923-05-18
+birth-place: US, LA, New Orleans
+ 
+death-date: 2017-04-21
+ 
+school-level: secondary
+school-name:  Jesuit HS
+school-place: US, LA, New Orleans

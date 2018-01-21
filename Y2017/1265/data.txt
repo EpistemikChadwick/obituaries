@@ -1,0 +1,8 @@
+name-last: Bunning
+name-first: Jim
+ 
+birth-date: 1931-10-23
+birth-place: US, KY, Southgate
+ 
+death-date: 2017-05-26
+

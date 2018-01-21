@@ -1,0 +1,20 @@
+name-last: Pennett
+name-first: Raymond
+name-given: Raymond Francis
+ 
+birth-date: 1925
+birth-place: US, NJ, Jersey City
+ 
+death-date: 2017-05-25
+death-place:  US, NJ, Freehold
+ 
+school-level: college
+school-name: Seton Hall University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Monmouth Memorial Park
+cemetery-place: US, NJ, Tinton Falls
+

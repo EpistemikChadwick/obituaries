@@ -1,0 +1,16 @@
+name-last: Bass
+name-first: Thomas
+name-given: Thomas
+ 
+birth-date: 1933
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2017-05-25
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, NJ, Manahawkin
+

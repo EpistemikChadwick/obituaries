@@ -1,0 +1,11 @@
+name-last: Weaver
+name-first: Hank
+name-given: Henry Thomas
+ 
+birth-date: 1921-11-11
+ 
+death-date: 2017-05-05
+ 
+military-country: US
+military-conflict:  World War II
+

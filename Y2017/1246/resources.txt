@@ -1,0 +1,8 @@
+source-title: Spokeman-Review
+source-date: 2017-05-14
+source-url: http://www.legacy.com/obituaries/spokesman/obituary.aspx?n=henry-thomas-weaver&pid=185385038
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-17

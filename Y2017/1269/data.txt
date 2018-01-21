@@ -1,0 +1,20 @@
+name-last: Engel
+name-first: Chuck
+name-given: Charles
+ 
+birth-date: 1955-09-26
+birth-place: US, ND, Grand Forks
+ 
+death-date: 2017-05-20
+death-place:  US, MN, Northfield
+ 
+school-level: secondary
+school-name:  St. Louis Park HS
+school-place: US, MN, St. Louis Park
+ 
+school-level: college
+school-name: St. Cloud State University
+ 
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, MN, Mendota Heights
+

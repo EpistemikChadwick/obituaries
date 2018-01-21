@@ -1,0 +1,18 @@
+name-last: Mierkowicz
+name-first: Edward
+name-given: Edward
+ 
+birth-date: 1924-03-05
+birth-place: US, MI, Wyandotte
+ 
+death-date: 2017-05-19
+death-place:  US, MI, Rochester Hills
+ 
+school-level: secondary
+school-name:  Roosevelt High School
+school-place: US, MI, Wyandotte
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+

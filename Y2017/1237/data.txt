@@ -1,0 +1,19 @@
+name-last: Orsborn
+name-first: Chuck
+name-given: Charles
+name-nick: Ozzie
+ 
+death-date: 2017-05-07
+death-place:  US, FL, Naples
+ 
+school-level: secondary
+school-name:  Deerfield Shields HS
+school-place: US, IL, Highland Park
+ 
+school-level: college
+school-name: Bradley University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+

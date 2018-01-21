@@ -1,0 +1,8 @@
+source-title: Star-Telegram
+source-date: 2017-05-14
+source-url: http://www.legacy.com/obituaries/dfw/obituary.aspx?page=lifestory&pid=185382396
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-17

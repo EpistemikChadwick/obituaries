@@ -1,0 +1,8 @@
+source-title: Czopek Funeral Home
+source-date: 2017-05-23
+source-url: http://www.czopekfuneraldirectors.com/obituaries/Robert-Kuzava/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-23
