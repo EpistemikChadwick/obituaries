@@ -1,0 +1,21 @@
+name-last: Fox
+name-first: Pete
+name-given: Ralph
+ 
+birth-date: 1917-10-31
+birth-place: US, MO, Higginsville
+ 
+death-date: 2017-06-08
+death-place:  US, MO, Higginsville
+ 
+school-level: secondary
+school-name:  Higginsville HS
+school-place: US, MO, Higginsville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Missouri Veterans Cemetery at Higginsville
+cemetery-place: US, MO, Higginsville
+

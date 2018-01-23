@@ -1,0 +1,14 @@
+name-last: Kerns
+name-first: Gene
+name-given: Lyle Eugene
+ 
+birth-date: 1940-04-24
+birth-place: US, MD, Hancock
+ 
+death-date: 2017-06-07
+death-place:  US, MD, Hagerstown
+ 
+school-level: secondary
+school-name:  Hancock HS
+school-place: US, MD, Hancock
+

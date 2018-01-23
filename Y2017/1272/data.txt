@@ -1,0 +1,16 @@
+name-last: Brunello
+name-first: Bruno
+name-given: Fidenzio Pio Decimo
+ 
+birth-date: 1935-04-25
+birth-place: US, CA, Santa Barbara
+ 
+death-date: 2017-05-27
+death-place:  US, CA, Santa Maria
+ 
+school-level: college
+school-name: University of California, Santa Barbara
+ 
+military-country: US
+military-branch:  Army
+

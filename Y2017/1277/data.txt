@@ -1,0 +1,26 @@
+name-last: Castro
+name-first: Rudy
+name-given: Rudy Acedo
+ 
+birth-date: 1929-11-15
+birth-place: US, AZ, Tucson
+ 
+death-date: 2017-05-23
+ 
+school-level: secondary
+school-name:  Tucson HS
+school-place: US, AZ, Tucson
+ 
+school-level: college
+school-name: Palo Verde College
+ 
+school-level: college
+school-name: University of Arizona
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Korean War
+ 
+cemetery-name: Holy Hope Cemetery and Mausoleum
+cemetery-place: US, AZ, Tucson
+

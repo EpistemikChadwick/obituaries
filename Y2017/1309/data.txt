@@ -1,0 +1,14 @@
+name-last: Stathos
+name-first: Gus
+name-given: Gus T.
+ 
+death-date: 2017-06-16
+ 
+school-level: secondary
+school-name:  C. K. McClatchy HS
+school-place: US, CA, Sacramento
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+

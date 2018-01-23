@@ -1,0 +1,8 @@
+source-title: Carrillo’s Tucson Mortuary
+source-date: 2017-06-04
+source-url: http://www.carrillostucsonmortuary.com/memsol.cgi?user_id=1967809
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-04

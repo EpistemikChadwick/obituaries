@@ -1,0 +1,14 @@
+name-last: Boxell
+name-first: Bob
+name-given: Robert D.
+ 
+birth-date: 1930-11-20
+birth-place: US, IN, Muncie
+ 
+death-date: 2017-06-19
+death-place:  US, IN, Newburgh
+ 
+school-level: secondary
+school-name:  Muncie Central HS
+school-place: US, IN, Muncie
+

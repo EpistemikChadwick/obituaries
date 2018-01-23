@@ -1,0 +1,8 @@
+source-title: Crouch Funeral Home
+source-date: 2017-06-26
+source-url: http://www.crouchfuneralhome.com/notices/Tex-Warfield
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-26

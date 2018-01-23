@@ -1,0 +1,13 @@
+name-last: Feriancek
+name-first: Len
+name-given: Leonard
+ 
+birth-date: 1930-01-14
+birth-place: US, MN, Blackduck
+ 
+death-date: 2017-05-28
+ 
+school-level: secondary
+school-name:  Blackduck HS
+school-place: US, MN, Blackduck
+

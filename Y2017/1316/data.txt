@@ -1,0 +1,15 @@
+name-last: Webb
+name-first: Jerry
+name-given: Gerald Lee
+ 
+birth-date: 1946-06-15
+ 
+death-date: 2017-06-20
+ 
+school-level: secondary
+school-name:  Downey HS
+school-place: US, CA, Downey
+ 
+school-level: college
+school-name: Modesto Junior College
+

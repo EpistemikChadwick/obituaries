@@ -1,0 +1,21 @@
+name-last: Hagemann
+name-first: John
+name-given: John W.
+name-suffix: Sr.
+ 
+birth-date: 1936-08-15
+birth-place: US, NY, Staten Island
+ 
+death-date: 2017-06-17
+death-place:  US, NY, Staten Island
+ 
+school-level: secondary
+school-name:  Augustinian Academy
+school-place: US, NY, Carthage
+ 
+school-level: college
+school-name: Villanova University
+ 
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, NY, Staten Island
+

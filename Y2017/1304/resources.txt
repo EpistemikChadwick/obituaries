@@ -1,0 +1,8 @@
+source-title: Daily Breeze
+source-date: 2017-06-16
+source-url: http://www.legacy.com/obituaries/dailybreeze/obituary.aspx?n=john-brey&pid=185814815&fhid=24083
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-16

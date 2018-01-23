@@ -1,0 +1,16 @@
+name-last: Fauth
+name-first: Lew
+name-given: Lewis George
+ 
+birth-date: 1926-09-10
+birth-place: US, NY, Buffalo
+ 
+death-date: 2017-06-07
+ 
+school-level: college
+school-name: University at Buffalo
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

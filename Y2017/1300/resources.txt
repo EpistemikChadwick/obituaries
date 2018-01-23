@@ -1,0 +1,8 @@
+source-title: Downs Funeral Home
+source-date: 2017-06-12
+source-url: http://www.downsfh.com/home/obituary/4131040
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-12

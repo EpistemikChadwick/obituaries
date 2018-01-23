@@ -1,0 +1,16 @@
+name-last: Radmaker
+name-first: Roy
+name-given: Roy Roger
+ 
+birth-date: 1943-05-29
+ 
+death-date: 2017-06-14
+death-place:  US, IL, Ivesdale
+ 
+school-level: secondary
+school-name:  Bement HS
+school-place: US, IL, Bement
+ 
+school-level: college
+school-name: Eastern Illinois University
+

@@ -1,0 +1,19 @@
+name-last: Blanc
+name-first: Ron
+name-given: Ronald J.
+ 
+birth-date: 1931-08-28
+ 
+death-date: 2017-06-19
+ 
+school-level: secondary
+school-name:  East Canton HS
+school-place: US, OH, East Canton
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: North Lawn Cemetery
+cemetery-place: US, OH, Canton
+

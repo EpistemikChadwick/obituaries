@@ -1,0 +1,8 @@
+source-title:  Starks Funeral Home
+source-date: 2017-06-04
+source-url: http://www.starks-menchinger.com/obituaries#/obituary/donald-s-geresy/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-04

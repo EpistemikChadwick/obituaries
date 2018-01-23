@@ -1,0 +1,22 @@
+name-last: Carroll
+name-first: Erby
+name-given: Erby Rue
+name-suffix: Jr.
+ 
+birth-date: 1919-11-30
+birth-place: US, AR, Viola
+ 
+death-date: 2017-04-25
+death-place:  US, AR, Mountain Home
+ 
+school-level: college
+school-name: Lyon College
+school-place: US, AR, Batesville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Viola Cemetery
+cemetery-place: US, AR, Viola
+

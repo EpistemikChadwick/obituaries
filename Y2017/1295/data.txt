@@ -1,0 +1,12 @@
+name-last: Liggett
+name-first: Jim
+ 
+death-date: 2017-06-04
+ 
+school-level: secondary
+school-name:  Mt. Diablo HS
+school-place: US, CA, Concord
+ 
+school-level: college
+school-name: University of California
+

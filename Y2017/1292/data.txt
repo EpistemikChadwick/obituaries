@@ -1,0 +1,17 @@
+name-last: Camp
+name-first: Gene
+name-given: George Eugene
+ 
+birth-date: 1926-10-27
+birth-place: US, WA, Lacrosse
+ 
+death-date: 2017-06-02
+death-place:  US, WA, Issaquah
+ 
+school-level: secondary
+school-name:  Lacrosse HS
+school-place: US, WA, Lacrosse
+ 
+school-level: college
+school-name: Washington State University
+

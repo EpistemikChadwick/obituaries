@@ -1,0 +1,14 @@
+name-last: Piersall
+name-first: Jimmy
+name-given: James Anthony
+ 
+birth-date: 1929-11-14
+birth-place: US, CT, Waterbury
+ 
+death-date: 2017-06-03
+death-place:  US, IL, Wheaton
+ 
+school-level: secondary
+school-name:  Leavenworth HS
+school-place: US, CT, Waterbury
+

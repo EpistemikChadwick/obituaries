@@ -1,0 +1,8 @@
+source-title: The New Orleans Advocate
+source-date: 2017-06-17
+source-url: http://www.legacy.com/obituaries/theneworleansadvocate/obituary.aspx?n=alvin-john-seeger-dirty-al&pid=185835967&fhid=2616
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-23

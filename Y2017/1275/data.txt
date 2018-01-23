@@ -1,0 +1,20 @@
+name-last: D'Ambrosi
+name-first: Mario
+name-given: Mario
+name-nick: Moe
+ 
+birth-date: 1933-10-09
+birth-place: US, CA, Wilmington
+ 
+death-date: 2017-05-28
+ 
+school-level: secondary
+school-name:  Banning HS
+school-place: US, CA, Banning
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Green Hills Memorial Park
+cemetery-place: US, CA, Rancho Palos Verdes
+

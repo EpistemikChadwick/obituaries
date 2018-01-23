@@ -1,0 +1,21 @@
+name-last: Koppa
+name-first: Cy
+name-given: Cyril P.
+ 
+birth-date: 1926-07-09
+birth-place: US, WI, Cassel
+ 
+death-date: 2017-06-17
+death-place:  US, WI, Wausau
+ 
+school-level: secondary
+school-name:  Wausau HS
+school-place: US, WI, Wausau
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Restlawn Memorial Park
+cemetery-place: US, WI, Wausau
+

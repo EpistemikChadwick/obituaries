@@ -1,0 +1,12 @@
+name-last: Mann
+name-first: Larry
+name-given: Lawrence Curtice
+ 
+birth-date: 1927-10-16
+birth-place: US, CA, Ceres
+ 
+death-date: 2017-06-08
+ 
+school-level: college
+school-name: California State University, Sacramento
+

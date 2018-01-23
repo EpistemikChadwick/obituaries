@@ -1,0 +1,23 @@
+name-last: Coluni
+name-first: Bob
+name-given: Robert Valentine
+ 
+birth-date: 1931-04-02
+birth-place: US, NY, Amsterdam
+ 
+death-date: 2017-06-09
+ 
+school-level: secondary
+school-name:  St. Mary’s Institute
+school-place: US, NY, Amsterdam
+ 
+school-level: college
+school-name: Wake Forest University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Stanislaus Cemetery
+cemetery-place: US, NY, Amsterdam
+

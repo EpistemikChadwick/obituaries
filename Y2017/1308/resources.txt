@@ -1,0 +1,8 @@
+source-title: Bedell Pizzo Funeral Home
+source-date: 2017-06-23
+source-url: http://www.bedellpizzo.com/obituaries/obituaries.asp?listing_id=200171
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-23

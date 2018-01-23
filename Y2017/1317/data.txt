@@ -1,0 +1,16 @@
+name-last: Musser
+name-first: Richard
+name-given: Richard S.
+ 
+birth-date: 1934-06-15
+birth-place: US, OH, Bryan
+ 
+death-date: 2017-06-18
+death-place:  US, OH, Conneaut
+ 
+school-level: secondary
+school-name:  Ashtabula HS
+school-place: US, OH, Ashtabula
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,18 @@
+name-last: Brey
+name-first: John
+name-given: John Alexander
+name-suffix: Sr.
+ 
+birth-date: 1935-03-14
+birth-place: US, IN, Indianapolis
+ 
+death-date: 2017-06-10
+death-place:  US, CA, Torrance
+ 
+school-level: secondary
+school-name:  Redondo Union HS
+school-place: US, CA, Redondo Beach
+ 
+cemetery-name: Pacific Crest Cemetery
+cemetery-place: US, CA, Redondo Beach
+

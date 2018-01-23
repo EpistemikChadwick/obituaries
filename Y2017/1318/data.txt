@@ -1,0 +1,16 @@
+name-last: Malone
+name-first: Tom
+name-given: Thomas Vincent
+ 
+birth-date: 1939-05-17
+birth-place: US, CA, San Francisco
+ 
+death-date: 2017-03-12
+ 
+school-level: secondary
+school-name:  Richmond HS
+school-place: US, CA, Richmond
+ 
+military-country: US
+military-branch:  Army
+

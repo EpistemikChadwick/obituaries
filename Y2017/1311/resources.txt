@@ -1,0 +1,8 @@
+source-title: Daily Freeman
+source-date: 2017-06-18
+source-url: http://www.legacy.com/obituaries/dailyfreeman/obituary.aspx?n=albert-alfred-dibernardo&pid=185839107&fhid=14980&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-23

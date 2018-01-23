@@ -1,0 +1,14 @@
+name-last: Shomo
+name-first: Bob
+name-given: Robert E.
+ 
+birth-date: 1933-11-20
+birth-place: US, PA, Lancaster
+ 
+death-date: 2017-06-04
+death-place:  US, DE, Lewes
+ 
+school-level: secondary
+school-name:  J.P. McCaskey HS
+school-place: US, PA, Lancaster
+

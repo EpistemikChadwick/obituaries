@@ -1,0 +1,15 @@
+name-last: Tyer
+name-first: Jimmy
+name-given: Jimmy Harold
+ 
+birth-date: 1942-07-22
+birth-place: US, NC, Washington
+ 
+death-date: 2017-06-07
+death-place:  US, NC, Kinston
+ 
+school-level: secondary
+school-name:  Bath HS
+school-place: US, NC, Bath
+ 
+

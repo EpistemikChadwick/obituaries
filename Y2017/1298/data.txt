@@ -1,0 +1,22 @@
+name-last: Hinckley
+name-first: Cless
+name-given: Vernon Cless
+ 
+birth-date: 1930-10-08
+birth-place: US, UT, Logan
+ 
+death-date: 2017-06-02
+death-place:  US, UT, Murray
+ 
+school-level: secondary
+school-name:  Preston HS
+school-place: US, ID, Preston
+ 
+school-level: college
+school-name: University of Idaho
+ 
+military-country: US
+military-conflict:  Korean War
+ 
+cemetery-name: Fairview Cemetery
+cemetery-place: US, ID, Fairview

@@ -1,0 +1,20 @@
+name-last: Little
+name-first: Derek
+name-given: Derek Ralph
+ 
+birth-date: 1933
+birth-place: US, MA, Norton
+ 
+death-date: 2017-06-15
+death-place:  US, MA, Mashpee
+ 
+school-level: secondary
+school-name:  Norton HS
+school-place: US, MA, Norton
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Massachusetts National Cemetery
+cemetery-place: US, MA, Bourne
+

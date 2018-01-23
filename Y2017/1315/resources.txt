@@ -1,0 +1,8 @@
+source-title: Lamiell Funeral Home
+source-date: 2017-06-23
+source-url: http://www.lamiellfuneralhome.com/obituary/ronald-j-blanc
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-23

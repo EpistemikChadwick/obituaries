@@ -1,0 +1,13 @@
+name-last: Copeland
+name-first: Clifford
+name-given: Clifford Eugene
+ 
+birth-date: 1930-07-13
+birth-place: US, AL, Cullman
+ 
+death-date: 2017-06-07
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+

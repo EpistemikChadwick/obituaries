@@ -1,0 +1,8 @@
+source-title: Myers Mortuary
+source-date: 2017-06-08
+source-url: http://www.myers-mortuary.com/obituary/Archie-Elwood-Skeen/Plain-City-UT/1732213
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-08

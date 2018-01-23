@@ -1,0 +1,17 @@
+name-last: Palamar
+name-first: Thomas
+name-given: Thomas Michael
+name-suffix: Sr.
+ 
+birth-date: 1935-07-28
+birth-place: US, NJ, Rahway
+ 
+death-date: 2017-06-04
+ 
+school-level: secondary
+school-name:  Rahway HS
+school-place: US, NJ, Rahway
+ 
+cemetery-name: Rose Hill Cemetery
+cemetery-place: US, MD, Hagerstown
+

@@ -1,0 +1,10 @@
+name-last: Jarvis
+name-first: Vincent
+name-given: Vincent F.
+name-suffix: Jr.
+ 
+birth-date: 1938-12-21
+ 
+death-date: 2017-06-15
+death-place:  US, CT, Danbury
+

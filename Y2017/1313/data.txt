@@ -1,0 +1,17 @@
+name-last: Haus
+name-first: Fran
+name-given: Francis
+name-suffix: Jr.
+ 
+birth-date: 1927-12-15
+ 
+death-date: 2017-06-17
+ 
+school-level: secondary
+school-name:  Central Catholic HS
+school-place: US, PA, Pittsburgh
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

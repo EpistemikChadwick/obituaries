@@ -1,0 +1,16 @@
+name-last: Ewing
+name-first: Donald
+name-given: Donald P.
+name-nick: Buck
+ 
+birth-date: 1926-12-22
+birth-place: US, NY, Croton-on-Hudson
+ 
+death-date: 2017-06-26
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Bethel Cemetery
+cemetery-place: US, NY, Croton-on-Hudson
+

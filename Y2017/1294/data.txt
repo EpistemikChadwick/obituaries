@@ -1,0 +1,22 @@
+name-last: Ford
+name-first: Dan
+name-given: Daniel
+ 
+birth-date: 1948-02-15
+birth-place: US, CT, New Haven
+ 
+death-date: 2017-06-08
+ 
+school-level: secondary
+school-name:  Hamden HS
+school-place: US, CT, Hamden
+ 
+school-level: college
+school-name: Quinnipiac College
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: All Saints Cemetery
+cemetery-place: US, CT, North Haven
+

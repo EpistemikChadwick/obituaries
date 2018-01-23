@@ -1,0 +1,18 @@
+name-last: Seeger
+name-first: Al
+name-given: Alvin John
+name-nick: Dirty Al
+ 
+death-date: 2017-06-14
+ 
+school-level: secondary
+school-name:  Warren Easton HS
+school-place: US, LA, New Orleans
+ 
+school-level: college
+school-name: Loyola University New Orleans
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

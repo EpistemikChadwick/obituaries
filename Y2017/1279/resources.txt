@@ -1,0 +1,8 @@
+source-title: Nicholson Funeral Home
+source-date: 2017-06-04
+source-url: http://www.nicholsonfunerals.com/notices/HermanHerm-Starrette/services
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-04

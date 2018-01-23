@@ -1,0 +1,17 @@
+name-last: Thompson
+name-first: Tommy
+name-given: Thomas A.
+ 
+birth-date: 1939-01-17
+birth-place: US, PA, Kane
+ 
+death-date: 2017-06-25
+death-place:  US, PA, Lewisburg
+ 
+school-level: secondary
+school-name:  Kane Area HS
+school-place: US, PA, Kane
+ 
+school-level: college
+school-name: Bucknell University
+

@@ -1,0 +1,17 @@
+name-last: Padgett
+name-first: Buddy
+name-given: Buddy
+name-suffix: Sr.
+ 
+birth-date: 1933-11-18
+birth-place: US, SC, North Augusta
+ 
+death-date: 2017-06-05
+ 
+school-level: secondary
+school-name:  Commercial HS
+school-place: US, GA, Savannah
+ 
+cemetery-name: Forest Lawn Memory Gardens
+cemetery-place: US, GA, Savannah
+

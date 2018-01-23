@@ -1,0 +1,10 @@
+name-last: Warfield
+name-first: Tex
+name-given: Tex
+ 
+birth-date: 1928-09-22
+birth-place: US, NY, New York
+ 
+death-date: 2017-06-24
+death-place:  US, MD, Elkton
+

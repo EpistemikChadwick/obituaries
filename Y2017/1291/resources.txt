@@ -1,0 +1,8 @@
+source-title: Howard-Carter Funeral Home
+source-date: 2017-06-10
+source-url: http://www.howardandcarter.com/fh/obituaries/obituary.cfm?o_id=4256108&fh_id=14131
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-10

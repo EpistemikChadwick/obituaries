@@ -1,0 +1,12 @@
+name-last: Frydrych
+name-first: John
+name-given: John Francis
+ 
+birth-date: 1947-09-28
+birth-place: US, NY, Long Island
+ 
+death-date: 2017-06-07
+ 
+military-country: US
+military-branch:  Air Force
+

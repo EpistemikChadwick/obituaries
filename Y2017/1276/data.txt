@@ -1,0 +1,16 @@
+name-last: Huggins
+name-first: Jessie
+name-given: Jessie Lee
+ 
+birth-date: 1944-11-05
+birth-place: US, LA, Zachary
+ 
+death-date: 2017-05-31
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Louisiana National Cemetery
+cemetery-place: US, LA, Zachary
+

@@ -1,0 +1,21 @@
+name-last: Grogan
+name-first: Max
+name-given: Max Eugene
+ 
+birth-date: 1945-11-09
+birth-place: US, GA, Rockmart
+ 
+death-date: 2017-06-09
+death-place:  US, TN, Knoxville
+ 
+school-level: secondary
+school-name:  Rockmart HS
+school-place: US, GA, Rockmart
+ 
+school-level: college
+school-name: University of West Georgia
+ 
+military-country: US
+military-branch:  Army
+military-conflict: Vietnam War
+

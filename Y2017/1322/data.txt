@@ -1,0 +1,17 @@
+name-last: Lyle
+name-first: Louie
+name-given: Louie Milton
+ 
+birth-date: 1925-12-20
+birth-place: US, SC, Greenwood
+ 
+death-date: 2017-06-24
+death-place:  US, SC, Greenwood
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Greenwood Memorial Gardens
+cemetery-place: US, SC, Greenwood
+

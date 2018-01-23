@@ -1,0 +1,13 @@
+name-last: Freeman
+name-first: Jim
+name-given: James
+ 
+birth-date: 1934-06-29
+birth-place: US, OH, Key
+ 
+death-date: 2017-06-22
+death-place:  US, OH, Lorain
+ 
+military-country: US
+military-branch:  Army
+

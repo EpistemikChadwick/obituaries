@@ -1,0 +1,8 @@
+source-title: Provo Daily Herald
+source-date: 2017-06-08
+source-url: http://www.heraldextra.com/lifestyles/announcements/obituaries/vernon-cless-hinckley/article_c4175040-388e-5165-af34-4103990e6938.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-12

@@ -1,0 +1,8 @@
+source-title: The Oregonian
+source-date: 2017-06-14
+source-url: http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=lawrence-curtice-mann-larry&pid=185794074#_ga=2.242051970.1228988352.1497272981-991511548.1470065158
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-14

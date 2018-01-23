@@ -1,0 +1,13 @@
+name-last: Morren
+name-first: Perry
+name-given: Perry Lee
+ 
+birth-date: 1935-03-22
+birth-place: US, TX, Childress
+ 
+death-date: 2017-06-25
+ 
+school-level: secondary
+school-name:  Childress HS
+school-place: US, TX, Childress
+

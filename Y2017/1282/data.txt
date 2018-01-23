@@ -1,0 +1,23 @@
+name-last: Skeen
+name-first: Archie
+name-given: Archie Elwood
+ 
+birth-date: 1936-07-27
+birth-place: US, UT, Ogden
+ 
+death-date: 2017-06-02
+death-place:  US, UT, Plain City
+ 
+school-level: secondary
+school-name:  Weber HS
+school-place: US, UT, Pleasant View
+ 
+school-level: college
+school-name: Utah State University
+ 
+school-level: college
+school-name: University of Utah
+ 
+cemetery-name: Plain City Cemetery
+cemetery-place: US, UT, Plain City
+

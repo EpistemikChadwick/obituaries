@@ -1,0 +1,23 @@
+name-last: Galli
+name-first: Joe
+name-given: Joseph P.
+ 
+birth-date: 1927-07-17
+birth-place: US, MA, Pittsfield
+ 
+death-date: 2017-06-10
+death-place:  US, MA, Lenox
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Pittsfield HS
+school-place: US, MA, Pittsfield
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Joseph’s Cemetery
+cemetery-place: US, MA, Pittsfield
+

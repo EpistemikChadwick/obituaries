@@ -1,0 +1,8 @@
+source-title: Sun-Gazette
+source-date: 2017-06-02
+source-url: http://www.sungazette.com/obituaries/2017/06/william-e-byham-2/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-05

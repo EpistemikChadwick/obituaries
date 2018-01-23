@@ -1,0 +1,15 @@
+name-last: Dittmer
+name-first: Charlie
+name-given: Charles F.
+ 
+birth-date: 1929-11-25
+birth-place: US, NY, Rockland Lake
+ 
+death-date: 2017-06-01
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Gethsemane Cemetery
+cemetery-place: US, NY, Rockland Lake
+

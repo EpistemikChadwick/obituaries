@@ -1,0 +1,8 @@
+source-title: Daily Breeze
+source-date: 2017-06-04
+source-url: http://www.legacy.com/obituaries/dailybreeze/obituary.aspx?n=mario-dambrosi&pid=185692724&fhid=5095
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-04

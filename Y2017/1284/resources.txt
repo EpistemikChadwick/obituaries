@@ -1,0 +1,8 @@
+source-title: Siwicki-Yanicko Funeral Home
+source-date: 2017-06-08
+source-url: http://www.siwicki-yanickofh.com/notices/Leo-Mierzejek
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-08

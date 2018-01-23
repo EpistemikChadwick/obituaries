@@ -1,0 +1,22 @@
+name-last: DiBernardo
+name-first: Al
+name-given: Albert Alfred
+ 
+birth-date: 1935-6-29
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2017-06-16
+ 
+school-level: secondary
+school-name:  Brooklyn Technical HS
+school-place: US, NY, Brooklyn
+ 
+school-level: college
+school-name: City College of New York
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Florida National Cemetery
+cemetery-place: US, FL, Bushnell
+

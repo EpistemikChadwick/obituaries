@@ -1,0 +1,12 @@
+name-last: Wagner
+name-first: Hector
+name-given: Hector Raul
+ 
+birth-date: 1968-11-26
+birth-place: DO, ,
+ 
+death-date: 2017-06-05
+ 
+cemetery-name: East Ridgelawn Cemetery
+cemetery-place: US, NJ, Clifton
+

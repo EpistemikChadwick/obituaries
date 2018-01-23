@@ -1,0 +1,17 @@
+name-last: Starrette
+name-first: Herm
+name-given: Herman Paul
+ 
+birth-date: 1936-11-20
+birth-place: US, NC, Cool Spring
+ 
+death-date: 2017-06-02
+death-place:  US, NC, Statesville
+ 
+school-level: secondary
+school-name: Cool Spring HS
+school-place: US, NC, Cleveland
+ 
+school-level: college
+school-name: Lenoir-Rhyne University
+

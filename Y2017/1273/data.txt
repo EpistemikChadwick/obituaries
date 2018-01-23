@@ -1,0 +1,16 @@
+name-last: Morrow
+name-first: Bill
+name-given: William Kennedy
+ 
+birth-date: 1925-07-27
+birth-place: US, DE, Delaware City
+ 
+death-date: 2017-05-27
+ 
+school-level: secondary
+school-name:  Delaware City HS
+school-place: US, DE, Delaware City
+ 
+cemetery-name: Hickory Grove Cemetery
+cemetery-place: US, DE, Port Penn
+

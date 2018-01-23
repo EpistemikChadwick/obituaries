@@ -1,0 +1,12 @@
+name-last: Geresy
+name-first: Don
+name-given: Donald S.
+ 
+birth-date: 1928-03-01
+birth-place: US, IN, Gary
+ 
+death-date: 2017-02-01
+death-place:  US, MI, Bridgman
+ 
+school-level: college
+school-name: North Central University

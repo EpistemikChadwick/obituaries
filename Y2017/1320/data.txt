@@ -1,0 +1,13 @@
+name-last: Melignano
+name-first: Zeke
+name-given: Carmine
+ 
+birth-date: 1926-01-12
+birth-place: US, NY, New York
+ 
+death-date: 2017-06-22
+death-place:  US, TX, Beaumont
+ 
+cemetery-name: Forest Lawn Memorial Park
+cemetery-place: US, TX, Beaumont
+

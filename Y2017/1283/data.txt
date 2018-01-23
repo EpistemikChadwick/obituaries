@@ -1,0 +1,16 @@
+name-last: Raines
+name-first: Jess
+name-given: Jesse
+ 
+birth-date: 1925-05-19
+ 
+death-date: 2017-06-02
+ 
+school-level: secondary
+school-name:  Central HS
+school-place: US, OH, Akron
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+

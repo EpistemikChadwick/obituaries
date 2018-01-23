@@ -1,0 +1,17 @@
+name-last: Byham
+name-first: Buck
+name-given: William E.
+ 
+birth-date: 1928-12-12
+birth-place: US, PA, Kane
+ 
+death-date: 2017-05-30
+death-place:  US, PA, Montoursville
+ 
+school-level: secondary
+school-name:  Kane HS
+school-place: US, PA, Kane
+ 
+cemetery-name: Montoursville Cemetery
+cemetery-place: US, PA, Montoursville
+

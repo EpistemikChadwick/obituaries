@@ -1,0 +1,8 @@
+source-title: East Bay Times
+source-date: 2017-06-23
+source-url: http://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=thomas-vincent-malone&pid=185889615&fhid=24151&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-23
