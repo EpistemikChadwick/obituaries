@@ -1,0 +1,8 @@
+source-title: Legacy.com
+source-date: 2014-12-10
+source-url: http://www.legacy.com/Obituaries.asp?Page=LifeStory&PersonId=173415544
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-10

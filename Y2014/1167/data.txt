@@ -1,0 +1,12 @@
+name-last: Fisher
+name-first: George
+name-given: George D.
+
+birth-date: 1924-07-09
+birth-place: US, TN, Greenbrier
+
+death-date: 2014-12-20
+death-place: US, TN, Clarksville
+
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, TN, Clarksville

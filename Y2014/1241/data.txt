@@ -1,0 +1,13 @@
+name-last: Moore
+name-first: Kelvin
+
+death-date: 2014-11-09
+death-place: US, GA, Covington
+
+school-level: secondary
+school-name: Leroy HS
+school-place: US, AL, Leroy
+
+school-level: college
+school-name: Jackson State University
+school-place: US, MS, Jackson

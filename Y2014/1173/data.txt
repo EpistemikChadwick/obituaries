@@ -1,0 +1,14 @@
+name-last: Pennington
+name-first: Robert
+name-given: Robert Gayle
+
+birth-date: 1928-03-31
+birth-place: US, VA, Troutdale
+
+death-date: 2014-12-11
+
+military-country: US
+military-branch: Air Force
+
+cemetery-name: Oaklawn Memorial Gardens
+cemetery-place: US, FL, Titusville

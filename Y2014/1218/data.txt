@@ -1,0 +1,12 @@
+name-last: Youngblood
+name-first: Del
+name-given: Truman O’Dell
+
+birth-place: US, CA, Merced
+
+death-date: 2014-11-13
+death-place: US, NV, Reno
+
+school-level: college
+school-name: Reedley College
+school-place: US, CA, Reedley

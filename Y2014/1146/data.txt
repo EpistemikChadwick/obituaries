@@ -1,0 +1,20 @@
+name-last: Gilmore
+name-first: Sidney
+name-given: Sidney Allen
+
+birth-date: 1931-04-25
+birth-place: US, WV, Oakvale
+
+death-date: 2014-12-26
+death-place: US, VA, Pearisburg
+
+school-level: secondary
+school-name: Pearisburg HS
+school-place: US, VA, Pearisburg
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Birchlawn Burial Park
+cemetery-place: US, VA, Pearisburg

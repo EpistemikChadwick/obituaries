@@ -1,0 +1,12 @@
+name-last: Kahny
+name-first: Len
+name-given: Leonard John
+
+birth-date: 1911-06-25
+birth-place: US, OH, Cincinnati
+
+death-date: 2014-11-19
+
+school-level: secondary
+school-name: Hughes HS
+school-place: US, OH, Cincinnati

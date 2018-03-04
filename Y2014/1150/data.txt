@@ -1,0 +1,14 @@
+name-last: Caplette
+name-first: Richard
+
+birth-date: 1934-03-15
+
+death-date: 2014-12-27
+death-place: US, MA, Springfield
+
+school-level: secondary
+school-name: Technical HS
+school-place: US, MA, Springfield
+
+cemetery-name: St. Michael Cemetery
+cemetery-place: US, MA, Springfield

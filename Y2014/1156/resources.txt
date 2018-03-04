@@ -1,0 +1,8 @@
+source-title: Fresno Bee
+source-date: 2015-01-01
+source-url: http://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=JOHN-ARCHIE-MORSE&pid=173683270
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-01

@@ -1,0 +1,20 @@
+name-last: Raczka
+name-first: John
+name-given: John A.
+
+birth-date: 1920-08-21
+birth-place: US, NH, Manchester
+
+death-date: 2014-12-07
+death-place: US, NH, Manchester
+
+school-level: secondary
+school-name: Manchester Central HS
+school-place: US, NH, Manchester
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Pine Grove Cemetery
+cemetery-place: US, NH, Manchester

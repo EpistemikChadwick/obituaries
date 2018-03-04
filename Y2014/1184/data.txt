@@ -1,0 +1,16 @@
+name-last: Young
+name-first: Tom
+name-given: Thomas William
+
+birth-date: 1940-08-25
+birth-place: US, OH, Zanesville
+
+death-date: 2014-12-12
+death-place: US, OH, Zanesville
+
+school-level: secondary
+school-name: Maysville HS
+school-place: US, OH, Zanesville
+
+cemetery-name: Mt. Calvary Cemetery
+cemetery-place: US, OH, Zanesville

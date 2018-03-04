@@ -1,0 +1,19 @@
+name-last: AuBuchon
+name-first: Fred
+name-given: Frederick O.
+
+birth-date: 1931-06-28
+birth-place: US, MO, Bonne Terre
+
+death-date: 2014-11-24
+death-place: US, FL, Valrico
+
+school-level: college
+school-name: Southeast Missouri State University
+school-place: US, MO, Cape Girardeau
+
+military-country: US
+military-branch: Army
+
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, MO, Bonne Terre

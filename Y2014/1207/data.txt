@@ -1,0 +1,16 @@
+name-last: Miller
+name-first: James
+name-given: James R.
+
+birth-place: US, PA, Lykens
+
+death-date: 2014-11-21
+death-place: US, PA, Lancaster
+
+meta-throws: left
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Brunnerville United Methodist Cemetery
+cemetery-place: US, PA, Brunnerville

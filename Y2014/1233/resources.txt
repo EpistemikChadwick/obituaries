@@ -1,0 +1,8 @@
+source-title: Recorder
+source-date: 2014-11-15
+source-url: http://www.legacy.com/obituaries/recorder/obituary.aspx?n=John-E-Golembeski-Tim&pid=173160425
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-17

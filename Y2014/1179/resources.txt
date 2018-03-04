@@ -1,0 +1,8 @@
+source-title: Weber Funeral Home
+source-date: 2014-12-17
+source-url: http://www.weberfuneralhome.com/obituaries/Glennon-Brundis/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-17

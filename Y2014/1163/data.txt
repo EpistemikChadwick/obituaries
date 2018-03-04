@@ -1,0 +1,17 @@
+name-last: Komisar
+name-first: Tony
+name-given: Anthony G.
+
+birth-place: US, NY, Beacon
+
+death-date: 2014-12-17
+
+school-level: secondary
+school-name: Beacon HS
+school-place: US, NY, Beacon
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Cedar Memorial Park Cemetery
+cemetery-place: US, IA, Cedar Rapids

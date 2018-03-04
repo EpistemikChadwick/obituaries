@@ -1,0 +1,16 @@
+name-last: Woldt
+name-first: Deck
+name-given: Roy Julius
+
+birth-date: 1919-10-22
+birth-place: US, WI, Egg Harbor
+
+death-date: 2014-12-25
+death-place: US, TX, Pampa
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Egg Harbor Town Cemetery
+cemetery-place: US, WI, Egg Harbor

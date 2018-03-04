@@ -1,0 +1,8 @@
+source-title: Examiner.com
+source-date: 2014-12-30
+source-url: http://www.examiner.com/article/hank-presswood-negro-league-player-with-cleveland-and-kansas-city-dies-at-93
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-01

@@ -1,0 +1,20 @@
+name-last: Hornacek
+name-first: Joseph
+name-nick: Fuzzy
+
+birth-date: 1927-03-19
+birth-place: US, PA, Beaver Falls
+
+death-date: 2014-11-25
+death-place: US, PA, Beaver
+
+school-level: secondary
+school-name: Beaver Falls HS
+school-place: US, PA, Beaver Falls
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, PA, Chippewa Township

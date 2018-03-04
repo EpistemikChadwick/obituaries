@@ -1,0 +1,8 @@
+source-title: Huntsville Times
+source-date: 2014-12-28
+source-url: http://obits.al.com/obituaries/huntsville/obituary.aspx?n=Ray-Jones&pid=173622795
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-28

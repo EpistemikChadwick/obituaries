@@ -1,0 +1,5 @@
+name-last: Brito
+name-first: Oscar
+name-given: Jose Oscar
+
+death-date: 2014-07-15

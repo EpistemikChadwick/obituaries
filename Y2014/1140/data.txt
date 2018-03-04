@@ -1,0 +1,10 @@
+name-last: Simononis
+name-first: Robert
+name-given: Robert R.
+
+birth-place: US, PA, Girardville
+
+death-date: 2014-12-24
+
+cemetery-name: St. John Neumann Cemetery
+cemetery-place: US, PA, Chalfont

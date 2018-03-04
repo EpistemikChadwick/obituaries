@@ -1,0 +1,21 @@
+name-last: McGarvey
+name-first: Bill
+name-given: Warren William
+name-nick: Chick
+
+birth-date: 1925-02-03
+birth-place: US, SC, Parris Island
+
+death-date: 2014-12-02
+
+school-level: secondary
+school-name: Ridgeland HS
+school-place: US, SC, Ridgeland
+
+school-level: college
+school-name: Armstrong State University
+school-place: US, GA, Savannah
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

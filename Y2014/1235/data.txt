@@ -1,0 +1,10 @@
+name-last: O’Neal
+name-first: Hank
+name-given: Waymond
+
+birth-date: 1929
+
+death-date: 2014-11-03
+
+military-country: US
+military-branch: Air Force

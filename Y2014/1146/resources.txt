@@ -1,0 +1,8 @@
+source-title: NRV News
+source-date: 2014-12-28
+source-url: http://nrvnews.com/obituaries/gilmore-sidney-allen/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-28

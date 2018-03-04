@@ -1,0 +1,28 @@
+name-last: Pearson
+name-first: John
+name-given: John Nils
+name-nick: Hank
+
+birth-date: 1922-12-08
+birth-place: US, MA, Bridgewater
+
+death-date: 2014-12-03
+death-place: US, MA, Brockton
+
+school-level: secondary
+school-name: Bridgewater HS
+school-place: US, MA, Bridgewater
+
+school-level: college
+school-name: Northeastern University
+
+school-level: college
+school-name: Springfield College
+school-place: US, MA, Springfield
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Mt. Prospect Cemetery
+cemetery-place: US, MA, Bridgewater

@@ -1,0 +1,21 @@
+name-last: Johnson
+name-first: Edsel
+name-given: Edsel Eugene
+name-suffix: Sr.
+
+birth-date: 1925-09-17
+birth-place: US, AL, Local
+
+death-date: 2014-11-08
+death-place: US, AL, Evergreen
+
+school-level: secondary
+school-name: Evergreen HS
+school-place: US, AL, Evergreen
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Witherington Cemetery
+cemetery-place: US, AL, Conecuh County

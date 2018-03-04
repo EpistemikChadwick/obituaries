@@ -1,0 +1,15 @@
+name-last: Schroeter
+name-first: Frederick
+name-given: Frederick W.
+
+birth-place: US, MD, Baltimore
+
+death-date: 2014-12-13
+
+school-level: secondary
+school-name: Baltimore City College HS
+school-place: US, MD, Baltimore
+
+school-level: college
+school-name: Washington College
+school-pace: US, MD, Chestertown

@@ -1,0 +1,8 @@
+source-title: Lenconnect.com
+source-date: 2014-11-14
+source-url: http://www.lenconnect.com/article/20141114/NEWS/141119385
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-17

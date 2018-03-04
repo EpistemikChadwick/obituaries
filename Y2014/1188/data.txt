@@ -1,0 +1,20 @@
+name-last: Paleveda
+name-first: Joe
+name-given: Andrew Joseph
+
+birth-date: 1921-11-11
+birth-place: US, FL, Tampa
+
+death-date: 2014-12-06
+death-place: US, FL, Tampa
+
+school-level: secondary
+school-name: Jesuit HS
+school-place: US, FL, Tampa
+
+military-country: US
+military-branch: Marines
+military-conflict: World War II
+
+cemetery-name: Myrtle Hill Cemetery
+cemetery-place: US, FL, Tampa

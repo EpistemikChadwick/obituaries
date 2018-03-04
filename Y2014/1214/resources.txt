@@ -1,0 +1,8 @@
+source-title: Repository
+source-date: 2014-11-23
+source-url: http://www.legacy.com/obituaries/cantonrep/obituary.aspx?n=Thomas-A-Triner-Tim&pid=173252645
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-23

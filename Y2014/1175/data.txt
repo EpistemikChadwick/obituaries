@@ -1,0 +1,17 @@
+name-last: Plews
+name-first: Herb
+
+birth-date: 1928
+
+death-date: 2014-12-12
+death-place: US, CO, Boulder
+
+school-level: secondary
+school-name: Helena HS
+school-place: US, MT, Helena
+
+school-level: college
+school-name: University of Illinois
+
+military-country: US
+military-branch: Army

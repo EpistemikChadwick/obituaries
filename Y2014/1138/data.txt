@@ -1,0 +1,10 @@
+name-last: Jones
+name-first: Ray
+
+birth-date: 1933-06-22
+birth-place: US, GA, Atlanta
+
+death-date: 2014-12-23
+
+cemetery-name: Maple Hill Cemetery
+cemetery-place: US, AL, Huntsville

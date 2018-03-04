@@ -1,0 +1,20 @@
+name-last: Golembeski
+name-first: Tim
+name-given: John Edward
+
+birth-date: 1926-06-12
+birth-place: US, MA, Millers Falls
+
+death-date: 2014-11-12
+death-place: US, MA, Greenfield
+
+school-level: secondary
+school-name: Turners Falls HS
+school-place: US, MA, Montague
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Highland Cemetery
+cemetery-place: US, MA, Millers Falls

@@ -1,0 +1,12 @@
+name-last: Oliver
+name-first: Murray
+name-given: Murray Clifford
+
+birth-date: 1937-11-14
+birth-place: CA, ON, Hamiton
+
+death-date: 2014-11-23
+death-place: US, MN, Edina
+
+meta-height: 70
+meta-weight: 170

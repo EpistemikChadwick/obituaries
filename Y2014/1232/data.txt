@@ -1,0 +1,11 @@
+name-last: Minice
+name-first: Dick
+name-given: Richard Lee
+
+birth-place: US, WA, Seattle
+
+death-date: 2014
+
+school-level: secondary
+school-name: Cleveland HS
+school-place: US, WA, Seattle

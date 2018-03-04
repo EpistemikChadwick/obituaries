@@ -1,0 +1,8 @@
+source-title: Philly.com
+source-date: 2014-12-30
+source-url: http://www.legacy.com/obituaries/philly/obituary.aspx?n=JOHN-W-MAIDEN-Junie&pid=173659136
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-30

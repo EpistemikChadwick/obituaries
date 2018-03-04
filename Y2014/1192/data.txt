@@ -1,0 +1,22 @@
+name-last: Potts
+name-first: Thomas
+name-given: Thomas Elliott
+
+birth-date: 1937-07-28
+birth-place: US, NC, Lincoln County
+
+death-date: 2014-11-28
+
+school-level: secondary
+school-name: Rock Springs HS
+school-place: US, NC, Denver
+
+school-level: college
+school-name: Campbell University
+school-place: US, NC, Buies Creek
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Forest Lawn Cemetery
+cemetery-place: US, NC, Lincolnton

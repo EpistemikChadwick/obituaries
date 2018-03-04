@@ -1,0 +1,14 @@
+name-last: Ramer
+name-first: Dan
+name-given: Daniel Edward
+
+birth-date: 1927-05-25
+birth-place: US, VA, Falmouth
+
+death-date: 2014-11-13
+
+school-level: college
+school-name: University of Richmond
+
+military-country: US
+military-branch: Marines

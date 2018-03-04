@@ -1,0 +1,15 @@
+name-last: Reilly
+name-first: Lou
+name-given: Louis Smith
+
+birth-date: 1931-03-21
+birth-place: US, NY, Staten Island
+
+death-date: 2014-12-14
+
+school-level: secondary
+school-name: Miami HS
+school-place: US, FL, Miami
+
+military-country: US
+military-branch: Army

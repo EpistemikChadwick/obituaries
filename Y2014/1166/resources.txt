@@ -1,0 +1,16 @@
+source-title: SDPnoticias.com
+source-date: 2014-12-25
+source-url: http://www.sdpnoticias.com/deportes/2014/11/25/murio-el-legendario-hector-chero-mayer
+
+source-title: Infonogales.com
+source-date: 2014-12-24
+source-url: http://infonogales.com/2014/11/24/fallece-hector-chero-mayer-reconocido-ex-alcalde-de-nogales-y-leyenda-del-beisbol-mexicano/
+
+source-title: SoloBeisbol
+source-date: 2014-12-25
+source-url: http://www.solobeisbol.mx/index.php/columnas/al-bat/12685-hector-chero-mayer
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-21

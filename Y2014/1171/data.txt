@@ -1,0 +1,8 @@
+name-last: Kemmerer
+name-first: Russ
+name-given: Russell Paul
+
+birth-date: 1930-11-01
+birth-place: US, PA, Pittsburgh
+
+death-date: 2014-12-08

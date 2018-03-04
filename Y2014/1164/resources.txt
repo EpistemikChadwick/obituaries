@@ -1,0 +1,8 @@
+source-title: Leaf-Chronicle
+source-date: 2014-12-20
+source-url: http://www.theleafchronicle.com/story/sports/college/apsu/2014/12/20/george-fisher-former-austin-peay-athlete-coach-ad-dies/20716107/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-21

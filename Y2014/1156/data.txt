@@ -1,0 +1,24 @@
+name-last: Morse
+name-first: John
+name-given: John Archie
+
+birth-date: 1929-01-14
+birth-place: US, CA, Fresno
+
+death-date: 2014-12-21
+
+school-level: secondary
+school-name: Edison HS
+school-place: US, CA, Fresno
+
+school-level: college
+school-name: University of California, Los Angeles
+
+school-level: college
+school-name: California State University, Fresno
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Sacramento Valley National Cemetery
+cemetery-place: US, CA, Dixon

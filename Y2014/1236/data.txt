@@ -1,0 +1,14 @@
+name-last: Tassin
+name-first: Herb
+name-given: Herbert J.
+name-suffix: Jr.
+
+birth-date: 1931-06-08
+birth-place: US, LA, Arabi
+
+death-date: 2014-11-13
+death-place: US, TN, Nashville
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

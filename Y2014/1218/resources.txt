@@ -1,0 +1,8 @@
+source-title: Reno Gazette-Journal
+source-date: 2014-11-20
+source-url: http://www.rgj.com/story/sports/2014/11/19/long-time-baseball-softball-coach-youngblood-dies-age/19298807/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-22

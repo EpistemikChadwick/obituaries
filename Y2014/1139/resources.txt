@@ -1,0 +1,8 @@
+source-title: Memorial Funeral Chapel
+source-date: 2014-12-28
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Robert-Casey&lc=4965&pid=173619909&mid=6252292
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-28

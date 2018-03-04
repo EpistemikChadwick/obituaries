@@ -1,0 +1,8 @@
+source-title: Ventura County Star
+source-date: 2014-12-06
+source-url: http://www.legacy.com/obituaries/venturacountystar/obituary.aspx?n=Gerald-Thomas-Newman&pid=173382812
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-06

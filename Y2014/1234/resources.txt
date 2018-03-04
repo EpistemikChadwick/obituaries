@@ -1,0 +1,8 @@
+source-title: Post-Bulletin
+source-date: 2014-11-15
+source-url: http://www.legacy.com/obituaries/postbulletin/obituary.aspx?n=Rodney-Hugh-Powell-Spike&pid=173178049
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-17

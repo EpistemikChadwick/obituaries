@@ -1,0 +1,17 @@
+name-last: Durling
+name-first: Al
+name-given: Albert L.
+name-nick: Monty
+
+birth-date: 1941-08-16
+birth-place: US, NH, Winchester
+
+death-date: 2014-12-28
+death-place: US, NH, Keene
+
+school-level: secondary
+school-name: Keene HS
+school-place: US, NH, Keene
+
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, NH, Keene

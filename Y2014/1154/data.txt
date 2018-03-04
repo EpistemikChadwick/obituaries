@@ -1,0 +1,20 @@
+name-last: Rohrbaugh
+name-first: Dean
+name-given: Dean B.
+
+birth-date: 1926-10-10
+birth-place: US, PA, York County
+
+death-date: 2014-12-30
+death-place: US, PA, Hanover
+
+school-level: secondary
+school-name: Eichelberger HS
+school-place: US, PA, Hanover
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Rest Haven Cemetery
+cemetery-place: US, PA, Hanover

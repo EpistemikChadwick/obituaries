@@ -1,0 +1,13 @@
+source-title: M.L Ford & Sons
+source-date: 2014-11-30
+source-url: http://www.mlfordsons.com/obits/obituary.php?id=511225
+
+source-title: Enquirer Herald
+source-date: 2014-11-24
+source-url: http://www.enquirerherald.com/2014/11/24/3280131_chester-mccarters-lasting-impression.html?rh=1
+
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-30

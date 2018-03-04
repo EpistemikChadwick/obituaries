@@ -1,0 +1,20 @@
+name-last: Clements
+name-first: John
+name-given: John F.
+
+birth-date: 1920-01-20
+birth-place: US, GA, Baxley
+
+death-date: 2014-11-08
+
+meta-throws: right
+
+school-level: college
+school-name: University of Tampa
+
+military-country: US
+military-branch: Marines
+military-conflict: World War II
+
+cemetery-name: Chapel Hill Gardens
+cemetery-place: US, FL, Dade City

@@ -1,0 +1,9 @@
+name-last: Sadecki
+name-first: Ray
+
+death-date: 2014-11-17
+death-place: US, AZ, Mesa
+
+school-level: secondary
+school-name: Bishop Ward HS
+school-place: US, KS, Kansas City

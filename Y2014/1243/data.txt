@@ -1,0 +1,14 @@
+name-last: Ripley
+name-first: Allen
+name-given: Allen S.
+name-nick: Rip
+
+birth-date: 1952-10-18
+birth-place: US, MA, Norwood
+
+death-date: 2014-11-07
+death-place: US, MA, North Attleboro
+
+school-level: secondary
+school-name: North Attleboro High School
+school-place: US, MA, Attleboro

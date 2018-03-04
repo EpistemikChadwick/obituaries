@@ -1,0 +1,16 @@
+name-last: Downing
+name-first: Robert
+name-given: Robert Norton
+
+birth-date: 1924-10-30
+birth-place: US, MA, Needham
+
+death-date: 2014-12-22
+death-place: US, NC, Siler City
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Pleasant Hill United Methodist Church cemetery
+cemetery-place: US, NC, Pittsboro

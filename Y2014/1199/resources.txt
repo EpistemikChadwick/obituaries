@@ -1,0 +1,8 @@
+source-title: Clovis News Journal
+source-date: 2014-12-05
+source-url: http://www.legacy.com/obituaries/cnjonline/obituary.aspx?n=William-Jack-Scott&pid=173370587
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-05

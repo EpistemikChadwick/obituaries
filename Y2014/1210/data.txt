@@ -1,0 +1,19 @@
+name-last: Quirk
+name-first: Art
+name-given: Arthur L.
+
+birth-date: 1937-04-11
+birth-place: US, RI, Providence
+
+death-date: 2014-11-22
+death-place: US, CT, Stonington
+
+school-level: secondary
+school-name: South Kingstown HS
+school-place: US, RI, South Kingstown
+
+school-level: college
+school-name: Dartmouth College
+
+cemetery-name: St. Patrick Cemetery
+cemetery-place: US, CT, Old Mystic

@@ -1,0 +1,13 @@
+name-last: Reardon
+name-first: Joe
+name-given: Joseph S.
+
+death-date: 2014-12-28
+death-place: US, MA, Dorchester
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Mt. Benedict Cemetery
+cemetery-place: US, MA, West Roxbury

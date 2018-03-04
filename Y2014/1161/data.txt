@@ -1,0 +1,15 @@
+name-last: Hicks
+name-first: Bill
+name-given: William
+
+birth-date: 1922
+birth-place: US, CA, Glendale
+
+death-date: 2014-12-12
+
+school-level: college
+school-name: UCLA
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

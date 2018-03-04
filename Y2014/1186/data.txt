@@ -1,0 +1,20 @@
+name-last: Huss
+name-first: Rollie
+name-given: Rolland I.
+
+birth-date: 1929-05-12
+birth-place: US, OH, Toledo
+
+death-date: 2014-12-06
+death-place: US, OH, Perrysburg
+
+school-level: secondary
+school-name: Troy-Luckey HS
+school-place: US, OH, Luckey
+
+school-level: college
+school-name: Defiance College
+school-place: US, OH, Defiance
+
+cemetery-name: Troy Township Cemetery
+cemetery-place: US, OH, Luckey

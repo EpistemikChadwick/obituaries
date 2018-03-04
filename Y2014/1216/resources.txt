@@ -1,0 +1,12 @@
+source-title: Bradenton Herald
+source-date: 2014-11-23
+source-url: http://www.legacy.com/obituaries/bradenton/obituary.aspx?n=Daniel-Edward-Ramer&pid=173257323
+
+source-title: Herald Tribune
+source-date: 2014-11-23
+source-url: http://www.legacy.com/obituaries/heraldtribune/obituary.aspx?page=lifestory&pid=173259013
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-23

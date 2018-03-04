@@ -1,0 +1,8 @@
+source-title: Sunset Memorial Funeral Home
+source-date: 2014-12-28
+source-url: http://www.sunsetmemorialpark.com/Obituaries.php?oID=1382
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-28

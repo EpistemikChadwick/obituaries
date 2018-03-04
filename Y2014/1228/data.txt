@@ -1,0 +1,18 @@
+name-last: Taylor
+name-first: Jeff
+name-given: Jeffrey C.
+
+birth-date: 1956
+
+death-date: 2014-11-17
+death-place: US, DE, Newark
+
+school-level: secondary
+school-name: Newark HS
+school-place: US, DE, Newark
+
+school-level: college
+school-name: University of Delaware
+
+cemetery-name: Ebenezer United Methodist Church Cemetery
+cemetery-place: US, DE, Newark

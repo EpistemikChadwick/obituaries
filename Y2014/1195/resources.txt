@@ -1,0 +1,8 @@
+source-title: The Oklahoman
+source-date: 2014-12-07
+source-url: http://www.legacy.com/obituaries/oklahoman/obituary.aspx?n=ZANE-SKINNER&pid=173392259
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-07

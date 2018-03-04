@@ -1,0 +1,8 @@
+source-title: Hill & Kunselman Funeral Home
+source-date: 2014-11-30
+source-url: http://www.hillandkunselman.com/obits/obituary.php?id=512531
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-30

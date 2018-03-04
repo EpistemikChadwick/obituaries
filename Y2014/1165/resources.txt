@@ -1,0 +1,12 @@
+source-title: Baltimore Sun
+source-date: 2014-12-18
+source-url: http://www.baltimoresun.com/news/obituaries/bs-md-ob-frederick-schroeter-20141218-story.html
+
+source-title: Washington College
+source-date: 2014-12-18
+source-url: http://www.washingtoncollegesports.com/sports/bsb/2014-15/releases/201412195uvfyk
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-21

@@ -1,0 +1,11 @@
+name-last: Powell
+name-first: Spike
+name-given: Rodney Hugh
+
+birth-date: 1928-03-16
+birth-place: US, OH, Akron
+
+death-date: 2014-11-12
+
+military-country: US
+military-branch: Army

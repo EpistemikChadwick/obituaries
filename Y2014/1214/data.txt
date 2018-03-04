@@ -1,0 +1,16 @@
+name-last: Triner
+name-first: Tim
+name-given: Thomas A.
+
+birth-date: 1921-08-18
+birth-place: US, OH, Canton
+
+death-date: 2014-11-21
+death-place: US, OH, North Canton
+
+school-level: secondary
+school-name: Canton McKinley HS
+school-place: US, OH, Canton
+
+cemetery-name: Sunset Hills Burial Park
+cemetery-place: US, OH, Canton

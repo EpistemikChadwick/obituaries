@@ -1,0 +1,8 @@
+source-title: Times-Picayune
+source-date: 2014-11-16
+source-url: http://obits.nola.com/obituaries/nola/obituary.aspx?n=herbert-j-tassin&pid=173178608
+
+contributor-last: Nelson
+contributor-first: Rod
+contributor-date: 2014-11-16
+contributor-email: rodericnelson@gmail.com

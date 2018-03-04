@@ -1,0 +1,16 @@
+name-last: Goodwin
+name-first: Bill
+name-given: William F.
+
+birth-date: 1928-07-25
+birth-place: US, MS, Hattiesburg
+
+death-date: 2014-11-13
+death-place: US, AR, Little Rock
+
+school-level: secondary
+school-name: Messick HS
+school-place: US, TN, Memphis
+
+cemetery-name: Rest Hills Memorial Park
+cemetery-place: US, AR, Little Rock

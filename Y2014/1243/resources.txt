@@ -1,0 +1,9 @@
+source-title: The Attleboro Sun-Chronicle
+source-date: 2014-11-11
+source-url: http://www.thesunchronicle.com/news/local_news/ex-boston-and-pawtucket-red-sox-player-allen-ripley-of/article_0dc18b6c-69da-11e4-bfcc-7be7d1783b1a.html
+
+
+contributor-last: Nelson
+contributor-first: Rod
+contributor-date: 2014-11-11
+contributor-email: rodericnelson@gmail.com

@@ -1,0 +1,8 @@
+source-title: Panebaker Funeral Home
+source-date: 2015-01-01
+source-url: http://www.panebakerfuneralhome.com/memsol.cgi?user_id=1489409
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-01

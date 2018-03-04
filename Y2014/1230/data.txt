@@ -1,0 +1,8 @@
+name-last: Cooley
+name-first: Gene
+
+death-date: 2014-11-10
+death-place: US, MI, Mackinaw City
+
+school-level: college
+school-name: Western Michigan University

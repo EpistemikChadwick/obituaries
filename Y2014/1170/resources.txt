@@ -1,0 +1,8 @@
+source-title: Egzi Funeral Home
+source-date: 2014-12-19
+source-url: http://www.egizifuneral.com/obituaries/Robert-Bob-Winters/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-19

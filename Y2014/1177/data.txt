@@ -1,0 +1,20 @@
+name-last: Horn
+name-first: Don
+name-given: Donald L.
+
+birth-date: 1936-12-16
+birth-place: US, OH, Hamilton
+
+death-date: 2014-12-10
+death-place: US, OH, West Chester Township
+
+school-level: secondary
+school-name: Hanover HS
+school-place: US, OH, Hamilton
+
+school-level: college
+school-name: Wilmington College of Ohio
+school-place: US, OH, Wilmington
+
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, OH, Hamilton

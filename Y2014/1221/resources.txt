@@ -1,0 +1,8 @@
+source-title: Providence Journal
+source-date: 2014-11-22
+source-url: http://www.legacy.com/obituaries/providence/obituary.aspx?n=James-Bryan&pid=173247166
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-22

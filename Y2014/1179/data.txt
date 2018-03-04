@@ -1,0 +1,13 @@
+name-last: Brundis
+name-first: Glenn
+name-given: Glennon H.
+name-nick: Pops
+
+birth-date: 1924-04-09
+birth-place: US, MO, St. Louis
+
+death-date: 2014-12-14
+death-place: US, IL, Maryville
+
+cemetery-name: Calvary Cemetery
+cemetery-place: US, MO, St. Louis

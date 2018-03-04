@@ -1,0 +1,8 @@
+source-title: Chattanooga Funeral Home
+source-date: 2014-12-17
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Larry-Ownbey&lc=4447&pid=173477447&mid=6236415
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-17

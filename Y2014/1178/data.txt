@@ -1,0 +1,12 @@
+name-last: Enos
+name-first: Bill
+name-given: William D.
+
+death-date: 2014-12-10
+death-place: US, AZ, Scottsdale
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-place: US, MA, Cohasset

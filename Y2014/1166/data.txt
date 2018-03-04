@@ -1,0 +1,10 @@
+name-last: Mayer
+name-first: Hector
+name-matrilineal: Soto
+name-nick: Chero
+
+birth-date: 1927-11-25
+birth-place: MX, Sonora, Nogales
+
+death-date: 2014-11-24
+death-place: MX, Sonora, Nogales

@@ -1,0 +1,15 @@
+name-last: Bateman
+name-first: Harold
+name-given: Harold D.
+
+birth-date: 1932-11-30
+birth-place: US, OK, Tulsa
+
+death-date: 2014-12-17
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Woodlawn Memorial Park
+cemetery-place: US, AR, Fort Smith

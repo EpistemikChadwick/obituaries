@@ -1,0 +1,21 @@
+name-last: Newman
+name-first: Jerry
+name-given: Gerald Thomas
+
+birth-date: 1942-07-02
+birth-place: US, CA, Ventura
+
+death-date: 2014-11-08
+death-place: US, CA, Santa Paula
+
+school-level: secondary
+school-name: Oxnard HS
+school-place: US, CA, Oxnard
+
+school-level: college
+school-name: Ventura College
+school-place: US, CA, Ventura
+
+school-level: college
+school-name: Orange Coast College
+school-place: US, CA, Costa Mesa

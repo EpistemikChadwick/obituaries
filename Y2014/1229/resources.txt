@@ -1,0 +1,8 @@
+source-title: Pioneer Press
+source-date: 2014-11-18
+source-url: http://www.legacy.com/obituaries/twincities/obituary.aspx?n=Adrian-Dallas-THOMPSON&pid=173180157
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-18

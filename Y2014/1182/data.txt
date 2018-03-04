@@ -1,0 +1,15 @@
+name-last: Deal
+name-first: Marvin
+name-given: Marvin Donald
+
+birth-date: 1928-07-28
+birth-place: US, NC, Rowan County
+
+death-date: 2014-12-12
+death-place: US, NC, Lexington
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Center United Methodist Church Cemetery
+cemetery-place: US, NC, Sanford

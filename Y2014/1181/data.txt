@@ -1,0 +1,19 @@
+name-last: Young
+name-first: Chuck
+name-given: Charles A.
+
+birth-date: 1923-12-17
+birth-place: US, NJ, Riverside
+
+death-date: 2014
+
+school-level: secondary
+school-name: Riverside HS
+school-place: US, NJ, Riverside
+
+school-level: college
+school-name: Duke University
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

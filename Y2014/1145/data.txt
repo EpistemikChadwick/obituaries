@@ -1,0 +1,17 @@
+name-last: McKnight
+name-first: James
+name-given: James Edward
+
+birth-date: 1929-04-02
+birth-place: US, AL, Dale County
+
+death-date: 2014-12-22
+death-place: US, AL, Dothan
+
+school-level: secondary
+school-name: Newton HS
+school-place: US, AL, Newton
+
+
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, AL, Dothan

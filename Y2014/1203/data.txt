@@ -1,0 +1,13 @@
+name-last: Harbaugh
+name-first: Raymond
+name-given: Raymond Charles
+
+birth-date: 1929-12-17
+birth-place: US, PA, Waynesboro
+
+death-date: 2014-11-27
+death-place: US, MD, Cascade
+
+school-level: secondary
+school-name: Smithsburg HS
+school-place: US, MD, Smithsburg

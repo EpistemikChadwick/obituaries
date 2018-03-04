@@ -1,0 +1,8 @@
+source-title: Fred Hunter’s Funeral Service
+source-date: 2014-12-06
+source-url: http://www.fredhunters.com/obituary/129725/Donald-Grate/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-06

@@ -1,0 +1,16 @@
+name-last: Pass
+name-first: Bill
+name-given: William
+
+death-date: 2014-12-11
+
+school-level: secondary
+school-name: DuPont Manual HS
+school-place: US, KY, Louisville
+
+school-level: college
+school-name: University of Charleston
+school-place: US, WV, Charleston
+
+cemetery-name: Calvary Cemetery
+cemetery-place: US, KY, Louisville

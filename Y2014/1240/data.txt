@@ -1,0 +1,16 @@
+name-last: Click
+name-first: Larry
+name-given: Larry Dean
+
+birth-date: 1936-12-06
+birth-place: US, TX, Roxton
+
+death-date: 2014-11-12
+death-place: US, TX, Paris
+
+school-level: secondary
+school-name: Paris HS
+school-place: US, TX, Paris
+
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, TX, Paris

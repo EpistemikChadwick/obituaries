@@ -1,0 +1,8 @@
+source-title: The Gazette
+source-date: 2014-12-19
+source-url: http://thegazette.com/obituaries/anthony-komisarsr-20141219-0001052447-01
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-21

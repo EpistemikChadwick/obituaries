@@ -1,0 +1,21 @@
+name-last: Burke
+name-first: Don
+name-given: Donald C.
+name-nick: Slugger
+name-suffix: Sr.
+
+birth-date: 1932-12-20
+birth-place: US, MA, Salem
+
+death-date: 2014-12-23
+
+school-level: secondary
+school-name: Ipswich HS
+school-place: US, MA, Ipswich
+
+school-level: college
+school-name: Springfield College
+school-place: US, MA, Springfield
+
+military-country: US
+military-branch: Army

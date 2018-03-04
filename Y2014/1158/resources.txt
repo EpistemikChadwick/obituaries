@@ -1,0 +1,9 @@
+source-title: Buchholz Mortuary
+source-date: 2014-12-26
+source-url: http://www.buchholzmortuary.com/obituaries/Donald-Herdt/#!/Obituary
+
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-26

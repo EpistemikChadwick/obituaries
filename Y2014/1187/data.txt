@@ -1,0 +1,17 @@
+name-last: Seeley
+name-first: Frank
+name-given: Frank D.
+name-suffix: Jr.
+
+birth-date: 1930-07-01
+birth-place: US, NY, New York
+
+death-date: 2014-12-08
+death-place: US, NJ, Ridgewood
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: George Washington Memorial Park
+cemetery-place: US, NJ, Paramus

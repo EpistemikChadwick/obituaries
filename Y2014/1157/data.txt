@@ -1,0 +1,13 @@
+name-last: Presswood
+name-first: Hank
+name-nick: Baby
+
+birth-date: 1921-10-07
+birth-place: US, MS, Electric Mills
+
+death-date: 2014-12-27
+death-place: US, IL, Chicago
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

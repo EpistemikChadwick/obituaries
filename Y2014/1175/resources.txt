@@ -1,0 +1,8 @@
+source-title: Helena Independent Record
+source-date: 2014-12-16
+source-url: http://helenair.com/sports/baseball/professional/herb-plews-only-local-to-play-mlb-dies-at/article_edf2c287-eb50-55b7-a30a-506a2339e7ab.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-16

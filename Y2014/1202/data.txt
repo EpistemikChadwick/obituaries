@@ -1,0 +1,12 @@
+name-last: Herald
+name-first: Roy
+name-given: James Roy
+
+birth-date: 1931
+birth-place: US, TN, Nashville
+
+death-date: 2014-11-29
+
+school-level: secondary
+school-name: Howard HS
+school-place: US, TN, Nashville

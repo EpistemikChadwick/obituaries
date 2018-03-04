@@ -1,0 +1,8 @@
+source-title: Higgins-Reardon
+source-date: 2014-11-23
+source-url: http://www.higgins-reardon.com/obituaries/John-Jack-Mayo/#!/Obituary
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-23

@@ -1,0 +1,8 @@
+source-title: Washington Post
+source-date: 2014-12-15
+source-url: http://www.legacy.com/obituaries/washingtonpost/obituary.aspx?n=LEWIS-W-WRIGHT&pid=173471877
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-15

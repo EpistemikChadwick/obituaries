@@ -1,0 +1,8 @@
+source-title: Alaska Dispatch News
+source-date: 2014-11-22
+source-url: http://www.legacy.com/obituaries/adn/obituary.aspx?n=Arthur-H-Schirmer&pid=173248478
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-22

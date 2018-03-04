@@ -1,0 +1,25 @@
+name-last: Casey
+name-first: Bob
+name-given: Robert R.
+
+birth-date: 1934-01-10
+birth-place: US, TX, Marlin
+
+death-date: 2014-12-26
+
+school-level: secondary
+school-name: Stephen F. Austin HS
+school-place: US, TX, Bryan
+
+school-level: secondary
+school-name: Allen Academy
+school-place: US, TX, Bryan
+
+school-level: college
+school-name: Sam Houston State University
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Bryan City Cemetery
+cemetery-place: US, TX, Bryan

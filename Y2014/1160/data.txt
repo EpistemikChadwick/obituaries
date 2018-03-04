@@ -1,0 +1,16 @@
+name-last: Calieri
+name-first: Peter
+name-given: Peter D.
+
+birth-date: 1948-03-13
+birth-place: US, NY, Buffalo
+
+death-date: 2014-12-20
+death-place: US, NY, Grand Island
+
+school-level: secondary
+school-name: West Seneca West HS
+school-place: US, NY, West Seneca
+
+military-country: US
+military-branch: Army

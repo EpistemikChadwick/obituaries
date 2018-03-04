@@ -1,0 +1,7 @@
+name-last: Fisher
+name-first: George
+
+birth-date: 1924-07-09
+birth-place: US, TN, Greenbrier
+
+death-date: 2014-12-20

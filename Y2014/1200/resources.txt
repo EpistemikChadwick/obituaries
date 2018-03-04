@@ -1,0 +1,8 @@
+source-title: Island Packet
+source-date: 2014-12-04
+source-url: http://www.legacy.com/obituaries/islandpacket/obituary.aspx?n=Warren-William-McGarvey&pid=173361011
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-04

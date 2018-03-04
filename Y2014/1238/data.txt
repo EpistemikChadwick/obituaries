@@ -1,0 +1,6 @@
+name-last: Morilla
+name-first: Chico
+name-given: Ernesto Macias
+
+death-date: 2014-10-10
+death-place: CU, La Habana, Havana

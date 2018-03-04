@@ -1,0 +1,17 @@
+name-last: McCarter
+name-first: Ernest
+name-given: Ernest Franklin
+name-nick: Chester
+
+birth-date: 1943-09-09
+birth-place: US, SC, Rock Hill
+
+death-date: 2014-11-19
+death-place: US, SC, Rock Hill
+
+school-level: secondary
+school-name: York HS
+school-place: US, SC, York
+
+cemetery-name: Bethel Presbyterian Church Cemetery
+cemetery-place: US, SC, Clover

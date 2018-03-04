@@ -1,0 +1,13 @@
+name-last: Hill
+name-first: Odis
+name-given: Odis William
+name-nick: Bunny
+
+birth-date: 1929-05-30
+birth-place: US, NC, Davidson County
+
+death-date: 2014-12-29
+death-place: US, NC, Lexington
+
+cemetery-name: Jersey Baptist Church Cemetery
+cemetery-place: US, NC, Lexington

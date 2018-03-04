@@ -1,0 +1,11 @@
+name-last: Higgins
+name-first: Ray
+name-given: Raymond J.
+
+death-date: 2014-12-05
+
+military-country: US
+military-conflict: World War II
+
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, MO, Affton

@@ -1,0 +1,19 @@
+name-last: Bigham
+name-first: Charles
+name-given: Charles
+name-nick: Chile
+
+birth-date: 1930-09-01
+birth-place: US, TX, Dallas
+
+death-date: 2014-12-03
+
+school-level: secondary
+school-name: Adamson HS
+school-place: US, TX, Dallas
+
+school-level: college
+school-name: University of Texas
+
+cemetery-name: Restland Cemetery
+cemetery-place: US, TX, Dallas

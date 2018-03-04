@@ -1,0 +1,8 @@
+source-title: Yahoo Sports
+source-date: 2014-12-18
+source-url: http://sports.yahoo.com/blogs/mlb-big-league-stew/former-angels-no--1-pick-ryan-bolden-killed-in-fight-over-candy-215156197.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-20

@@ -1,0 +1,17 @@
+name-last: Scott
+name-first: Jack
+name-given: William Jack
+
+birth-date: 1928-12-20
+birth-place: US, NE, Omaha
+
+death-date: 2014-12-03
+death-place: US, TX, Lubbock
+
+school-level: college
+school-name: Dana College
+school-place: US, NE, Blair
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War

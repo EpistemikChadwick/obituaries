@@ -1,0 +1,13 @@
+name-last: Payor
+name-first: Lou
+name-given: Louis George
+name-suffix: Sr.
+
+birth-date: 1921-02-06
+
+death-date: 2014-11-16
+death-place: US, FL, Winter Park
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

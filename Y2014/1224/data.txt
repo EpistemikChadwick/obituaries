@@ -1,0 +1,10 @@
+name-last: Baro
+name-first: Asdrubal
+name-given: Alberto Asdrubal
+name-matrilineal: Hernandez
+
+birth-date: 1926-11-21
+birth-place: CU, Holguin, Mayari
+
+death-date: 2014-11-18
+death-place: CU, La Habana, La Habana

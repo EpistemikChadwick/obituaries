@@ -1,0 +1,11 @@
+name-last: Dark
+name-given: Alvin Ralph
+
+birth-date: 1922-01-07
+birth-place: US, OK, Comanche
+
+death-date: 2014-11-13
+death-place: US, SC, Easley
+
+military-country: US
+military-conflict: World War II

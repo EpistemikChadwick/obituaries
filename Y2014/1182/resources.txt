@@ -1,0 +1,8 @@
+source-title: Davidson Funeral Home
+source-date: 2014-12-14
+source-url: http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2859595&fh_id=10540
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-14

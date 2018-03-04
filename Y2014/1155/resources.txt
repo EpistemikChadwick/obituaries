@@ -1,0 +1,8 @@
+source-title: San Jose Mercury News/San Mateo County Times
+source-date: 2015-01-01
+source-url: http://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=Robert-Royce-Usher&pid=173680505
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-01-01

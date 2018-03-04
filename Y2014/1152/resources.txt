@@ -1,0 +1,8 @@
+source-title: Indianapolis Star
+source-date: 2014-12-31
+source-url: http://www.legacy.com/obituaries/indystar/obituary.aspx?n=Ernest-W-Novack&pid=173671215
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-31

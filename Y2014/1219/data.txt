@@ -1,0 +1,16 @@
+name-last: Schirmer
+name-first: Arthur
+name-given: Arthur Henry
+name-suffix: Jr.
+
+birth-date: 1937
+birth-place: US, NE, Wisner
+
+death-date: 2014-11-03
+
+school-level: secondary
+school-name: Junction City HS
+school-place: US, OR, Junction City
+
+military-country: US
+military-branch: Army

@@ -1,0 +1,20 @@
+name-last: Mayo
+name-first: Jackie
+name-given: John
+
+birth-date: 1925-07-26
+birth-place: US, IL, Litchfield
+
+death-date: 2014-08-19
+death-place: US, OH, North Lima
+
+school-level: secondary
+school-name: Rayen HS
+school-place: US, OH, Youngstown
+
+school-level: college
+school-name: University of Notre Dame
+
+military-country: US
+military-branch: Marines
+military-conflict: World War II

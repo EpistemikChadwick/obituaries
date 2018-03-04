@@ -1,0 +1,14 @@
+name-last: Herdt
+name-first: Donald
+name-given: Donald L.
+
+birth-date: 1930-08-11
+
+death-date: 2014-12-20
+
+military-country: US
+military-branch: Air Force
+military-conflict: Korean War
+
+cemetery-name: Memorial Park Cemetery
+cemetery-place: US, MO, St. Louis

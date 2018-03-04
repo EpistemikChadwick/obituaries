@@ -1,0 +1,18 @@
+name-last: Flowers
+name-first: David
+name-given: David Earl
+
+birth-date: 1957-09-08
+birth-place: US, NC, Robeson County
+
+death-date: 2014-12-06
+
+meta-throws: left
+
+school-level: secondary
+school-name: Littlefield HS
+school-place: US, NC, Lumberton
+
+school-level: college
+school-name: Methodist College
+school-place: US, NC, Fayetteville

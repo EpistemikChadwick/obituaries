@@ -1,0 +1,19 @@
+name-last: Wright
+name-first: Lew
+name-given: Lewis W.
+
+birth-date: 1931-10-04
+birth-place: US, DE, Smyrna
+
+death-date: 2014-12-09
+
+meta-throws: left
+
+school-level: college
+school-name: University of Delaware
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Arlington National Cemetery
+cemetery-place: US, VA, Arlington

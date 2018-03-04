@@ -1,0 +1,17 @@
+name-last: Maiden
+name-first: John
+name-given: John W.
+name-nick: Junie
+
+death-date: 2014-12-26
+
+school-level: secondary
+school-name: Roxborough HS
+school-place: US, PA, Philadelphia
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: George Washington Memorial Park Cemetery
+cemetery-place: US, PA, Plymouth Meeting

@@ -1,0 +1,8 @@
+source-title: Kansas City Star
+source-date: 2014-11-18
+source-url: http://www.kansascity.com/sports/mlb/article4002240.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-19

@@ -1,0 +1,12 @@
+name-last: Hamilton
+name-first: Bob
+name-given: Robert C.
+
+birth-date: 1941-08-01
+birth-place: US, MI, Flint
+
+death-date: 2014-11-20
+
+school-level: secondary
+school-name: Flint Northern HS
+school-place: US, MI, Flint

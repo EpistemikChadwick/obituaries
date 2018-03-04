@@ -1,0 +1,8 @@
+source-title: Dothan Eagle
+source-date: 2014-11-23
+source-url: http://www.dothaneagle.com/eufaula_tribune/obituaries/johnson-edsel/article_97cf4d50-0b24-5635-a091-56a08aac421e.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-23

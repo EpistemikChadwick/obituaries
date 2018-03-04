@@ -1,0 +1,11 @@
+name-last: Macko
+name-first: Joe
+name-given: Joseph John
+
+birth-date: 1928-02-19
+birth-place: US, OH, Port Clinton
+
+death-date: 2014-12-26
+
+cemetery-name: Moore Memorial Gardens
+cemetery-place: US, TX, Arlington

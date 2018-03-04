@@ -1,0 +1,15 @@
+name-last: Noga
+name-given: Joseph
+
+birth-date: 1931
+birth-place: US, PA, Tresckow
+
+death-date: 2014-11-19
+death-place: US, PA, Allentown
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Saint Michael Byzantine Church Cemetery
+cemetery-place: US, PA, McAdoo

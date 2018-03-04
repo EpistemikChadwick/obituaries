@@ -1,0 +1,15 @@
+name-last: Cochrane
+name-first: Fred
+name-given: Fred Carl
+
+birth-date: 1920-05-19
+birth-place: US, CA, Los Angeles
+
+death-date: 2014-12-04
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Greenwood Memorial Park
+cemetery-place: US, CA, San Diego

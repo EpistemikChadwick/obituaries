@@ -1,0 +1,8 @@
+source-title: Floyd Mortuary
+source-date: 2014-12-08
+source-url: http://www.floydmortuary.net/sitemaker/memsol.cgi?user_id=1471326
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-08

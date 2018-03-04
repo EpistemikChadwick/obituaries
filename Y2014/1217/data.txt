@@ -1,0 +1,19 @@
+name-last: Bertocci
+name-first: Muzzy
+name-given: Dominic
+
+birth-date: 1929-04-01
+
+death-date: 2014-11-20
+death-place: US, MA, West Bridgewater
+
+school-level: secondary
+school-name: Brockton HS
+school-place: US, MA, Brockton
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Calvary Cemetery
+cemetery-place: US, MA, Brockton

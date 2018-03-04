@@ -1,0 +1,9 @@
+name-last: Bolden
+name-first: Ryan
+
+death-date: 2014-12-17
+death-place: US, GA, College Park
+
+school-level: secondary
+school-name: Madison Central HS
+school-place: US, MS, Madison

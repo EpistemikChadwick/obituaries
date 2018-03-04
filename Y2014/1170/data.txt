@@ -1,0 +1,18 @@
+name-last: Winters
+name-first: Bob
+name-given: Robert C.
+
+birth-date: 1931-10-06
+
+death-date: 2014-12-17
+
+school-level: secondary
+school-name: Camden HS
+school-place: US, NJ, Camden
+
+military-country: US
+military-branch: Coast Guard
+military-conflict: Korean War
+
+cemetery-name: Gloucester County Veterans' Memorial Cemetery
+cemetery-place: US, NJ, Williamstown

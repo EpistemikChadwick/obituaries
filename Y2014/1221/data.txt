@@ -1,0 +1,22 @@
+name-last: Bryan
+name-first: Jim
+name-given: James Joseph
+
+birth-date: 1923-12-08
+birth-place: US, MA, Fall River
+
+death-date: 2014-11-19
+
+school-level: secondary
+school-name: Cranston HS
+school-place: US, RI, Cranston
+
+school-level: college
+school-name: Brown University
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: St. Francis Cemetery
+cemetery-place: US, RI, Pawtucket

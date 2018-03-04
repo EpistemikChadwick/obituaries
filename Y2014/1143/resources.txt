@@ -1,0 +1,8 @@
+source-title: Carmichael-Whatley Funeral Directors
+source-date: 2014-12-28
+source-url: http://www.carmichael-whatley.com/fh/obituaries/obituary.cfm?o_id=2881176&fh_id=14693
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-28

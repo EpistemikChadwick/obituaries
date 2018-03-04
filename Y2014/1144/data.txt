@@ -1,0 +1,8 @@
+name-last: Handley
+name-first: Lee
+name-given: Lee Edward
+
+birth-date: 1935-01-03
+birth-place: US, IL, Chicago
+
+death-date: 2014-12-22

@@ -1,0 +1,20 @@
+name-last: Skinner
+name-first: Zane
+name-given: Zane
+
+birth-date: 1925-11-14
+birth-place: US, LA, Ruston
+
+death-date: 2014-11-27
+
+school-level: secondary
+school-name: Ruston HS
+school-place: US, LA, Ruston
+
+school-level: college
+school-name: University of Notre Dame
+school-place: US, IN, South Bend
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

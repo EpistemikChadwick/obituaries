@@ -1,0 +1,13 @@
+name-last: Ownbey
+name-first: Larry
+name-given: Larry Mack
+
+birth-date: 1941-03-07
+
+death-date: 2014-12-15
+
+military-country: US
+military-branch: Marines
+
+cemetery-name: Plowman Cemetery
+cemetery-place: US, TN, Apison

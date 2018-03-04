@@ -1,0 +1,20 @@
+name-last: Floro
+name-first: Chug
+name-given: Elisha Leroy
+
+birth-date: 1928-01-13
+birth-place: US, OH, Mansfield
+
+death-date: 2014-12-25
+death-place: US, OH, Mansfield
+
+school-level: secondary
+school-name: Mansfield Senior HS
+school-place: US, OH, Mansfield
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Mansfield Memorial Park
+cemetery-place: US, OH, Mansfield

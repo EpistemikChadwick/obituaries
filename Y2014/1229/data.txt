@@ -1,0 +1,12 @@
+name-last: Thompson
+name-first: Tommy
+name-given: Adrian Dallas
+
+birth-date: 1918-10-30
+birth-place: US, IA, Alvord
+
+death-date: 2014-11-15
+death-place: US, MN, Stillwater
+
+cemetery-name: St. Michael's Cemetery
+cemetery-place: US, MN, Bayport

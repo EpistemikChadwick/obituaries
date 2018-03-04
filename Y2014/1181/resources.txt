@@ -1,0 +1,8 @@
+source-title: Palm Beach Post
+source-date: 2014-12-18
+source-url: http://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=Charles-A-YOUNG&pid=173508631
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-18

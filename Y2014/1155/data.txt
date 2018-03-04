@@ -1,0 +1,11 @@
+name-last: Usher
+name-first: Bob
+name-given: Robert Royce
+
+birth-date: 1925-03-01
+
+death-date: 2014-12-29
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

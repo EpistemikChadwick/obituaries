@@ -1,0 +1,8 @@
+name-last: Edwards
+name-first: Garry
+
+death-date: 2014-11-11
+death-place: US, GA, Dalton
+
+cemetery-name: West Hill Cemetery
+cemetery-place: US, GA, Dalton

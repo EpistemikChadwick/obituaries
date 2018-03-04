@@ -1,0 +1,13 @@
+source-title: Fry-Gibbs Funeral Home
+source-date: 2014-11-13
+source-url: http://www.fry-gibbs.com/home/index.cfm/obituaries/view/fh_id/14724/id/2802821
+
+
+source-title: Paris News
+source-date: 2014-11-12
+source-url: http://theparisnews.com/news/article_fcd6bbf6-6a8d-11e4-a0cc-47e3f318d9a9.html?success=2
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-13
