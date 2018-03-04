@@ -1,0 +1,6 @@
+name-last: Munoz
+name-first: Omer
+name-nick: Rafito
+ 
+death-date: 2017-06-09
+

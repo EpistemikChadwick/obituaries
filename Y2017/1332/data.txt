@@ -1,0 +1,12 @@
+name-last: Chester
+name-first: Allen
+name-given: Allen
+name-nick: Chet
+ 
+death-date: 2017-06-15
+death-place:  US, NY, Tonawanda
+ 
+school-level: secondary
+school-name:  Tonawanda HS
+school-place: US, NY, Tonawanda
+

@@ -1,0 +1,17 @@
+name-last: Hefner
+name-first: George
+name-given: George Joseph
+ 
+death-date: 2017-07-07
+ 
+school-level: secondary
+school-name:  Loyola HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: University of Southern California
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

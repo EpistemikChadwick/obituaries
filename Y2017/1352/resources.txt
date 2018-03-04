@@ -1,0 +1,8 @@
+source-title: News & Record
+source-date: 2017-07-10
+source-url: http://www.greensboro.com/news/local_news/i-m-already-missing-him-man-of-meager-means-bill/article_fe909164-f453-5e9a-8628-20b4cf0a32e3.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-12

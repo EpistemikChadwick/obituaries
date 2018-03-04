@@ -1,0 +1,16 @@
+name-last: Herbold
+name-first: John
+name-given: John O.
+name-suffix: II
+ 
+birth-date: 1929-06-27
+ 
+death-date: 2017-07-27
+ 
+school-level: college
+school-name: Stanford University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

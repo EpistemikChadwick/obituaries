@@ -1,0 +1,8 @@
+source-title: McAlister-Smith Funeral Home
+source-date: 2017-07-10
+source-url: http://www.mcalister-smith.com/obituaries/Thomas-Tommy-Pappy-C-Smith?obId=1997401#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-10

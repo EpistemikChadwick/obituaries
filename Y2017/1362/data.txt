@@ -1,0 +1,14 @@
+name-last: Paxton
+name-first: Ray
+name-given: Raymond Gordon
+name-suffix: Jr.
+ 
+birth-date: 1936
+birth-place: US, CA, San Francisco
+ 
+death-date: 2017-07-07
+ 
+school-level: secondary
+school-name:  St. Ignatius HS
+school-place: US, CA, San Francisco
+

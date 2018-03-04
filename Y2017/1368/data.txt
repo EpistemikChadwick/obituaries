@@ -1,0 +1,13 @@
+name-last: Kirschner
+name-first: Buddy
+name-given: Gordyn Samuel
+ 
+birth-date: 1930-10-08
+birth-place: US, TX, Galveston
+ 
+death-date: 2017-05-15
+ 
+school-level: secondary
+school-name:  Ball HS
+school-place: US, TX, Galveston
+

@@ -1,0 +1,8 @@
+source-title: New Bern Sun Journals
+source-date: 2017-07-22
+source-url: http://www.newbernsj.com/sports/20170722/new-berns-bobby-perry-local-baseball-hero
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-23

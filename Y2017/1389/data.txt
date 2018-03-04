@@ -1,0 +1,9 @@
+name-last: Campos
+name-first: Pete
+name-given: Pedro
+ 
+birth-date: 1932-01-07
+birth-place: US, CA, Sacramento
+ 
+death-date: 2017-07-14
+

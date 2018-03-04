@@ -1,0 +1,8 @@
+source-title: Anacortes American
+source-date: 2017-07-02
+source-url: http://www.legacy.com/obituaries/skagitvalleyherald/obituary.aspx?n=andrew-michael-lefave&pid=185961041&
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-10

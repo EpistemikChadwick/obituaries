@@ -1,0 +1,8 @@
+source-title: LAGoldenEagles.com
+source-date: 2017-07-28
+source-url: http://lagoldeneagles.com/news/2017/7/28/longtime-baseball-coach-john-herbold-passes-away.aspx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-29

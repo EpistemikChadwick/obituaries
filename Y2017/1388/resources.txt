@@ -1,0 +1,8 @@
+source-title: LastingMemories.com
+source-date: 2017-07-30
+source-url: http://www.lastingmemories.com/memorial/edward-john-komisarek?obituaries
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-30

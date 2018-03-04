@@ -1,0 +1,6 @@
+name-last: Torres
+name-first: Gaby
+name-given: Gabriel
+ 
+death-date: 2017-06-16
+

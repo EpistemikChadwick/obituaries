@@ -1,0 +1,7 @@
+name-last: Perry
+name-first: Bobby
+name-given: Melvin Gray
+ 
+death-date: 2017-07-02
+death-place:  US, NC, New Bern
+

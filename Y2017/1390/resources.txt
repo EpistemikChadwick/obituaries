@@ -1,0 +1,8 @@
+source-title: Luyben Dilday Mortuary
+source-date: 2017-07-31
+source-url: http://www.luybendilday.com/sitemaker/memsol.cgi?user_id=1991829
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-31

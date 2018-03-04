@@ -1,0 +1,16 @@
+name-last: Kundla
+name-first: John
+name-given: John Albert
+ 
+birth-date: 1916-07-03
+birth-place: US, PA, Star Junction
+ 
+death-date: 2017-07-23
+ 
+school-level: college
+school-name: University of Minnesota
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

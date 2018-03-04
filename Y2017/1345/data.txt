@@ -1,0 +1,10 @@
+name-last: Zimmerman
+name-first: Robert
+name-given: Robert J.
+ 
+birth-date: 1929-03-17
+birth-place: US, MO, Kansas City
+ 
+death-date: 2017-06-15
+death-place:  US, WI, Waunakee
+

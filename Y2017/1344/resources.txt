@@ -1,0 +1,8 @@
+source-title: Houston Chronicle
+source-date: 2017-07-09
+source-url: http://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=milton-ward&pid=186032794
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-10

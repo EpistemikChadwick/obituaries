@@ -1,0 +1,8 @@
+source-title: Legacy.com
+source-date: 2017-07-10
+source-url: http://www.legacy.com/ns/gene-conley-obituary/186000973
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-10

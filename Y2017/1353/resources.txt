@@ -1,0 +1,8 @@
+source-title: Hargett Funeral Home
+source-date: 2017-07-12
+source-url: https://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?CFID=5c91be9b-eda5-49e0-a345-6ad0074bf9fc&CFTOKEN=0&o_id=4299936&fh_id=12443
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-12

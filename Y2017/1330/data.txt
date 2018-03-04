@@ -1,0 +1,21 @@
+name-last: Schumann
+name-first: John
+name-given: John I.
+ 
+birth-date: 1927-05-25
+birth-place: US, WI, Watertown
+ 
+death-date: 2017-06-29
+death-place:  US, WI, Sheboygan Falls
+ 
+school-level: secondary
+school-name: Watertown HS
+school-place: US, WI, Watertown
+ 
+school-level: college
+school-name: University of Wisconsin-La Crosse
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

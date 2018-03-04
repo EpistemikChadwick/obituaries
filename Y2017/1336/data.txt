@@ -1,0 +1,11 @@
+name-last: Conley
+name-first: Gene
+ 
+birth-date:  1930-11-10
+birth-place: US, OK, Muskogee
+ 
+death-date: 2017-07-04
+ 
+school-level: college
+school-name: Washington State University
+

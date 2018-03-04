@@ -1,0 +1,15 @@
+name-last: Mercer
+name-first: Jerry
+name-given: Jerry Dean
+ 
+birth-date: 1939-01-30
+birth-place: US, IL, Salem
+ 
+death-date: 2017-06-23
+ 
+meta-throws: Right
+ 
+school-level: secondary
+school-name:  Salem HS
+school-place: US, IL, Salem
+

@@ -1,0 +1,23 @@
+name-last: Wieczorek
+name-first: Bill
+name-given: William
+ 
+birth-date: 1929-12-18
+birth-place: US, MN, Winona
+ 
+death-date: 2017-07-05
+death-place:  US, MN, Winona
+ 
+school-level: secondary
+school-name:  Cotter HS
+school-place: US, MN, Winona
+ 
+school-level: college
+school-name:  Winona State University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, MN, Winona
+

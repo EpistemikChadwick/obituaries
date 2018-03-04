@@ -1,0 +1,17 @@
+name-last: Cochran
+name-first: Gene
+name-given: Urcell Gene
+ 
+birth-date: 1936-07-27
+birth-place: US, AR, Viola
+ 
+death-date: 2017-07-14
+death-place:  US, KS, Iola
+ 
+school-level: secondary
+school-name:  Salem HS
+school-place: US, AR, Salem
+ 
+cemetery-name: Moran Cemetery
+cemetery-place: US, KS, Moran
+

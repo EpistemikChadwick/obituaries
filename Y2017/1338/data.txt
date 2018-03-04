@@ -1,0 +1,14 @@
+name-last: Rhodes
+name-first: Herb
+name-given: Herbert H.
+ 
+birth-date: 1928-07-09
+ 
+death-date: 2017-07-04
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Alamance Memorial Park
+cemetery-place: US, NC, Burlington
+

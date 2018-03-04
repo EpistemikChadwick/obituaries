@@ -1,0 +1,16 @@
+name-last: Serbin
+name-first: Clifford
+name-given: Clifford Leslie
+ 
+birth-date: 1927-06-28
+birth-place: US, NY, New York
+ 
+death-date: 2017-07-01
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Arlington National Cemetery
+cemetery-place: US, VA, Arlington
+

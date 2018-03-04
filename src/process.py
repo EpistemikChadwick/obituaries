@@ -1,3 +1,4 @@
+from __future__ import print_function
 import glob
 
 import pandas as pd
@@ -29,14 +30,14 @@ def parse_file(fn):
 def main():
     dflist = [ ]
     for fn in glob.glob("*/*/data.txt"):
-        print fn
+        print(fn)
         dflist.append(pd.DataFrame(parse_file(fn)))
-    print
+    print()
     
     df = pd.concat(dflist, ignore_index=True)
     df['person'] = df['person'].fillna('_subject')
     for (record_type, data) in df.groupby('record-type'):
-        print "Writing %s records" % record_type
+        print("Writing %s records" % record_type)
         data = data.dropna(axis=1, how='all')
         del data['record-type']
         data.to_csv("processed/%s.csv" % record_type, index=False)

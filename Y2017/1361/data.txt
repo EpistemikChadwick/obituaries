@@ -1,0 +1,19 @@
+name-last: Primavera
+name-first: Bob
+name-given: Robert David
+ 
+birth-date: 1928-06-03
+birth-place: US, IL, Chicago Heights
+ 
+death-date: 2017-07-15
+ 
+school-level: secondary
+school-name:  Elkhart Memorial HS
+school-place: US, IN, Elkhart
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Our Lady of Peace Cemetery
+cemetery-place: US, IN, Indianapolis
+

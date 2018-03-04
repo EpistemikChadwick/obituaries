@@ -1,0 +1,8 @@
+source-title: Times Herald
+source-date: 2017-07-19
+source-url: http://www.legacy.com/obituaries/timesherald/obituary.aspx?n=james-clifton-randolph&pid=186125693&fhid=13086
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-19

@@ -1,0 +1,18 @@
+name-last: Martin
+name-first: Pepper
+name-given: James Francis
+ 
+birth-date: 1920-11-26
+ 
+death-date: 2017-06-28
+ 
+school-level: college
+school-name: Furman University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Chatham Hills Memorial Gardens
+cemetery-place: US, SC, Cheraw
+

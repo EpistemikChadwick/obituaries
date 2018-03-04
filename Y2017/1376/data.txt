@@ -1,0 +1,23 @@
+name-last: Davis
+name-first: Matt
+name-given: Matthew Wade
+ 
+birth-date: 1977-07-20
+birth-place: US, OK, Vinita
+ 
+death-date: 2017-07-18
+death-place:  US, OK, Tahlequah
+ 
+school-level: secondary
+school-name:  Pryor HS
+school-place: US, OK, Pryor
+ 
+school-level: college
+school-name: Crowder College
+ 
+school-level: college
+school-name: University of Arkansas
+ 
+cemetery-name: Graham Memorial Cemetery
+cemetery-place: US, OK, Pryor Creek
+

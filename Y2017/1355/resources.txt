@@ -1,0 +1,8 @@
+source-title: Santa Cruz Sentinel
+source-date: 2017-07-01
+source-url: http://www.legacy.com/obituaries/santacruzsentinel/obituary.aspx?n=ronald-e-walters&pid=185960177
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-14

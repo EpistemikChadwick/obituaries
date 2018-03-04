@@ -1,0 +1,20 @@
+name-last: Clendenin
+name-first: Allen
+name-given: Allen Carter
+ 
+birth-date: 1940-02-16
+birth-place: US, IL, Rockwood
+ 
+death-date: 2017-07-11
+death-place:  US, MO, St. Louis
+ 
+school-level: secondary
+school-name:  Chester HS
+school-place: US, IL, Chester
+ 
+school-level: college
+school-name: McKendree University
+ 
+cemetery-name: Ebenezer Cemetery
+cemetery-place: US, IL, Rockwood
+

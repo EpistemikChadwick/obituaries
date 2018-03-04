@@ -1,0 +1,20 @@
+name-last: Walters
+name-first: Ron
+name-given: Ronald Edward
+ 
+birth-date: 1933-08-06
+birth-place: US, CA, Sacramento
+ 
+death-date: 2017-06-22
+death-place:  US, CA, San Jose
+ 
+school-level: secondary
+school-name:  Santa Cruz HS
+school-place: US, CA, Santa Cruz
+ 
+school-level: college
+school-name: California Polytechnic State University
+ 
+school-level: college
+school-name: San Jose State University
+

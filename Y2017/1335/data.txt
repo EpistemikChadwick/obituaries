@@ -1,0 +1,12 @@
+name-last: Forsyth
+name-first: Kenny
+name-given: Kenny
+ 
+birth-date: 1957-02-28
+birth-place: US, GA, Dallas
+ 
+death-date: 2017-07-03
+ 
+cemetery-name: Peaceful Meadows Memorial Cemetery
+cemetery-place: US, GA, Dallas
+

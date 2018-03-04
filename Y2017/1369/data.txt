@@ -1,0 +1,17 @@
+name-last: Caselli
+name-first: Bob
+name-given: Robert A.
+ 
+birth-date: 1930-02-09
+birth-place: US, CA, Sacramento
+ 
+death-date: 2017-07-18
+death-place:  US, CA, Stockton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Sacramento Valley National Cemetery
+cemetery-place: US, CA, Dixon
+

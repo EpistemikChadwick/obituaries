@@ -1,0 +1,16 @@
+name-last: Harris
+name-first: Shirley
+name-given: Shirley
+name-suffix: III
+ 
+birth-date: 1944
+ 
+death-date: 2017
+ 
+school-level: secondary
+school-name:  Druid HS
+school-place: US, AL, Tuscaloosa
+ 
+school-level: college
+school-name: Jackson State University
+

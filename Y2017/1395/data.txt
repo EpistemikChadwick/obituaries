@@ -1,0 +1,12 @@
+name-last: Mann
+name-first: Bob
+name-given: Charles E.
+ 
+birth-date: 1928-08-05
+birth-place: US, OK, Moffett
+ 
+death-date: 2017-07-20
+ 
+cemetery-name: Resthaven Memory Gardens
+cemetery-place: US, CO, Fort Collins
+

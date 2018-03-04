@@ -1,0 +1,21 @@
+name-last: Tate
+name-first: Chuck
+name-given: Chuck Allan
+ 
+birth-date: 1963-07-08
+birth-place: US, MO, Joplin
+ 
+death-date: 2017-07-16
+death-place:  US, OK, Bartlesville
+ 
+school-level: secondary
+school-name:  College HS
+school-place: US, OK, Bartlesville
+ 
+school-level: college
+school-name: Garden City Community College
+school-place: US, KS, Garden City
+ 
+school-level: college
+school-name: Oklahoma State University
+

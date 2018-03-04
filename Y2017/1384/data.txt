@@ -1,0 +1,5 @@
+name-last: Herbold
+name-first: John
+ 
+death-date: 2017-07-26
+

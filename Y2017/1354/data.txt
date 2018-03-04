@@ -1,0 +1,14 @@
+name-last: Solmos
+name-first: John
+name-given: John A.
+ 
+birth-date: 1938-01-11
+birth-place: US, IN, South Bend
+ 
+death-date: 2017-07-10
+ 
+school-level: college
+school-name: Kansas State University
+ 
+cemetery-name: Highland Cemetery
+cemetery-place: US, IN, South Bend

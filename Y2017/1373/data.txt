@@ -1,0 +1,19 @@
+name-last: Eargle
+name-first: Guy
+name-given: Guy Hamilton
+name-nick: Bugsy
+name-suffix: Jr.
+ 
+birth-date: 1948-08-05
+birth-place: US, SC, Bamberg
+ 
+death-date: 2017-07-17
+death-place:  US, FL, Ft. Lauderdale
+ 
+school-level: secondary
+school-name:  Miami Norland HS
+school-place: US, FL, Miami Gardens
+ 
+school-level: college
+school-name: University of South Carolina
+

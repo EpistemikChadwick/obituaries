@@ -1,0 +1,14 @@
+name-last: Eustice
+name-first: Will
+name-given: Willard
+ 
+birth-place: US, NY, Oneonta
+ 
+death-date: 2017-07-07
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Oneonta HS
+school-place: US, NY, Oneonta
+

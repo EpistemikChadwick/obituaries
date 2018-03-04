@@ -1,0 +1,10 @@
+name-last: Votruba
+name-first: George
+name-given: George Emil
+name-suffix: Jr.
+ 
+death-date: 2017-07-24
+ 
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, MO, Affton
+

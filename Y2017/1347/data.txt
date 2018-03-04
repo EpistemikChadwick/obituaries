@@ -1,0 +1,11 @@
+name-last: Dirkes
+name-first: Roger
+name-given: Roger Lee
+ 
+birth-place: US, MT, Fairfield
+ 
+death-date: 2017-06-29
+ 
+school-level: college
+school-name: Washington State University
+

@@ -1,0 +1,16 @@
+name-last: Verigood
+name-first: Stephen
+name-given: Stephen Michael
+ 
+birth-date: 1976-04-13
+birth-place: US, SC, Columbia
+ 
+death-date: 2017-07-14
+ 
+school-level: secondary
+school-name:  Dreher HS
+school-place: US, SC, Columbia
+ 
+school-level: college
+school-name: Spartanburg Methodist College
+

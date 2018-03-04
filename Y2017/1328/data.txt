@@ -1,0 +1,27 @@
+name-last: Carone
+name-first: Rick
+name-given: Richard Rafael
+ 
+birth-date: 1971-01-17
+birth-place: US, IL, Chicago
+ 
+death-date: 2017-06-29
+death-place:  US, IL, Cary
+ 
+school-level: secondary
+school-name:  Cary-Grove HS
+school-place: US, IL, Cary
+ 
+school-level: college
+school-name: Illinois State University
+ 
+school-level: college
+school-name: Triton College
+school-place: US, IL River Grove
+ 
+school-level: college
+school-name: University of Mississippi
+ 
+cemetery-name: Windridge Memorial Park
+cemetery-place: US, IL, Cary
+

@@ -1,0 +1,15 @@
+name-last: Jeffery
+name-first: Scott
+name-given: R. Scott
+ 
+birth-place: US, NY, Hornell
+ 
+death-date: 2017-07-07
+death-place:  US, PA, Scranton
+ 
+school-level: secondary
+school-name:  Hornell HS
+school-place: US, NY, Hornell
+ 
+school-level: college
+school-name: Mansfield University of Pennsylvania

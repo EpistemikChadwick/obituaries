@@ -1,0 +1,10 @@
+name-last: May
+name-first: Lee
+name-nick: Big Bopper
+ 
+birth-date: 1943-03-23
+birth-place: US, AL, Birmingham
+ 
+death-date: 2017-07-29
+death-place:  US, OH, Cincinnati
+

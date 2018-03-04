@@ -1,0 +1,14 @@
+name-last: LeFave
+name-first: Andrew
+name-given: Andrew Michael
+ 
+birth-date: 1984-04-26
+birth-place: US, WA, Anacortes
+ 
+death-date: 2017-06-29
+death-place:  US, WA, Seattle
+ 
+school-level: secondary
+school-name:  Anacortes HS
+school-place: US, WA, Anacortes
+

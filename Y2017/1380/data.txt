@@ -1,0 +1,5 @@
+name-last: Chavez
+name-first: Rene
+ 
+death-date: 2017-07-14
+

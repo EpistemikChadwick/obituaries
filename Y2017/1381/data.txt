@@ -1,0 +1,15 @@
+name-last: Shaw
+name-first: Allan
+name-given: Benjamin Allan
+ 
+death-date: 2017-06-28
+death-place:  US, MD, Frederick
+ 
+school-level: secondary
+school-name:  Coolidge HS
+school-place: US, DC, Washington
+ 
+military-country: US
+military-branch:  Coast Guard
+military-conflict:  World War II
+

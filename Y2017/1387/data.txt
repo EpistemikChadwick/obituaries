@@ -1,0 +1,16 @@
+name-last: Ogden
+name-first: Emil
+name-given: Emil Eugene
+ 
+birth-date: 1927-09-15
+birth-place: US, OK, Blackwell
+ 
+death-date: 2017-07-25
+death-place:  US, TX, College Station
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Mount Calvary Cemetery
+cemetery-place: US, TX, Bryan
+

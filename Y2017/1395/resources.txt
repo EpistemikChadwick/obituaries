@@ -1,0 +1,8 @@
+source-title: Resthaven Funeral Home
+source-date: 2017-07-31
+source-url: http://www.resthavencolorado.com/obituaries/Bob-Mann/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-31

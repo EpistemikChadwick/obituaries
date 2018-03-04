@@ -1,0 +1,8 @@
+source-title: Brownlie & Maxwell Funeral Home
+source-date: 2017-07-31
+source-url: http://www.brownliemaxwell.com/obituaries_detail.asp?id=2076
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-31

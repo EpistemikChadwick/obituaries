@@ -1,0 +1,8 @@
+source-title: Benton County Funeral Home
+source-date: 2017-07-10
+source-url: http://www.bentoncountyfuneralhome.com/obituaries/Udo-H-Jansen?obId=1976307#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-10

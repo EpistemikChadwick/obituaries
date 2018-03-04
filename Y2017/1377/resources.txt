@@ -1,0 +1,8 @@
+source-title: Wilson-McReynolds funeral Home
+source-date: 2017-07-25
+source-url: http://www.wilsonmcreynolds.com/obituaries/Steven-Waterbury/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-25

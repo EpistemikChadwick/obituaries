@@ -1,0 +1,8 @@
+source-title: Buffalo News
+source-date: 2017-07-02
+source-url: http://buffalonews.com/2017/07/02/chester-allen-chet/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-09

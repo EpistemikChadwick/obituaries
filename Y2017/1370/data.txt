@@ -1,0 +1,9 @@
+name-last: Kilpela
+name-first: Vincent
+name-given: Vincent Harvey
+ 
+birth-date: 1937-05-05
+birth-place: US, CT, Norwich
+ 
+death-date: 2017-07-11
+

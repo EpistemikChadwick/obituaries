@@ -1,0 +1,8 @@
+name-last: Smith
+name-first: Tommy
+name-given: Thomas C.
+ 
+birth-date: 1942-06-04
+birth-place: US, SC, Charleston
+ 
+death-date: 2017-07-05

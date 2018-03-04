@@ -1,0 +1,17 @@
+name-last: Jansen
+name-first: Udo
+name-given: Udo H.
+ 
+birth-date: 1927-04-09
+birth-place: US, AR, Little Rock
+ 
+death-date: 2017-06-17
+ 
+school-level: secondary
+school-name:  North Little Rock Catholic Academy
+school-place: US, AR, North Little Rock
+ 
+military-country: US
+military-branch:  Marines
+ 
+

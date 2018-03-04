@@ -1,0 +1,16 @@
+name-last: Gerhardt
+name-first: Don
+name-given: Don Wesley
+ 
+birth-date: 1940-08-04
+ 
+death-date: 2017-07-07
+death-place:  US, AL, Satsuma
+ 
+school-level: secondary
+school-name:  Satsuma HS
+school-place: US, AL, Satsuma
+ 
+cemetery-name: Satsuma Cemetery
+cemetery-place: US, AL, Satsuma
+

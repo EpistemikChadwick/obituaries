@@ -1,0 +1,8 @@
+source-title: Quernheim Funeral Home
+source-date: 2017-07-19
+source-url: http://www.quernheimfuneralhome.com/notices/John-Rheinecker
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-19

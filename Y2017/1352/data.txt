@@ -1,0 +1,10 @@
+name-last: Bethea           
+name-first: Bill
+name-given: William Homer
+name-nick: Speed
+ 
+death-date: 2017-07-08
+ 
+school-level: secondary
+school-name:  Dudley HS
+school-place: US, NC, Greensboro

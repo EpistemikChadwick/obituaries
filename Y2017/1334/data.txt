@@ -1,0 +1,34 @@
+name-last: Beardsley
+name-first: Nate
+name-given: Nathan Leighton
+ 
+birth-date: 1928-09-11
+birth-place: US, MA, Holden
+ 
+death-date: 2017-07-05
+death-place:  US, MA, Sterling
+ 
+school-level: secondary
+school-name:  Cushing Academy
+school-place: US, MA, Ashburnham
+ 
+school-level: college
+school-name: University of Connecticut
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: High Plains Cemetery
+cemetery-place: US, MA, West Boylston
+ 
+affiliation-role: umpire
+affiliation-league: Arizona-Mexico
+affiliation-date-start: 1958
+affiliation-date-end: 1958
+ 
+affiliation-role: umpire
+affiliation-league: Northern
+affiliation-date-start: 1959
+affiliation-date-end: 1960
+

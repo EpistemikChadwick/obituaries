@@ -1,0 +1,8 @@
+source-title: Frederick News-Post
+source-date: 2017-07-26
+source-url: http://www.legacy.com/obituaries/fredericknewspost/obituary.aspx?n=benjamin-allan-shaw&pid=186189030&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-28

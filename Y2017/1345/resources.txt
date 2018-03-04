@@ -1,0 +1,8 @@
+source-title: Wisconsin Rapids Daily Tribune
+source-date: 2017-07-10
+source-url: http://www.legacy.com/obituaries/wisconsinrapidstribune/obituary.aspx?n=robert-j-zimmerman&pid=186039786
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-10

@@ -1,0 +1,16 @@
+name-last: Komisarek
+name-first: Ed
+name-given: Edward John
+ 
+birth-date: 1922-07-28
+ 
+death-date: 2017-07-22
+ 
+school-level: secondary
+school-name:  Woodward HS
+school-place: US, OH, Toledo
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+

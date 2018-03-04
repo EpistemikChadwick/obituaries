@@ -1,0 +1,16 @@
+name-last: Waterbury
+name-first: Steve
+name-given: Steven Craig
+ 
+birth-date: 1952-04-06
+birth-place: US, IL, Carbondale
+ 
+death-date: 2017-05-19
+death-place:  US, IL, Marion
+ 
+school-level: secondary
+school-name:  Marion HS
+school-place: US, IL, Marion
+ 
+cemetery-name: Odd Fellows Cemetery
+cemetery-place: US, IL, Marion

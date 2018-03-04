@@ -1,0 +1,21 @@
+name-last: Crossley
+name-first: Wes
+name-given: John Wesley
+ 
+birth-date: 1931-05-30
+birth-place: US, MI, Ecorse
+ 
+death-date: 2017-07-20
+ 
+school-level: secondary
+school-name:  Glendale HS
+school-place: US, CA, Glendale
+ 
+cemetery-name: Chelan Fraternal Cemetery
+cemetery-place: US, WA, Chelan
+ 
+affiliation-role: umpire
+affiliation-league: Northwest
+affiliation-date-start: 1961
+affiliation-date-end: 1964
+

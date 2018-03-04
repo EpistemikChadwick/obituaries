@@ -1,0 +1,13 @@
+name-last: Perry
+name-first: Bobby
+name-given: Melvin Gray
+ 
+birth-date: 1933
+birth-place: US, NC, New Bern
+ 
+death-date: 2017-07-02
+ 
+school-level: secondary
+school-name:  West Street HS
+school-place:  US, NC, New Bern
+

@@ -1,0 +1,22 @@
+name-last: Randolph
+name-first: Jim
+name-given: James Clifton
+ 
+birth-date: 1932-06-12
+birth-place: US, PA, Plymouth Township
+ 
+death-date: 2017-07-11
+ 
+school-level: secondary
+school-name:  Norristown HS
+school-place: US, PA, Norristown
+ 
+school-level: college
+school-name: Shaw University
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Whitemarsh Memorial Park
+cemetery-place: US, PA, Ambler
+

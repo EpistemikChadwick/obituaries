@@ -1,0 +1,17 @@
+name-last: Marshall
+name-first: Jerry
+name-given: Gerald
+ 
+birth-date: 1951-07-08
+birth-place: US, FL, Malabar
+ 
+death-date: 2017-07-28
+death-place:  US, FL, Palm Bay
+ 
+school-level: secondary
+school-name:  Melbourne HS
+school-place: US, FL, Melbourne
+ 
+school-level: college
+school-name: Eastern Florida State College
+

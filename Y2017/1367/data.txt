@@ -1,0 +1,21 @@
+name-last: Rheinecker
+name-first: John
+ 
+death-date: 2017-07-18
+death-place:  US, MO, St. Louis
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Gibault HS
+school-place: US, IL, Waterloo
+ 
+school-level: college
+school-name: Southwestern Illinois College
+ 
+school-level: college
+school-name: Missouri State University
+ 
+cemetery-name: St. Augustine of Canterbury Catholic Cemetery
+cemetery-place: US, IL, Hecker
+
