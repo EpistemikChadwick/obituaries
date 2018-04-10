@@ -1,0 +1,20 @@
+name-last: Mullett
+name-first: Dave
+name-given: David E.
+name-suffix: Sr.
+
+birth-date: 1931-05-26
+birth-place: US, OH, Salem
+
+death-date: 2014-11-07
+
+school-level: secondary
+school-name: Sebring HS
+school-place: US, OH, Sebring
+
+military-country: US
+military-branch: Marines
+military-conflict: Korean War
+
+cemetery-name: Sunset Hills Memorial Gardens
+cemetery-place: US, OH, North Canton

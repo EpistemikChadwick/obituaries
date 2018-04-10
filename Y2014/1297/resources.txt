@@ -1,0 +1,8 @@
+source-title: Harper Morris Memorial Chapel
+source-date: 2014-10-20
+source-url: http://www.harpermorrismemorialchapel.com/sitemaker/sites/HARPER2/obit.cgi?user=1438342Smith
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-20

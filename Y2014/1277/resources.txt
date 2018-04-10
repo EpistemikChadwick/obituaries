@@ -1,0 +1,12 @@
+source-title: Chicago Suburban Daily Herald
+source-date: 2014-10-27
+source-url: http://www.legacy.com/obituaries/dailyherald/obituary.aspx?n=BYRON-W-SKINNER&pid=172943715
+
+source-title: Tennessee Tech baseball website
+source-date: 2014-10-27
+source-url: http://www.ttusports.com/sports/bsb/2011-12/bios/skinner_byron
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-27

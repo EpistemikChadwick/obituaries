@@ -1,0 +1,17 @@
+name-last: Cascio
+name-first: Frank
+name-given: Frank B.
+
+birth-date: 1922-02-01
+birth-place: US, NY, New York
+
+death-date: 2014-10-31
+death-place: US, SC, Hilton Head
+
+school-level: secondary
+school-name: Leonia HS
+school-place: US, NJ, Leonia
+
+military-country: US
+military-branch: Coast Guard
+military-conflict: World War II

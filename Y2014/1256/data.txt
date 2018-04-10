@@ -1,0 +1,19 @@
+name-last: Guard
+name-first: Raymond
+name-given: Raymond R.
+name-nick: Lefty
+
+birth-date: 1923-06-30
+birth-place: US, WV, Hurt
+
+death-date: 2014-11-07
+death-place: US, WV, Princeton
+
+meta-throws: left
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Roselawn Memorial Gardens
+cemetery-place: US, WV, Princeton

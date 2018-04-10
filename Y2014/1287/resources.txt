@@ -1,0 +1,8 @@
+source-title: Knoxville News Sentinel
+source-date: 2014-10-26
+source-url: http://www.legacy.com/obituaries/knoxnews/obituary.aspx?n=EZRA-MALACHI-McGLOTHIN-PAT&pid=172932817
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-26

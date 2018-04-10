@@ -1,0 +1,12 @@
+name-last: Bramlett
+name-first: John
+name-nick: Bull
+
+death-date: 2014-10-23
+
+school-level: secondary
+school-name: Humes HS
+school-place: US, TN, Memphis
+
+school-level: college
+school-name: University of Memphis

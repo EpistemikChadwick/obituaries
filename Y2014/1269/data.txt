@@ -1,0 +1,19 @@
+name-last: Gaebe
+name-first: Don
+name-given: Donald R.
+
+birth-date: 1931-07-27
+birth-place: US, MO, Farmington
+
+death-date: 2014-10-28
+death-place: US, IL, Nashville
+
+school-level: secondary
+school-name: Woodlawn HS
+school-place: US, IL, Woodlawn
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Odd Fellows Cemetery
+cemetery-place: US, IL, Woodlawn

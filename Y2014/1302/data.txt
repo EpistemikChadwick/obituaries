@@ -1,0 +1,18 @@
+name-last: Gottsch
+name-first: Pat
+name-given: Bernard George
+
+birth-date: 1925
+
+death-date: 2014-10-07
+
+school-level: secondary
+school-name: Elkhorn HS
+school-place: US, NE, Elkhorn
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Mt. Calvary Cemetery
+cemetery-place: US, NE, Elkhorn

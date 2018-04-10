@@ -1,0 +1,24 @@
+name-last: Skinner
+name-first: Byron
+name-given: Byron William
+
+birth-date: 1991-09-12
+birth-place: US, IL, Des Plaines
+
+death-date: 2014-10-24
+death-place: US, IL, Palatine
+
+meta-bats: left
+meta-throws: right
+
+school-level: secondary
+school-name: Palatine HS
+school-place: US, IL, Palatine
+
+school-level: college
+school-name: Palm Beach Atlantic University
+school-place: US, FL, West Palm Beach
+
+school-level: college
+school-name: Tennessee Technological University
+school-place: US, TN, Cookeville

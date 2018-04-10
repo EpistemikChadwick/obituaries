@@ -1,0 +1,13 @@
+source-title: Worcester Telegram & Gazette
+source-date: 2014-10-19
+source-url: http://www.legacy.com/obituaries/telegram/obituary.aspx?n=louis-lucier&pid=172868747&fhid=25322&eid=sp_ommatch
+
+source-title: Worcester Telegram & Gazette
+source-date: 2014-10-19
+source-url: http://www.telegram.com/article/20141018/NEWS/310189605/1009
+
+contributor-last: Nelson
+contributor-first: Rod
+contributor-date: 2014-10-19
+contributor-email: rodericnelson@gmail.com
+

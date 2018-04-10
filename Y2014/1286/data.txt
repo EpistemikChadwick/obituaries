@@ -1,0 +1,17 @@
+name-last: Hoyt
+name-first: Fred
+name-given: Frederick R.
+
+birth-date: 1942-01-24
+birth-place: US, NY, Owego
+
+death-date: 2014-10-14
+death-place: US, NY, Rochester
+
+school-level: secondary
+school-name: Candor HS
+school-place: US, NY, Candor
+
+school-level: college
+school-name: Morrisville State College
+school-place: US, NY, Morrisville

@@ -1,0 +1,16 @@
+name-last: Walton
+name-first: Mal
+name-given: Malcolm Edward
+
+birth-date: 1933-09-14
+birth-place: US, OK, Oklahoma City
+
+death-date: 2014-09-18
+
+school-level: secondary
+school-name: Central HS
+school-place: US, OK, Oklahoma
+
+military-country: US
+military-branch: Navy
+military-conflict: Korean War

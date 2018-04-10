@@ -1,0 +1,20 @@
+name-last: Knight
+name-first: Solomon
+name-given: Solomon
+name-suffix: Sr.
+
+birth-date: 1925-02-28
+birth-place: US, GA, Alma
+
+death-date: 2014-06-02
+
+school-level: secondary
+school-name: Wayne County Training HS
+school-place: US, GA, Jesup
+
+school-level: college
+school-name: Tuskegee University
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

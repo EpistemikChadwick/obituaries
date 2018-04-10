@@ -1,0 +1,12 @@
+name-last: Cook
+name-first: Calvin
+name-given: Calvin Franklin
+
+birth-date: 1931-05-08
+birth-place: US, NC, Murphy
+
+death-date: 2014-09-20
+death-place: US, TN, Copperhill
+
+cemetery-name: Copper Ridge Memorial Garden
+cemetery-place: US, GA, Fannin County

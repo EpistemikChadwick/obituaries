@@ -1,0 +1,18 @@
+name-last: Latter
+name-first: Dave
+name-given: David Scott
+
+birth-place: US, TX, Houston
+
+death-date: 2014-10-27
+death-place: US, AZ, Phoenix
+
+meta-throws: right
+
+school-level: secondary
+school-name:  Lynbrook HS
+school-place: US, CA, San Jose
+
+school-level: college
+school-name: University of Southern California
+

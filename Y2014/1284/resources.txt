@@ -1,0 +1,8 @@
+source-title: Kansas City Star
+source-date: 2014-10-23
+source-url: http://www.legacy.com/obituaries/kansascity/obituary.aspx?n=PAUL-THOMAS-PROVAS&pid=172943870
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-23

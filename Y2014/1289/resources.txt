@@ -1,0 +1,8 @@
+source-title: Chicago Tribune
+source-date: 2014-10-23
+source-url: http://www.chicagotribune.com/sports/baseball/whitesox/chi-paul-provas-passed-away-20141023-story.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-23

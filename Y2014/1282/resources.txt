@@ -1,0 +1,8 @@
+source-title: Toledo Blade
+source-date: 2014-10-24
+source-url: http://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=Carl-Wilson&pid=172921565
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-26

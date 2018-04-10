@@ -1,0 +1,15 @@
+name-last: Lloyd
+name-first: Dick
+name-given: Richard Morris
+name-suffix: III
+
+birth-date: 1961-03-05
+
+death-date: 2014-10-31
+
+school-level: secondary
+school-name: East Valley HS
+school-place: US, WA, Spokane
+
+cemetery-name: St. Joseph's Cemetery
+cemetery-place: US, WA, Spokane Valley

@@ -1,0 +1,8 @@
+source-title: Ann Arbor News
+source-date: 2014-11-03
+source-url: http://obits.mlive.com/obituaries/annarbor/obituary.aspx?n=Alvin-R-Baker&pid=173039673
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-04

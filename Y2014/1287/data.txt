@@ -1,0 +1,19 @@
+name-last: McGlothin
+name-first: Pat
+name-given: Ezra Malachi
+
+death-date: 2014-10-24
+
+school-level: secondary
+school-name: Central HS
+school-place: US, TN, Knoxville
+
+school-level: college
+school-name: University of Tennessee
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Highland Memorial Park
+cemetery-place: US, TN, Knoxville

@@ -1,0 +1,10 @@
+name-last: Hildenbrand
+name-first: Bob
+name-given: Robert
+
+death-date: 2014-10-08
+death-place: US, KY, Louisville
+
+school-level: secondary
+school-name: St. Xavier HS
+school-place: US, KY, Louisville

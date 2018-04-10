@@ -1,0 +1,8 @@
+source-title: DignityMemorial.com
+source-date: 2014-11-10
+source-url: http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Charles-Forrest&lc=2379&pid=173109167&mid=6190587
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-10

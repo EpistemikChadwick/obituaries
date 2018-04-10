@@ -1,0 +1,8 @@
+source-title: Muskegon Chronicle
+source-date: 2014-10-14
+source-url: http://obits.mlive.com/obituaries/muskegon/obituary.aspx?n=Howard-MELOCHE&pid=172794600
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-14

@@ -1,0 +1,19 @@
+name-last: Skerl
+name-first: Dick
+name-given: Richard J.
+
+birth-place: US, OH, Barberton
+
+death-date: 2014-10-25
+death-place: US, OH, Barberton
+
+school-level: secondary
+school-name: Barberton HS
+school-place: US, OH, Barberton
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Ohio Western Reserve National Cemetery
+cemetery-place: US, OH, Rittman

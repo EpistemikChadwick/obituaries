@@ -1,0 +1,8 @@
+source-title: Topeka Capital-Journal
+source-date: 2014-11-11
+source-url: http://www.legacy.com/obituaries/cjonline/obituary.aspx?n=Ted-Worthington&pid=173124117
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-11

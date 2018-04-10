@@ -1,0 +1,22 @@
+name-last: Smith
+name-first: Roger
+name-given: Roger H.
+
+birth-date: 1922-03-28
+birth-place: US, NC, Pleasant Garden
+
+death-date: 2014-10-16
+
+school-level: secondary
+school-name: Pleasant Garden HS
+school-place: US, NC, Pleasant Garden
+
+school-level: college
+school-name: Guilford College
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Alamance Presbyterian Church
+cemetery-place: US, NC, Greensboro

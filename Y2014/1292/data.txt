@@ -1,0 +1,14 @@
+name-last: Keegan
+name-first: Ed
+name-given: Edward Charles
+name-suffix: Jr.
+
+birth-date: 1939-07-08
+birth-place: US, NJ, Camden
+
+death-date: 2014-10-19
+death-place: US, NJ, Franklinville
+
+school-level: secondary
+school-name: Haddonfield HS
+school-place: US, NJ, Haddonfield

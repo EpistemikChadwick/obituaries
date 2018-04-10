@@ -1,0 +1,8 @@
+source-title: Florence Times Daily
+source-date: 2014-11-06
+source-url: http://www.legacy.com/obituaries/timesdaily/obituary.aspx?n=Verny-M-Dunn&pid=173067970
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-09

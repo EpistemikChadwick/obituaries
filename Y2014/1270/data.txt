@@ -1,0 +1,7 @@
+name-last: Roy
+name-first: Jean-Pierre
+
+birth-date: 1920-06-26
+birth-place: CA, QC, Montreal
+
+death-date: 2014-10-31

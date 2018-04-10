@@ -1,0 +1,16 @@
+name-last: Mickelsen
+name-first: Noel
+
+birth-date: 1934-08-15
+birth-place: US, IA, Oto
+
+death-date: 2014-09-28
+
+meta-height: 78
+
+school-level: secondary
+school-name: Helix HS
+school-place: US, CA, La Mesa
+
+school-level: college
+school-name: San Diego State University

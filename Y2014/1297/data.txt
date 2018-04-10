@@ -1,0 +1,23 @@
+name-last: Smith
+name-first: P. J.
+name-given: Paul J.
+name-suffix: Jr.
+
+birth-date: 1941-12-02
+birth-place: US, FL, Pensacola
+
+death-date: 2014-10-15
+
+school-level: secondary
+school-name: Pensacola HS
+school-place: US, FL, Pensacola
+
+school-level: college
+school-name: Pensacola State College
+school-place: US, FL, Pensacola
+
+military-country: US
+military-branch: Marines
+
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, FL, Pensacola

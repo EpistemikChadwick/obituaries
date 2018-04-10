@@ -1,0 +1,17 @@
+source-title: Rio Rancho Observer
+source-date: 2014-10-29
+source-url: http://www.rrobserver.com/news/local/article_55c591a4-5ef6-11e4-996e-fbffdd1b1912.html
+
+
+source-title: Albuquerque Journal
+source-date: 2014-10-31
+source-url: http://www.abqjournal.com/488922/news/sad-farewell-to-officer.html
+
+source-title: KRQE News 13
+source-date: 2014-10-30
+source-url: http://krqe.com/2014/10/30/family-friends-gather-for-fallen-officers-funeral/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-02

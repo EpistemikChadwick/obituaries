@@ -1,0 +1,12 @@
+source-title: New Orleans Advocate
+source-date: 2014-10-11
+source-url: http://www.legacy.com/obituaries/theneworleansadvocate/obituary.aspx?n=Chandler-Laurent&pid=172775232
+
+source-title: New Orleans Times-Picayune
+source-date: 2014-10-09
+source-url: http://www.nola.com/traffic/index.ssf/2014/10/lacombe_man_dies_after_car_hit.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-13

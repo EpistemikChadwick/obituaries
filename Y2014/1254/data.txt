@@ -1,0 +1,21 @@
+name-last: Falasca
+name-first: Skip
+name-given: William M.
+name-suffix: Jr.
+
+birth-date: 1945-03-12
+birth-place: US, MA, Lynn
+
+death-date: 2014-10-31
+death-place: US, MA, Haverhill
+
+school-level: secondary
+school-name: St. Mary's HS
+school-place: US, MA, Lynn
+
+school-level: college
+school-name: Parsons College
+school-place: US, IA, Fairfield
+
+cemetery-name: Swampscott Cemetery
+cemetery-place: US, MA, Swampscott

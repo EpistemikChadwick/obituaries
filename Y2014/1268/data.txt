@@ -1,0 +1,17 @@
+name-last: Haase
+name-first: Anthony
+
+birth-place: US, CA, Gilroy
+
+death-date: 2014-10-26
+death-place: US, NM, Rio Rancho
+
+school-level: secondary
+school-name: Rio Rancho HS
+school-place: US, NM, Rio Rancho
+
+school-level: college
+school-name: Cochise Community College
+
+cemetery-name: Vista Verde Memorial Park
+cemetery-place: US, NM, Rio Rancho

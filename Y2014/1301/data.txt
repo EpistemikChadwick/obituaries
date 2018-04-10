@@ -1,0 +1,15 @@
+name-last: Grimes
+name-first: Buddy
+name-given: Charles R.
+
+birth-date: 1931-12-17
+
+death-date: 2014-10-04
+death-place: US, TX, Dallas
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Dallas-Fort Worth National Cemetery
+cemetery-place: US, TX, Dallas

@@ -1,0 +1,13 @@
+name-last: O’Neill
+name-first: John
+name-given: John G.
+
+birth-date: 1945-07-02
+birth-place: US, NJ, Trenton
+
+death-date: 2014-10-22
+death-place: US, NJ, Perth Amboy
+
+school-level: secondary
+school-name: East Brunswick HS
+school-place: US, NJ, East Brunswick

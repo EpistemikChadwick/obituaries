@@ -1,0 +1,10 @@
+name-last: Kagawa
+name-first: Nobuyuki
+name-nick: Dokaben
+
+death-date: 2014-09-26
+death-place: JP, Fukuoka, Fukuoka
+
+school-level: secondary
+school-name: Namisho HS
+school-place: JP, Osaka, Osaka

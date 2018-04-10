@@ -1,0 +1,5 @@
+name-last: Halsey
+name-first: Brad
+
+death-date: 2014-10-31
+death-place: US, TX, New Braunfels

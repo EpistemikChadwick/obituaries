@@ -1,0 +1,16 @@
+name-last: Provas
+name-first: Paul
+name-given: Paul Thomas
+
+birth-date: 1951-05-28
+birth-place: US, MO, Kansas City
+
+death-date: 2014-10-23
+death-place: US, TX, Dallas
+
+school-level: college
+school-name: Johnson County Community College
+school-place: US, KS, Overland Park
+
+cemetery-name: Johnson County Memorial Gardens
+cemetery-place: US,KS, Overland Park

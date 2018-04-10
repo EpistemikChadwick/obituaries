@@ -1,0 +1,12 @@
+name-last: Wyatt
+name-first: Willie
+
+death-date: 2014-11-02
+
+school-level: secondary
+school-name: Carver-Smith HS
+school-place: US, TN, Columbia
+
+school-level: college
+school-name: University of Maryland Eastern Shore
+school-place: US, MD, Princess Anne

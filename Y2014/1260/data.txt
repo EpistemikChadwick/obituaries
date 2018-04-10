@@ -1,0 +1,23 @@
+name-last: Libhart
+name-first: Lew
+name-given: Lewis Rinehart
+name-suffix: Jr.
+
+birth-date: 1923-08-24
+birth-place: US, PA, Marietta
+
+death-date: 2014-10-31
+death-place: US, SC, West Columbia
+
+school-level: college
+school-name: Franklin & Marshall College
+school-place: US, PA, Lancaster
+
+school-level: college
+school-name: East Stroudsburg University
+school-place: US, PA, East Stroudsburg
+
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II

@@ -1,0 +1,17 @@
+name-last: Baker
+name-first: Al
+name-given: Alvin R.
+
+birth-date: 1952-08-15
+birth-place: US, MI, Ann Arbor
+
+death-date: 2014-11-01
+death-place: US, MI, Brooklyn
+
+school-level: secondary
+school-name: Huron HS
+school-place: US, MI, Ann Arbor
+
+school-level: college
+school-name: Albion College
+school-place: US, MI, Albion

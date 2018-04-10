@@ -1,0 +1,12 @@
+source-title: Clemson Rivals.com
+source-date: 2014-10-14
+source-url: https://clemson.rivals.com/content.asp?CID=1169036
+
+source-title: Greenville News
+source-date: 2010-12-25
+source-url: http://www.legacy.com/obituaries/greenvilleonline/obituary.aspx?n=billy-h-wilhelm-bill&pid=147377736
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-14

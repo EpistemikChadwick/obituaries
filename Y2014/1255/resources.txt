@@ -1,0 +1,8 @@
+source-title: USA Today
+source-date: 2014-11-05
+source-url: http://www.usatoday.com/story/sports/mlb/2014/11/05/brad-halsey-former-major-league-pitcher-dies-33/18530679/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-09

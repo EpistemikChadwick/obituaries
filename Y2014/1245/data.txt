@@ -1,0 +1,13 @@
+name-last: Johnson
+name-first: Gene
+name-given: Eugene Edward
+
+birth-date: 1937-12-24
+birth-place: US, CT, Hartford
+
+death-date: 2014-11-10
+death-place: US, CT, Vernon
+
+school-level: secondary
+school-name: Manchester HS
+school-place: US, CT, Manchester

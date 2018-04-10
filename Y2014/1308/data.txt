@@ -1,0 +1,20 @@
+name-last: Laurent
+name-first: Chandler
+name-given: Chandler Jeremy
+name-nick: Donk
+
+birth-date: 1987-10-17
+
+death-date: 2014-10-08
+death-place: US, LA, Covington
+
+school-level: secondary
+school-name: Fontainebleau HS
+school-place: US, LA, Mandeville
+
+school-level: college
+school-name: Delgado Community College
+school-place: US, LA, New Orleans
+
+cemetery-name: La Fontaine Cemetery
+cemetery-place: US, LA, Lacombe

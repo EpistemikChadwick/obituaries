@@ -1,0 +1,8 @@
+source-title: Asbury Park Press
+source-date: 2014-11-10
+source-url: http://www.legacy.com/obituaries/app/obituary.aspx?n=Kenneth-J-Hennelly&pid=173118863
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-10

@@ -1,0 +1,11 @@
+name-last: Forrest
+name-first: Chuck
+name-given: Charles E.
+
+birth-date: 1929-05-28
+birth-place: US, CO, Lafayette
+
+death-date: 2014-11-09
+
+military-country: US
+military-branch: Army

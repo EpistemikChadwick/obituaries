@@ -1,0 +1,8 @@
+name-last: Neuman
+name-first: Dutch
+name-given: Clarence D.
+
+death-date: 2014-11-10
+
+cemetery-name: Abraham Lincoln National Cemetery
+cemetery-place: US, IL, Elwood

@@ -1,0 +1,8 @@
+source-title: Express Times
+source-date: 2014-11-04
+source-url: http://obits.lehighvalleylive.com/obituaries/etpa/obituary.aspx?n=Bradley-S-Kohler&pid=173043558
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-04

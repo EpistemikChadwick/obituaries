@@ -1,0 +1,8 @@
+source-title: Memphis Daily News
+source-date: 2014-10-23
+source-url: http://www.memphisdailynews.com/news/2014/oct/23/memphis-two-sport-legend-john-bramlett-passes-away/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-23

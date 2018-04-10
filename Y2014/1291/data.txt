@@ -1,0 +1,19 @@
+name-last: Wilkinson
+name-first: Jim
+name-given: James Robert
+
+birth-date: 1929-11-27
+birth-place: US, OH, Cincinnati
+
+death-date: 2014-10-20
+
+school-level: college
+school-name: Miami University
+school-place: US, OH, Oxford
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Montevallo Cemetery
+cemetery-place: US, AL, Montevallo

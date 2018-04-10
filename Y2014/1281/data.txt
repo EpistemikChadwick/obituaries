@@ -1,0 +1,24 @@
+name-last: Sites
+name-first: Ernie
+name-given: Ernest Samuel
+name-suffix: Sr.
+
+birth-date: 1920-09-06
+birth-place: US, PA, Pittsburgh
+
+death-date: 2014-10-22
+death-place: US, ID, Boise
+
+school-level: secondary
+school-name: Chesapeake HS
+school-place: US, OH, Chesapeake
+
+school-level: college
+school-name: Pennsylvania State University
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Wendell Cemetery
+cemetery-place: US, ID, Wendell

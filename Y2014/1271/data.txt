@@ -1,0 +1,12 @@
+name-last: Mulcahey
+name-first: Bob
+name-given: Robert
+
+death-date: 2014-10-23
+
+school-level: secondary
+school-name: Paramus HS
+school-place: US, NJ, Paramus
+
+school-level: college
+school-name: Columbia University

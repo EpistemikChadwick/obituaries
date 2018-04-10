@@ -1,0 +1,14 @@
+name-last: Lucier
+name-first: Lou
+name-given: Louis J.
+name-nick: Chewy
+
+birth-date: 1918-03-23
+birth-place: US, MA, Northbridge
+
+death-date: 2014-10-18
+death-place: US, MA, Millbury
+
+school-level: secondary
+school-name: Grafton HS
+school-place: US, MA, Grafton

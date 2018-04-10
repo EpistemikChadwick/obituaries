@@ -1,0 +1,8 @@
+name-last: Robinson
+name-first: Jeff
+
+death-date: 2014-10-26
+death-place: US, MO, Overland Park
+
+school-level: college
+school-name: Azusa Pacific University

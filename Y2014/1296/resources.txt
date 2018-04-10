@@ -1,0 +1,16 @@
+source-title: SFGate.com
+source-date: 2014-10-17
+source-url: http://www.sfgate.com/giants/article/Obituary-Stan-Saleski-Giants-scout-dies-at-59-5831130.php
+
+source-title: Telegram.com
+source-date: 2014-10-17
+source-url: http://www.telegram.com/article/20141017/NEWS/310179494/1009
+
+source-title: Boston Globe
+source-date: 2014-10-19
+source-url: http://www.bostonglobe.com/metro/obituaries/2014/10/18/stan-saleski-longtime-baseball-scout/xk8rt5fiXkZnIArgyfSCYN/story.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-20

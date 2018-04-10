@@ -1,0 +1,12 @@
+source-title: Omaha.com
+source-date: 2014-10-14
+source-url: http://www.omaha.com/news/metro/athlete-pat-gottsch-put-aside-baseball-for-agribusiness-and-family/article_04de6181-c519-527d-aed3-584099fa16fd.html
+
+source-title: Reich Muth Funeral Homes
+source-date: 2014-10-14
+source-url: http://www.reichmuthfuneralhomes.com/book-of-memories/1958953/Gottsch-Bernard/obituary.php
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-14

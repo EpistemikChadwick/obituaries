@@ -1,0 +1,16 @@
+name-last: Hennelly
+name-first: Ken
+name-given: Kenneth J.
+
+birth-date: 1930-02-24
+birth-place: US, NJ, Jersey City
+
+death-date: 2014-11-09
+death-place: US, NJ, Toms River
+
+military-country: US
+military-branch: Air Force
+military-conflict: Korean War
+
+cemetery-name: Brig. Gen. Wm. C. Doyle Veterans Memorial Cemetery
+cemetery-place: US, NJ, Wrightstown

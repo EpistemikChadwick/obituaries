@@ -1,0 +1,9 @@
+source-title: Bellingham Herald
+source-date: 2014-10-08
+source-url: http://www.legacy.com/obituaries/bellinghamherald/obituary.aspx?n=malcolm-edward-walton&pid=172526930&eid=sp_ommatch
+
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-08

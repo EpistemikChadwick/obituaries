@@ -1,0 +1,5 @@
+name-last: Taveras
+name-first: Oscar
+
+death-date: 2014-10-26
+death-place: DO, Puerto Plata, Puerto Plata

@@ -1,0 +1,21 @@
+name-last: Sylvester
+name-first: Gene
+name-given: Eugene F.
+name-suffix: Sr.
+
+birth-date: 1924-08-11
+birth-place: US, MA, Brockton
+
+death-date: 2014-11-01
+death-place: US, MA, Brockton
+
+school-level: secondary
+school-name: Brockton HS
+school-place: US, MA, Brockton
+
+military-country: US
+military-branch: Army
+military-conflict: World War II
+
+cemetery-name: Calvary Cemetery
+cemetery-place: US, MA, Brockton

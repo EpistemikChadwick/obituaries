@@ -236,6 +236,7 @@ date,person,place,source
 2010-11-15,_subject,"US, IL, Carterville",Y2010/1001
 2010-07-09,_subject,"MX, Tamaulipas, Nuevo Laredo",Y2010/1002
 2010-03-30,_subject,"MX, Veracruz, Poza Rica",Y2010/1003
+2010-12-24,_subject,"US, SC, Seneca",Y2010/1004
 2011-10-17,_subject,,Y2011/1010
 2011-09-19,_subject,"US, KY, Owensboro",Y2011/1011
 2011-07-02,_subject,"US, IA, Cedar Rapids",Y2011/1012
@@ -499,6 +500,75 @@ date,person,place,source
 2014-11-09,_subject,"US, GA, Covington",Y2014/1241
 2014-11-13,_subject,"US, SC, Easley",Y2014/1242
 2014-11-07,_subject,"US, MA, North Attleboro",Y2014/1243
+2014-11-10,_subject,,Y2014/1244
+2014-11-10,_subject,"US, CT, Vernon",Y2014/1245
+2014-11-09,_subject,"US, KS, Topeka",Y2014/1246
+2014-11-08,_subject,"US, KS, Topeka",Y2014/1247
+2014-11-09,_subject,,Y2014/1248
+2014-11-09,_subject,"US, NJ, Toms River",Y2014/1249
+2014-11-06,_subject,"US, TN, Memphis",Y2014/1250
+2014-11-02,_subject,,Y2014/1251
+2014-11-05,_subject,,Y2014/1252
+2014-09-20,_subject,"US, TN, Copperhill",Y2014/1253
+2014-10-31,_subject,"US, MA, Haverhill",Y2014/1254
+2014-10-31,_subject,"US, TX, New Braunfels",Y2014/1255
+2014-11-07,_subject,"US, WV, Princeton",Y2014/1256
+2014-11-02,_subject,,Y2014/1257
+2014-11-07,_subject,,Y2014/1258
+2014-10-27,_subject,"US, AZ, Phoenix",Y2014/1259
+2014-10-31,_subject,"US, SC, West Columbia",Y2014/1260
+2014-11-01,_subject,"US, MA, Brockton",Y2014/1261
+2014-10-31,_subject,"US, SC, Greer",Y2014/1262
+2014-10-31,_subject,"US, SC, Hilton Head",Y2014/1263
+2014-11-03,_subject,"US, PA, Nazareth",Y2014/1264
+2014-11-03,_subject,,Y2014/1265
+2014-11-01,_subject,"US, MI, Brooklyn",Y2014/1266
+2014-10-31,_subject,"US, MD, Westminster",Y2014/1267
+2014-10-26,_subject,"US, NM, Rio Rancho",Y2014/1268
+2014-10-28,_subject,"US, IL, Nashville",Y2014/1269
+2014-10-31,_subject,,Y2014/1270
+2014-10-23,_subject,,Y2014/1271
+2014-10-31,_subject,,Y2014/1272
+2014-10-27,_subject,"US, MO, Laurie",Y2014/1273
+2014-10-23,_subject,"US, LA, Covington",Y2014/1274
+2014-10-22,_subject,"US, SC, Fort Mill",Y2014/1275
+2014-10-26,_subject,"US, MO, Overland Park",Y2014/1276
+2014-10-24,_subject,"US, IL, Palatine",Y2014/1277
+2014-10-25,_subject,"US, OH, Barberton",Y2014/1278
+2014-10-26,_subject,"DO, Puerto Plata, Puerto Plata",Y2014/1279
+2014-10-23,_subject,,Y2014/1280
+2014-10-22,_subject,"US, ID, Boise",Y2014/1281
+2014-10-22,_subject,,Y2014/1282
+2014-09-28,_subject,,Y2014/1283
+2014-10-23,_subject,"US, TX, Dallas",Y2014/1284
+2014-10-23,_subject,,Y2014/1285
+2014-10-14,_subject,"US, NY, Rochester",Y2014/1286
+2014-10-24,_subject,,Y2014/1287
+2014-10-22,_subject,"US, NJ, Perth Amboy",Y2014/1288
+2014-10-23,_subject,"US, TX, Dallas",Y2014/1289
+2014-10-23,_subject,,Y2014/1290
+2014-10-20,_subject,,Y2014/1291
+2014-10-19,_subject,"US, NJ, Franklinville",Y2014/1292
+2014-10-19,_subject,"US, OH, Reynoldsburg",Y2014/1293
+2014-10-16,_subject,,Y2014/1294
+2014-10-10,_subject,,Y2014/1295
+2014-10-11,_subject,"US, MD, Baltimore",Y2014/1296
+2014-10-15,_subject,,Y2014/1297
+2014-10-13,_subject,,Y2014/1298
+2014-10-18,_subject,"US, MA, Millbury",Y2014/1299
+2014-10-14,_subject,"US, FL, Tallahassee",Y2014/1300
+2014-10-04,_subject,"US, TX, Dallas",Y2014/1301
+2014-10-07,_subject,,Y2014/1302
+2014-10-10,_subject,"US, MI, Muskegon",Y2014/1303
+2014-06-02,_subject,,Y2014/1304
+2014-09-26,_subject,"JP, Fukuoka, Fukuoka",Y2014/1305
+2014-10-08,_subject,,Y2014/1306
+2014-10-14,_subject,"US, NC, Durham",Y2014/1307
+2014-10-08,_subject,"US, LA, Covington",Y2014/1308
+2014-10-08,_subject,,Y2014/1309
+2014-10-10,_subject,"US, NY, Manhattan",Y2014/1310
+2014-10-08,_subject,"US, KY, Louisville",Y2014/1311
+2014-09-18,_subject,,Y2014/1312
 2015-06-30,_subject,,Y2015/1001
 2015-06-26,_subject,"US, TX, Lubbock",Y2015/1002
 2015-06-11,_subject,"US, CA, Stockton",Y2015/1003

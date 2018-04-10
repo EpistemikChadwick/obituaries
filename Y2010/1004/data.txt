@@ -1,0 +1,11 @@
+name-last: Wilhelm
+name-first: Bill
+name-given: Billy Hugh
+
+birth-date: 1929-06-11
+
+death-date: 2010-12-24
+death-place: US, SC, Seneca
+
+school-level: college
+school-name: North Carolina State University

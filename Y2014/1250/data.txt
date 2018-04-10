@@ -1,0 +1,17 @@
+name-last: Walsh
+name-given: Michael James
+
+birth-date: 1929-06-13
+
+death-date: 2014-11-06
+death-place: US, TN, Memphis
+
+school-level: secondary
+school-name: Christian Brothers HS
+school-place: US, TN, Memphis
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Memorial Park Mausoleum
+cemetery-place: US, TN, Memphis

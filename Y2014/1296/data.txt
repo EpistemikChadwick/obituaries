@@ -1,0 +1,12 @@
+name-last: Saleski
+name-first: Stan
+
+death-date: 2014-10-11
+death-place: US, MD, Baltimore
+
+school-level: secondary
+school-name: St. Peter’s Central Catholic HS
+school-place: US, MA, Worcester
+
+school-level: college
+school-name: Eckerd College

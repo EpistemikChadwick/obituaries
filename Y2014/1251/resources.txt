@@ -1,0 +1,8 @@
+source-title: Columbia Daily Herald
+source-date: 2014-11-03
+source-url: http://columbiadailyherald.com/news/local-news/mentor-coach-wyatt-remembered
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-09

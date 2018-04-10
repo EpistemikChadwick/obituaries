@@ -1,0 +1,8 @@
+source-title: News & Record
+source-date: 2014-10-17
+source-url: http://www.news-record.com/obituaries/smith-roger-h/article_c0ba56b2-f52f-575f-b88c-4052671c9e99.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-20

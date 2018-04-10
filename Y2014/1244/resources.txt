@@ -1,0 +1,8 @@
+source-title: Thompson & Kuenster Funeral Home
+source-date: 2014-11-12
+source-url: http://www.thompsonkuensterfuneralhome.com/fh/obituaries/obituary.cfm?o_id=2802221&fh_id=12300
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-12

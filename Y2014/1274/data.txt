@@ -1,0 +1,18 @@
+name-last: Catalano
+name-first: Peter
+name-given: Peter Joseph
+name-suffix: Jr.
+
+birth-date: 1925-11-05
+birth-place: US, LA, New Orleans
+
+death-date: 2014-10-23
+death-place: US, LA, Covington
+
+school-level: secondary
+school-name: Holy Cross HS
+school-place: US, LA, New Orleans
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

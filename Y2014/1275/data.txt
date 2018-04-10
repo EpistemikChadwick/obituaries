@@ -1,0 +1,16 @@
+name-last: Hozey
+name-first: Ray
+name-given: William Ray
+name-suffix: Sr.
+
+birth-place: US, SC, Calhoun Falls
+
+death-date: 2014-10-22
+death-place: US, SC, Fort Mill
+
+military-country: US
+military-branch: Army
+military-conflict: Korean War
+
+cemetery-name: Unity Cemetery
+cemetery-place: US, SC, Fort Mill

@@ -1,0 +1,13 @@
+name-last: Provas
+name-first: Paul
+
+death-date: 2014-10-23
+death-place: US, TX, Dallas
+
+school-level: secondary
+school-name: Shawnee Mission North HS
+school-place: US, KS, Overland Park
+
+school-level: college
+school-name: Johnson County Community College
+school-place: US, KS, Overland Park

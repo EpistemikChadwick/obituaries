@@ -1,0 +1,11 @@
+name-last: Osmundsen
+name-first: Alan
+
+birth-place: US, NY, Staten Island
+
+death-date: 2014-10-10
+death-place: US, NY, Manhattan
+
+school-level: secondary
+school-name: Tottenville HS
+school-place: US, NY, Staten Island

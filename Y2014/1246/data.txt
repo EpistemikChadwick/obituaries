@@ -1,0 +1,16 @@
+name-last: Worthington
+name-first: Ted
+name-given: Ted William
+
+birth-date: 1936-04-10
+birth-place: US, KS, Lecompton
+
+death-date: 2014-11-09
+death-place: US, KS, Topeka
+
+school-level: secondary
+school-name: Berryton HS
+school-place: US, KS, Berryton
+
+cemetery-name: Topeka Cemetery
+cemetery-place: US, KS, Topeka

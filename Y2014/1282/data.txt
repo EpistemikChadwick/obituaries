@@ -1,0 +1,11 @@
+name-last: Wilson
+name-first: Carl
+name-given: Carl J.
+
+birth-date: 1924-04-11
+
+death-date: 2014-10-22
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

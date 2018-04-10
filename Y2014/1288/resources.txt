@@ -1,0 +1,8 @@
+source-title: Bronson & Guthlein Funeral Home
+source-date: 2014-10-26
+source-url: http://www.bronsonandguthleinfh.com/home/index.cfm/obituaries/view/fh_id/11292/id/2771511
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-26

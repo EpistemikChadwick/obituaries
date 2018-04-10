@@ -1,0 +1,8 @@
+source-title: Tallahassee Democrat
+source-date: 2014-10-19
+source-url: http://www.legacy.com/obituaries/tallahassee/obituary.aspx?n=glen-page&pid=172859113&fhid=4646
+
+contributor-last: Nelson
+contributor-first: Rod
+contributor-date: 2014-10-19
+contributor-email: rodericnelson@gmail.com

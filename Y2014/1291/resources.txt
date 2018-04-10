@@ -1,0 +1,8 @@
+source-title: The Birmingham News
+source-date: 2014-10-22
+source-url: http://obits.al.com/obituaries/birmingham/obituary.aspx?n=james-robert-wilkinson&pid=172890231&fhid=23820
+
+contributor-last: Nelson
+contributor-first: Rod
+contributor-date: 2014-10-22
+contributor-email: rodericnelson@gmail.com

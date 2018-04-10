@@ -1,0 +1,11 @@
+name-last: Sopko
+name-first: Sam
+name-given: Sam S.
+
+birth-date: 1923-01-25
+
+death-date: 2014-11-03
+
+military-country: US
+military-branch: Army
+military-conflict: World War II

@@ -1,0 +1,8 @@
+source-title: Smith Funeral Chapels
+source-date: 2014-11-09
+source-url: http://smithfuneralchapels.com/book-of-memories/1980434/Barnes-Leslie/obituary.php
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-09

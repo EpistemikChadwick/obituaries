@@ -1,0 +1,8 @@
+source-title: Herald-Review.com
+source-date: 2014-10-20
+source-url: http://herald-review.com/lifestyles/announcements/obituaries/unser-larry-f/article_7d3f592c-b078-507f-a200-376c0fa53675.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-20

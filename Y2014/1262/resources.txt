@@ -1,0 +1,12 @@
+source-title: Wood Mortuary
+source-date: 2014-11-04
+source-url: http://www.thewoodmortuary.com/obituaries/Dick-Hendley/#!/Obituary
+
+source-title: Greenville Online
+source-date: 2014-11-04
+source-url: http://www.greenvilleonline.com/story/sports/2014/11/03/former-clemson-star-dick-hendley-dies/18436635/
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-04

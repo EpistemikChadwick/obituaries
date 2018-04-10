@@ -1,0 +1,15 @@
+name-last: Kohler
+name-first: Brad
+name-given: Bradley S.
+
+birth-date: 1934-08-26
+birth-place: US, PA, Easton
+
+death-date: 2014-11-03
+death-place: US, PA, Nazareth
+
+military-country: US
+military-branch: Army
+
+cemetery-name: Northampton Memorial Shrine
+cemetery-place: US, PA, Easton

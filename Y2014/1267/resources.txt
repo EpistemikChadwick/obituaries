@@ -1,0 +1,8 @@
+source-title: Carroll County Times
+source-date: 2014-11-02
+source-url: http://www.legacy.com/obituaries/carrollcountytimes/obituary.aspx?n=Jeremy-R-Robinson&pid=173036360
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-02

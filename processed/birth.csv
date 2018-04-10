@@ -146,6 +146,7 @@ date,person,place,source
 1924-08-27,_subject,"US, MO, St. Louis",Y2009/1003
 1958-09-11,_subject,"US, IL, Springfield",Y2010/1001
 1932-06-06,_subject,"MX, Tamaulipas, Nuevo Laredo",Y2010/1002
+1929-06-11,_subject,,Y2010/1004
 ,_subject,"US, WI, Slinger",Y2011/1010
 1924-06-04,_subject,"US, KY, Jefferson County",Y2011/1011
 1927-12-02,_subject,"US, IA, Cedar Rapids",Y2011/1012
@@ -377,6 +378,62 @@ date,person,place,source
 1936-12-06,_subject,"US, TX, Roxton",Y2014/1240
 1922-01-07,_subject,"US, OK, Comanche",Y2014/1242
 1952-10-18,_subject,"US, MA, Norwood",Y2014/1243
+1937-12-24,_subject,"US, CT, Hartford",Y2014/1245
+1936-04-10,_subject,"US, KS, Lecompton",Y2014/1246
+1936-09-19,_subject,"US, KS, Pittsburg",Y2014/1247
+1929-05-28,_subject,"US, CO, Lafayette",Y2014/1248
+1930-02-24,_subject,"US, NJ, Jersey City",Y2014/1249
+1929-06-13,_subject,,Y2014/1250
+1926-07-04,_subject,"US, CA, Los Angeles",Y2014/1252
+1931-05-08,_subject,"US, NC, Murphy",Y2014/1253
+1945-03-12,_subject,"US, MA, Lynn",Y2014/1254
+1923-06-30,_subject,"US, WV, Hurt",Y2014/1256
+1922-07-25,_subject,,Y2014/1257
+1931-05-26,_subject,"US, OH, Salem",Y2014/1258
+,_subject,"US, TX, Houston",Y2014/1259
+1923-08-24,_subject,"US, PA, Marietta",Y2014/1260
+1924-08-11,_subject,"US, MA, Brockton",Y2014/1261
+1926-08-06,_subject,,Y2014/1262
+1922-02-01,_subject,"US, NY, New York",Y2014/1263
+1934-08-26,_subject,"US, PA, Easton",Y2014/1264
+1923-01-25,_subject,,Y2014/1265
+1952-08-15,_subject,"US, MI, Ann Arbor",Y2014/1266
+1976-09-13,_subject,"US, MD, Carroll County",Y2014/1267
+,_subject,"US, CA, Gilroy",Y2014/1268
+1931-07-27,_subject,"US, MO, Farmington",Y2014/1269
+1920-06-26,_subject,"CA, QC, Montreal",Y2014/1270
+1961-03-05,_subject,,Y2014/1272
+1933-04-22,_subject,"US, KS, Kansas City",Y2014/1273
+1925-11-05,_subject,"US, LA, New Orleans",Y2014/1274
+,_subject,"US, SC, Calhoun Falls",Y2014/1275
+1991-09-12,_subject,"US, IL, Des Plaines",Y2014/1277
+,_subject,"US, OH, Barberton",Y2014/1278
+1920-09-06,_subject,"US, PA, Pittsburgh",Y2014/1281
+1924-04-11,_subject,,Y2014/1282
+1934-08-15,_subject,"US, IA, Oto",Y2014/1283
+1951-05-28,_subject,"US, MO, Kansas City",Y2014/1284
+1929-07-29,_subject,"US, WV,",Y2014/1285
+1942-01-24,_subject,"US, NY, Owego",Y2014/1286
+1945-07-02,_subject,"US, NJ, Trenton",Y2014/1288
+1929-11-27,_subject,"US, OH, Cincinnati",Y2014/1291
+1939-07-08,_subject,"US, NJ, Camden",Y2014/1292
+1930-11-20,_subject,,Y2014/1293
+1922-03-28,_subject,"US, NC, Pleasant Garden",Y2014/1294
+1950-09-15,_subject,"US, IL, Decatur",Y2014/1295
+1941-12-02,_subject,"US, FL, Pensacola",Y2014/1297
+1935-05-10,_subject,"US, MI, Sturgis",Y2014/1298
+1918-03-23,_subject,"US, MA, Northbridge",Y2014/1299
+1925-07-07,_subject,"US, FL, Wakulla",Y2014/1300
+1931-12-17,_subject,,Y2014/1301
+1925,_subject,,Y2014/1302
+1935-09-19,_subject,"US, MI, Muskegon",Y2014/1303
+1925-02-28,_subject,"US, GA, Alma",Y2014/1304
+1928-08-28,_subject,,Y2014/1306
+1935-12-04,_subject,"US, NC, Caswell County",Y2014/1307
+1987-10-17,_subject,,Y2014/1308
+1924-06-09,_subject,"US, PA, Lloydell",Y2014/1309
+,_subject,"US, NY, Staten Island",Y2014/1310
+1933-09-14,_subject,"US, OK, Oklahoma City",Y2014/1312
 1925-12-11,_subject,"US, RI, Providence",Y2015/1001
 1931-04-14,_subject,"US, TX, Greenville",Y2015/1002
 1933-05-02,_subject,"US, CA, Stockton",Y2015/1003

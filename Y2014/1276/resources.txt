@@ -1,0 +1,8 @@
+source-title: The Detroit News
+source-date: 2014-10-27
+source-url: http://www.detroitnews.com/story/sports/mlb/tigers/2014/10/27/former-tigers-pitcher-jeff-robinson-dies/17986035/
+
+contributor-last: Nelson
+contributor-first: Rod
+contributor-date: 2014-10-27
+contributor-email: rodericnelson@gmail.com

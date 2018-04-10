@@ -1,0 +1,12 @@
+name-last: Snell
+name-first: Bob
+name-given: Robert L.
+
+birth-date: 1933-04-22
+birth-place: US, KS, Kansas City
+
+death-date: 2014-10-27
+death-place: US, MO, Laurie
+
+cemetery-name: Chapel Hill Cemetery
+cemetery-place: US, KS, Kansas City

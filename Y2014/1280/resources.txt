@@ -1,0 +1,8 @@
+source-title: Commercial Appeal
+source-date: 2014-10-25
+source-url: http://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=john-bramlett&pid=172933011&fhid=3693&eid=sp_ommatch
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-10-26

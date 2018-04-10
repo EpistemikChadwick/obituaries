@@ -1,0 +1,15 @@
+name-last: Jones
+name-first: Tom
+name-given: Thomas James, Sr.
+
+birth-date: 1930-11-20
+
+death-date: 2014-10-19
+death-place: US, OH, Reynoldsburg
+
+school-level: secondary
+school-name: Central High School
+school-place: US, OH, Columbus
+
+cemetery-name: Lithopolis Cemetery
+cemetery-place: US, OH, Lithopolis

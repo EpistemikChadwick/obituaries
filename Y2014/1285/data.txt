@@ -1,0 +1,20 @@
+name-last: Cooper
+name-first: Randy
+name-given: Randall G.
+
+birth-date: 1929-07-29
+birth-place: US, WV,
+
+death-date: 2014-10-23
+
+school-level: secondary
+school-name: Oak Hill HS
+school-place: US, WV, Oak Hill
+
+school-level: college
+school-name: West Virginia Institute of Technology
+school-place: US, WV, Montgomery
+
+military-country: US
+military-branch: Air Force
+military-conflict: Korean War

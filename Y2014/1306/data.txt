@@ -1,0 +1,7 @@
+name-last: Landwehr
+name-first: George
+name-given: George Walter
+
+birth-date: 1928-08-28
+
+death-date: 2014-10-08

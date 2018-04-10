@@ -1,0 +1,8 @@
+source-title: Record/Herald News
+source-date: 2014-11-02
+source-url: http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=Robert-Mulcahey&pid=173029878
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-02

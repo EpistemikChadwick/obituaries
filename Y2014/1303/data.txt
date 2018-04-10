@@ -1,0 +1,16 @@
+name-last: Meloche
+name-first: Howie
+name-given: Howard Louis
+
+birth-date: 1935-09-19
+birth-place: US, MI, Muskegon
+
+death-date: 2014-10-10
+death-place: US, MI, Muskegon
+
+school-level: secondary
+school-name: Muskegon Catholic Central HS
+school-place: US, MI, Muskegon
+
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, MI, Muskegon

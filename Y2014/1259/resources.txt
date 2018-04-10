@@ -1,0 +1,8 @@
+source-title: Arizona Republic
+source-date: 2014-11-09
+source-url: http://www.legacy.com/obituaries/azcentral/obituary.aspx?n=Dave-Latter&pid=173099123
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-09

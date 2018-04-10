@@ -1,0 +1,11 @@
+name-last: Hopkins
+name-first: Bill
+name-given: William D.
+
+birth-date: 1935-05-10
+birth-place: US, MI, Sturgis
+
+death-date: 2014-10-13
+
+military-country: US
+military-branch: Army

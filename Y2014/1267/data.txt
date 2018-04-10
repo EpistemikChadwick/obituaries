@@ -1,0 +1,19 @@
+name-last: Robinson
+name-first: Jeremy
+name-given: Jeremy Ryan
+
+birth-date: 1976-09-13
+birth-place: US, MD, Carroll County
+
+death-date: 2014-10-31
+death-place: US, MD, Westminster
+
+school-level: secondary
+school-name: Westminster HS
+school-place: US, MD, Westminster
+
+school-level: college
+school-name: Carson-Newman College
+
+cemetery-name: Lake View Memorial Park
+cemetery-place: US, MD, Sykesville

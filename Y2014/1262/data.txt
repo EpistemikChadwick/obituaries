@@ -1,0 +1,15 @@
+name-last: Hendley
+name-first: Dick
+name-given: Dickson Lafayette
+
+birth-date: 1926-08-06
+
+death-date: 2014-10-31
+death-place: US, SC, Greer
+
+school-level: secondary
+school-name: Greenville HS
+school-place: US, SC, Greenville
+
+school-level: college
+school-name: Clemson

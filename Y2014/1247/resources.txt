@@ -1,0 +1,8 @@
+source-title: Morning Sun
+source-date: 2014-11-10
+source-url: http://www.legacy.com/obituaries/morningsun/obituary.aspx?n=Donald-L-Allegrucci&pid=173119262
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-10

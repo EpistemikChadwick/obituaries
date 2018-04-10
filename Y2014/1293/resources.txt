@@ -1,0 +1,8 @@
+source-title: Spence Funeral Home
+source-date: 2014-10-21
+source-url: http://www.spencefuneralhome.com/obituaries/Thomas-Jones-15/#!/Obituary
+
+contributor-last: Nelson
+contributor-first: Rod
+contributor-date: 2014-10-21
+contributor-email: rodericnelson@gmail.com

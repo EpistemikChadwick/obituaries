@@ -1,0 +1,7 @@
+source-title: Japan Times
+source-date: 2014-10-094
+source-url: http://www.japantimes.co.jp/sports/2014/10/04/baseball/issues-weight-followed-dokaben-kagawa/#.VDvoj7d0zX4
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net

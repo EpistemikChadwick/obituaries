@@ -1,0 +1,15 @@
+name-last: Barnes
+name-first: Les
+name-given: Leslie Frederick
+
+birth-date: 1926-07-04
+birth-place: US, CA, Los Angeles
+
+death-date: 2014-11-05
+
+military-country: US
+military-branch: Navy
+military-conflict: World War II
+
+cemetery-name: Sunset Memorial Gardens
+cemetery-place: US, MT, Billings

@@ -1,0 +1,12 @@
+source-title: Tierney Funeral Home
+source-date: 2014-11-11
+source-url: http://www.tierneyfuneralhome.com/book-of-memories/1981874/Johnson-Eugene/obituary.php
+
+source-title: Hartford Courant
+source-date: 2014-11-10
+source-url: http://www.courant.com/sports/baseball/hc-twilight-league-gene-johnson-dies-1111-20141110-story.html
+
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-11-11
