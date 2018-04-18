@@ -1,0 +1,11 @@
+name-last: Southard
+name-first: Frank
+name-given: Frank
+ 
+birth-place: US, PA, Scranton
+ 
+death-date: 1935-06-10
+death-place:  US, PA, Scranton
+ 
+cemetery-name: Forest Hill Cemetery
+cemetery-place: US, PA, Dunmore

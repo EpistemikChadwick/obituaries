@@ -1,0 +1,8 @@
+name-last: Newman
+name-first: John
+name-given: John Urquhart
+name-suffix: Jr.
+ 
+death-date: 1967-04-07
+death-place:  US, NC, Raleigh
+

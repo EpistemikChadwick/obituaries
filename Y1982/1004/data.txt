@@ -1,0 +1,22 @@
+name-last: Goldstein
+name-first: Hyman
+name-given: Hyman
+ 
+birth-place: US, PA, Portage
+ 
+death-date: 1982-06-07
+death-place: US, PA, Carlisle
+ 
+school-level: secondary
+school-name:  Portage HS
+school-place: US, PA, Portage
+ 
+school-level: college
+school-name: Dickinson College
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War I
+ 
+cemetery-name: Westminster Memorial Gardens
+cemetery-place: US, PA, Carlisle

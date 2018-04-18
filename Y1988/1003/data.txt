@@ -1,0 +1,8 @@
+name-last: Chadner
+name-first: Dick
+name-given: Richard T.
+ 
+birth-place: US, PA, Philadelphia
+ 
+death-date: 1988-08-13
+death-place:  US, MN, St. Paul

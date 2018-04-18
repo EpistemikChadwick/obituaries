@@ -1,0 +1,10 @@
+name-last: Ferris
+name-first: Doc
+name-given: Ernest Hayes
+name-suffix: Sr.
+ 
+death-date: 1973-06-16
+death-place:  US, NC, Greensboro
+ 
+cemetery-name: Forest Lawn Cemetery
+cemetery-place: US, NC, Greensboro

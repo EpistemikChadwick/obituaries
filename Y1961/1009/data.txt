@@ -1,0 +1,10 @@
+name-last: Kennedy
+name-first: Elwin
+name-given: Elwin H.
+ 
+death-date: 1961-05-12
+death-place:  US, OR, Portland
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War I

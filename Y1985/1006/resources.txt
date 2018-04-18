@@ -1,0 +1,3 @@
+source-title: Raymond Alden obit
+source-file-name: Raymond Alden obit.pdf
+source-file-type: application/pdf

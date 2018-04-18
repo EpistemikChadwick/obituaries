@@ -1,0 +1,9 @@
+source-title: Post Tribune
+source-date: 2006-03-02
+source-url: http://www.legacy.com/obituaries/post-tribune/obituary.aspx?n=richard-r-quattrin-dick&pid=16904214
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-23
+ 

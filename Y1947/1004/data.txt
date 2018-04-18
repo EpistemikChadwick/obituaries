@@ -1,0 +1,16 @@
+name-last: Gill
+name-first: Andy
+name-given: Thomas Andrew
+name-suffix: Sr.
+
+birth-place: US, IN, Linton
+
+death-date: 1947-03-08
+death-place:  US, FL, Daytona Beach
+
+school-level: secondary
+school-name:  Linton HS
+school-place: US, IN, Linton
+
+school-level: college
+school-name: Indiana University

@@ -1,0 +1,15 @@
+name-last: Booma
+name-first: Robert
+name-given: Robert Stevens
+ 
+birth-place: US, CT, Hartford
+ 
+death-date: 2005-04-04
+ 
+school-level: secondary
+school-name:  Weaver HS
+school-place: US, CT, Hartford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

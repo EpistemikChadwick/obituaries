@@ -1,0 +1,9 @@
+name-last: Reagan
+name-first: Francis
+name-given: Francis X.
+ 
+death-date: 1972-11-21
+death-place:  US, PA, Philadelphia
+ 
+school-level: college
+school-name: University of Pennsylvania

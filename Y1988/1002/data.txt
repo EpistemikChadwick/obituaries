@@ -1,0 +1,16 @@
+name-last: Fialko
+name-first: Edward
+name-given: Edward
+ 
+birth-date: 1920-05-18
+birth-place: US, IL, Streator
+ 
+death-date: 1988-08-14
+death-place:  US, IL, Streator
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Stephen’s Cemetery
+cemetery-place: US, IL, Streator

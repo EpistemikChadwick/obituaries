@@ -1,0 +1,18 @@
+name-last: Seasholtz
+name-first: Donald
+name-given: Donald
+name-nick: Dutch
+ 
+death-date: 1945-04-11
+death-place:  US, PA, Pottstown
+ 
+school-level: secondary
+school-name:  Pottstown HS
+school-place: US, PA, Pottstown
+ 
+school-level: secondary
+school-name:  Mercersburg Academy
+school-place: US, PA, Mercersburg
+ 
+school-level: college
+school-name: Lafayette College

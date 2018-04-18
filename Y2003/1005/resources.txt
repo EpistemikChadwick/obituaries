@@ -1,0 +1,8 @@
+source-title: MySanAntonio.com
+source-date: 2017-06-02
+source-url: http://www.mysanantonio.com/125years/article/Conroe-s-Mr-Baseball-enriched-the-community-11192108.php
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-05

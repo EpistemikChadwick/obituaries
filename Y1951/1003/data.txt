@@ -1,0 +1,12 @@
+name-last: Weir
+name-first: Whiskers
+name-given: L. S.
+ 
+death-date: 1951-06-28
+death-place:  US, NC, Asheville
+ 
+military-country: US
+military-conflict:  World War I
+ 
+cemetery-name: Riverside Memorial Park
+cemetery-place: US, FL, Jacksonville

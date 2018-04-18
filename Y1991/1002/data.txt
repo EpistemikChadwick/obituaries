@@ -1,0 +1,11 @@
+name-last: Scherzer
+name-first: Connie
+name-given: Conrad R.
+ 
+birth-place: US, OH, Akron
+ 
+death-date: 1991-07-11
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

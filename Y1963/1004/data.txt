@@ -1,0 +1,13 @@
+name-last: Zebro
+name-first: Edward
+name-given: Edward V.
+ 
+death-date: 1963-01-18
+death-place:  US, NJ, New Brunswick
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Sacred Heart Cemetery
+cemetery-place: US, NJ, Parlin

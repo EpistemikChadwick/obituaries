@@ -1,0 +1,6 @@
+name-last: Casbier
+name-first: Red
+name-given: Noel E.
+ 
+death-date: 1960-03-03
+death-place:  US, NC, Mooresville

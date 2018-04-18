@@ -1,0 +1,13 @@
+name-last: Puetz
+name-first: Gene
+name-given: Eugene W.
+ 
+birth-date: 1930-03-23
+birth-place: US, IL, Chicago
+ 
+death-date:  2016-06-13
+death-place:  US, IL, Hoffman Estates
+ 
+cemetery-name: Mt. Emblem Cemetery
+cemetery-place: US, IL, Elmhurst
+

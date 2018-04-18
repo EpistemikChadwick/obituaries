@@ -1,0 +1,8 @@
+source-title: Billy Armitage obit
+source-file-name: Billy Armitage.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-11-27

@@ -1,0 +1,12 @@
+name-last: Blaylock
+name-first: Jack
+name-given: Jack
+ 
+birth-date: 1925-02-11
+ 
+death-date: 2016-04-14
+death-place:  US, NC, Oak Ridge
+ 
+cemetery-name: Eastlawn Gardens of Memory
+cemetery-place: US, NC, Kernersville
+

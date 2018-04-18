@@ -1,0 +1,7 @@
+name-last: Settan
+name-first: George
+name-given: George F.
+name-nick: Ginger
+ 
+death-date: 1973-09-18
+death-place:  US, MD, Towson

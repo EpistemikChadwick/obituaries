@@ -1,0 +1,8 @@
+name-last: Sheedy
+name-first: Clayton
+ 
+death-date: 1967-05-06
+death-place:  US, MA, Boston
+ 
+school-level: college
+school-name: Georgetown University

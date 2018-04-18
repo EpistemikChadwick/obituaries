@@ -1,0 +1,16 @@
+name-last: Yeagle
+name-first: James
+name-given: James Edward
+ 
+birth-date: 1926-01-15
+birth-place: US, OH, Ashland
+ 
+death-date: 1989-12-19
+death-place:  US, OH, Ashland
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Ashland Cemetery
+cemetery-place: US, OH, Ashland

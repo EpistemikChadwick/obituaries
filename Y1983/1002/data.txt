@@ -1,0 +1,6 @@
+name-last: Borsch
+name-first: Reuben
+name-given: Reuben A.
+ 
+death-date: 1983-04-02
+death-place:  US, IL, Hinsdale

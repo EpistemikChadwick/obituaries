@@ -1,0 +1,14 @@
+name-last: Tidwell
+name-first: Donny
+name-given: Donny G.
+ 
+death-date: 1968-04-12
+death-place:  VN, ,
+ 
+school-level: secondary
+school-name:  New Diana HS
+school-place: US, TX, New Diana
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War

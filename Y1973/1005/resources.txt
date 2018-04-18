@@ -1,0 +1,8 @@
+source-title: Doc Ferris obit
+source-file-name: Doc Ferris obit Greensboro Daily News 197306-18 30.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-09

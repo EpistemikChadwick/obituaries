@@ -1,0 +1,15 @@
+name-last: McCord
+name-first: Ike
+name-given: Harry Isett
+ 
+birth-date: 1892-11-04
+birth-place: US, PA, Harrisburg
+ 
+death-date: 1939-11-10
+ 
+school-level: secondary
+school-name:  Harrisburg Central HS
+school-place: US, PA, Harrisburg
+ 
+cemetery-name: East Harrisburg Cemetery
+cemetery-place: US, PA, Harrisburg

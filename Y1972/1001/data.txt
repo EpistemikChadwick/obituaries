@@ -1,0 +1,9 @@
+name-last: Fesperman
+name-first: Harvey
+name-given: Harvey A.
+ 
+death-date: 1972-03-09
+death-place:  US, NC, Salisbury
+ 
+school-level: college
+school-name: Catawba College

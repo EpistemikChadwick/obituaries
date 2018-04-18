@@ -1,0 +1,6 @@
+name-last: Gwathmey
+name-first: William
+name-given: William
+ 
+death-date: 1937-08-22
+death-place:  US, VA, West Point

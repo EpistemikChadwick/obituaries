@@ -1,0 +1,23 @@
+name-last: Litwa
+name-first: Alfred
+name-given: Alfred
+ 
+death-date: 1986-01-05
+death-place:  US, NJ, Camden
+ 
+school-level: secondary
+school-name:  Camden HS
+school-place: US, NJ, Camden
+ 
+school-level: college
+school-name: Fordham University
+ 
+school-level: college
+school-name: Villanova University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Joseph’s Cemetery
+cemetery-place: US, NJ, Blackwood

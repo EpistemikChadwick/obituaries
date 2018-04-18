@@ -1,0 +1,11 @@
+name-last: Fishman
+name-first: Herman
+ 
+death-date: 1967-12-14
+ 
+school-level: secondary
+school-name:  Northern HS
+school-place: US, MI, Detroit
+ 
+school-level: college
+school-name: University of Michigan

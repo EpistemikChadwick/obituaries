@@ -1,0 +1,9 @@
+name-last: Bloebaum
+name-first: Buddy
+name-given: Edward H.
+ 
+death-date: 1973-01-08
+death-place:  US, OH, Cincinnati
+ 
+cemetery-name: St. Joseph New Cemetery
+cemetery-place: US, OH, Cincinnati

@@ -1,0 +1,17 @@
+name-last: Archambeault
+name-first: Larry
+name-given: Laurier Andre
+ 
+birth-place: CA, QC, Aylmer
+ 
+death-date:  1981-05-06
+death-place:  US, MD, Rockville
+ 
+school-level: secondary
+school-name:  Massena Central HS
+school-place: US, NY, Massena
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 

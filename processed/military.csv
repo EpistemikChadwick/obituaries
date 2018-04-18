@@ -1,31 +1,61 @@
 branch,conflict,country,"date,end","date,start",person,source
 Navy,World War I,US,,,_subject,Y1938/1001
+,World War I,US,,,_subject,Y1942/1003
 Army,World War I,US,,,_subject,Y1943/1001
+,World War I,US,,,_subject,Y1943/1003
 Army,World War II,US,,,_subject,Y1944/1001
 Navy,World War I,US,,,_subject,Y1947/1001
+,World War II,US,,,_subject,Y1947/1003
+,World War I,US,,,_subject,Y1951/1003
 ,World War I,US,,,_subject,Y1953/1001
 Navy,World War I,US,,,_subject,Y1954/1002
 ,Korean War,US,,,_subject,Y1955/1001
+Army,World War I,US,,,_subject,Y1956/1003
 Army,World War II,US,,,_subject,Y1958/1004
 Army,World War II,US,,,_subject,Y1961/1003
+Navy,World War I,US,,,_subject,Y1961/1009
+Marines,World War II,US,,,_subject,Y1962/1003
+Army,World War II,US,,,_subject,Y1962/1004
+Navy,World War II,US,,,_subject,Y1963/1004
 Army,World War II,US,,,_subject,Y1964/1002
 Army,World War I # from 1918-10-21 to ?,US,,,_subject,Y1965/1001
+Marines,World War I,US,,,_subject,Y1966/1001
 Army,World War I,US,,,_subject,Y1967/1004
+Army,World War I,US,,,_subject,Y1968/1004
+Army,Vietnam War,US,,,_subject,Y1968/1006
+Army,World War II,US,,,_subject,Y1969/1002
+World War II,Marines,US,,,_subject,Y1970/1003
 Navy,World War II,US,,,_subject,Y1974/1001
 Navy,World War II,US,,,_subject,Y1974/1002
+Army,World War II,US,,,_subject,Y1975/1003
+Army,World War II,US,,,_subject,Y1975/1004
 Navy,World War II,US,,,_subject,Y1976/1001
 ,World War II,US,,,_subject,Y1976/1002
 ,World War II,US,,,_subject,Y1977/1005
+Army,World War II,US,,,_subject,Y1978/1003
 Army,World War II,US,,,_subject,Y1979/1001
 ,World War I,US,,,_subject,Y1979/1002
 Army,World War II,US,,,_subject,Y1980/1001
+Army,World War II,US,,,_subject,Y1980/1002
+Army,World War II,US,,,_subject,Y1981/1002
 Navy,World War II,US,,,_subject,Y1982/1001
+Navy,World War I,US,,,_subject,Y1982/1004
 Army,World War II,US,,,_subject,Y1984/1002
+,World War II,US,,,_subject,Y1984/1004
+Army,World War II,US,,,_subject,Y1984/1005
+Army,World War II,US,,,_subject,Y1984/1006
 Marines,World War II,US,,,_subject,Y1985/1001
 Navy,World War II,US,,,_subject,Y1985/1002
 Army,World War II,US,,,_subject,Y1985/1003
+Army,World War II,US,,,_subject,Y1985/1006
 Army,World War II,US,,,_subject,Y1986/1003
+Army,World War II,US,,,_subject,Y1986/1004
+Navy,World War II,US,,,_subject,Y1986/1005
 Army,World War II,US,,,_subject,Y1987/1001
+Army,World War II,US,,,_subject,Y1988/1002
+Army,World War II,US,,,_subject,Y1989/1002
+Army,World War II,US,,,_subject,Y1989/1003
+Army,World War II,US,,,_subject,Y1991/1002
 Army,World War II,US,,,_subject,Y1993/1005
 Navy,World War I,US,,,_subject,Y1993/1006
 Navy,World War II,US,,,_subject,Y1994/1003
@@ -33,6 +63,7 @@ Army,World War II,US,,,_subject,Y1994/1004
 Army,,US,,,_subject,Y1994/1006
 Army,World War II,US,,,_subject,Y1994/1007
 Navy,World War II,US,,,_subject,Y1994/1010
+Army,World War II from #1943-01-27 to 1945-12-09,US,,,_subject,Y1994/1011
 Army,World War II,US,,,_subject,Y1995/1001
 Coast Guard,World War II,US,,,_subject,Y1995/1003
 Navy,Korean War # from 1952-09-23 to,US,,,_subject,Y1995/1005
@@ -69,6 +100,7 @@ Navy,World War II,US,,,_subject,Y2000/1001
 Army,World War II,US,,,_subject,Y2001/1001
 Army,,US,,,_subject,Y2001/1003
 Army,World War II,US,,,_subject,Y2001/1004
+Army,World War II,US,,,_subject,Y2001/1005
 Navy,World War II,US,,,_subject,Y2002/1001
 Navy,World War II,US,,,_subject,Y2002/1003
 Army,World War II,US,,,_subject,Y2002/1004
@@ -76,11 +108,16 @@ Air Force,Korean War,US,,,_subject,Y2003/1001
 Army,,US,,,_subject,Y2003/1002
 Army,World War II,US,,,_subject,Y2003/1003
 Army,World War II,US,,,_subject,Y2003/1004
+Army,World War II,US,,,_subject,Y2003/1006
 Army,,US,,,_subject,Y2005/1003
+Army,World War II,US,,,_subject,Y2005/1004
+Marines,World War II,US,,,_subject,Y2005/1005
 Army,World War II,US,,,_subject,Y2006/1003
+Army,Korean War,US,,,_subject,Y2006/1009
 Army,World War II,US,,,_subject,Y2007/1001
 Army,World War II,US,,,_subject,Y2007/1002
 Army,World War II,US,,,_subject,Y2009/1003
+Army,World War II,US,,,_subject,Y2009/1004
 Navy,World War II,US,,,_subject,Y2011/1010
 Marine,World War II,US,,,_subject,Y2011/1011
 Army,,US,,,_subject,Y2011/1013
@@ -630,6 +667,7 @@ Maritime Service,World War II,US,,,_subject,Y2015/1754
 Army,,US,,,_subject,Y2015/1755
 Army,,US,,,_subject,Y2015/1758
 Army,World War II,US,,,_subject,Y2015/1760
+Army,World War II,US,,,_subject,Y2015/1762
 Army,,US,,,_subject,Y2016/1003
 Army,,US,,,_subject,Y2016/1006
 Army,Korean War,US,,,_subject,Y2016/1007
@@ -951,6 +989,8 @@ Marines,,US,,,_subject,Y2016/1679
 Army,Korean War,US,,,_subject,Y2016/1681
 Army,Korean War,US,,,_subject,Y2016/1682
 Navy,World War II,US,,,_subject,Y2016/1683
+Navy,,US,,,_subject,Y2016/1685
+Marines,Korean War,US,,,_subject,Y2016/1688
 Army,Korean War,US,,,_subject,Y2017/1006
 Army,,US,,,_subject,Y2017/1007
 Army,World War II,US,,,_subject,Y2017/1010

@@ -1,0 +1,8 @@
+source-title: Pierce-Jefferson Funeral Home
+source-date: 2017-08-06
+source-url: http://www.pierce-jeffersonfuneralservice.com/notices/CoachJack-Blaylock/services
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-08-06

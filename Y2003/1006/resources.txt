@@ -1,0 +1,7 @@
+source-title: Worcester Telegram & Gazette
+source-date: 2003-05-31
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-07

@@ -1,0 +1,15 @@
+name-last: Yoder
+name-first: Paul
+name-given: Paul Allison
+ 
+death-date: 1951-02-12
+death-place:  US, NC, Winston-Salem
+ 
+school-level: college
+school-name: Lenoir-Rhyne University
+ 
+school-level: college
+school-name: University of North Carolina
+ 
+cemetery-name: Forsyth Memorial Park
+cemetery-place: US, NC, Winston-Salem

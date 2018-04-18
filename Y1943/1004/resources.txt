@@ -1,0 +1,8 @@
+source-title: George Zibell obit
+source-file-name: George Zibell obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-12

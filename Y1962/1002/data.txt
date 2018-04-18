@@ -1,0 +1,8 @@
+name-last: Corrigan
+name-first: Yatz
+name-given: George
+ 
+death-date: 1962-05-13
+ 
+cemetery-name: Sts. Peter & Paul Catholic Cemetery (old)
+cemetery-place: US, MO, St. Louis

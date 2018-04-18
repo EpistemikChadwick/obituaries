@@ -1,0 +1,8 @@
+source-title: Bismarck Tribune
+source-date: 2014-04-27
+source-url: http://bismarcktribune.com/news/columnists/curt-eriksmoen/fargo-star-baseball-player-forgotten/article_f7358866-cca0-11e3-9495-0019bb2963f4.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-22

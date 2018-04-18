@@ -1,0 +1,19 @@
+name-last: Alexander
+name-first: Jack
+name-given: Jack
+ 
+death-date: 1984-02-13
+death-place:  US, NC, Brevard
+ 
+school-level: secondary
+school-name:  Asheville HS
+school-place: US, NC, Asheville
+ 
+school-level: college
+school-name: Duke University
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Blue Ridge Gardens of Memory Cemetery
+cemetery-place: US, NC, Pisgah Forest

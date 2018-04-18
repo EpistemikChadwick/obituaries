@@ -1,0 +1,11 @@
+name-last: Goldstein
+name-first: Hyman
+name-given: Hyman
+ 
+death-date: 1982-06-07
+ 
+meta-height: 70
+meta-weight: 155
+ 
+school-level: college
+school-name: Dickinson College

@@ -1,0 +1,8 @@
+source-title: Joseph Aughenbaugh obit
+source-file-name: Joseph Aughenbaugh.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-17

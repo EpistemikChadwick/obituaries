@@ -1,0 +1,8 @@
+name-last: Downey
+name-first: Lloyd
+name-given: Lloyd E.
+ 
+birth-place: US, IN, Carroll County
+ 
+death-date: 1963-06-04
+death-place:  US, IN, Martinsville

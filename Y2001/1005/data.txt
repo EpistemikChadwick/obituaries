@@ -1,0 +1,12 @@
+name-last: Pfeffer
+name-first: Roman
+name-given: Roman Lee
+ 
+death-date: 2001-08-24
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Fairview Cemetery
+cemetery-place: US, IN, Jasper

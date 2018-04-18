@@ -1,0 +1,8 @@
+source-title: Elliott Mortuary & Crematory
+source-date: 2017-07-10
+source-url: http://www.elliottmortuary.com/home/index.cfm/obituaries/view/fh_id/10406/id/4034911
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-10

@@ -1,0 +1,15 @@
+name-last: Quattrin
+name-first: Dick
+name-given: Richard R.
+ 
+birth-date: 1932-08-18
+ 
+death-date: 2006-02-26
+death-place:  US, DC, Washington
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. John St. Joseph Catholic Cemetery
+cemetery-place: US, IN, Hammond

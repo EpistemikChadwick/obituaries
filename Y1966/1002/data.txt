@@ -1,0 +1,9 @@
+name-last: Gaskell
+name-first: Prince
+name-given: Prince D.
+ 
+death-date: 1966-04-17
+death-place:  US, LA, Shreveport
+ 
+cemetery-name: Forest Park East Cemetery
+cemetery-place: US, LA, Shreveport

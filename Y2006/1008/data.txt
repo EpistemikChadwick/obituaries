@@ -1,0 +1,9 @@
+name-last: Allen
+name-first: Archie
+name-given: Archie P.
+ 
+death-date: 2006-11-01
+death-place:  US, MA, Springfield
+ 
+school-level: college
+school-name: Springfield College

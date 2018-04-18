@@ -1,0 +1,22 @@
+name-last: Tominsky
+name-first: Thomas
+name-given: Thomas J.
+ 
+birth-place: US, MA, Milford
+ 
+death-date: 2003-05-30
+death-place:  US, MA, Milford
+ 
+school-level: secondary
+school-name:  Milford HS
+school-place: US, MA, Milford
+ 
+school-level: college
+school-name: Boston University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, MA, Milford

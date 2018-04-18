@@ -1,0 +1,16 @@
+name-last: Alden
+name-first: Raymond
+name-given: Raymond C.
+ 
+birth-date: 1913
+birth-place: US, IA, Gilman
+ 
+death-date: 1985-01-16
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+affiliation-role: umpire
+affiliation-league: Eastern Shore
+ 

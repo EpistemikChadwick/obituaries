@@ -1,0 +1,6 @@
+name-last: Graeff
+name-first: Scoop
+name-given: Reginald G.
+ 
+death-date: 1956-03-13
+death-place:  US, PA, Reading

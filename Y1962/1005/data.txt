@@ -1,0 +1,10 @@
+name-last: Hubbard
+name-first: Herm
+name-given: Alfred Hermond
+ 
+death-date: 1962-01-13
+death-place:  US, DE, Newark
+ 
+school-level: secondary
+school-name:  Newark HS
+school-place: US, DE, Newark

@@ -1,0 +1,8 @@
+source-title: Dennis Yarger obit
+source-file-name: Dennis Yarger obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-31

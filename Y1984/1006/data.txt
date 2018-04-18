@@ -1,0 +1,17 @@
+name-last: Husse
+name-first: Anthony
+name-given: Anthony A.
+ 
+death-date: 1984-05-15
+death-place:  US, MI, Southfield
+ 
+school-level: secondary
+school-name:  St. Alphonsus HS
+school-place:  US, MI, Dearborn
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, MI, Southfield

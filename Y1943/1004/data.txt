@@ -1,0 +1,5 @@
+name-last: Zibell
+name-first: George
+ 
+death-date: 1943-10-19
+death-place:  US, PA, Philadelphia

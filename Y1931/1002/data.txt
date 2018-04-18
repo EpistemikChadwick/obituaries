@@ -1,0 +1,10 @@
+name-last: Reiney
+name-first: Senter
+name-given: Senter
+ 
+death-date: 1931-07-08
+death-place:  US, MO, Caruthersville
+ 
+school-level: college
+school-name: Union University
+school-place: US, TN, Jackson

@@ -1,0 +1,9 @@
+name-last: Ling
+name-first: Bill
+name-given: William A.
+ 
+birth-date: 1885-01-31
+birth-place: US, KY, Owensboro
+ 
+death-date: 1967-02-03
+death-place:  US, KY, Owensboro

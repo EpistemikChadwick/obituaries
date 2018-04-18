@@ -1,0 +1,8 @@
+source-title: Linwood Howell obit
+source-file-name: Linwood Howell obit l.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-27

@@ -1,0 +1,8 @@
+name-last: Hubbard
+name-first: Herm
+name-given: Herman A.
+ 
+death-date: 1962-01-13
+ 
+cemetery-name: St. John’s AME-AUMP Cemetery
+cemetery-place: US, DE, Newark

@@ -1,0 +1,14 @@
+name-last: Goodpasture
+name-first: Lee
+name-given: Lee A.
+ 
+birth-place:  US, MO, Winnwood
+ 
+death-date: 2007-03-11
+ 
+school-level: secondary
+school-name:  North Kansas City HS
+school-place: US, MO, North Kansas City
+ 
+cemetery-name: Greenlawn Cemetery
+cemetery-place: US, MO, Plattsburg

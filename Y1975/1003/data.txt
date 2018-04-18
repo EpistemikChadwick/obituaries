@@ -1,0 +1,24 @@
+name-last: Fenno
+name-first: Ross
+name-given: Ross V.
+ 
+birth-date: 1915-11-16
+birth-place: US, VT, Bellows Falls
+ 
+death-date: 1975-08-07
+death-place:  US, VT, Berlin
+ 
+school-level: secondary
+school-name:  Towle HS
+school-place: US, NH, Newport
+ 
+school-level: secondary
+school-name:  Austin-Cate Preparatory School
+school-place: US, NH, Stratford
+ 
+school-level: college
+school-name: University of New Hampshire
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

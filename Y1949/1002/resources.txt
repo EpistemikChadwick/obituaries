@@ -1,0 +1,8 @@
+source-title: Charles Vallandingham obit
+source-file-name: Charles Vallandingham obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-26

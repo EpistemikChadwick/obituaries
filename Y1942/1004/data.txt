@@ -1,0 +1,8 @@
+name-last: O’Hara
+name-first: Bud
+ 
+death-date: 1942-11-26
+death-place:  US, PA, Philadelphia
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, PA, Cheltenham

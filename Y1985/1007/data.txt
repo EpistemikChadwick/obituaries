@@ -1,0 +1,13 @@
+name-last: Burman
+name-first: Jack
+name-given: John
+ 
+death-date: 1985-11-03
+death-place:  US, OH, Cincinnati
+ 
+school-level: secondary
+school-name:  Elder HS
+school-place: US, OH, Cincinnati
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, OH, Cincinnati

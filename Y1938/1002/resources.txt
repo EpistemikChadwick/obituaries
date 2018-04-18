@@ -1,0 +1,9 @@
+source-title: Gus Boyne obit
+source-file-name: Gus Boyne obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-16
+ 

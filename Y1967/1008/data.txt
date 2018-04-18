@@ -1,0 +1,5 @@
+name-last: Osoba
+name-first: George
+name-given: George W.
+ 
+death-date: 1967-02-22

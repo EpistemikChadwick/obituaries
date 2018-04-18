@@ -1,0 +1,15 @@
+name-last: MacMurdo
+name-first: Spot
+name-given: Meriwether B.
+ 
+birth-place: US, CA, Bakersfield
+ 
+death-date: 1942-04-04
+death-place:  US, CA, Campbell
+ 
+school-level: secondary
+school-name:  Kern County Union High School
+school-place: US, CA, Bakersfield
+ 
+military-country: US
+military-conflict:  World War I

@@ -1,0 +1,8 @@
+name-last: Olix
+name-first: Don
+ 
+death-date: 1989
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

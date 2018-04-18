@@ -1,0 +1,19 @@
+name-last: Yarger
+name-first: Dennis
+name-given: Dennis Junior
+ 
+birth-place: US, MI, Coats Grove
+ 
+death-date: 1986-10-23
+death-place:  US, MI, Hastings
+ 
+school-level: secondary
+school-name:  Nashville HS
+school-place: US, MI, Nashville
+ 
+school-level: college
+school-name: Western Michigan University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

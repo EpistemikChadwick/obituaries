@@ -1,0 +1,8 @@
+source-title: Hoke Dillinger obit
+source-file-name: Hoke Dillinger obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-26

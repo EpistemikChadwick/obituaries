@@ -1,0 +1,15 @@
+name-last: Anderson
+name-first: Harry
+name-given: Harry L.
+name-nick: Andy
+ 
+birth-place: US, NC, Mars Hill
+ 
+death-date: 1974-12-17
+death-place:  US, NC, Asheville
+ 
+school-level: college
+school-name: Mars Hill University
+ 
+cemetery-name: Mars Hill Cemetery
+cemetery-place: US, NC, Mars Hill

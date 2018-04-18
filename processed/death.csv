@@ -6,6 +6,7 @@ date,person,place,source
 1917-08-02,_subject,"US, OH, Magnetic Springs",Y1917/1001
 ,_subject,"US, AR, Russellville",Y1918/1001
 1922-10-20,_subject,"US, PA, Philadelphia",Y1922/1001
+1923-10-13,_subject,"US, NY,",Y1923/1001
 1926-07-03,_subject,"US, IN, Evansville",Y1926/1001
 1926-07-03,_subject,"US, IN, Evansville",Y1926/1002
 1927-02-11,_subject,"US, TX, Gilmer",Y1927/1001
@@ -14,18 +15,26 @@ date,person,place,source
 1929-04-01,_subject,"US, CA, Merced",Y1929/1002
 1930-09-03,_subject,"US, MO, New Madrid",Y1930/1001
 1931-11-15,_subject,"US, OH, Ironton",Y1931/1001
+1931-07-08,_subject,"US, MO, Caruthersville",Y1931/1002
 1932-12-17,_subject,"US, OH, Zanesville",Y1932/1001
 1934-06-10,_subject,"US, TX, El Paso",Y1934/1001
 1934-07-27,_subject,"US, TN, Nashville",Y1934/1002
+1934-08-26,_subject,"US, PA, Philadelphia",Y1934/1003
+1935-06-10,_subject,"US, PA, Scranton",Y1935/1001
 1936-07-04,_subject,"US, WA, Seattle",Y1936/1001
 1936-03-06,_subject,"US, NY, Poughkeepsie",Y1936/1002
 1936-03-27,_subject,"US, IN, Wheeler",Y1936/1003
 1937-02-14,_subject,,Y1937/1001
 1937-10-26,_subject,"US, DC, Washington",Y1937/1002
+1937-11-10,_subject,"US, MI, Battle Creek",Y1937/1003
+1937-08-22,_subject,"US, VA, West Point",Y1937/1004
 1938-05-19,_subject,"US, PA, Shamokin",Y1938/1001
+1938-10-17,_subject,"US, MD, Frederick",Y1938/1002
+1938-06-05,_subject,"US, IL, O’Fallon",Y1938/1003
 1939-03-15,_subject,"US, PA, York",Y1939/1001
 1939-10-02,_subject,"US, SC, Charleston",Y1939/1002
 1939-07-21,oral,"US, MI, Grand Rapids",Y1939/1003
+1939-11-10,_subject,,Y1939/1004
 1940-11-07,_subject,"US, PA, Sharon",Y1940/1001
 1940-09-28,_subject,"US, OH, Bettsville",Y1940/1002
 1941-01-04,_subject,,Y1941/1001
@@ -33,36 +42,56 @@ date,person,place,source
 1941-02-09,_subject,"US, IN, Richmond",Y1941/1003
 1942-12-03,_subject,"US, PA, Harrisburg",Y1942/1001
 1942-02-26,_subject,"US, PA, Philadelphia",Y1942/1002
+1942-04-04,_subject,"US, CA, Campbell",Y1942/1003
+1942-11-26,_subject,"US, PA, Philadelphia",Y1942/1004
 1943-07-06,_subject,"US, NY, Brooklyn",Y1943/1001
 1943-05-06,_subject,"US, IL, Springfield",Y1943/1002
+1943-07-06,_subject,"US, NY, Brooklyn",Y1943/1003
+1943-10-19,_subject,"US, PA, Philadelphia",Y1943/1004
 1944-04-12,_subject,,Y1944/1001
+1944-07-24,_subject,,Y1944/1002
+1944-10-29,_subject,"US, PA, Philadelphia",Y1944/1003
+1945-04-11,_subject,"US, PA, Pottstown",Y1945/1001
 1946-08-19,_subject,"US, PA, Hanover",Y1946/1001
 1947-07-23,_subject,"US, PA, Kingston",Y1947/1001
 1947-05-13,_subject,"US, NM, Albuquerque",Y1947/1002
+1947-11-18,_subject,"US, IN, Indianapolis",Y1947/1003
+1947-03-08,_subject,"US, FL, Daytona Beach",Y1947/1004
 1948-11-18,_subject,"US, MA, Hyannis",Y1948/1001
+1948-06-29,_subject,"US, IN, Indianapolis",Y1948/1002
 1949-10-14,_subject,"US, CA, San Francisco",Y1949/1001
+1949-04-29,_subject,"US, KY, Covington",Y1949/1002
 1950-07-05,_subject,"US, TX, Monahans",Y1950/1001
 1950-10-17,_subject,"US, IL, Pekin",Y1950/1002
 1950-09-13,_subject,"US, FL, Tampa",Y1950/1003
+1950-10-09,_subject,"US, IN, Michigan City",Y1950/1004
 1951-09-30,_subject,"US, MO, Joplin",Y1951/1001
 1951-04-12,_subject,"US, PA, East Coventry Township",Y1951/1002
+1951-06-28,_subject,"US, NC, Asheville",Y1951/1003
+1951-02-12,_subject,"US, NC, Winston-Salem",Y1951/1004
 1952-10-19,_subject,"US, WA, Yakima",Y1952/1001
 1953-08-02,_subject,"US, KS, Basehor",Y1953/1001
 1953-12-29,_subject,"US, IN, McCordsville",Y1953/1002
+1953-01-05,_subject,"US, MI, Flint",Y1953/1003
 1954-12-09,_subject,"US, TX, Corsicana",Y1954/1001
 1954-06-02,_subject,"US, OH, Dover",Y1954/1002
+1954-06-09,_subject,"US, VA, Franklin",Y1954/1003
 1955-10-09,_subject,"US, OK, Miami",Y1955/1001
 1955-12-08,_subject,"US, GA, Augusta",Y1955/1002
 1956-01-17,_subject,"US, OH, Dover",Y1956/1001
 1956-11-12,_subject,"US, OH, Akron",Y1956/1002
+1956-07-15,_subject,"US, NC, Maxton",Y1956/1003
+1956-03-13,_subject,"US, PA, Reading",Y1956/1004
 1957-07-16,_subject,"US, NY, Syracuse",Y1957/1001
 1958-04-01,_subject,"US, CT, Litchfield",Y1958/1001
 1958-11-14,_subject,"US, IN, Lafayette",Y1958/1002
 1958-02-13,_subject,"US, PA, Shamokin",Y1958/1003
 1958-03-28,_subject,"US, MI, Detroit",Y1958/1004
+1958-05-23,_subject,"US, WI, Two Rivers",Y1958/1005
 1959-02-24,_subject,"US, PA, Coal Township",Y1959/1001
 1960-11-28,_subject,"US, OH, Springfield",Y1960/1001
 1960-08-11,_subject,"US, CT, Hartford",Y1960/1002
+1960-03-03,_subject,"US, NC, Mooresville",Y1960/1003
 1961-01-27,_subject,"US, TX, Texas City",Y1961/1001
 1961-12-30,_subject,"US, TN, Lawrenceburg",Y1961/1002
 1961-10-05,_subject,"US, VA, Richmond",Y1961/1003
@@ -70,67 +99,124 @@ date,person,place,source
 1961-04-04,_subject,"US, OH, Columbus",Y1961/1005
 1961-03-25,_subject,"US, KY, Louisville",Y1961/1006
 1961-01-27,_subject,"US, TX, Texas City",Y1961/1007
+1961-10-03,_subject,"US, WV, Morgantown",Y1961/1008
+1961-05-12,_subject,"US, OR, Portland",Y1961/1009
 1962-10-10,_subject,"US, CA, Watsonville",Y1962/1001
+1962-05-13,_subject,,Y1962/1002
+1962-08-19,_subject,"US, IN, East Chicago",Y1962/1003
+1962-11-12,_subject,"US, NY, Hornell",Y1962/1004
+1962-01-13,_subject,"US, DE, Newark",Y1962/1005
+1962-01-13,_subject,,Y1962/1006
 1963-01-07,_subject,"US, TX, Corsicana",Y1963/1001
 1963-02-09,_subject,"US, CA, Redding",Y1963/1002
+1963-01-05,_subject,"US, PA, Palmerton",Y1963/1003
+1963-01-18,_subject,"US, NJ, New Brunswick",Y1963/1004
+1963-06-04,_subject,"US, IN, Martinsville",Y1963/1005
 1964-07-01,_subject,"US, KS, Wichita",Y1964/1001
 1964-06-22,_subject,"US, PA, Clearfield",Y1964/1002
 1964-06-20,_subject,"US, TX, Livingston",Y1964/1003
 1965-02-25,_subject,"US, CA, San Diego",Y1965/1001
 1965-11-08,_subject,,Y1965/1002
+1966-10-08,_subject,"US, NY, Poughkeepsie",Y1966/1001
+1966-04-17,_subject,"US, LA, Shreveport",Y1966/1002
+1966-02-01,_subject,"US, GA, Americus",Y1966/1003
 1967-12-28,_subject,"US, CT, Waterbury",Y1967/1001
 1967-03-12,_subject,"US, VA, Danville",Y1967/1002
 1967-01-10,_subject,"US, MI, Benton Harbor",Y1967/1003
 1967-04-11,_subject,"US, GA, Dublin",Y1967/1004
+1967-05-06,_subject,"US, MA, Boston",Y1967/1005
+1967-12-14,_subject,,Y1967/1006
+1967-04-07,_subject,"US, NC, Raleigh",Y1967/1007
+1967-02-22,_subject,,Y1967/1008
+1967-02-03,_subject,"US, KY, Owensboro",Y1967/1009
 1968-08-20,_subject,"US, MD, Baltimore",Y1968/1001
 1968-08-07,_subject,"US, PA, Montoursville",Y1968/1002
 1968-12-18,_subject,"US, AZ, Scottsdale",Y1968/1003
+1968-04-21,_subject,"US, NJ, Camden",Y1968/1004
+1968-09-14,_subject,"US, NC, High Point",Y1968/1005
+1968-04-12,_subject,"VN, ,",Y1968/1006
 1969-04-27,_subject,,Y1969/1001
+1969-05-08,_subject,"US, NJ, Plainfield",Y1969/1002
 1970-05-18,_subject,"US, WI, Neenah",Y1970/1001
 1970-11-24,_subject,"US, IN, Bloomington",Y1970/1002
+1970-07-29,_subject,"US, PA, Lancaster",Y1970/1003
 1971-07-25,_subject,"US, NC, Mebane",Y1971/1001
 1971,_subject,,Y1971/1002
 1971-10-16,_subject,"US, OH, Zanesville",Y1971/1003
 1971-08-04,_subject,"US, MO, Maryville",Y1971/1004
+1972-03-09,_subject,"US, NC, Salisbury",Y1972/1001
+1972-11-21,_subject,"US, PA, Philadelphia",Y1972/1002
 1973-08-23,_subject,"US, NV, Reno",Y1973/1001
 1973-12-05,_subject,"US, NC, Reidsville",Y1973/1002
+1973-09-18,_subject,"US, MD, Towson",Y1973/1003
+1973-01-08,_subject,"US, OH, Cincinnati",Y1973/1004
+1973-06-16,_subject,"US, NC, Greensboro",Y1973/1005
+1973-01-09,_subject,"US, AL, Alabama",Y1973/1006
 1974-08-18,_subject,"US, FL, Bradenton",Y1974/1001
 1974-04-16,_subject,"US, CA, Santa Cruz",Y1974/1002
 1974-11-06,_subject,"US, VA, Richmond",Y1974/1003
+1974-12-17,_subject,"US, NC, Asheville",Y1974/1004
+1974-02-20,_subject,"US, CT, New Britain",Y1974/1005
 1975-06-24,_subject,"US, OH, Athens",Y1975/1001
 1975-11-19,_subject,"US, NY, Troy",Y1975/1002
+1975-08-07,_subject,"US, VT, Berlin",Y1975/1003
+1975-08-10,_subject,"US, PA, Eckley",Y1975/1004
 1976-10-04,_subject,"US, PA, Kittanning",Y1976/1001
 1976-03-31,_subject,"US, NC, Burlington",Y1976/1002
+1976-02-29,_subject,"US, CT, Bridgeport",Y1976/1003
 1977-04-14,_subject,"US, IL, Freeport",Y1977/1001
 1977-05-16,_subject,"US, TN, Kingsport",Y1977/1002
 1977-01-01,_subject,"US, CT, Bridgeport",Y1977/1003
 1977-07-19,_subject,,Y1977/1005
 1978-07-27,_subject,"US, PA, North East",Y1978/1001
 1978-03-20,_subject,"US, IL, Clinton",Y1978/1002
+1978-02-06,_subject,"US, MD, Columbia",Y1978/1003
+1978-03-20,_subject,"US, IL, Clinton",Y1978/1004
+1978-02-07,_subject,,Y1978/1005
 1979-09-16,_subject,"US, CA, Santa Cruz",Y1979/1001
 1979-02-19,_subject,,Y1979/1002
 1979-07-15,_subject,"US, OH, Cleveland",Y1979/1003
 1979-06-18,_subject,"US, MI, Temperance",Y1979/1004
 1979-04-28,_subject,"CA, ON, London",Y1979/1005
+1979-11-05,_subject,"US, MO, St. Louis",Y1979/1006
 1980-06-08,_subject,,Y1980/1001
+1980-05-22,_subject,"US, PA, Huntingdon",Y1980/1002
+1981-10-28,_subject,,Y1981/1001
+1981-05-06,_subject,"US, MD, Rockville",Y1981/1002
 1982-07-07,_subject,"US, IL, Hines",Y1982/1001
 1982-10-25,_subject,"US, IN, Evansville",Y1982/1002
+1982-06-07,_subject,,Y1982/1003
+1982-06-07,_subject,"US, PA, Carlisle",Y1982/1004
 1983-04-10,_subject,,Y1983/1001
+1983-04-02,_subject,"US, IL, Hinsdale",Y1983/1002
 1984-09-23,_subject,"US, RI, Woonsocket",Y1984/1001
 1984-06-09,_subject,"US, RI, Warwick",Y1984/1002
 1984-04-27,_subject,"US, CA, Chula Vista",Y1984/1003
+1984-02-13,_subject,"US, NC, Brevard",Y1984/1004
+1984-03-23,_subject,"US, NC, Marion",Y1984/1005
+1984-05-15,_subject,"US, MI, Southfield",Y1984/1006
 1985-03-30,_subject,"US, OH, Youngstown",Y1985/1001
 1985-08-21,_subject,"US, RI, Providence",Y1985/1002
 1985-01-24,_subject,,Y1985/1003
 1985-11-13,_subject,"US, CA, Pine Valley",Y1985/1004
 1985-05-26,_subject,"US, NC, Asheville",Y1985/1005
+1985-01-16,_subject,,Y1985/1006
+1985-11-03,_subject,"US, OH, Cincinnati",Y1985/1007
 1986-08-21,_subject,"US, PA, Lock Haven",Y1986/1001
 1986-01-06,_subject,,Y1986/1002
 1986-07-06,_subject,"US, PA, Chester",Y1986/1003
+1986-01-05,_subject,"US, NJ, Camden",Y1986/1004
+1986-10-23,_subject,"US, MI, Hastings",Y1986/1005
 1987-07-30,_subject,"US, CA, Loma Linda",Y1987/1001
 1987-07-06,_subject,"US, CA, San Diego",Y1987/1002
+1988-03-22,_subject,"US, NJ, Atlantic City",Y1988/1001
+1988-08-14,_subject,"US, IL, Streator",Y1988/1002
+1988-08-13,_subject,"US, MN, St. Paul",Y1988/1003
 1989-04-07,_subject,"US, PA, Pittsburgh",Y1989/1001
+1989-12-19,_subject,"US, OH, Ashland",Y1989/1002
+1989,_subject,,Y1989/1003
 1991-03-15,_subject,"US, NY, Boonville",Y1991/1001
+1991-07-11,_subject,,Y1991/1002
 1992-07-13,_subject,"US, PA, Allentown",Y1992/1001
 1992-07-13,_subject,"US, MA, Northbridge",Y1992/1002
 1993-10-27,_subject,"US, CA, Santa Clara County",Y1993/1001
@@ -149,6 +235,8 @@ date,person,place,source
 1994-07-07,_subject,"US, MI, Pontiac",Y1994/1008
 1994-09-16,_subject,"US, MD, Cockeysville",Y1994/1009
 1994-05-30,_subject,"US, FL, Sebring",Y1994/1010
+1994-04-05,_subject,,Y1994/1011
+1994-09-12,_subject,"US, NC, Henderson",Y1994/1012
 1995-02-04,_subject,"US, SC, Columbia",Y1995/1001
 1995-02-08,_subject,"US, WI, Whitehall",Y1995/1002
 1995-03-12,_subject,"US, OH, Cleveland",Y1995/1003
@@ -202,6 +290,7 @@ date,person,place,source
 2001-11-05,_subject,"US, IA, North Liberty",Y2001/1002
 2001-04-29,_subject,"US, DE, Smyrna",Y2001/1003
 2001-02-07,_subject,"US, LA, Chalmette",Y2001/1004
+2001-08-24,_subject,,Y2001/1005
 2002-12-31,_subject,"US, TX, Houston",Y2002/1001
 2002-04-25,_subject,"US, RI, Warwick",Y2002/1002
 2002-05-17,_subject,"US, CA, Orinda",Y2002/1003
@@ -211,12 +300,16 @@ date,person,place,source
 2003-06-13,_subject,"US, SC, Greenwood",Y2003/1002
 2003-12-25,_subject,,Y2003/1003
 2003-08-18,_subject,"US, OH, Massillon",Y2003/1004
+2003-01-13,_subject,,Y2003/1005
+2003-05-30,_subject,"US, MA, Milford",Y2003/1006
 2004-05-18,_subject,"US, OH, Cincinnati",Y2004/1001
 2004-06-05,_subject,"AU, Queensland, Brisbane",Y2004/1002
 2004-03-27,_subject,,Y2004/1003
 2005-02-08,_subject,"US, CA, Torrance",Y2005/1001
 2005-06-17,_subject,"US, LA, Lake Charles",Y2005/1002
 2005,_subject,"US, MO, Stafford",Y2005/1003
+2005-04-04,_subject,,Y2005/1004
+2005-05-21,_subject,,Y2005/1005
 2006-04-12,_subject,"US, CA, Mission Viejo",Y2006/1001
 2006-07-17,_subject,"US, SC, Greenville",Y2006/1002
 2006-04-23,_subject,"US, IL, Rockford",Y2006/1003
@@ -224,15 +317,21 @@ date,person,place,source
 2006-07-16,_subject,,Y2006/1005
 2006-12-01,_subject,"US, CA, Costa Mesa",Y2006/1006
 2006-07-02,_subject,,Y2006/1007
+2006-11-01,_subject,"US, MA, Springfield",Y2006/1008
+2006-02-26,_subject,"US, DC, Washington",Y2006/1009
 2007-05-02,_subject,"US, PA, McMurray",Y2007/1001
 2007-05-12,_subject,"US, NC, Brevard",Y2007/1002
 2007-04-08,_subject,"MX, Sinaloa, Culiacan",Y2007/1003
+2007-03-11,_subject,,Y2007/1004
+2007,_subject,,Y2007/1005
 2008-04-17,_subject,"DO,  San Pedro de Macoris,  San Pedro de Macoris",Y2008/1001
 2008-03-04,_subject,"MX, Veracruz, Xalapa",Y2008/1002
 2008-09-22,_subject,,Y2008/1003
 2009-10-16,_subject,,Y2009/1001
 2009-01-02,_subject,"MX, Distrito Federal, Mexico City",Y2009/1002
 2009-06-08,_subject,,Y2009/1003
+2009-03-02,_subject,,Y2009/1004
+2009-01-14,_subject,"CR, , San Jose",Y2009/1005
 2010-11-15,_subject,"US, IL, Carterville",Y2010/1001
 2010-07-09,_subject,"MX, Tamaulipas, Nuevo Laredo",Y2010/1002
 2010-03-30,_subject,"MX, Veracruz, Poza Rica",Y2010/1003
@@ -1326,6 +1425,7 @@ date,person,place,source
 2015-01-06,_subject,,Y2015/1759
 2015-01-07,_subject,"US, LA, New Orleans",Y2015/1760
 2015-01-02,_subject,"US, AR, Fort Smith",Y2015/1761
+2015-10-26,_subject,"US, KS, Basehor",Y2015/1762
 2016-01-01,_subject,"US, PA, Wrightsville",Y2016/1001
 2016-01-03,_subject,,Y2016/1002
 2016-01-01,_subject,"US, MI, Kentwood",Y2016/1003
@@ -2009,6 +2109,10 @@ date,person,place,source
 2016-10-21,_subject,,Y2016/1682
 2016-03-21,_subject,,Y2016/1683
 2016-08-05,_subject,,Y2016/1684
+2016-12-06,_subject,"US, KS, Hutchinson",Y2016/1685
+2016-06-13,_subject,"US, IL, Hoffman Estates",Y2016/1686
+2016-04-14,_subject,"US, NC, Oak Ridge",Y2016/1687
+2016-08-30,_subject,"US, MN, Minneapolis",Y2016/1688
 2017-01-02,_subject,,Y2017/1001
 2017-01-01,_subject,"US, TX, Lubbock",Y2017/1002
 2017-01-03,_subject,"CA, ON, Hamilton",Y2017/1003

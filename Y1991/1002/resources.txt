@@ -1,0 +1,8 @@
+source-title: Connie Scherzer obit
+source-file-name: Connie Scherzer obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-25

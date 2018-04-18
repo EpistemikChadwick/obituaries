@@ -1,0 +1,5 @@
+name-last: Hahn
+name-first: Earl
+ 
+death-date: 1979-11-05
+death-place: US, MO, St. Louis

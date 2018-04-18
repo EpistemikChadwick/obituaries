@@ -1,0 +1,13 @@
+name-last: Briganti
+name-first: Louis
+name-given: Louis N.
+ 
+death-date: 1962-11-12
+death-place:  US, NY, Hornell
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, NY, Fremont

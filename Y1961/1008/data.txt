@@ -1,0 +1,11 @@
+name-last: Ratliff
+name-first: Carlos
+ 
+death-date: 1961-10-03
+death-place:  US, WV, Morgantown
+ 
+school-level: college
+school-name: Glenville State College
+ 
+cemetery-name: Weston Masonic Cemetery
+cemetery-place: US, WV, Weston

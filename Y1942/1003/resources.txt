@@ -1,0 +1,8 @@
+source-title: Spot MacMurdo obit
+source-file-name: Spot MacMurdo obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-10-22

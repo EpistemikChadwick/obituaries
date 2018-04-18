@@ -1,0 +1,12 @@
+name-last: Bazan
+name-first: Stanley
+ 
+death-date: 1962-08-19
+death-place:  US, IN, East Chicago
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, IL, Calumet City

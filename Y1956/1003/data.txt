@@ -1,0 +1,19 @@
+name-last: Correll
+name-first: Lee
+name-given: Milton Lee
+ 
+birth-date: 1893
+birth-place: US, NC, Laurinburg
+ 
+death-date: 1956-07-15
+death-place:  US, NC, Maxton
+ 
+school-level: college
+school-name: North Carolina State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War I
+ 
+cemetery-name: Oak Grove Cemetery
+cemetery-place: US, NC, Maxton

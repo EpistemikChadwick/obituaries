@@ -1,0 +1,13 @@
+name-last: Pjura
+name-first: John M.
+name-given: Pjura
+name-nick: Pudge
+name-suffix: Sr.
+ 
+birth-place: US, CT, Bridgeport
+ 
+death-date: 1976-02-29
+death-place:  US, CT, Bridgeport
+ 
+cemetery-name: St. Michael’s Cemetery
+cemetery-place: US, CT, Stratford

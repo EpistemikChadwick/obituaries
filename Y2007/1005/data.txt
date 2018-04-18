@@ -1,0 +1,12 @@
+name-last: Vidinha
+name-first: Andrew
+name-given: Andrew
+ 
+birth-date: 1929
+birth-place: US, HI, Lihue
+ 
+death-date: 2007
+ 
+school-level: secondary
+school-name:  Waimea HS
+school-place: US, HI, Waimea

@@ -1,0 +1,6 @@
+name-last: Dietrich
+name-first: Herbert
+name-given: Herbert F.
+ 
+death-date: 1994-09-12
+death-place:  US, NC, Henderson

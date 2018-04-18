@@ -1,0 +1,23 @@
+name-last: Shankey
+name-first: Victor
+name-given: Victor Jerome
+ 
+birth-date: 1892-03-06
+birth-place: US, NY, New City
+ 
+death-date: 1966-10-08
+death-place:  US, NY, Poughkeepsie
+ 
+school-level: secondary
+school-name:  Fordham Preparatory School
+school-place: US, NY, New York
+ 
+school-level: college
+school-name: Fordham University
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War I
+ 
+cemetery-name: St. Peter’s Cemetery
+cemetery-place: US, NY, Haverstraw

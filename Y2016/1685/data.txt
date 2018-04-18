@@ -1,0 +1,19 @@
+name-last: Peel
+name-first: Bob
+name-given: Robert H.
+ 
+birth-date: 1927-01-14
+birth-place: US, OK, Tulsa
+ 
+death-date: 2016-12-06
+death-place:  US, KS, Hutchinson
+ 
+school-level: secondary
+school-name:  Hutchinson HS
+school-place: US, KS, Hutchinson
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Memorial Park Cemetery
+cemetery-place: US, KS, Hutchinson

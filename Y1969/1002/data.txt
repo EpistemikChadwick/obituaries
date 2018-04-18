@@ -1,0 +1,16 @@
+name-last: Gavornik
+name-first: Felix
+name-given: Felix A.
+ 
+birth-place: US, NJ, Dunellen
+ 
+death-date: 1969-05-08
+death-place:  US, NJ, Plainfield
+ 
+school-level: secondary
+school-name:  Bound Brook HS
+school-place: US, NJ, Bound Brook
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

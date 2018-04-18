@@ -1,0 +1,20 @@
+name-last: Staley
+name-first: Donald
+name-given: Donald S.
+ 
+death-date: 1970-07-29
+death-place:  US, PA, Lancaster
+ 
+school-level: secondary
+school-name:  Columbia HS
+school-place: US, PA, Columbia
+ 
+school-level: college
+school-name: Lebanon Valley College
+ 
+military-country: US
+military-branch:  World War II
+military-conflict:  Marines
+ 
+cemetery-name: Ironville Methodist Church Cemetery
+cemetery-place: US, PA, Ironville

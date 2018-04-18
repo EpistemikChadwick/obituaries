@@ -1,26 +1,36 @@
 name,person,place,source
 Asbury Chapel Cemetery,_subject,"US, OH, Mount Perry",Y1932/1001
 Mount Olivet Cemetery,_subject,"US, TN, Nashville",Y1934/1002
+Forest Hill Cemetery,_subject,"US, PA, Dunmore",Y1935/1001
 St. Peter's Cemetery,_subject,"US, NY, Poughkeepsie",Y1936/1002
 Holy Cross & St. Joseph Cemetery,_subject,"US, IN, Indianapolis",Y1936/1003
+Riverside Cemetery,_subject,"US, MI, Union City",Y1937/1003
 Saint Stanislaus,_subject,"US, PA, East Coal Township",Y1938/1001
 Magnolia Cemetery,_subject,"US, SC, Charleston",Y1939/1002
+East Harrisburg Cemetery,_subject,"US, PA, Harrisburg",Y1939/1004
 Maple Grove Cemetery,_subject,"US, OH, Bettsville",Y1940/1002
 Riverside Cemetery,_subject,"US, IN, Cambridge City",Y1941/1003
 Newport Cemetery,_subject,"US, PA, Newport",Y1942/1002
+Holy Sepulchre Cemetery,_subject,"US, PA, Cheltenham",Y1942/1004
 Holy Cross Cemetery,_subject,"US, NY, Brooklyn",Y1943/1001
+Holy Cross Cemetery,_subject,"US, NY, Brooklyn",Y1943/1003
 Annunciation of the Blessed Virgin Mary Cemetery,_subject,"US, PA, McSherrystown",Y1946/1001
 Fern Knoll Burial Park,_subject,"US, PA, Dallas",Y1947/1001
+Holy Cross & St. Joseph Cemetery,_subject,"US, IN, Indianapolis",Y1947/1003
 St. Mary's Cemetery,_subject,"US, CA, Oakland",Y1949/1001
 ,_subject,"US, TX, Snyder",Y1950/1001
 Lakeview Cemetery,_subject,"US, IL, Pekin",Y1950/1002
 Hill Crest Cemetery,_subject,"US, KS, Galena",Y1951/1001
+Riverside Memorial Park,_subject,"US, FL, Jacksonville",Y1951/1003
+Forsyth Memorial Park,_subject,"US, NC, Winston-Salem",Y1951/1004
 Mt. Zion Cemetery,_subject,"US, IN, Fortville",Y1953/1002
+,_subject,"US, PA, New Bloomfield",Y1953/1003
 Oakwood Cemetery,_subject,"US, TX, Corsicana",Y1954/1001
 Evergreen Memorial Park,_subject,"US, OH, New Philadelphia",Y1954/1002
 East View Cemetery,_subject,"US, SC, Edgefield",Y1955/1002
 Evergreen Burial Park,_subject,"US, OH, New Philadelphia",Y1956/1001
 Greenlawn Memorial Park,_subject,"US, OH, Akron",Y1956/1002
+Oak Grove Cemetery,_subject,"US, NC, Maxton",Y1956/1003
 Assumption Cemetery,_subject,"US, NY, Syracuse",Y1957/1001
 Shamokin Cemetery,_subject,"US, PA, Shamokin",Y1958/1003
 Mount Carmel Cemetery,_subject,"US, PA, Mount Carmel",Y1959/1001
@@ -30,26 +40,42 @@ Highland Memorial Park,_subject,"US, WV, Oak Hill",Y1961/1004
 Union Cemetery,_subject,"US, OH, Columbus",Y1961/1005
 Kuttawa Cemetery,_subject,"US, KY, Kuttawa",Y1961/1006
 Oakwood Cemetery,_subject,"US, TX, Corsicana",Y1961/1007
+Weston Masonic Cemetery,_subject,"US, WV, Weston",Y1961/1008
+Sts. Peter & Paul Catholic Cemetery (old),_subject,"US, MO, St. Louis",Y1962/1002
+Holy Cross Cemetery,_subject,"US, IL, Calumet City",Y1962/1003
+St. Mary’s Cemetery,_subject,"US, NY, Fremont",Y1962/1004
+St. John’s AME-AUMP Cemetery,_subject,"US, DE, Newark",Y1962/1006
 Oakwood Cemetery,_subject,"US, TX, Corsicana",Y1963/1001
+Sacred Heart Cemetery,_subject,"US, NJ, Parlin",Y1963/1004
 Maplewood Memorial Lawn Cemetery,_subject,"US, KS, Emporia",Y1964/1001
 Calvary Cemetery,_subject,"US, PA, Clearfield",Y1964/1002
 Harlingen Cemetery,_subject,"US, TX, Harlingen",Y1964/1003
 Fort Rosecrans National Cemetery,_subject,"US, CA, San Diego",Y1965/1001
+St. Peter’s Cemetery,_subject,"US, NY, Haverstraw",Y1966/1001
+Forest Park East Cemetery,_subject,"US, LA, Shreveport",Y1966/1002
 Highland Burial Park,_subject,"US, VA, Danville",Y1967/1002
 Rose Hill Cemetery,_subject,"US, IL, Marion",Y1967/1004
 Green Acres Memorial Gardens,_subject,"US, AZ, Scottsdale",Y1968/1003
+New St. Mary’s Cemetery,_subject,"US, NJ, Bellmawr",Y1968/1004
 England Cemetery,_subject,"US, AR, England",Y1969/1001
 Beech Grove Cemetery,_subject,"US, IN, Muncie",Y1970/1002
+Ironville Methodist Church Cemetery,_subject,"US, PA, Ironville",Y1970/1003
 Alamance Memorial Park,_subject,"US, NC, Burlington",Y1971/1001
 Hamilton Cemetery,_subject,"US, TX, Retreat",Y1971/1002
 Greenwood Cemetery,_subject,"US, OH, Zanesville",Y1971/1003
 Arlington Memorial Park,_subject,"US, AR, El Dorado",Y1973/1001
 Reidlawn Cemetery,_subject,"US, NC, Reidsville",Y1973/1002
+St. Joseph New Cemetery,_subject,"US, OH, Cincinnati",Y1973/1004
+Forest Lawn Cemetery,_subject,"US, NC, Greensboro",Y1973/1005
 Felton Cemetery,_subject,"US, CA, Felton",Y1974/1002
 Westhampton Memorial Park,_subject,"US, VA, Richmond",Y1974/1003
+Mars Hill Cemetery,_subject,"US, NC, Mars Hill",Y1974/1004
+St. Mary Cemetery,_subject,"US, CT, New Britain",Y1974/1005
 Hilltop Cemetery,_subject,"US, OH, Millfield",Y1975/1001
 St. Peter's Cemetery,_subject,"US, NY, Troy",Y1975/1002
+St. Mary’s Byzantine Catholic Cemetery,_subject,"US, PA, Freeland",Y1975/1004
 Alamance Memorial Park,_subject,"US, NC, Burlington",Y1976/1002
+St. Michael’s Cemetery,_subject,"US, CT, Stratford",Y1976/1003
 Oakland Cemetery,_subject,"US, IL, Freeport",Y1977/1001
 Saint Michael's Cemetery,_subject,"US, CT, Bridgeport",Y1977/1003
 Happy Valley Memorial Park,_subject,"US, TN, Johnson City",Y1977/1004
@@ -60,17 +86,27 @@ Bayes Cemetery,_subject,"US, OH, Wauseon",Y1979/1001
 Park Hill Cemetery and Mausoleum,_subject,"US, IL, Bloomington",Y1979/1002
 Whiteford Union Cemetery,_subject,"US, MI, Lambertville",Y1979/1004
 Williamsburg Presbyterian Cemetery,_subject,"US, SC, Kingstree",Y1980/1001
+Saltillo Cemetery,_subject,"US, PA, Saltillo",Y1980/1002
 St. Stephen's Cemetery,_subject,"US, IL, Streator",Y1982/1001
 St. Joseph Catholic Cemetery,_subject,"US, IN, Evansville",Y1982/1002
+Westminster Memorial Gardens,_subject,"US, PA, Carlisle",Y1982/1004
 Precious Blood Cemetery,_subject,"US, RI, Woonsocket",Y1984/1001
 Rhode Island Veterans Memorial Cemetery,_subject,"US, RI, Exeter",Y1984/1002
 Holy Cross Cemetery,_subject,"US, CA, San Diego",Y1984/1003
+Blue Ridge Gardens of Memory Cemetery,_subject,"US, NC, Pisgah Forest",Y1984/1004
+McDowell Memorial Park,_subject,"US, NC, East Marion",Y1984/1005
+Holy Sepulchre Cemetery,_subject,"US, MI, Southfield",Y1984/1006
 Rhode Island Veterans Memorial Cemetery,_subject,"US, RI, Exeter",Y1985/1002
 Fort Rosecrans National Cemetery,_subject,"US, CA, San Diego",Y1985/1003
+St. Joseph Cemetery,_subject,"US, OH, Cincinnati",Y1985/1007
 Hays-Fearon Cemetery,_subject,"US, PA, Beech Creek",Y1986/1001
+St. Joseph’s Cemetery,_subject,"US, NJ, Blackwood",Y1986/1004
 Riverside National Cemetery,_subject,"US, CA, Riverside",Y1987/1001
 Mount Hope Cemetery,_subject,"US, CA, San Diego",Y1987/1002
+Sacred Heart Cemetery,_subject,"US, NJ, Vineland",Y1988/1001
+St. Stephen’s Cemetery,_subject,"US, IL, Streator",Y1988/1002
 Calvary Cemetery,_subject,"US, PA, Pittsburgh",Y1989/1001
+Ashland Cemetery,_subject,"US, OH, Ashland",Y1989/1002
 Pine Grove Cemetery,_subject,"US, MA, Northbridge",Y1992/1002
 Oak Hill Memorial Park,_subject,"US, CA, San Jose",Y1993/1001
 Mountain Rest Cemetery,_subject,"US, NC, Kings Mountain",Y1993/1004
@@ -117,16 +153,22 @@ Westlawn Memorial Park,_subject,"US, LA, Gretna",Y2000/1002
 Oakland Cemetery,_subject,"US, IA, Keokuk",Y2001/1002
 Odd Fellows Cemetery,_subject,"US, DE, Camden",Y2001/1003
 St. Vincent De Paul Cemetery #3,_subject,"US, LA, New Orleans",Y2001/1004
+Fairview Cemetery,_subject,"US, IN, Jasper",Y2001/1005
 St. Francis Cemetery,_subject,"US, RI, Pawtucket",Y2002/1002
 Oakbrook Memorial Park,_subject,"US, SC, Greenwood",Y2003/1002
 North Lawn Cemetery,_subject,"US, OH, Canton",Y2003/1004
+St. Mary’s Cemetery,_subject,"US, MA, Milford",Y2003/1006
 Consolata Cemetery,_subject,"US, LA, Lake Charles",Y2005/1002
 Missouri Veterans Cemetery at Springfield,_subject,"US, MO, Springfield",Y2005/1003
+National Memorial Cemetery of Arizona,_subject,"US, AZ, Phoenix",Y2005/1005
 Ascension Cemetery,_subject,"US, CA, Lake Forest",Y2006/1001
 St. Mary's & St. James Cemeteries,_subject,"US, IL, Rockford",Y2006/1003
 Mountain View Cemetery,_subject,"US, CA, Calexico",Y2006/1004
 Fort Snelling National Cemetery,_subject,"US, MN, Minneapolis",Y2006/1005
+St. John St. Joseph Catholic Cemetery,_subject,"US, IN, Hammond",Y2006/1009
 McKeesport and Versailles Cemetery,_subject,"US, PA, McKeesport",Y2007/1001
+Greenlawn Cemetery,_subject,"US, MO, Plattsburg",Y2007/1004
+Greenwood Cemetery,_subject,"US, OH, Hamilton",Y2009/1004
 Arlington Memorial Park,_subject,"US, GA, Sandy Springs",Y2011/1010
 Owensboro Memorial Gardens,_subject,"US, KY, Owensboro",Y2011/1011
 Czech National Cemetery,_subject,"US, IA, Cedar Rapids",Y2011/1012
@@ -634,6 +676,7 @@ Marvin's Chapel Cemetery,_subject,"US, AL, Pinson",Y2015/1754
 Emma Jarnagin Cemetery,_subject,"US, TN, Morristown",Y2015/1756
 Sacramento Valley National Cemetery,_subject,"US, CA, Dixon",Y2015/1758
 Washfield Cemetery,_subject,"US, AR, Atkins",Y2015/1761
+Leavenworth National Cemetery,_subject,"US, KS, Leavenworth",Y2015/1762
 Immaculate Heart of Mary Church Cemetery,_subject,"US, PA, Abbottstown",Y2016/1001
 St. Joseph's Cemetery,_subject,"US, NY, Waterford",Y2016/1002
 Georgia National Cemetery,_subject,"US, GA, Canton",Y2016/1006
@@ -929,6 +972,10 @@ Southern Memorial Park,_subject,"US, FL, North Miami",Y2016/1677
 Roselawn Memorial Garden,_subject,"US, AR, Pine Bluff",Y2016/1680
 St. Joseph's Cemetery,_subject,"US, NJ, Chews Landing",Y2016/1682
 St. Mary's Cemetery,_subject,"US, NY, Ticonderoga",Y2016/1683
+Memorial Park Cemetery,_subject,"US, KS, Hutchinson",Y2016/1685
+Mt. Emblem Cemetery,_subject,"US, IL, Elmhurst",Y2016/1686
+Eastlawn Gardens of Memory,_subject,"US, NC, Kernersville",Y2016/1687
+Fort Snelling National Cemetery,_subject,"US, MN, Minneapolis",Y2016/1688
 Lutheran Cemetery,_subject,"US, OH, Newton Falls",Y2017/1006
 Lakewood Cemetery,_subject,"US, OH, Akron",Y2017/1007
 Dale Memorial Park,_subject,"US, VA, Chesterfield",Y2017/1014

@@ -1,0 +1,8 @@
+source-title: Weigel Funeral Home
+source-date: 2017-07-14
+source-url: http://www.weigelfuneralhome.com/obituaries/Clifford-Fowler/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-07-14

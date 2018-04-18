@@ -1,0 +1,8 @@
+name-last: Buege
+name-first: Albert
+name-given: Albert W.
+ 
+birth-place: DE, ,
+ 
+death-date: 1958-05-23
+death-place:  US, WI, Two Rivers

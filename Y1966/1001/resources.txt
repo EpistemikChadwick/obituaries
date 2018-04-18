@@ -1,0 +1,14 @@
+source-title: Victor Shankey obit
+source-file-name: Victor Shankey obit 1.pdf
+source-file-type: application/pdf
+ 
+source-title: Victor Shankey obit
+source-file-name: Victor Shankey obit 2.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-06-08
+ 
+ 

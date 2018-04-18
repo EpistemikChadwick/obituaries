@@ -1,0 +1,9 @@
+name-last: Sobota
+name-first: Anthony
+name-given: Anthony J.
+name-nick: Ottie
+ 
+birth-place: US, PA, Palmerton
+ 
+death-date: 1963-01-05
+death-place:  US, PA, Palmerton

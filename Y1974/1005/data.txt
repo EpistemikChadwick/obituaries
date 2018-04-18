@@ -1,0 +1,12 @@
+name-last: Beagle
+name-first: Harold
+name-given: Harold E.
+ 
+death-date: 1974-02-20
+death-place:  US, CT, New Britain
+ 
+school-level: college
+school-name: Birmingham-Southern College
+ 
+cemetery-name: St. Mary Cemetery
+cemetery-place: US, CT, New Britain

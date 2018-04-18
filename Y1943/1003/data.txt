@@ -1,0 +1,20 @@
+name-last: Seaman
+name-first: Louis
+name-given: Louis J.
+ 
+birth-place: US, NY, Brooklyn
+ 
+death-date: 1943-07-06
+death-place:  US, NY, Brooklyn
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  St. Patrick School
+school-place: US, NY, Brooklyn
+ 
+military-country: US
+military-conflict:  World War I
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, NY, Brooklyn

@@ -1,0 +1,8 @@
+source-title: Boldt Funeral Home
+source-date: 2017-08-06
+source-url: http://www.boldtfuneralhome.com/obituaries/Raymond-Carl-Roach?obId=1056614#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-08-06

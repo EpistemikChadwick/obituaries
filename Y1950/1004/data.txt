@@ -1,0 +1,9 @@
+name-last: Wilson
+name-first: Fred
+ 
+death-date: 1950-10-09
+death-place:  US, IN, Michigan City
+ 
+school-level: college
+school-name: Wabash College
+ 

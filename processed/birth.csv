@@ -1,35 +1,50 @@
 date,person,place,source
 ,_subject,"US, TN, College Grove",Y1934/1002
+,_subject,"US, PA, Scranton",Y1935/1001
 ,_subject,"RO, ,",Y1936/1001
+1890-06-13,_subject,"US, IN, LaGrange County",Y1937/1003
+1892-11-04,_subject,"US, PA, Harrisburg",Y1939/1004
 1921-11-24,_subject,"US, TX, Burkburnett",Y1940/1002
 1858,_subject,"US, IN, Cambridge City",Y1941/1003
 ,_subject,"US, PA, Newport",Y1942/1002
+,_subject,"US, CA, Bakersfield",Y1942/1003
 1881-05-31,_subject,"US, IL, Morrisonville",Y1943/1002
+,_subject,"US, NY, Brooklyn",Y1943/1003
 ,_subject,"US, PA, Danville",Y1947/1002
+,_subject,"US, IN, Morris",Y1947/1003
+,_subject,"US, IN, Linton",Y1947/1004
 ,_subject,"US, MA, Cambridge",Y1948/1001
+,_subject,"US, KY, Louisville",Y1948/1002
 1882,_subject,,Y1949/1001
 1885-08-02,_subject,"US, IL, Paris",Y1950/1002
 ,_subject,"US, TN, Memphis",Y1950/1003
 1924-02-22,_subject,"US, MO, Joplin",Y1951/1001
 ,_subject,"US, OH, Walnut Creek",Y1954/1002
 1887-08-23,_subject,"US, TN, Joelton",Y1956/1001
+1893,_subject,"US, NC, Laurinburg",Y1956/1003
 1869-12-12,_subject,"US, PA, Danville",Y1958/1003
 1928-10-19,_subject,"US, KY, Covington",Y1958/1004
+,_subject,"DE, ,",Y1958/1005
 1873-02-13,_subject,"US, PA, Llewellyn",Y1959/1001
 1883-08-22,_subject,"US, OH, Waterloo",Y1960/1001
 1901,_subject,,Y1960/1002
 1923-09-19,_subject,,Y1961/1003
 1882-02-18,_subject,,Y1961/1005
 1886-12-24,_subject,"US, TX, Corsicana",Y1963/1001
+,_subject,"US, PA, Palmerton",Y1963/1003
+,_subject,"US, IN, Carroll County",Y1963/1005
 1907-09-09,_subject,"US, KS, De Kalb",Y1964/1001
 1924-08-17,_subject,"US, PA, Clearfield",Y1964/1002
 ,_subject,"US, AR, Blufton",Y1964/1003
 1900-07-19,_subject,"US, UT, Salt Lake City",Y1965/1001
 1905-12-17,_subject,"US, TX, Claude",Y1965/1002
+1892-03-06,_subject,"US, NY, New City",Y1966/1001
 1894-11-30,_subject,"US, NC, Rowan County",Y1967/1002
 1890-01-18,_subject,"US, IL, Gillespie",Y1967/1004
+1885-01-31,_subject,"US, KY, Owensboro",Y1967/1009
 ,_subject,"CA, QC, Saint-Joseph-de-Sorel",Y1968/1001
 ,_subject,"US, AZ, Phoenix",Y1968/1003
+,_subject,"US, NJ, Dunellen",Y1969/1002
 1925-11-15,_subject,"US, WI, Tilleda",Y1970/1001
 1899-02-23,_subject,,Y1971/1002
 1884-02-12,_subject,"US, KY, Louisville",Y1971/1003
@@ -37,31 +52,47 @@ date,person,place,source
 ,_subject,"US, WV, Auburn",Y1973/1002
 ,_subject,"US, PA, Connellsville",Y1974/1001
 ,_subject,"US, OK, Shawnee",Y1974/1002
+,_subject,"US, NC, Mars Hill",Y1974/1004
 1899-09-03,_subject,"US, OH, Athens County",Y1975/1001
 ,_subject,"US, NY, Waterford",Y1975/1002
+1915-11-16,_subject,"US, VT, Bellows Falls",Y1975/1003
 1925-03-06,_subject,"US, PA, McKean Township",Y1976/1001
 ,_subject,"US, NC, Moore County",Y1976/1002
+,_subject,"US, CT, Bridgeport",Y1976/1003
 1893-02-01,_subject,"US, IL, Freeport",Y1977/1001
 ,_subject,"US, GA, Athens",Y1977/1002
 ,_subject,"US, MO, Burlington Junction",Y1977/1005
 1901-06-29,_subject,"US, PA, Kane",Y1978/1001
 1913-04-13,_subject,"US, NY, Rochester",Y1978/1002
+,_subject,"US, MD, St. Denis",Y1978/1003
+1913-04-20,_subject,"US, NY, Rochester",Y1978/1004
 1891-05-17,_subject,"US, TX, Gonzales",Y1979/1002
 ,_subject,"US, PA, Footedale",Y1979/1003
 1945-07-28,_subject,"US, MI, Detroit",Y1979/1004
 ,_subject,"US, NY, Yonkers",Y1979/1005
 ,_subject,"US, SC, Williamsburg County",Y1980/1001
+1924-03-17,_subject,"US, PA, Saltillo",Y1980/1002
+,_subject,"CA, QC, Aylmer",Y1981/1002
 1921-01-04,_subject,"US, IL, Streator",Y1982/1001
 ,_subject,"US, IL, Chicago",Y1982/1002
+,_subject,"US, PA, Portage",Y1982/1004
 ,_subject,"US, RI, Woonsocket",Y1984/1001
 ,_subject,"US, RI, Providence",Y1984/1002
+,_subject,"US, NC, Caldwell County",Y1984/1005
 ,_subject,"US, PA, Lansford",Y1985/1001
 ,_subject,"US, CT, Waterbury",Y1985/1002
 ,_subject,"US, OK,",Y1985/1003
+1913,_subject,"US, IA, Gilman",Y1985/1006
 1905-02-07,_subject,"US, PA, Beech Creek",Y1986/1001
+,_subject,"US, MI, Coats Grove",Y1986/1005
 1926-02-18,_subject,"US, CA, Colton",Y1987/1001
 ,_subject,"US, KS,",Y1987/1002
+,_subject,"US, PA, Shenandoah",Y1988/1001
+1920-05-18,_subject,"US, IL, Streator",Y1988/1002
+,_subject,"US, PA, Philadelphia",Y1988/1003
+1926-01-15,_subject,"US, OH, Ashland",Y1989/1002
 1901-08-10,_subject,"US, NY, Buffalo",Y1991/1001
+,_subject,"US, OH, Akron",Y1991/1002
 ,_subject,"US, PA, Hazleton",Y1992/1001
 ,_subject,"US, MA, Northbridge",Y1992/1002
 1926-07-05,_subject,"US, MA,",Y1993/1001
@@ -77,6 +108,7 @@ date,person,place,source
 1942-08-04,_subject,"US, MA, Fitchburg",Y1994/1005
 1928-08-05,_subject,"US, OH, Cleveland",Y1994/1006
 1920-08-24,_subject,,Y1994/1007
+1923-01-29,_subject,"US, NY, Newark",Y1994/1011
 1916-11-13,_subject,"US, NC, Kings Mountain",Y1995/1001
 1913-05-15,_subject,"US, WI, Blair",Y1995/1002
 1916-12-11,_subject,"US, OH, Cleveland",Y1995/1003
@@ -132,18 +164,27 @@ date,person,place,source
 ,_subject,"US, TX, Marshall",Y2003/1002
 1918-09-14,_subject,"US, CT, New London",Y2003/1003
 1922-08-13,_subject,"US, DC, Washington",Y2003/1004
+1907-09-25,_subject,"US, TX, Fostoria",Y2003/1005
+,_subject,"US, MA, Milford",Y2003/1006
 1954-08-14,_subject,,Y2004/1003
 1960-06-02,_subject,,Y2005/1001
 1935-02-19,_subject,"US, CT, Putnam",Y2005/1003
+,_subject,"US, CT, Hartford",Y2005/1004
+,_subject,"US, IL, Chicago",Y2005/1005
 1956-12-01,_subject,"US, MN, St. Paul",Y2006/1001
 1923-04-16,_subject,"US, IL, Rockford",Y2006/1003
 1922-08-17,_subject,"US, KS, Elmo",Y2006/1004
 1927-04-09,_subject,,Y2006/1005
 1929-12-03,_subject,"US, CA, Orange",Y2006/1006
+1932-08-18,_subject,,Y2006/1009
 1915-03-13,_subject,"RS, Golubac, Ponikve",Y2007/1001
 1923-01-25,_subject,"US, IL, Spring Valley",Y2007/1002
+,_subject,"US, MO, Winnwood",Y2007/1004
+1929,_subject,"US, HI, Lihue",Y2007/1005
 1925-12-16,_subject,,Y2009/1002
 1924-08-27,_subject,"US, MO, St. Louis",Y2009/1003
+1923-09-05,_subject,"US, TN, Chattanoga",Y2009/1004
+1927-10-05,_subject,,Y2009/1005
 1958-09-11,_subject,"US, IL, Springfield",Y2010/1001
 1932-06-06,_subject,"MX, Tamaulipas, Nuevo Laredo",Y2010/1002
 1929-06-11,_subject,,Y2010/1004
@@ -1099,6 +1140,7 @@ date,person,place,source
 1934-06-19,_subject,,Y2015/1759
 ,_subject,"US, LA, Hahnville",Y2015/1760
 1935-12-11,_subject,,Y2015/1761
+1924-03-18,_subject,"US, KS, Augusta",Y2015/1762
 1931-01-11,_subject,"US, OH, Milton Township",Y2016/1001
 ,_subject,"US, NY, Troy",Y2016/1002
 1934-02-09,_subject,"US, AL, Montgomery",Y2016/1003
@@ -1699,6 +1741,10 @@ date,person,place,source
 1931-06-26,_subject,"US, PA, Taylor",Y2016/1681
 1927-11-26,_subject,"US, PA, Philadelphia",Y2016/1682
 1924-08-31,_subject,"US, NY, Port Henry",Y2016/1683
+1927-01-14,_subject,"US, OK, Tulsa",Y2016/1685
+1930-03-23,_subject,"US, IL, Chicago",Y2016/1686
+1925-02-11,_subject,,Y2016/1687
+1928-09-25,_subject,"US, MN, Faribault",Y2016/1688
 1933-01-16,_subject,"US, WA, Tacoma",Y2017/1002
 1944-01-28,_subject,"CA, ON, Galt",Y2017/1003
 ,_subject,"US, TN, Memphis",Y2017/1004

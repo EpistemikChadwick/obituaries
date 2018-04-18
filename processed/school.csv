@@ -1,37 +1,88 @@
 level,name,pace,person,place,source
 college,Texas Christian University,,_subject,,Y1929/1001
+college,Union University,,_subject,"US, TN, Jackson",Y1931/1002
 secondary,Montgomery Bell Academy,,_subject,"US, TN, Nashville",Y1934/1002
 college,Franklin College,,_subject,"US, IN, Franklin",Y1936/1003
+secondary,Athens HS,,_subject,"US, MI, Athens",Y1937/1003
 secondary,Shamokin High School,,_subject,"US, PA, Shamokin",Y1938/1001
 college,Bloomsburg University,,_subject,"US, PA, Bloomsburg",Y1938/1001
 secondary,Orangeburg Collegiate Institute,,_subject,"US, SC, Orangeburg",Y1939/1002
 college,University of South Carolina,,_subject,,Y1939/1002
+secondary,Harrisburg Central HS,,_subject,"US, PA, Harrisburg",Y1939/1004
 secondary,Bettsville HS,,_subject,"US, OH, Bettsville",Y1940/1002
 secondary,Newport HS,,_subject,"US, PA, Newport",Y1942/1002
+secondary,Kern County Union High School,,_subject,"US, CA, Bakersfield",Y1942/1003
 secondary,St. Patrick's Parochial School,,_subject,"US, NY, Brooklyn",Y1943/1001
+secondary,St. Patrick School,,_subject,"US, NY, Brooklyn",Y1943/1003
+secondary,Pottstown HS,,_subject,"US, PA, Pottstown",Y1945/1001
+secondary,Mercersburg Academy,,_subject,"US, PA, Mercersburg",Y1945/1001
+college,Lafayette College,,_subject,,Y1945/1001
+secondary,Linton HS,,_subject,"US, IN, Linton",Y1947/1004
+college,Indiana University,,_subject,,Y1947/1004
 college,St. Mary's College,,_subject,"US, CA, Moraga",Y1949/1001
 secondary,Memphis Military Academy,,_subject,"US, TN, Memphis",Y1950/1003
+college,Wabash College,,_subject,,Y1950/1004
 secondary,Spring City High School,,_subject,"US, PA, Spring City",Y1951/1002
+college,Lenoir-Rhyne University,,_subject,,Y1951/1004
+college,University of North Carolina,,_subject,,Y1951/1004
+college,University of Michigan,,_subject,,Y1953/1003
 secondary,Miami High School,,_subject,"US, OK, Miami",Y1955/1001
 college,Clemson University,,_subject,,Y1955/1002
+college,North Carolina State University,,_subject,,Y1956/1003
+college,Glenville State College,,_subject,,Y1961/1008
+secondary,Newark HS,,_subject,"US, DE, Newark",Y1962/1005
 secondary,San Diego HS,,_subject,"US, CA, San Diego",Y1965/1001
 secondary,Amarillo HS,,_subject,"US, TX, Amarillo",Y1965/1002
+secondary,Fordham Preparatory School,,_subject,"US, NY, New York",Y1966/1001
+college,Fordham University,,_subject,,Y1966/1001
+college,Georgetown University,,_subject,,Y1967/1005
+secondary,Northern HS,,_subject,"US, MI, Detroit",Y1967/1006
+college,University of Michigan,,_subject,,Y1967/1006
+secondary,New Diana HS,,_subject,"US, TX, New Diana",Y1968/1006
+secondary,Bound Brook HS,,_subject,"US, NJ, Bound Brook",Y1969/1002
 college,Indiana University,,_subject,,Y1970/1002
+secondary,Columbia HS,,_subject,"US, PA, Columbia",Y1970/1003
+college,Lebanon Valley College,,_subject,,Y1970/1003
+college,Catawba College,,_subject,,Y1972/1001
+college,University of Pennsylvania,,_subject,,Y1972/1002
 college,St. Louis Uviversity,,_subject,,Y1973/1001
+college,University of Alabama,,_subject,,Y1973/1006
+college,Mars Hill University,,_subject,,Y1974/1004
+college,Birmingham-Southern College,,_subject,,Y1974/1005
 college,Union College,,_subject,,Y1975/1002
+secondary,Towle HS,,_subject,"US, NH, Newport",Y1975/1003
+secondary,Austin-Cate Preparatory School,,_subject,"US, NH, Stratford",Y1975/1003
+college,University of New Hampshire,,_subject,,Y1975/1003
+secondary,Freeland HS,,_subject,"US, PA, Freeland",Y1975/1004
+college,University of Maryland,,_subject,,Y1975/1004
 secondary,E.M. Holt HS,,_subject,"US, NC, Burlington",Y1976/1002
 college,Elon University,,_subject,,Y1976/1002
+secondary,Elkridge HS,,_subject,"US, MD, Elkridge",Y1978/1003
 secondary,"German Township HS,",,_subject,"US, PA, McClellandtown",Y1979/1003
 secondary,Bedford HS,,_subject,"US, MI, Temperance",Y1979/1004
 college,Clemson University,,_subject,,Y1980/1001
+secondary,Massena Central HS,,_subject,"US, NY, Massena",Y1981/1002
+college,Dickinson College,,_subject,,Y1982/1003
+secondary,Portage HS,,_subject,"US, PA, Portage",Y1982/1004
+college,Dickinson College,,_subject,,Y1982/1004
 secondary,Mount St. Charles Academy,,_subject,"US, RI, Woonsocket",Y1984/1001
 secondary,Classical HS,,_subject,"US, RI, Providence",Y1984/1002
 secondary,San Diego HS,,_subject,"US, CA, San Diego",Y1984/1003
+secondary,Asheville HS,,_subject,"US, NC, Asheville",Y1984/1004
+college,Duke University,,_subject,,Y1984/1004
+secondary,Lenoir HS,,_subject,"US, NC, Lenoir",Y1984/1005
+secondary,St. Alphonsus HS,,_subject,"US, MI, Dearborn",Y1984/1006
 secondary,Grossmont HS,,_subject,"US, CA, El Cajon",Y1985/1004
 college,San Diego State University,,_subject,,Y1985/1004
+secondary,Elder HS,,_subject,"US, OH, Cincinnati",Y1985/1007
 secondary,Lock Haven HS,,_subject,"US, PA, Lock Haven",Y1986/1001
 college,Temple University,,_subject,,Y1986/1001
 secondary,Upper Darby HS,,_subject,"US, PA, Upper Darby",Y1986/1003
+secondary,Camden HS,,_subject,"US, NJ, Camden",Y1986/1004
+college,Fordham University,,_subject,,Y1986/1004
+college,Villanova University,,_subject,,Y1986/1004
+secondary,Nashville HS,,_subject,"US, MI, Nashville",Y1986/1005
+college,Western Michigan University,,_subject,,Y1986/1005
 secondary,South Park HS,,_subject,"US, NY, Buffalo",Y1991/1001
 college,"University at Buffalo, State University of New York",,_subject,,Y1991/1001
 college,Boston College,,_subject,,Y1993/1001
@@ -78,17 +129,25 @@ secondary,Vintage HS,,_subject,"US, CA, Napa",Y2002/1005
 college,"California State University, Fresno",,_subject,,Y2002/1005
 college,University of Missouri,,_subject,,Y2003/1001
 secondary,Chapman Technical HS,,_subject,"US, CT, New London",Y2003/1003
+secondary,Milford HS,,_subject,"US, MA, Milford",Y2003/1006
+college,Boston University,,_subject,,Y2003/1006
 secondary,Woodward HS,,_subject,"US, OH, Cincinnati",Y2004/1001
 college,Michigan State University,,_subject,,Y2004/1001
 college,Los Angeles Harbor College,,_subject,,Y2005/1001
 college,Loyola Marymount University,,_subject,,Y2005/1001
 secondary,Alfred M. Barbe HS,,_subject,"US, LA, Lake Charles",Y2005/1002
 college,Louisiana State University,,_subject,,Y2005/1002
+secondary,Weaver HS,,_subject,"US, CT, Hartford",Y2005/1004
+college,University of Illinois,,_subject,,Y2005/1005
 college,Oral Roberts University,,_subject,,Y2006/1001
 college,Western Carolina University,,_subject,,Y2006/1002
 secondary,Rockford East HS,,_subject,"US, IL, Rockford",Y2006/1003
 secondary,Newport Harbor HS,,_subject,"US, CA, Newport Beach",Y2006/1006
+college,Springfield College,,_subject,,Y2006/1008
 secondary,McKeesport HS,,_subject,"US, PA, McKeesport",Y2007/1001
+secondary,North Kansas City HS,,_subject,"US, MO, North Kansas City",Y2007/1004
+secondary,Waimea HS,,_subject,"US, HI, Waimea",Y2007/1005
+secondary,Hanover HS,,_subject,"US, OH, Hanover Township",Y2009/1004
 secondary,Springfield HS,,_subject,"US, IL, Springfield",Y2010/1001
 college,University of New Orleans,,_subject,,Y2010/1001
 college,Quincy University,,_subject,"US, IL, Quincy",Y2010/1001
@@ -1631,6 +1690,8 @@ college,Oklahoma City University,,_subject,,Y2016/1680
 secondary,East Side HS,,_subject,"US, NJ, Newark",Y2016/1681
 secondary,Bok Technical HS,,_subject,"US, PA, Philadelphia",Y2016/1682
 secondary,Port Henry HS,,_subject,"US, NY, Port Henry",Y2016/1683
+secondary,Hutchinson HS,,_subject,"US, KS, Hutchinson",Y2016/1685
+secondary,Faribault HS,,_subject,"US, MN, Faribault",Y2016/1688
 secondary,West HS,,_subject,"US, OH, Akron",Y2017/1007
 secondary,Webster Groves HS,,_subject,"US, MO, St. Louis",Y2017/1008
 secondary,Shelby HS,,_subject,"US, NC, Shelby",Y2017/1009

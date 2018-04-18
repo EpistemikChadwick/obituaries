@@ -1,0 +1,14 @@
+name-last: Aughenbaugh
+name-first: Joseph
+name-given: Joseph F.
+name-suffix: Sr.
+ 
+death-date: 1968-04-21
+death-place:  US, NJ, Camden
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War I
+ 
+cemetery-name: New St. Mary’s Cemetery
+cemetery-place: US, NJ, Bellmawr

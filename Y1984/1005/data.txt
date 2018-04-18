@@ -1,0 +1,20 @@
+name-last: Childers
+name-first: John
+name-given: John Gerald
+name-suffix: Sr.
+ 
+birth-place: US, NC, Caldwell County
+ 
+death-date: 1984-03-23
+death-place:  US, NC, Marion
+ 
+school-level: secondary
+school-name:  Lenoir HS
+school-place: US, NC, Lenoir
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: McDowell Memorial Park
+cemetery-place: US, NC, East Marion

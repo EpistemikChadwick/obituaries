@@ -1,0 +1,7 @@
+name-last: Boyne
+name-first: Augustus
+name-given: Augustus Gordon
+name-nick: Gummy
+ 
+death-date: 1938-10-17
+death-place:  US, MD, Frederick

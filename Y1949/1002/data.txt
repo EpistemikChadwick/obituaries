@@ -1,0 +1,6 @@
+name-last: Vallandingham
+name-first: Charles
+name-given: Charles
+ 
+death-date: 1949-04-29
+death-place:  US, KY, Covington

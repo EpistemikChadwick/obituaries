@@ -1,0 +1,8 @@
+source-title: Hyman Goldstein obit 1
+source-file-name: Hyman Goldstein obit 1.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-09

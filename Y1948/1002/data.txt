@@ -1,0 +1,8 @@
+name-last: Armitage
+name-first: Bill
+name-given: William H.
+ 
+birth-place: US, KY, Louisville
+ 
+death-date: 1948-06-29
+death-place:  US, IN, Indianapolis

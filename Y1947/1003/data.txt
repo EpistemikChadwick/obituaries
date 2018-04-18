@@ -1,0 +1,14 @@
+name-last: Wernke
+name-first: Samuel
+name-given: Samuel J.
+ 
+birth-place: US, IN, Morris
+ 
+death-date: 1947-11-18
+death-place: US, IN, Indianapolis
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Holy Cross & St. Joseph Cemetery
+cemetery-place: US, IN, Indianapolis

@@ -1,0 +1,19 @@
+name-last: Fowler
+name-first: Ed
+name-given: Clifford Edward
+ 
+birth-date: 1923-09-05
+birth-place: US, TN, Chattanoga
+ 
+death-date: 2009-03-02
+ 
+school-level: secondary
+school-name:  Hanover HS
+school-place: US, OH, Hanover Township
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, OH, Hamilton

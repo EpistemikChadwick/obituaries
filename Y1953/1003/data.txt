@@ -1,0 +1,16 @@
+name-last: Reeder
+name-first: Franklin
+name-given: Franklin E.
+name-nick: Tony
+ 
+alias-type: baseball
+alias-last: Kelly
+alias-first: Joe
+ 
+death-date: 1953-01-05
+death-place:  US, MI, Flint
+ 
+school-level: college
+school-name: University of Michigan
+ 
+cemetery-place: US, PA, New Bloomfield

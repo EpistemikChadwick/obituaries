@@ -1,0 +1,5 @@
+name-last: Hannahoe
+name-first: Gerry
+name-given: Gerald P.
+ 
+death-date: 1978-02-07

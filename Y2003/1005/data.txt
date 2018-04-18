@@ -1,0 +1,8 @@
+name-last: Gray
+name-first: Dolly
+name-given: Clyde Thomas
+ 
+birth-date: 1907-09-25
+birth-place: US, TX, Fostoria
+ 
+death-date: 2003-01-13

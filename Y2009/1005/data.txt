@@ -1,0 +1,7 @@
+name-last: Hayling
+name-first: Danny
+ 
+birth-date: 1927-10-05
+ 
+death-date: 2009-01-14
+death-place:  CR, , San Jose

@@ -1,0 +1,9 @@
+source-title: Lee Correll obit 1 & 2
+source-file-name: Lee Correll obit 1.pdf
+source-file-name: Lee Correll obit 2.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-27

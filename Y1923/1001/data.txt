@@ -1,0 +1,5 @@
+name-last: Dillinger
+name-first: Hoke
+ 
+death-date: 1923-10-13
+death-place: US, NY,

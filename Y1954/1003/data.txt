@@ -1,0 +1,7 @@
+name-last: Howell
+name-first: Linwood
+name-given: Linwood Henry
+name-nick: Tennie
+ 
+death-date: 1954-06-09
+death-place:  US, VA, Franklin

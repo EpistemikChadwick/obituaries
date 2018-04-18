@@ -1,0 +1,6 @@
+name-last: Wagnon
+name-first: John
+name-given: John A.
+ 
+death-date: 1966-02-01
+death-place:  US, GA, Americus

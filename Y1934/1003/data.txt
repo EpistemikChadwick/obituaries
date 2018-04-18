@@ -1,0 +1,6 @@
+name-last: Daniels
+name-first: John
+name-nick: Scrap
+ 
+death-date: 1934-08-26
+death-place:  US, PA, Philadelphia

@@ -1,0 +1,5 @@
+name-last: Poss
+name-first: Elmer
+ 
+death-date: 1938-06-05
+death-place:  US, IL, O’Fallon

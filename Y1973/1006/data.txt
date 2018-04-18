@@ -1,0 +1,9 @@
+name-last: Wells
+name-first: Pep
+name-given: A. B.
+ 
+death-date: 1973-01-09
+death-place:  US, AL, Alabama
+ 
+school-level: college
+school-name: University of Alabama

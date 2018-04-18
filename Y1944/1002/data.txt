@@ -1,0 +1,6 @@
+name-last: Roemele
+name-first: Carl
+name-given: Carl
+name-nick: Tonsi
+ 
+death-date: 1944-07-24
