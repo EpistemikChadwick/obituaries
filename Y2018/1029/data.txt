@@ -1,0 +1,13 @@
+name-last: Swenson
+name-first: Carl
+name-given: Carl Arthur
+ 
+birth-date: 1938-11-07
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2018-01-16
+ 
+school-level: secondary
+school-name:  Boys HS
+school-place: US, NY, Brooklyn
+ 

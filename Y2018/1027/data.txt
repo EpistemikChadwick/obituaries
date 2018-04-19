@@ -1,0 +1,19 @@
+name-last: Smodic
+name-first: Jack
+name-given: William Jack
+ 
+birth-date: 1927-02-27
+birth-place: US, PA, Gates
+ 
+death-date: 2018-01-14
+death-place:  US, NC, Wilmington
+ 
+school-level: secondary
+school-name:  German Township HS
+school-place: US, PA, McClellandtown
+ 
+school-level: college
+school-name: University of Pittsburgh
+ 
+military-country: US
+military-conflict:  Korean War

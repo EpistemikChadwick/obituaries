@@ -1,0 +1,11 @@
+name-last: Kindall
+name-first: Gerald
+name-given: Gerald Donald
+ 
+birth-date: 1935-05-27
+birth-place: US, MN, St. Paul
+ 
+death-date: 2017-12-24
+ 
+school-level: college
+school-name: University of Minnesota

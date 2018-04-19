@@ -1,0 +1,5 @@
+name-last: Barton
+name-first: Bob
+ 
+death-date: 2018-01-15
+death-place:  US, CA, Vista

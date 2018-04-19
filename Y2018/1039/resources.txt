@@ -1,0 +1,8 @@
+source-title: News Journal
+source-date: 2018-01-21
+source-url: https://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=william-c-johnson&pid=187925965&fhid=7883
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-21

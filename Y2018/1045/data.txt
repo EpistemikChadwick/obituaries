@@ -1,0 +1,9 @@
+name-last: Bernard
+name-first: Ed
+name-given: Edward A.
+name-suffix: III
+ 
+death-date: 2018-01-09
+ 
+school-level: college
+school-name: Tulane University

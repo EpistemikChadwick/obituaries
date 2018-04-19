@@ -1,0 +1,16 @@
+name-last: McCluskey
+name-first: Frank
+name-given: Francis Joseph
+ 
+birth-date: 1926-09-15
+birth-place: US, NY, New York
+ 
+death-date: 2017-04-01
+ 
+school-level: secondary
+school-name:  Haaren HS
+school-place: US, NY, New York
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

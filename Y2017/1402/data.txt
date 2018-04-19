@@ -1,0 +1,16 @@
+name-last: Price
+name-first: Larry
+name-given: Lawrence Evan
+ 
+birth-date: 1948-08-03
+birth-place: US, CA, Redlands
+ 
+death-date: 2017-12-15
+death-place:  US, CA, Indio
+ 
+school-level: secondary
+school-name:  Coachella Valley HS
+school-place: US, CA, Coachella
+ 
+school-level: college
+school-name: College of the Desert

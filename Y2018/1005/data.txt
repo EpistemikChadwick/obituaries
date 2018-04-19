@@ -1,0 +1,12 @@
+name-last: Dabbs
+name-first: Steve
+name-given: Steven Gray
+ 
+birth-date: 1946-12-11
+birth-place: US, NC, Cabarrus County
+ 
+death-date: 2018-01-05
+death-place:  US, NC, Kannapolis
+ 
+cemetery-name: Mt. Moriah Lutheran Church Cemetery
+cemetery-place: US, NC, China Grove

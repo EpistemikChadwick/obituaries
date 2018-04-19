@@ -1,0 +1,19 @@
+name-last: Haskins
+name-first: Earl
+name-given: Earl Eugene
+ 
+birth-date: 1934-08-01
+birth-place: US, VA, Callands
+ 
+death-date: 2018-01-04
+death-place:  US, NC, High Point
+ 
+school-level: secondary
+school-name:  Callands HS
+school-place: US, VA, Callands
+ 
+school-level: college
+school-name: Lincoln Memorial University
+ 
+military-country: US
+military-branch:  Navy

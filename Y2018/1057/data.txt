@@ -1,0 +1,13 @@
+name-last: Davis
+name-first: Dean
+name-given: Dean Raymond
+ 
+birth-date: 1937-10-02
+birth-place: US, OK, Tulsa
+ 
+death-date: 2018-01-25
+ 
+school-level: secondary
+school-name:  Central HS
+school-place: US, OK, Tulsa
+

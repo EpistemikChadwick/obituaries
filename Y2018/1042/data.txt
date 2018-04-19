@@ -1,0 +1,7 @@
+name-last: Stubing
+name-first: Moose
+name-given: Larry
+ 
+death-date: 2018-01-19
+death-place:  US, CA,
+

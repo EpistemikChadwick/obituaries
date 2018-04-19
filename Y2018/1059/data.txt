@@ -1,0 +1,8 @@
+name-last: Young
+name-first: Richard
+name-given: Richard Ennis
+ 
+birth-date: 1927-06-03
+ 
+death-date: 2018-01-07
+

@@ -1,0 +1,15 @@
+name-last: Roberson
+name-first: Dick
+name-given: M. Richard
+ 
+birth-date: 1931-02-13
+ 
+death-date: 2018-01-05
+death-place:  US, TX, Austin
+ 
+school-level: secondary
+school-name:  Stephen F. Austin HS
+school-place: US, TX, Austin
+ 
+school-level: college
+school-name: University of Texas

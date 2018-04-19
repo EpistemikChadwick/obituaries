@@ -1,0 +1,17 @@
+name-last: Jones
+name-first: Dean
+name-given: Winfred Dean
+ 
+birth-date: 1938-06-23
+birth-place: US, NC, Rutherford County
+ 
+death-date: 2018-01-08
+ 
+school-level: college
+school-name: Gardner-Webb University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Arrowwood Baptist Church Cemetery
+cemetery-place: US, SC, Chesnee

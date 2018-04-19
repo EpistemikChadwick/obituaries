@@ -1,0 +1,9 @@
+name-last: Jones
+name-first: Dean
+ 
+death-date: 2018-01-08
+ 
+school-level: secondary
+school-name:  Chesnee HS
+school-place: US, SC, Chesnee
+ 

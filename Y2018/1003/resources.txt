@@ -1,0 +1,9 @@
+source-title: New York Times
+source-date: 2018-01-05
+source-url: https://www.nytimes.com/2018/01/04/obituaries/carmen-cozza-dead-winning-football-coach-at-yale.html?emc=edit_th_20180105&nl=todaysheadlines&nlid=1282517
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-05
+ 

@@ -1,0 +1,8 @@
+source-title: Ledger
+source-date: 2018-01-21
+source-url: http://www.legacy.com/obituaries/theledger/obituary.aspx?n=joseph-dugan-joe&pid=187921452
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-21

@@ -1,0 +1,19 @@
+name-last: Spaeter
+name-first: Al
+name-given: Alfred J.
+ 
+birth-date: 1923-03-04
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2017-12-29
+ 
+school-level: secondary
+school-name:  Fremont HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: University of Southern California
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

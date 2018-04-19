@@ -1,0 +1,14 @@
+name-last: Cesarin
+name-first: Dick
+name-given: Richard Silvio
+ 
+birth-date: 1930-10-07
+birth-place: US, PA, Vandergrift
+ 
+death-date: 2017-12-31
+death-place:  US, CA, San Carlos
+ 
+school-level: secondary
+school-name:  Sequoia HS
+school-place: US, CA, Redwood City
+ 

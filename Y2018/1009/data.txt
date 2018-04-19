@@ -1,0 +1,20 @@
+name-last: Price
+name-first: Bobby
+name-given: Bobby Ellon
+name-suffix: Sr.
+ 
+birth-date: 1928-05-24
+birth-place: US, SC, West Columbia
+ 
+death-date: 2018-01-01
+ 
+school-level: secondary
+school-name:  Brookland-Cayce HS
+school-place: US, SC, Cayce
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Southland Memorial Gardens
+cemetery-place: US, SC, West Columbia

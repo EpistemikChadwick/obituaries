@@ -1,0 +1,22 @@
+name-last: Ward
+name-first: Jim
+name-given: James Edward
+ 
+birth-date: 1939-04-02
+birth-place: US, CA, Pasadena
+ 
+death-date: 2018-01-07
+death-place:  US, TX, Plano
+ 
+school-level: secondary
+school-name:  Pasadena HS
+school-place: US, CA, Pasadena
+ 
+school-level: college
+school-name: Pasadena City College
+ 
+school-level: college
+school-name: University of Arizona
+ 
+military-country: US
+military-branch:  Army

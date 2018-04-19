@@ -1,0 +1,9 @@
+source-title: James Funeral Home
+source-date: 2018-01-05
+source-url: http://jamesfuneralhomelkn.com/john-hansil
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-05
+ 

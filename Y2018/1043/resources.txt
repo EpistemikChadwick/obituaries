@@ -1,0 +1,9 @@
+source-title: Hogan-Bremer-Moore Funeral Home
+source-date: 2018-01-22
+source-url: http://www.colonialchapels.com/obituaries/Darrel-Bunge/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-22
+

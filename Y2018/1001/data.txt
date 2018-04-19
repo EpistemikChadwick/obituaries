@@ -1,0 +1,16 @@
+name-last: Mugford
+name-first: Wes
+name-given: Wesley G.
+ 
+birth-date: 1942-08-12
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2018-01-01
+death-place:  US, PA, Wilkes-Barre
+ 
+school-level: secondary
+school-name:  Pittston Area HS
+school-place: US, PA, Pittston
+ 
+cemetery-name: St. Peter’s Lutheran Cemetery
+cemetery-place: US, PA, Hughestown

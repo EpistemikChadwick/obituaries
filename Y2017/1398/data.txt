@@ -1,0 +1,9 @@
+name-last: Huebner
+name-first: Ken
+ 
+death-date: 2017-12-30
+death-place:  US, NJ, Hawthorne
+ 
+school-level: college
+school-name: Florida Southern College
+ 

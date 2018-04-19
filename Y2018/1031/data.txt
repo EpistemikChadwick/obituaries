@@ -1,0 +1,11 @@
+name-last: Jamieson
+name-first: Ed
+name-given: Roy Edward
+ 
+birth-date: 1937-03-17
+birth-place: US, CO, Denver
+ 
+death-date: 2018-01-16
+ 
+cemetery-name: Star Cemetery
+cemetery-place: US, ID, Star

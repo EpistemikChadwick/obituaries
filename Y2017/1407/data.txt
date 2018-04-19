@@ -1,0 +1,15 @@
+name-last: Boltz
+name-first: Kelsey
+name-given: Kelsey Lua
+ 
+birth-date: 1930-03-31
+birth-place: US, OH, Springfield
+ 
+death-date: 2017-10-09
+ 
+school-level: secondary
+school-name:  North HS
+school-place: US, AZ, Phoenix
+ 
+school-level: college
+school-name: Phoenix College

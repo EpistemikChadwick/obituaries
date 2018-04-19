@@ -1,0 +1,8 @@
+name-last: Berman
+name-first: Norman
+name-given: Norman
+ 
+birth-date: 1928
+birth-place: US, NY, Brooklyn
+ 
+death-date: 2018-01-19

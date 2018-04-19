@@ -1,0 +1,8 @@
+source-title: Bowman Funeral Directors
+source-date: 2018-01-19
+source-url: http://www.bowmanfuneral.com/notices/ROYED-JAMIESON/services
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-19

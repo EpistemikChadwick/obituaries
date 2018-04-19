@@ -1,0 +1,20 @@
+name-last: Hansil
+name-first: John
+name-given: John W.
+ 
+birth-date: 1928
+ 
+death-date: 2018-01-04
+ 
+school-level: secondary
+school-name:  Belmont HS
+school-place: US, NC, Belmont
+ 
+school-level: college
+school-name: Western Carolina University
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Huntersville First Baptist Church Cemetery
+cemetery-place: US, NC, Huntersville

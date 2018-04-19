@@ -1,0 +1,8 @@
+source-title: The Minichi
+source-date: 2018-01-06
+source-url: https://mainichi.jp/english/articles/20180106/p2g/00m/0sp/025000c
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-06

@@ -1,0 +1,15 @@
+name-last: Esswein
+name-first: Jack
+name-given: Carlton Lee
+ 
+birth-date: 1933-06-13
+birth-place: US, MO, Cape Girardeau
+ 
+death-date: 2017-12-30
+death-place:  US, WV, Kearneysville
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Rosedale Cemetery
+cemetery-place: US, WV, Martinsburg

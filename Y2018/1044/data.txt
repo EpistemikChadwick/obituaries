@@ -1,0 +1,13 @@
+name-last: Singleton
+name-first: Stu
+name-given: Stuart Raymond
+ 
+birth-date: 1949-05-01
+birth-place: US, WA, Vancouver
+ 
+death-date: 2018-01-12
+ 
+school-level: secondary
+school-name:  Hudson's Bay HS
+school-place: US, WA, Vancouver
+

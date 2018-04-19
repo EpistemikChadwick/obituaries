@@ -1,0 +1,15 @@
+name-last: Lewis             
+name-first: Gary
+name-given: Gary F.
+ 
+birth-date: 1943-08-03
+birth-place: US, OK, Muskogee
+ 
+death-date: 2018-01-17
+ 
+school-level: secondary
+school-name:  Edison Preparatory School
+school-place: US, OK, Tulsa
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, OK, Tulsa

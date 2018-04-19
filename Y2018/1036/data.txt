@@ -1,0 +1,16 @@
+name-last: Fontana
+name-first: Charles
+name-given: Charles Joseph
+ 
+birth-date: 1929-09-21
+birth-place: US, LA, Monroe
+ 
+death-date: 2018-01-15
+death-place:  US, AL, Mobile
+ 
+school-level: secondary
+school-name:  Ouachita Parish HS
+school-place: US, LA, Monroe
+ 
+cemetery-name: Mobile Memorial Gardens
+cemetery-place: US, AL, Tillmans Corner

@@ -1,0 +1,6 @@
+name-last: Carvajal
+name-first: Marcos
+name-given: Marcos
+ 
+death-date: 2018-01-24
+death-place:  VE, , Ciudad Bolivar

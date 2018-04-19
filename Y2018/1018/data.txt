@@ -1,0 +1,11 @@
+name-last: Norton
+name-first: Wayne
+name-given: Wayne Lester
+ 
+birth-date: 1942-11-13
+birth-place: CA, MC, Winnipeg
+ 
+death-date: 2018-01-06
+ 
+school-level: college
+school-name: Whitworth University

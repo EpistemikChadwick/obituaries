@@ -1,0 +1,16 @@
+name-last: Neal
+name-first: Len
+name-given: Leonard A.
+ 
+birth-date: 1922-12-02
+birth-place: US, OR, Corvallis
+ 
+death-date: 2018-01-09
+death-place:  US, OR, Scio
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Our Lady of Lourdes Catholic Cemetery
+cemetery-place: US, OR, Jordan

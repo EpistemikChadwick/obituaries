@@ -1,0 +1,12 @@
+name-last: Reed
+name-first: Bob
+name-given: Robert Oran
+ 
+birth-date: 1928-07-19
+birth-place: US, TX, Fort Worth
+ 
+death-date: 2017-12-31
+ 
+school-level: secondary
+school-name:  North Side HS
+school-place: US, TX, Fort Worth

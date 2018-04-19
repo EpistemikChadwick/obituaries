@@ -1,0 +1,23 @@
+name-last: Ruge
+name-first: Russ
+name-given: Carl Russell
+ 
+birth-date: 1938-07-05
+birth-place: US, NY, Rhinebeck
+ 
+death-date: 2018-01-05
+death-place:  US, NY, Highland
+ 
+school-level: secondary
+school-name:  Rhinebeck Central HS
+school-place: US, NY, Rhinebeck
+ 
+school-level: college
+school-name: Rider University
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Vietnam War
+ 
+cemetery-name: Rhinebeck Cemetery
+cemetery-place: US, NY, Rhinebeck

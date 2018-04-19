@@ -1,0 +1,8 @@
+name-last: Montoya
+name-first: Ramon
+name-matrilineal: Lerma
+name-nick: El Diablo
+ 
+birth-place: MX, Baja California, Mexicali
+ 
+death-date: 2018-01-14

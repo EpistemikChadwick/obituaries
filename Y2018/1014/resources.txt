@@ -1,0 +1,8 @@
+source-title: Press-Telegram
+source-date: 2018-01-09
+source-url: https://www.presstelegram.com/2018/01/09/bob-bailey-the-babe-ruth-of-long-beach-who-played-pro-ball-for-17-years-dies-at-75/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-10

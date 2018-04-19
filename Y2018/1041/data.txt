@@ -1,0 +1,17 @@
+name-last: Demus
+name-first: Nick
+name-given: Nick
+name-suffix: Jr.
+ 
+birth-date: 1927-03-07
+birth-place: US, WV, Worthington
+ 
+death-date: 2018-01-15
+death-place:  US, WV, Worthington
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Shinnston Masonic Cemetery
+cemetery-place: US, WV, Shinnston
+ 

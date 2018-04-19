@@ -1,0 +1,8 @@
+source-title: News Times
+source-date: 2018-01-24
+source-url: http://www.legacy.com/obituaries/newstimes/obituary.aspx?n=joseph-consentino&pid=187933250&fhid=24247
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-24

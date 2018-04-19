@@ -1,0 +1,21 @@
+name-last: Parks
+name-first: Tom
+name-given: Donald T.
+ 
+birth-date: 1920-03-14
+birth-place: US, PA, Smithfield Township
+ 
+death-date: 2018-01-15
+death-place:  US, PA, Huntingdon
+ 
+school-level: secondary
+school-name:   Huntingdon HS
+school-place: US, PA, Huntingdon
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name:  Jacobs Church Cemetery
+cemetery-place: US, PA, Hesston
+

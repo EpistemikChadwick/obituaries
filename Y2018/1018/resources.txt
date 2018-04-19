@@ -1,0 +1,9 @@
+source-title: Vancouver Sun
+source-date: 2018-01-13
+source-url: http://www.legacy.com/obituaries/vancouversun/obituary.aspx?n=wayne-lester-norton&pid=187834217
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-13
+ 

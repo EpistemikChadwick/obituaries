@@ -1,0 +1,20 @@
+name-last: Solie
+name-first: Monk
+name-given: Marshall Reinhold
+ 
+birth-date: 1919-05-16
+birth-place: US, WI, Stanley
+ 
+death-date: 2017-12-22
+death-place:  US, WI, Eau Claire
+ 
+school-level: secondary
+school-name:  Cornell HS
+school-place: US, WI, Cornell
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Northern Wisconsin Veterans Memorial Cemetery
+cemetery-place: US, WI, Spooner

@@ -1,0 +1,17 @@
+name-last: Rogers
+name-first: Steve
+name-given: Steven R
+ 
+birth-date: 1947-11-19
+birth-place: US, WA, Seattle
+ 
+death-date: 2018-01-12
+death-place:  US, AZ, Tucson
+ 
+school-level: secondary
+school-name:  Bethlehem Central HS
+school-place: US, NY, Delmar
+ 
+school-level: college
+school-name: University of Massachusetts Amherst
+ 

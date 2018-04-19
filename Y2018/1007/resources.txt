@@ -1,0 +1,10 @@
+source-title: MLB.com
+source-date: 2018-01-04
+source-url: https://www.mlb.com/news/longtime-coach-rob-picciolo-passes-away/c-264260846
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-08
+ 

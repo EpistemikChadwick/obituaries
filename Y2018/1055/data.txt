@@ -1,0 +1,22 @@
+name-last: Goodman
+name-first: Stanley
+name-given: Stanley David
+ 
+birth-date: 1929
+ 
+death-date: 2018-01-28
+death-place:  US, VA, Norfolk
+ 
+school-level: secondary
+school-name:  Maury HS
+school-place: US, VA, Norfolk
+ 
+school-level: college
+school-name: University of North Carolina at Chapel Hill
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Forest Lawn Cemetery
+cemetery-place: US, VA, Norfolk

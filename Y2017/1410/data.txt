@@ -1,0 +1,8 @@
+name-last: Matlin
+name-first: Lew
+name-given: Lewis
+ 
+birth-date: 1921
+ 
+death-date: 2017-12-21
+death-place:  US, MI, Roseville

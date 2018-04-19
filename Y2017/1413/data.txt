@@ -1,0 +1,21 @@
+name-last: Agnew
+name-first: James
+name-given: James Arthur
+ 
+birth-date: 1932
+ 
+death-date: 2017-04-22
+ 
+school-level: secondary
+school-name:  Englewood HS
+school-place: US, NJ, Englewood
+ 
+school-level: college
+school-name: Montclair State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: George Washington Memorial Park
+cemetery-place: US, NJ, Paramus

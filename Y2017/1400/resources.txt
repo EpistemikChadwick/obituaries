@@ -1,0 +1,8 @@
+source-title: Houston Chronicle
+source-date: 2018-01-04
+source-url: http://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=robert-reed&pid=187718924
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-04

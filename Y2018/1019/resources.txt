@@ -1,0 +1,9 @@
+source-title: Cincinnati Enquirer
+source-date: 2018-01-14
+source-url: https://www.legacy.com/obituaries/cincinnati/obituary.aspx?n=john-frasca&pid=187839237
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-14
+ 

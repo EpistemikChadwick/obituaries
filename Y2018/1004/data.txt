@@ -1,0 +1,7 @@
+name-last: Hoshino
+name-first: Senichi
+ 
+death-date: 2018-01-04
+ 
+school-level: college
+school-name: Meiji University

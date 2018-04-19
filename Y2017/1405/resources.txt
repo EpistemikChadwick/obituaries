@@ -1,0 +1,8 @@
+source-title: Arizona Daily Sun
+source-date: 2018-01-07
+source-url: http://azdailysun.com/news/local/obituaries/raymond-albert-white/article_ab1532ba-f271-11e7-b2bf-772f88c8f8ec.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-08

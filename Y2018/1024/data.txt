@@ -1,0 +1,16 @@
+name-last: Kuver
+name-first: Bob
+name-given: Robert E.
+ 
+birth-date: 1921-12-06
+birth-place: US, OH, Cleveland
+ 
+death-date: 2018-01-14
+death-place:  US, OH, Mentor
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: All Souls Cemetery
+cemetery-place: US, OH, Chardon
+ 

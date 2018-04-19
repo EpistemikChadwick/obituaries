@@ -1,0 +1,8 @@
+source-title: Crippen & Flynn Chapels
+source-date: 2018-01-12
+source-url: http://www.crippenandflynnchapels.com/memsol.cgi?user_id=2058164
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-12

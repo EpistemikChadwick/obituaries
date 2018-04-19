@@ -1,0 +1,9 @@
+source-title: Huntingdon Daily News
+source-date: 2018-01-31
+source-url: http://www.huntingdondailynews.com/news/2018-01-18/Obituaries/Donald_T_Tom_Parks.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-31
+

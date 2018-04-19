@@ -1,0 +1,9 @@
+source-title: El Paso Times
+source-date: 2018-01-22
+source-url: http://www.elpasotimes.com/story/sports/2018/01/20/el-paso-sports-legend-moose-stubing-has-died/1051636001/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-22
+

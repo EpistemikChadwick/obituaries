@@ -1,0 +1,15 @@
+name-last: Huebner
+name-first: Kenneth
+name-given: Kenneth E.
+ 
+birth-date: 1944-05-02
+birth-place: US, NJ, Garfield
+ 
+death-date: 2017-12-30
+
+school-level: secondary
+school-name:  Garfield HS
+school-place: US, NJ, Garfield
+ 
+school-level: college
+school-name: Florida Southern College

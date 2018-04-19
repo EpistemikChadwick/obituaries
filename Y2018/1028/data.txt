@@ -1,0 +1,14 @@
+name-last: Worgul
+name-first: George
+name-given: George Stephen
+name-suffix: Sr.
+name-nick: Doc
+ 
+birth-date: 1927-01-09
+birth-place: US, NY, Queens
+ 
+death-date: 2018-01-14
+death-place:  US, FL, Naples
+ 
+cemetery-name: St. Charles Cemetery
+cemetery-place: US, NY, East Farmingdale

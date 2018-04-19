@@ -1,0 +1,17 @@
+name-last: Johnson
+name-first: Walt
+name-given: Walter Hoyt
+ 
+birth-place: US, CA, Fullerton
+ 
+death-date: 2017-12-24
+ 
+school-level: secondary
+school-name:  Avenal HS
+school-place: US, CA, Avenal
+ 
+school-level: college
+school-name: San Jose State University
+ 
+military-country: US
+military-branch:  Marines

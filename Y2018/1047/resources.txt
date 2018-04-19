@@ -1,0 +1,8 @@
+source-title: San Diego Union-Times
+source-date: 2018-01-23
+source-url: http://www.sandiegouniontribune.com/sports/padres/sd-sp-former-padres-catcher-bob-barton-dies-20180123-story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-24

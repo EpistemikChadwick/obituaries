@@ -1,0 +1,9 @@
+source-title: PureBeisbol.MX
+source-date: 2017-11-23
+source-url: http://www.purobeisbol.mx/?noticia=fallece-mr-hit
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-26
+ 

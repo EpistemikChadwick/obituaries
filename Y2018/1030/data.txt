@@ -1,0 +1,15 @@
+name-last: Rinehart
+name-first: James
+name-given: James A.
+ 
+birth-date: 1925-09-20
+birth-place: US, WV, Huntington
+ 
+death-date: 2018-01-18
+death-place:  US, OH, Columbus
+ 
+school-level: college
+school-name: Marshall University
+ 
+military-country: US
+military-branch:  Navy

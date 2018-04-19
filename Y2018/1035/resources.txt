@@ -1,0 +1,8 @@
+source-title: Porterville Recorder
+source-date: 2018-01-20
+source-url: http://www.legacy.com/obituaries/recorderonline/obituary.aspx?n=doug-harvey&pid=187906320
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-21

@@ -1,0 +1,16 @@
+name-last: Voice
+name-first: Michael
+name-given: Michael E.
+name-nick: Cotton
+ 
+birth-date: 1924-10-04
+birth-place: US, PA, Whitehall
+ 
+death-date: 2018-01-20
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. John Fisher Holy Resurrection Cemetery
+cemetery-place: US, PA, North Catasauqua

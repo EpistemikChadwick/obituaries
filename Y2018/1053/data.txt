@@ -1,0 +1,19 @@
+name-last: Jackson
+name-first: Rick
+name-given: Richard A.
+name-suffix: Jr.
+ 
+birth-date: 1944-12-16
+ 
+death-date: 2018-01-24
+death-place:  US, WI, Racine
+ 
+school-level: secondary
+school-name:  St. Catherine’s HS
+school-place: US, WI, Racine
+ 
+school-level: college
+school-name: Rockhurst University
+ 
+cemetery-name: West Lawn Memorial Park
+cemetery-place: US, WI, Mt. Pleasant

@@ -1,0 +1,8 @@
+name-last: Frasca
+name-first: John
+name-given: John Paul
+ 
+birth-date: 1921-01-31
+ 
+death-date: 2018-01-10
+

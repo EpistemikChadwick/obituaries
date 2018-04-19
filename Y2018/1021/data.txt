@@ -1,0 +1,22 @@
+name-last: Cosenza
+name-first: Buddy
+name-given: Charles John
+name-suffix: Jr.
+ 
+birth-date: 1940-01-01
+ 
+death-date: 2018-01-13
+death-place:  US, LA, Alexandria
+ 
+school-level: secondary
+school-name:  Menard HS
+school-place: US, LA, Alexandria
+ 
+school-level: college
+school-name: Nicholls State University
+ 
+school-level: college
+school-name: Northwestern State University
+ 
+cemetery-name: Alexandria Memorial Gardens
+cemetery-place: US, LA, Alexandria

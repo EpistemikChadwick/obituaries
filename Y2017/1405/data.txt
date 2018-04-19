@@ -1,0 +1,12 @@
+name-last: White
+name-first: Ray
+name-given: Raymond Albert
+ 
+birth-date: 1928-03-28
+birth-place: US, CA, San Francisco
+ 
+death-date: 2017-12-28
+ 
+school-level: college
+school-name: St. Mary’s College of California
+ 

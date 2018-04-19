@@ -1,0 +1,8 @@
+source-title: TheNewOrleansAdvocate.com
+source-date: 2018-01-24
+source-url: http://www.legacy.com/obituaries/theneworleansadvocate/obituary.aspx?n=edward-anthony-bernard&pid=187948255&fhid=2639
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-24

@@ -1,0 +1,20 @@
+name-last: Tieman
+name-first: Jack
+name-given: John Edward
+ 
+birth-date: 1926-08-27
+birth-place: US, IL, Spring Valley
+ 
+death-date: 2018-01-11
+death-place:  US, WI, Sheboygan
+ 
+school-level: secondary
+school-name:  St. Bede Academy
+school-place: US, IL, Peru
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Restland Cemetery
+cemetery-place: US, IL, Mendota

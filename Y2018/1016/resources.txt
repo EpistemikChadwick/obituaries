@@ -1,0 +1,8 @@
+source-title: Greenlee Funeral Home
+source-date: 2018-01-11
+source-url: http://www.greenleefuneralhome.com/obituary/john-sloan
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-11

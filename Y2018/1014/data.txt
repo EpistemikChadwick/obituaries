@@ -1,0 +1,9 @@
+name-last: Bailey
+name-first: Bob
+ 
+death-date: 2018-01-09
+death-place:  US, NV, Las Vegas
+ 
+school-level: secondary
+school-name:  Woodrow Wilson HS
+school-place: US, CA, Long Beach

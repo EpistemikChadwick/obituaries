@@ -1,0 +1,17 @@
+name-last: Flora
+name-first: Ted
+name-given: Ted A.
+ 
+birth-date: 1930-10-21
+birth-place: US, MI, National Mine
+ 
+death-date: 2017-04-09
+death-place:  US, SD, North Sioux City
+ 
+school-level: secondary
+school-name:  Crane HS
+school-place: US, IL, Chicago
+ 
+cemetery-name: All Saints Cemetery
+cemetery-place: US, IL, Des Plaines
+ 

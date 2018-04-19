@@ -1,0 +1,8 @@
+source-title: Kramer Funeral Home
+source-date: 2018-01-14
+source-url: http://www.kramerfunerals.com/obituaries/Charles-John-Consenza/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-14

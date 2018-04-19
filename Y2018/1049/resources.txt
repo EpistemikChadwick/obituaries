@@ -1,0 +1,9 @@
+source-title: ElNuevoHerald.com
+source-date: 2018-01-25
+source-url: http://www.elnuevoherald.com/deportes/article196594309.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-25
+ 

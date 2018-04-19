@@ -1,0 +1,16 @@
+name-last: Bubash
+name-first: Robert
+name-given: Robert B.
+ 
+birth-date: 1940-02-03
+ 
+death-date: 2018-01-12
+death-place:  US, PA, Pittsburgh
+ 
+school-level: secondary
+school-name:  Har-Brack HS
+school-place: US, PA, Natrona Heights
+ 
+cemetery-name: Our Lady of Hope Cemetery
+cemetery-place: US, PA, Tarentum
+

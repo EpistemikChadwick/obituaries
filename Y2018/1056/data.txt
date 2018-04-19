@@ -1,0 +1,20 @@
+name-last: Anders
+name-first: Jim
+name-given: James K.
+ 
+birth-date: 1930-06-04
+birth-place: US, KY, Corbin
+ 
+death-date: 2018-01-27
+death-place:  US, AL, Birmingham
+ 
+school-level: college
+school-name: Cumberland University
+ 
+school-level: college
+school-name: Union College
+school-place: US, KY, Barbourville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

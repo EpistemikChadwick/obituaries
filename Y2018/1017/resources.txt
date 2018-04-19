@@ -1,0 +1,9 @@
+source-title:  Austin American-Statesman
+source-date: 2018-01-13
+source-url: http://www.legacy.com/obituaries/statesman/obituary.aspx?n=richard-roberson&pid=187832102&fhid=5106
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-13
+ 

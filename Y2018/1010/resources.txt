@@ -1,0 +1,8 @@
+source-title: Lincoln County News
+source-date: 2018-01-08
+source-url: http://lcnme.com/obituaries/clifford-chippendale/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-09

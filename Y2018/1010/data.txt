@@ -1,0 +1,9 @@
+name-last: Chippendale
+name-first: Cliff
+name-given: Clifford
+ 
+death-date: 2018-01-03
+ 
+school-level: secondary
+school-name:  Kearny HS 
+school-place: US, NJ, Kearny

@@ -1,0 +1,8 @@
+source-title: GoUpstate.com
+source-date: 2018-01-08
+source-url: http://www.goupstate.com/sports/20180108/longtime-chesnee-baseball-coach-dean-jones-dies-at-79
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-09

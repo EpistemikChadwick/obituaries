@@ -1,0 +1,12 @@
+name-last: Consentino
+name-first: Joe
+name-given: Joseph P.
+ 
+death-date: 2018-01-19
+ 
+school-level: college
+school-name: St. John’s University
+school-place: US, NY, New York
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, CT, Ridgefield

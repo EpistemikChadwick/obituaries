@@ -1,0 +1,15 @@
+name-last: Jasinski
+name-first: Steve
+name-given: Stephen Chester
+ 
+birth-date: 1950-12-26
+birth-place: US, MA, Chicopee
+ 
+death-date: 2018-01-08
+ 
+school-level: secondary
+school-name:  Chicopee Comprehensive HS
+school-place: US, MA, Chicopee
+ 
+school-level: college
+school-name: Colby College

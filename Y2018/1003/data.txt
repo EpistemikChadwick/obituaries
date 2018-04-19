@@ -1,0 +1,13 @@
+name-last: Cozza
+name-first: Carm
+name-given: Carmen Louis
+ 
+birth-date: 1930-06-10
+birth-place: US, OH, Parma
+ 
+death-date: 2018-01-04
+death-place:  US, CT, New Haven
+ 
+school-level: college
+school-name: Miami University
+school-place: US, OH, Oxford

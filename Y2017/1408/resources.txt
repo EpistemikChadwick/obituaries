@@ -1,0 +1,8 @@
+source-title: USC.edu
+source-date: 2018-01-17
+source-url: http://news.usc.edu/134914/in-memoriam-former-usc-baseball-player-jerry-siegert-82/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-17

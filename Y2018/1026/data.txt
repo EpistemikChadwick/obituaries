@@ -1,0 +1,17 @@
+name-last: Santaniello
+name-first: Dick
+name-given: Richard C.
+ 
+birth-date: 1934-07-25
+ 
+death-date: 2018-01-16
+ 
+school-level: secondary
+school-name:  La Salle Academy
+school-place: US, RI, Providence
+ 
+school-level: college
+school-name: College of the Holy Cross
+ 
+cemetery-name: St. Francis Cemetery
+cemetery-place: US, RI, Pawtucket

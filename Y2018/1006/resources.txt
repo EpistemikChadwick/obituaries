@@ -1,0 +1,8 @@
+source-title: Quinn-Shalz Funeral Home
+source-date: 2018-01-07
+source-url: http://www.quinn-shalz.com/notices/Collier-Black
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-07

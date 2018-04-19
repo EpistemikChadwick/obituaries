@@ -1,0 +1,19 @@
+name-last: Johnson
+name-first: Dodd
+name-given: Dodd William
+ 
+birth-place: US, TX, Austin
+ 
+death-date: 2018-01-11
+death-place:  US, CO, Colorado Springs
+ 
+school-level: secondary
+school-name:  Westlake HS
+school-place: US, TX, Austin
+ 
+school-level: college
+school-name: McLennan Community College
+ 
+school-level: college
+school-name: University of Texas
+ 

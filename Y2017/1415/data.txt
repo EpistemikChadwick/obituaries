@@ -1,0 +1,10 @@
+name-last: Koehler
+name-first: Bob
+birth-place: US, NY, Bronx
+ 
+death-date: 2017-12-12
+ 
+meta-throws: Left
+ 
+school-level: college
+school-name: Columbia University

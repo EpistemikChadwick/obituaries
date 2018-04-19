@@ -1,0 +1,16 @@
+name-last: Harvey
+name-first: Doug
+name-given: Harold Douglas
+ 
+birth-date: 1930-03-03
+birth-place: US, CA, Southgate
+ 
+death-date: 2018-01-13
+death-place:  US, CA, Visalia
+ 
+school-level: secondary
+school-name:  Central Union HS
+school-place: US, CA, El Centro
+ 
+school-level: college
+school-name: San Diego State University

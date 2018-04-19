@@ -1,0 +1,27 @@
+name-last: Crump
+name-first: Don
+name-given: Clyde Donald
+ 
+birth-date: 1925-05-14
+birth-place: US, UT, Herriman
+ 
+death-date: 2018-01-11
+death-place:  US, UT, Pleasant Grove
+ 
+school-level: secondary
+school-name:  Bingham HS
+school-place: US, UT, Copperton
+ 
+school-level: college
+school-name: Brigham Young University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: Pleasant Grove City Cemetery 
+cemetery-place: US, UT, Pleasant Grove

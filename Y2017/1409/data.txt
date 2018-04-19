@@ -1,0 +1,5 @@
+name-last: Weir
+name-first: Bill
+ 
+death-date: 2017-10-10
+death-place:  CA, ON, Burlington

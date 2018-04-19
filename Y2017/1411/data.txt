@@ -1,0 +1,5 @@
+name-last: Suarez
+name-first: Miguel
+ 
+death-date: 2017-11-22
+death-place:  MX, Sinaloa, Guasave

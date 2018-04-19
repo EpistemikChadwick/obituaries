@@ -1,0 +1,8 @@
+source-title: Virginian Pilot
+source-date: 2018-01-29
+source-url: https://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=stanley-goodman&pid=188003583&fhid=5773
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-29

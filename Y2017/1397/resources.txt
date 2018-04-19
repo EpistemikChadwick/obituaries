@@ -1,0 +1,8 @@
+source-title: Oxley-Heard Funeral Directors
+source-date: 2018-01-01
+source-url: https://www.oxleyheard.com/rodger-godwin/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-01

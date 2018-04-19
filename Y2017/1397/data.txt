@@ -1,0 +1,16 @@
+name-last: Godwin
+name-first: Roger
+name-given: Roger O.
+ 
+birth-date: 1959-04-26
+birth-place: US, FL, Fernandina Beach
+ 
+death-date: 2017-12-25
+death-place:  US, FL, Fernandina Beach
+ 
+school-level: secondary
+school-name:  Fernandina Beach HS
+school-place: US, FL, Fernandina Beach
+ 
+school-level: college
+school-name: Georgia Southern University

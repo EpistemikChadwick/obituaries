@@ -1,0 +1,23 @@
+name-last: Bunge
+name-first: Darrel
+name-given: Darrel Lee
+ 
+birth-date: 1940-05-25
+birth-place: US, IA, Clarence
+ 
+death-date: 2018-01-15
+death-place:  US, IA, Clear Lake
+ 
+school-level: secondary
+school-name: Clarence HS
+school-place: US, IA, Clarence
+ 
+school-level: college
+school-name: University of Northern Iowa
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Memorial Park Cemetery
+cemetery-place: US, IA, Mason City
+

@@ -1,0 +1,14 @@
+name-last: Siegert
+name-first: Jerry
+ 
+death-date: 2017-12-23
+death-place:  US, CA, San Diego
+ 
+school-level: secondary
+school-name:  Dorsey HS
+school-place: US, CA, Los Angeles
+ 
+school-level: college
+school-name: University of Southern California
+ 
+cemetery-place: US, UT, Salt Lake City

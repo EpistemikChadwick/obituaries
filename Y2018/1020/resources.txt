@@ -1,0 +1,8 @@
+source-title: Hodapp Funeral Homes
+source-date: 2018-01-14
+source-url: http://www.hodappfuneralhome.com/obituary/john-paul-frasca/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-14

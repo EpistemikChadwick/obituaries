@@ -1,0 +1,7 @@
+name-last: Solomine
+name-first: Ronald
+name-given: Ronald Russell
+ 
+birth-date: 1940-10-22
+ 
+death-date: 2017-12-28
