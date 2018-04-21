@@ -1,0 +1,16 @@
+name-last: Eaton
+name-first: Dick
+name-given: George Richard
+ 
+birth-date: 1930-01-04
+birth-place: US, OH, Columbus
+ 
+death-date: 2018-01-08
+death-place:  US, OH, London
+ 
+school-level: secondary
+school-name:  North HS
+school-place: US, OH, Columbus
+ 
+military-country: US
+military-branch:  Army

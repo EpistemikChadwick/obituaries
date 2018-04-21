@@ -1,0 +1,14 @@
+name-last: Harden
+name-first: Robert
+name-given: Robert T.
+ 
+birth-date: 1923-07-31
+ 
+death-date: 2018-02-12
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Gate of Heaven Cemetery
+cemetery-place: US, OH, Cincinnati

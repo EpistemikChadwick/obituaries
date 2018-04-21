@@ -1,0 +1,8 @@
+source-title: Skylawn Memorial Park
+source-date: 2018-02-05
+source-url: https://www.skylawnmemorialpark.com/obits/richard-clegg/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-05

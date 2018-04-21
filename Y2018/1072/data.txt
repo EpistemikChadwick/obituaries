@@ -1,0 +1,16 @@
+name-last: Collins
+name-first: Walter
+name-given: Walter William
+ 
+birth-date: 1930
+birth-place: US, FL, Graceville
+ 
+death-date: 2018-01-31
+death-place:  US, AL, Fadette
+ 
+school-level: secondary
+school-name:  Graceville HS
+school-place: US, FL, Graceville
+ 
+military-country: US
+military-branch:  Air Force

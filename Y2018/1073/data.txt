@@ -1,0 +1,21 @@
+name-last: Martin
+name-first: Bill
+name-given: Billie Joe
+ 
+birth-date: 1928-04-09
+birth-place: US, AR, Gainesville
+ 
+death-date: 2018-02-01
+ 
+school-level: secondary
+school-name:  Clover Bend  HS
+school-place: US, AR, Clover Bend 
+ 
+school-level: college
+school-name: Hendrix College
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Garden Hills Cemetery
+cemetery-place: US, AL, Opelika

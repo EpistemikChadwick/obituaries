@@ -1,0 +1,12 @@
+name-last: Debus
+name-first: Ron
+name-given: Ronald F.
+ 
+birth-date: 1937-07-02
+birth-place: US, KS, Kansas City
+ 
+death-date: 2018-01-30
+ 
+school-level: secondary
+school-name:  Bishop Ward HS
+school-place: US, KS, Kansas City

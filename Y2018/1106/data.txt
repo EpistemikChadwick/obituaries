@@ -1,0 +1,9 @@
+name-last: Woodyard
+name-first: Bucky
+name-given: Stanley R.
+ 
+death-date: 2018-02-02
+ 
+school-level: secondary
+school-name:  Pearisburg HS
+school-place: US, VA, Pearisburg

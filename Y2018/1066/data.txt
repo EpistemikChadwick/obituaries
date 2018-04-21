@@ -1,0 +1,16 @@
+name-last: Berryman
+name-first: Shelly
+name-given: Rue Shelly
+name-suffix: Jr.
+ 
+birth-date: 1945-02-17
+birth-place: US, FL, Orlando
+ 
+death-date: 2018-01-26
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Sarasota National Cemetery
+cemetery-place: US, FL, Sarasota

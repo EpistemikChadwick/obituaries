@@ -1,0 +1,17 @@
+name-last: Lussier
+name-first: Pete
+name-given: Edmond A.
+ 
+birth-date: 1931-08-07
+birth-place: US, RI, Pawtucket
+ 
+death-date: 2018-02-18
+death-place:  US, RI, Manville
+ 
+school-level: secondary
+school-name:  Central Falls HS
+school-place: US, RI, Central Falls
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

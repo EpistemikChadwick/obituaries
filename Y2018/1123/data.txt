@@ -1,0 +1,16 @@
+name-last: Gallagher
+name-first: Rick
+name-given: Richard Lee
+ 
+birth-date: 1947-12-11
+birth-place: US, CA, Long Beach
+ 
+death-date: 2018-02-23
+ 
+school-level: secondary
+school-name:  Glendale HS
+school-place: US, CA, Glendale
+ 
+school-level: college
+school-name: California State Polytechnic University, Pomona
+ 

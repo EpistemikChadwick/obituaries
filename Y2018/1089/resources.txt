@@ -1,0 +1,8 @@
+source-title: Delhomme Funeral Home
+source-date: 2018-02-12
+source-url: http://www.delhommefuneralhome.com/obituaries/William-Ryckman/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-12

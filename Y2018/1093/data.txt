@@ -1,0 +1,20 @@
+name-last: Ross
+name-first: Max
+name-given: Maxlee Ray
+ 
+birth-date: 1928-06-14
+birth-place: US, PA, State College
+ 
+death-date: 2018-02-12
+death-place:  US, OH, Waldo
+ 
+school-level: secondary
+school-name:  State College HS
+school-place: US, PA, State College
+ 
+school-level: college
+school-name: West Chester University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

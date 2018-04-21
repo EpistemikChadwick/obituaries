@@ -1,0 +1,9 @@
+source-title: Milford Daily News
+source-date: 2018-02-20
+source-url: http://www.legacy.com/obituaries/milforddailynews/obituary.aspx?n=russell-n-gifford&pid=188230373&fhid=20801
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-20
+ 

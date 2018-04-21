@@ -1,0 +1,12 @@
+name-last: Alusik
+name-first: John
+name-nick: Gus
+ 
+birth-date: 1921-11-19
+birth-place: US, PA, Ashley
+ 
+death-date: 2018-01-31
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

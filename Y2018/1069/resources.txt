@@ -1,0 +1,9 @@
+source-title: The Courier
+source-date: 2018-02-04
+source-url: http://wcfcourier.com/lifestyles/announcements/obituaries/john-l-jack-jennings/article_623cbd7c-8bc7-5b44-b3b8-02e3ec78db0b.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-05
+ 

@@ -1,0 +1,17 @@
+name-last: Schlesiger
+name-first: John
+name-given: John Joseph
+name-suffix: Jr.
+ 
+birth-date: 1950-03-12
+birth-place: US, NE, Omaha
+ 
+death-date: 2018-01-22
+death-place:  US, CA, Clear Lake
+ 
+school-level: secondary
+school-name:  Eureka HS
+school-place: US, CA, Eureka
+ 
+school-level: college
+school-name: College of the Redwoods

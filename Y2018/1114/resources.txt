@@ -1,0 +1,8 @@
+source-title: Cremation Society of Pennsylvania
+source-date: 2018-02-23
+source-url: https://www.cremationsocietyofpa.com/obits/obituary.php?id=702840
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-23

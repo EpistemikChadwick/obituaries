@@ -1,0 +1,12 @@
+name-last: Moon
+name-first: Wally
+name-given: Wallace Wade
+ 
+birth-date: 1930-04-03
+birth-place: US, AR, Bay
+ 
+death-date: 2018-02-09
+death-place:  US, TX, Bryan
+ 
+school-level: college
+school-name: Texas A&M University

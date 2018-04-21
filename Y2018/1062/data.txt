@@ -1,0 +1,15 @@
+name-last: Ford
+name-first: Bill
+name-given: William
+ 
+birth-date: 1930-09-04
+birth-place: US, MA, Medford
+ 
+death-date: 2018-01-30
+death-place:  US, FL, Daytona Beach
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Sea Pines Memorial Gardens
+cemetery-place: US, FL, Edgewater

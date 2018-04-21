@@ -1,0 +1,7 @@
+name-last: Nardinelli
+name-first: Kenneth
+name-given: Kenneth Eugene
+ 
+birth-date: 1931-03-28
+ 
+death-date: 2018-02-10

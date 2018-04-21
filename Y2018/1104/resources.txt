@@ -1,0 +1,8 @@
+source-title: Wayland Town Crier
+source-date: 2018-02-18
+source-url: http://www.legacy.com/obituaries/wickedlocal-wayland/obituary.aspx?n=milton-b-lewis&pid=188215479&fhid=20814
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-18

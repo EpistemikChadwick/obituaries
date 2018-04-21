@@ -1,0 +1,10 @@
+name-last: Maher
+name-first: Dick
+name-given: Clarence Richard
+ 
+birth-date: 1919
+ 
+death-date: 2018-02-14
+ 
+cemetery-name: Puritan Lawn Memorial Park
+cemetery-place: US, MA, Peabody

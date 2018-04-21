@@ -1,0 +1,9 @@
+source-title: San Diego Union-Times
+source-date: 2018-02-13
+source-url: http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=robert-wilbur-barton&pid=188159658&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-24
+ 

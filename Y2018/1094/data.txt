@@ -1,0 +1,18 @@
+name-last: Morgan
+name-first: Dan
+name-given: Arthur Daniel
+ 
+birth-date: 1938-08-08
+birth-place: US, NC, Waynesville
+ 
+death-date: 2018-02-14
+ 
+school-level: secondary
+school-name:  Enka HS
+school-place: US, NC, Candler
+ 
+school-level: college
+school-name: University of South Carolina
+ 
+cemetery-name: Piney Mountain Methodist Cemetery
+cemetery-place: US, NC, Candler

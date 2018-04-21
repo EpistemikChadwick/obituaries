@@ -1,0 +1,20 @@
+name-last: Pepper
+name-first: Hugh
+name-given: Hugh McLaurin
+name-suffix: III
+ 
+birth-date: 1930-01-18
+birth-place: US, MS, Vaughan
+ 
+death-date: 2018-02-04
+death-place:  US, MS, Ocean Springs
+ 
+school-level: college
+school-name: Holmes Community College
+school-place: US, MS, Goodman
+ 
+school-level: college
+school-name: University of Southern Mississippi
+ 
+cemetery-name: Crestlawn Memorial Park
+cemetery-place: US, MS, Ocean Springs

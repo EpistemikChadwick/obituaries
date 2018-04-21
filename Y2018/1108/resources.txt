@@ -1,0 +1,8 @@
+source-title: Buffalo News
+source-date: 2018-02-14
+source-url: http://buffalonews.com/2018/02/14/george-a-johengen-89-principal-of-lake-shore-central-high-school/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-19

@@ -1,0 +1,17 @@
+name-last: Dorton
+name-first: Lamar
+name-given: Marion Lamar
+ 
+birth-date: 1927-11-17
+birth-place: US, NC, Ansonville
+ 
+death-date: 2018-02-02
+death-place:  US, NC, Statesville
+ 
+school-level: secondary
+school-name:  Landis HS
+school-place: US, NC, Landis
+ 
+school-level: college
+school-name: Catawba College
+ 

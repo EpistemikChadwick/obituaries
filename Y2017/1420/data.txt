@@ -1,0 +1,10 @@
+name-last: Martinez
+name-first: Romelio
+name-matrilineal: Hernandez
+name-nick: Gordo
+ 
+birth-date: 1965-03-22
+birth-place: CU, ,Bejucal
+ 
+death-date: 2017-12-17
+death-place:  CU, , Havana

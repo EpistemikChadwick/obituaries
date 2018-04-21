@@ -1,0 +1,9 @@
+source-title: Inland Valley Daily Bulletin
+source-date: 2018-02-27
+source-url: http://www.legacy.com/obituaries/ivdailybulletin/obituary.aspx?n=richard-lee-gallagher&pid=188300696
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-27
+ 

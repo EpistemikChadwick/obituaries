@@ -1,0 +1,9 @@
+source-title: Nelson Funeral Home
+source-date: 2018-02-05
+source-url: http://www.nelsonfuneral.com/obituaries/Lynn-Boyd-Bridwell?obId=2931680#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-05
+ 

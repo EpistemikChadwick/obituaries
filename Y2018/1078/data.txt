@@ -1,0 +1,11 @@
+name-last: Choate
+name-first: Don
+ 
+birth-place: US, MO, Potosi
+ 
+death-date: 2018-02-04
+death-place:  US, IL, Fairview Heights
+ 
+school-level: secondary
+school-name:  East St. Louis HS
+school-place: US, IL, East St. Louis

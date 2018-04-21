@@ -1,0 +1,15 @@
+name-last: Regalado
+name-first: Rudy
+name-given: Rudolph Valentino
+ 
+birth-date: 1930-05-21
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2018-02-12
+ 
+school-level: college
+school-name: University of Southern California
+ 
+military-country: US
+military-conflict:  Korean War
+

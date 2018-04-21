@@ -1,0 +1,21 @@
+name-last: Ligon
+name-first: Roddey
+name-given: Roddey Miller
+name-suffix: Jr.
+ 
+birth-date: 1924-09-21
+birth-place: US, SC, Rock Hill
+ 
+death-date: 2018-01-31
+ 
+school-level: secondary
+school-name:  Rutherfordton-Spindale Central HS
+school-place: US, NC, Rutherfordton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

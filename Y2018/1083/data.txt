@@ -1,0 +1,12 @@
+name-last: Carpenter
+name-first: Fred
+name-given: Fredericke Peter
+ 
+birth-date: 1938-03-17
+birth-place: US, CA, Sacramento
+ 
+death-date: 2018-02-03
+ 
+school-level: secondary
+school-name:  Notre Dame HS
+school-place: US, CA, Sherman Oaks

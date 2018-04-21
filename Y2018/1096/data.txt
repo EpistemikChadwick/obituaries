@@ -1,0 +1,11 @@
+name-last: Espinola
+name-first: Jim
+name-given: James Robert
+ 
+birth-place: US, NH, Nashua
+ 
+death-date: 2018
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War

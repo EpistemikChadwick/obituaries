@@ -1,0 +1,7 @@
+name-last: McIntyre
+name-first: Mikel
+name-given: Mikel Laney
+ 
+death-date: 2017-05-08
+death-place:  US, CA, Rancho Cordova
+ 

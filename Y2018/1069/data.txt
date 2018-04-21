@@ -1,0 +1,20 @@
+name-last: Jennings
+name-first: Jack
+name-given: John L.
+ 
+birth-date: 1925-01-13
+birth-place: US, IA, Waterloo
+ 
+death-date: 2018-01-26
+death-place:  US, IA, Independence
+ 
+school-level: secondary
+school-name:  East HS
+school-place: US, IA, Waterloo
+ 
+school-level: college
+school-name: University of Northern Iowa
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II

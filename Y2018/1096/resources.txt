@@ -1,0 +1,8 @@
+source-title:  Sacramento Bee
+source-date: 2018-02-18
+source-url: http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=james-robert-espinola-jim&pid=188207374
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-18

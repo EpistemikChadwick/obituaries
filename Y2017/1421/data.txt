@@ -1,0 +1,5 @@
+name-last: Osuna
+name-first: Cesar
+ 
+death-date: 2017-08-11
+death-place:  MX, Sinaloa, Mazatlan

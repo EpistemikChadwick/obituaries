@@ -1,0 +1,21 @@
+name-last: Fritz
+name-first: Paul
+name-given: Paul John
+ 
+birth-date: 1929-05-17
+birth-place: US, IL, Belleville
+ 
+death-date: 2018-01-31
+death-place:  US, PA, Lancaster
+ 
+school-level: secondary
+school-name:  East Peoria Community HS
+school-place: US, IL, East Peoria
+ 
+school-level: college
+school-name: Washington University
+school-place: US, MO, St. Louis
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War

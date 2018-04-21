@@ -1,0 +1,15 @@
+name-last: Nelson
+name-first: Doug
+name-given: Douglas Dean
+ 
+birth-date: 1924-03-12
+birth-place: US, NE, Wausa
+ 
+death-date: 2018-01-29
+death-place:  US, FL, Fernandina Beach
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Amelia Island Plantation Chapel Columbarium
+cemetery-place: US, FL, Nassau County

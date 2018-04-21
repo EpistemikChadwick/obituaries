@@ -1,0 +1,16 @@
+name-last: Francona
+name-first: Tito
+name-given: John P.
+ 
+birth-date: 1933-11-04
+birth-place: US, PA, Aliquippa
+ 
+death-date: 2018-02-13
+death-place:  US, PA, Beaver
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Joseph Catholic Cemetery
+cemetery-place: US, PA, New Brighton

@@ -1,0 +1,10 @@
+name-last: Gifford
+name-first: Tim
+name-given: Russell N.
+ 
+death-date: 2018-02-17
+death-place:  US, MA, Wrentham
+ 
+school-level: secondary
+school-name:  Franklin HS
+school-place: US, MA, Franklin

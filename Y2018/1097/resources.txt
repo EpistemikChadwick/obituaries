@@ -1,0 +1,9 @@
+source-title: Scranton Times
+source-date: 2018-02-16
+source-url: http://www.legacy.com/obituaries/thetimes-tribune/obituary.aspx?n=marino-zazzera-benedetta-zazzera&pid=188197466&fhid=28251
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-18
+ 

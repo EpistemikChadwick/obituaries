@@ -1,0 +1,8 @@
+source-title: Florida Times-Union
+source-date: 2018-02-02
+source-url: http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=douglas-dean-nelson&pid=188051790
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-02

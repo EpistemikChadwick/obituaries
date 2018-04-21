@@ -1,0 +1,12 @@
+name-last: Barton
+name-first: Bob
+name-given: Robert Wilbur
+ 
+birth-date: 1941-07-30
+birth-place: US, OH, Norwood
+ 
+death-date: 2018-01-15
+ 
+school-level: secondary
+school-name:  Holmes HS
+school-place: US, KY, Covington

@@ -1,0 +1,20 @@
+name-last: DeMarco
+name-first: Les
+name-given: Leslie E.
+ 
+birth-date: 1929-02-05
+birth-place: US, MA, Wakefield
+ 
+death-date: 2018-02-02
+death-place:  US, MA, Wakefield
+ 
+school-level: secondary
+school-name:  Wakefield HS
+school-place: US, MA, Wakefield
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Patrick Cemetery
+cemetery-place: US, MA, Stoneham

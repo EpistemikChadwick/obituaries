@@ -1,0 +1,25 @@
+name-last: Anstaett
+name-first: Carroll
+name-given: Carroll W.
+ 
+birth-date: 1925-10-12
+birth-place: US, OH, Batavia
+ 
+death-date:  2018-01-31
+death-place:  US, NY, Olean
+ 
+school-level: secondary
+school-name:  Batavia HS
+school-place: US, OH, Batavia
+ 
+school-level: college
+school-name: Miami University of Ohio
+ 
+school-level: college
+school-name: United States Naval Academy
+ 
+school-level: college
+school-name: Syracuse University
+ 
+military-country: US
+military-branch:  Army

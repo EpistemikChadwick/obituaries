@@ -1,0 +1,9 @@
+source-title: Olean Times Herald
+source-date: 2018-02-02
+source-url: http://www.legacy.com/obituaries/oleantimesherald/obituary.aspx?n=carroll-anstaett&pid=188050941
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-02
+ 

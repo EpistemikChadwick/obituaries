@@ -1,0 +1,19 @@
+name-last: Clegg
+name-first: Dick
+name-given: Richard
+ 
+birth-date: 1927-04-14
+birth-place: US, CA, Pomona
+ 
+death-date: 2017-12-21
+death-place:  US, AZ, Tucson
+ 
+school-level: secondary
+school-name:  Sequoia HS
+school-place: US, CA, Redwood City
+ 
+school-level: college
+school-name: Stanford University
+ 
+military-country: US
+military-branch:  Army

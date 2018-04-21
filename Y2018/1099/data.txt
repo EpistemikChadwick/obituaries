@@ -1,0 +1,19 @@
+name-last: Norton
+name-first: Dick
+name-given: Richard G.
+ 
+birth-date: 1928-04-24
+birth-place: US, NY, Franklin
+ 
+death-date: 2018-02-15
+death-place:  US, NY, Hornell
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  South New Berlin HS
+school-place: US, NY, South New Berlin
+ 
+military-country: US
+military-branch: Navy 
+military-conflict:  World War II

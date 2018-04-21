@@ -1,0 +1,16 @@
+name-last: Seltzer
+name-first: Bill
+name-given: William Morris
+ 
+birth-date: 1950-06-14
+birth-place: US, PA, Philadelphia
+ 
+death-date: 2018-01-28
+death-place:  US, MD, Hagerstown
+ 
+school-level: secondary
+school-name:  South Hagerstown HS
+school-place: US, MD, Hagerstown
+ 
+school-level: college
+school-name: Wake Forest University

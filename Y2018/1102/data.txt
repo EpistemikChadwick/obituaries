@@ -1,0 +1,12 @@
+name-last: Brewer
+name-first: Tom
+name-given: Thomas Austin
+name-suffix: Jr.
+ 
+birth-date: 1931-09-03
+birth-place: US, NC, Wadesboro
+ 
+death-date: 2018-02-15
+ 
+military-country: US
+military-branch:  Army

@@ -1,0 +1,10 @@
+source-title: Hodapp Funeral Home
+source-date: 2018-02-24
+source-url: http://www.hodappfuneralhome.com/obituary/robert-t-harden/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-24
+ 
+ 

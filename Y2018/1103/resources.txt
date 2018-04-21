@@ -1,0 +1,9 @@
+source-title: Bellows Funeral Home
+source-date: 2018-02-18
+source-url: http://www.bellowsfuneralchapel.com/notices/EdmondPete-Lussier
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-18
+ 

@@ -1,0 +1,8 @@
+source-title: Kiser Funeral Home
+source-date: 2018-02-18
+source-url: http://www.kiserfuneralhome.com/notices/ThomasTomAustin-Brewer
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-18

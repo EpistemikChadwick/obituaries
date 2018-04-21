@@ -1,0 +1,7 @@
+name-last: Dagres
+name-first: Junior
+name-given: Angelo George
+ 
+birth-date: 1934-05-04
+ 
+death-date:  2017-12-23

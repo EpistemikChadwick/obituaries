@@ -1,0 +1,15 @@
+name-last: Lewis
+name-first: Milt
+name-given: Milton Blair
+ 
+birth-date: 1926-08-11
+ 
+death-date: 2018-02-13
+death-place:  US, FL, Boca Raton
+ 
+school-level: secondary
+school-name:  Brookline HS
+school-place: US, MA, Brookline
+ 
+cemetery-name: Temple Emanuel Cemetery
+cemetery-place: US, MA, Lawrence

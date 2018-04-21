@@ -1,0 +1,8 @@
+source-title: Oceanside Mortuary
+source-date: 2018-02-18
+source-url: http://www.oceansidemortuary.com/obituaries/Robert-W-Barton-?obId=2876785#/celebrationWall
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-24

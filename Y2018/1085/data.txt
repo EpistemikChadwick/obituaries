@@ -1,0 +1,10 @@
+name-last: Stowell
+name-first: Frank
+name-given: Frank Gerald
+ 
+birth-date: 1939-01-23
+ 
+death-date: 2018-01-26
+ 
+military-country: US
+military-branch:  Navy

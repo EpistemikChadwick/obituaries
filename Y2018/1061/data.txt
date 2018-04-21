@@ -1,0 +1,5 @@
+name-last: Gamble
+name-first: Oscar
+ 
+death-date: 2018-01-31
+death-place:  US, AL, Birmingham

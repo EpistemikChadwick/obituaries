@@ -1,0 +1,11 @@
+name-last: Dietzel
+name-first: Roy
+name-given: Leroy Louis
+ 
+birth-date: 1931-01-09
+ 
+death-date: 2018-02-03
+death-place:  US, NC, Charlotte
+ 
+cemetery-name: Forest Lawn West Cemetery
+cemetery-place: US, NC, Charlotte

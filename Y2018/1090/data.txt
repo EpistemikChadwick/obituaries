@@ -1,0 +1,14 @@
+name-last: Miller
+name-first: Joe
+name-given: Joseph L.
+ 
+birth-date: 1934-09-29
+birth-place: US, NJ, Jersey City
+ 
+death-date: 2018-02-11
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: St. Gertrude Cemetery
+cemetery-place: US, NJ, Colonia

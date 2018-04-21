@@ -1,0 +1,16 @@
+name-last: Filogamo
+name-first: Martin
+name-given: Martin Joseph
+ 
+birth-date: 1927-04-18
+birth-place: US, MA, Belmont
+ 
+death-date: 2018-02-22
+death-place:  US, AR, Texarkana
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, AR, Texarkana

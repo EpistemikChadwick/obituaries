@@ -1,0 +1,8 @@
+source-title: Cibercuba
+source-date: 2017-12-18
+source-url: https://www.cibercuba.com/noticias/2017-12-18-u192379-e146802-s27066-fallece-52-anos-slugger-romelio-martinez
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-03

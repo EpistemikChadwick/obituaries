@@ -1,0 +1,20 @@
+name-last: Whalen
+name-first: Jerry
+name-given: Jerry Robert
+ 
+birth-date: 1926-04-04
+birth-place: US, MO, St. Joseph
+ 
+death-date: 2018-02-06
+death-place:  US, CO, Littleton
+ 
+school-level: secondary
+school-name:  Christian Brothers HS
+school-place: US, MO, St. Joseph
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Mt. Olivet Cemetery
+cemetery-place: US, MO, St. Joseph

@@ -1,0 +1,17 @@
+name-last: Logan
+name-first: Vance
+name-given: Vance Earl
+name-suffix: Jr.
+ 
+death-date: 2018-02-05
+death-place:  US, GA, Augusta
+ 
+school-level: college
+school-name: Presbyterian College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Westover Memorial Park
+cemetery-place: US, GA, Augusta

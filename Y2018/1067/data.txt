@@ -1,0 +1,7 @@
+name-last: Towers
+name-first: Kevin
+ 
+birth-date: 1961
+birth-place: US, OR, Medford
+ 
+death-date: 2018-01-30

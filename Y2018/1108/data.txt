@@ -1,0 +1,18 @@
+name-last: Johengen
+name-first: George
+name-given: George A.
+ 
+birth-date: 1928-06-25
+ 
+death-date: 2018-02-08
+death-place:  US, NY, Fredonia
+ 
+school-level: secondary
+school-name:  North Collins HS
+school-place: US, NY, North Collins
+ 
+school-level: college
+school-name: Michigan State University
+ 
+military-country: US
+military-branch:  Army

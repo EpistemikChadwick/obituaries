@@ -1,0 +1,18 @@
+name-last: Ryckman
+name-first: Billy
+name-given: William Thomas
+name-suffix: Sr.
+ 
+birth-date: 1933-06-13
+birth-place: US, LA, New Orleans
+ 
+death-date: 2018-02-10
+ 
+school-level: secondary
+school-name:  Lafayette HS
+school-place: US, LA, Lafayette
+ 
+school-level: college
+school-name: University of Louisiana at Lafayette
+ 
+cemetery-place: US, LA, New Orleans

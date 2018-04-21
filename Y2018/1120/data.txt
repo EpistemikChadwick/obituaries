@@ -1,0 +1,9 @@
+name-last: Hamilton
+name-first: Jack
+name-given: Jack Edwin
+ 
+birth-date: 1938-12-25
+birth-place: US, IA, Burlington
+ 
+death-date: 2018-02-22
+death-place:  US, MO, Branson

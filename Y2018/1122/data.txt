@@ -1,0 +1,13 @@
+name-last: Britt
+name-first: Dempsie
+name-given: Dempsie Ray
+name-suffix: Sr.
+ 
+birth-date: 1929-05-14
+ 
+death-date: 2018-02-25
+death-place:  US, VA, Ivor
+ 
+cemetery-name: Ivor Cemetery
+cemetery-place: US, VA, Ivor
+

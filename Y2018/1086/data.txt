@@ -1,0 +1,16 @@
+name-last: Choate
+name-first: Donald
+name-given: Donald L.
+ 
+birth-date: 1938-07-02
+birth-place: US, MO, Potosi
+ 
+death-date: 2018-02-04
+death-place:  US, IL, Fairview Heights
+ 
+school-level: secondary
+school-name:  East St. Louis HS
+school-place: US, IL, East St. Louis
+ 
+cemetery-name: Valhalla Gardens of Memory and Mausoleum
+cemetery-place: US, IL, Belleville

@@ -1,0 +1,8 @@
+source-title: News-Press
+source-date: 2018-02-14
+source-url: http://www.newspressnow.com/obituaries/whalen-jerry-r/article_4e1d8ed6-f8f0-5f17-8897-d1b01b54bc80.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-19

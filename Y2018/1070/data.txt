@@ -1,0 +1,18 @@
+name-last: Bridwell
+name-first: Lynn
+name-given: Lynn Boyd
+ 
+birth-date: 1939-09-21
+birth-place: US, KY, Livingston County
+ 
+death-date: 2018-01-25
+death-place:  US, AR, Rogers
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Marion HS
+school-place: US, KY, Marion
+ 
+school-level: college
+school-name: Murray State University

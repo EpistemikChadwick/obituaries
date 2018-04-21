@@ -1,0 +1,22 @@
+name-last: Beaman
+name-first: Nate
+name-given: Gerald O.
+ 
+birth-date: 1924-08-07
+birth-place: US, KS, Uniontown
+ 
+death-date: 2018-02-21
+death-place:  US, KS, Fort Scott
+ 
+school-level: college
+school-name: Fort Scott Community College
+ 
+school-level: college
+school-name: Pittsburg State University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Uniontown Cemetery
+cemetery-place: US, KS, Uniontown

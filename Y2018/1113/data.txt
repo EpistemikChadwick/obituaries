@@ -1,0 +1,23 @@
+name-last: Simpson
+name-first: Roger
+name-given: Roger Carl
+ 
+birth-date: 1945
+birth-place: US, TX, Laredo
+ 
+death-date: 2018-02-13
+death-place:  US, NJ, Cherry Hill
+ 
+school-level: secondary
+school-name:   Pitman HS
+school-place: US, NJ,  Pitman
+ 
+school-level: college
+school-name:  Tennessee Technological University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: St. Thomas Episcopal Church Cemetery
+cemetery-place: US, NJ, Glassboro

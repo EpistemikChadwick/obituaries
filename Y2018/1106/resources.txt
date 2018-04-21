@@ -1,0 +1,9 @@
+source-title: Roanoke Times
+source-date: 2018-02-18
+source-url: http://www.roanoke.com/obituaries/woodyard-stanley-r/article_a3337d1d-283b-5308-974b-1121fcb309f1.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-19
+ 

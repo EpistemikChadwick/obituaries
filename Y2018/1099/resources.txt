@@ -1,0 +1,9 @@
+source-title: Hornell Evening Tribune
+source-date: 2018-02-18
+source-url: http://www.legacy.com/obituaries/eveningtribune/obituary.aspx?n=richard-g-norton-dick&pid=188220646&fhid=27527
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-18
+ 

@@ -1,0 +1,19 @@
+name-last: Messinger
+name-first: Richard
+name-given: Richard L.
+ 
+birth-date: 1925-04-05
+birth-place: US, PA, Cleona
+ 
+death-date: 2018-02-19
+ 
+school-level: secondary
+school-name:  Lebanon HS
+school-place: US, PA, Lebanon
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Grand View Memorial Park 
+cemetery-place: US, PA, Lebanon

@@ -1,0 +1,19 @@
+name-last: Roach
+name-first: John
+name-given: John James
+ 
+birth-date: 1929-09-02
+birth-place: US, WI, Appleton
+ 
+death-date: 2018-02-24
+ 
+school-level: secondary
+school-name:  Edgewood HS
+school-place: US, WI, Madison
+ 
+school-level: college
+school-name: University of Wisconsin at Madison
+ 
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, WI, Madison
+ 

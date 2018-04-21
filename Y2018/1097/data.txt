@@ -1,0 +1,11 @@
+name-last: Zazzera
+name-first: Marino
+name-given: Marino
+ 
+birth-place: US, PA, Carbondale
+ 
+death-date: 2018-02-14
+death-place:  US, PA, Dunmore
+ 
+cemetery-name: Our Mother of Sorrows Catholic Cemetery
+cemetery-place: US, PA, Carbondale

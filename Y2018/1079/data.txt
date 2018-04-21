@@ -1,0 +1,16 @@
+name-last: Bass
+name-first: Earl
+name-given: Alonzo Earl
+ 
+birth-date: 1952-11-26
+birth-place: US, SC, Cayce
+ 
+death-date: 2018-02-04
+death-place:  US, FL Miami
+ 
+school-level: secondary
+school-name:  Airport HS
+school-place: US, SC, West Columbia
+ 
+school-level: college
+school-name: University of South Carolina

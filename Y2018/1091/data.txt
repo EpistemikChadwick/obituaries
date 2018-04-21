@@ -1,0 +1,8 @@
+name-last: Barton
+name-first: Bob
+name-given: Robert Wilbur
+ 
+birth-date: 1941-07-30
+ 
+death-date: 2018-01-15
+death-place:  US, CA, Vista

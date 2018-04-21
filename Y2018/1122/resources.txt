@@ -1,0 +1,9 @@
+source-title: R.W. Baker & Company Funeral Home
+source-date: 2018-02-27
+source-url: http://rwbakerfh.com/obituaries/dempsie-ray-britt-sr
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-02-27
+

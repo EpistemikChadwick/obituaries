@@ -1,0 +1,20 @@
+name-last: O'Connor
+name-first: Tom
+name-given: Thomas Edward
+ 
+birth-date: 1937-06-05
+ 
+death-date: 2018-02-17
+ 
+school-level: secondary
+school-name:  All Hallows HS
+school-place: US, NY, Bronx
+ 
+school-level: college
+school-name: Manhattan College
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Gethsemane Cemetery
+cemetery-place: US, NY, Rockland Lake

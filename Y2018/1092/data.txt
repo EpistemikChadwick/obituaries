@@ -1,0 +1,9 @@
+name-last: Wulff
+name-first: Clay
+name-given: Clayton Richard
+ 
+birth-date: 1934-06-03
+birth-place: US, KS,
+ 
+death-date: 2018-02-07
+death-place:  US, UT, St. George
