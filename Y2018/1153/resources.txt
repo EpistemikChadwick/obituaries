@@ -1,0 +1,9 @@
+source-title: Elias, Kallal & Schaaf Funeral Home
+source-date: 2018-03-12
+source-url: http://www.eliaskallalandschaaf.com/obituaries/Loyd-Simpson-2/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-12
+

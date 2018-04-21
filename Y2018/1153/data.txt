@@ -1,0 +1,21 @@
+name-last: Simpson
+name-first: Wayne
+name-given: Loyd Wayne
+ 
+birth-date: 1930-09-05
+birth-place: US, IL, Hartford
+ 
+death-date: 2018-03-10
+death-place:  US, IL, Godfrey
+ 
+school-level: secondary
+school-name:  Roxana HS
+school-place: US, IL, Roxana
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  Korean War
+ 
+cemetery-name: Rose Lawn Memory Gardens
+cemetery-place: US, IL, Bethalto
+

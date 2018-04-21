@@ -1,0 +1,22 @@
+name-last: Henry
+name-first: Fred
+name-given: Fredrick S.
+ 
+birth-date: 1930-07-11
+birth-place: US, TN, Jackson
+ 
+death-date: 2018-03-02
+ 
+school-level: secondary
+school-name:  Jackson HS
+school-place: US, TN, Jackson
+ 
+school-level: college
+school-name: University of Alabama
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Arlington National Cemetery
+cemetery-place: US, VA, Arlington

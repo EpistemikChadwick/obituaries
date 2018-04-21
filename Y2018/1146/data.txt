@@ -1,0 +1,15 @@
+name-last: Engel
+name-first: Bob
+name-given: Robert Allen
+ 
+birth-date: 1933-10-11
+birth-place: US, CA, Atascadero
+ 
+death-date: 2018-03-05
+death-place:  US, NV, Fallon
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Bakersfield National Cemetery
+cemetery-place: US, CA, Arvin

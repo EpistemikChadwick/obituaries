@@ -1,0 +1,9 @@
+source-title: Atlanta Journal-Constitution
+source-date: 2018-03-12
+source-url: https://www.myajc.com/blog/high-school-sports/legendary-clarke-central-football-coach-henderson-dead/oKCYBYxMBImYWEVMov9q8I/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-12
+

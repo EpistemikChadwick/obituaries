@@ -1,0 +1,17 @@
+name-last: Koger
+name-first: Jerry
+name-given: Jerry
+ 
+birth-date: 1932-10-09
+birth-place: US, FL, Kissimmee
+ 
+death-date: 2018-03-21
+ 
+school-level: secondary
+school-name:  Osceola HS
+school-place: US, FL, Kissimmee
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

@@ -1,0 +1,8 @@
+name-last: Napier
+name-first: Jim
+name-given: James
+ 
+birth-date: 1938-08-02
+ 
+death-date: 2018-02-11
+

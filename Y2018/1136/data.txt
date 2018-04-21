@@ -1,0 +1,9 @@
+name-last: Kraft
+name-first: Edward
+name-given: Edward
+ 
+birth-date: 1936-05-01
+birth-place: US, CA, San Francisco
+ 
+death-date: 2018-02-27
+

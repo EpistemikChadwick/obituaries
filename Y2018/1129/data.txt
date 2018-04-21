@@ -1,0 +1,15 @@
+name-last: Overdorf
+name-first: Ray
+name-given: Raymond S.
+name-suffix: Jr.
+ 
+birth-place: US, PA, Phoenixville
+ 
+death-date: 2018-02-26
+death-place:  US, PA, Royersford
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Limerick Garden of Memories
+cemetery-place: US, PA, Limerick

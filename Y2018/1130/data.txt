@@ -1,0 +1,18 @@
+name-last: Anderson
+name-first: John
+name-given: John Paul
+ 
+death-date: 2018-03-02
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Ensley HS
+school-place: US, AL, Birmingham
+ 
+school-level: college
+school-name: University of Alabama
+ 
+cemetery-name: Elmwood Cemetery
+cemetery-place: US, AL, Birmingham
+

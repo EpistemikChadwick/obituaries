@@ -1,0 +1,9 @@
+source-title: Florida Times-Union
+source-date: 2018-03-23
+source-url: http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=quinton-gray&pid=188532726&fhid=5612
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-23
+

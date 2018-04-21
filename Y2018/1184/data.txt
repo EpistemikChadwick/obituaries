@@ -1,0 +1,7 @@
+name-last: Beck
+name-first: George
+name-given: George J.
+ 
+birth-date: 1932-04-06
+ 
+death-date: 2018-03-24

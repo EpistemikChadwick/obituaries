@@ -1,0 +1,22 @@
+name-last: Eskra
+name-first: Scott
+name-given: Scott Steven
+ 
+birth-date: 1975-10-04
+birth-place: US, CA, Eureka
+ 
+death-date: 2018-03-07
+ 
+school-level: secondary
+school-name:  Eureka HS
+school-place: US, CA, Eureka
+ 
+school-level: college
+school-name: Lassen Community College
+ 
+school-level: college
+school-name: College of the Redwoods
+ 
+school-level: college
+school-name: University of Mississippi
+

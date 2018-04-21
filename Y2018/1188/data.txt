@@ -1,0 +1,20 @@
+name-last: Erwin
+name-first: Al
+name-given: Alan Raymond
+ 
+birth-date: 1929-11-19
+birth-place: US, KS, Spearville
+ 
+death-date: 2018-03-23
+ 
+school-level: secondary
+school-name:  Louisville HS
+school-place: US, IL, Louisville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: National Memorial Cemetery of Arizona
+cemetery-place: US, AZ, Phoenix
+

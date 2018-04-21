@@ -1,0 +1,9 @@
+source-title: Solo Beisbol
+source-date: 2018-02-28
+source-url: http://www.solobeisbol.mx/index.php/columnas/al-bat/21162-juan-de-dios-villarreal-un-naranjero-de-epoca
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-04
+

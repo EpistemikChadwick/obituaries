@@ -1,0 +1,7 @@
+name-last: Henry
+name-first: Fred
+name-given: Fredrick Savage
+ 
+birth-date: 1930-07-11
+ 
+death-date: 2018-03-02

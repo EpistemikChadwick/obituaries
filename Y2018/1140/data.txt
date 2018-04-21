@@ -1,0 +1,6 @@
+name-last: Eskra
+name-first: Scott
+ 
+death-date: 2018-03-07
+death-place:  US, CA, Hydesville
+

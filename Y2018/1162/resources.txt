@@ -1,0 +1,9 @@
+source-title: Williams Funeral Home
+source-date: 2018-03-19
+source-url: http://www.williamsfuneralhome.net/obituaries/Jim-Hicks/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-19
+

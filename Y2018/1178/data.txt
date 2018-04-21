@@ -1,0 +1,26 @@
+name-last: Garrison
+name-first: Robert
+name-given: Robert Martin
+ 
+birth-date: 1922-06-22
+birth-place: US, IL, Benton
+ 
+death-date: 2018-03-20
+death-place:  US, IL, Benton
+ 
+school-level: secondary
+school-name:  Benton HS
+school-place: US, IL, Benton
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Vietnam War
+

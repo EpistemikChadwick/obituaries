@@ -1,0 +1,15 @@
+name-last: Sally
+name-first: Gene
+name-given: James Eugene
+ 
+birth-place: US, MO, Rolla
+ 
+death-date: 2018-03-16
+ 
+school-level: college
+school-name: University of Missouri
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

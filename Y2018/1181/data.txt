@@ -1,0 +1,24 @@
+name-last: Anderson
+name-first: Andy
+name-given: Clifford Glen
+name-suffix: Jr.
+ 
+birth-date: 1934-02-06
+birth-place: US, NE, Ong
+ 
+death-date: 2018-03-21
+death-place:  US, NE, Columbus
+ 
+school-level: secondary
+school-name:  Eagle HS
+school-place: US, NE, Eagle
+ 
+school-level: college
+school-name: Nebraska Wesleyan University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Eagle Cemetery
+cemetery-place: US, NE, Eagle
+

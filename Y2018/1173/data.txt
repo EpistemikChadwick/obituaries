@@ -1,0 +1,23 @@
+name-last: Hall
+name-first: Everett
+name-given: Everett George
+ 
+birth-date: 1926-11-14
+birth-place: US, IN, Gary
+ 
+death-date: 2018-03-19
+ 
+school-level: secondary
+school-name:  Carmi HS
+school-place: US, IL, Carmi
+ 
+school-level: college
+school-name: University of Illinois
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Rose Lawn Cemetery
+cemetery-place: US, TX, Tyler
+

@@ -1,0 +1,9 @@
+source-title: DecaturDaily.com
+source-date: 2018-03-03
+source-url: http://www.decaturdaily.com/obituaries/edward-ray-stockton/article_db6f41e4-8052-5943-9c95-8e5961aef98a.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-04
+

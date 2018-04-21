@@ -1,0 +1,10 @@
+name-last: Levato
+name-first: Anthony
+name-given: Anthony L.
+ 
+birth-date: 1934-09-16
+birth-place: US, IL, Chicago
+ 
+death-date: 2018-02-26
+death-place:  US, IL, Palos Heights
+

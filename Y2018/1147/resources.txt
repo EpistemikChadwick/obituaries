@@ -1,0 +1,9 @@
+source-title: East Bay Times
+source-date: 2018-03-09
+source-url: https://www.eastbaytimes.com/2018/03/09/anthony-lil-arnerich-alameda-civic-icon-and-youth-sports-advocate-dies-at-89/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-10
+

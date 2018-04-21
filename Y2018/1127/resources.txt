@@ -1,0 +1,10 @@
+source-title: Orange County Register
+source-date: 2018-02-28
+source-url: https://www.ocregister.com/2018/02/28/cal-state-fullerton-remembers-baseball-standout-ryan-owens-39/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-04
+ 
+ 

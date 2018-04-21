@@ -1,0 +1,19 @@
+name-last: Kammel
+name-first: Gerry
+name-given: Gerald Wayne
+ 
+birth-date: 1947-05-11
+birth-place: US, CA, Los Angeles
+ 
+death-date: 2018-03-08
+ 
+school-level: secondary
+school-name:  Excelsior HS
+school-place: US, CA, Norwalk
+ 
+school-level: college
+school-name: Chapman University
+ 
+military-country: US
+military-branch:  Army
+

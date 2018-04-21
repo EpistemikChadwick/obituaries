@@ -1,0 +1,17 @@
+name-last: Pinkston
+name-first: Carmen
+name-given: Carmen Dean
+ 
+birth-date: 1920-07-18
+birth-place: US, ID, Moscow
+ 
+death-date: 2018-03-02
+death-place:  US, AZ, Peoria
+ 
+school-level: secondary
+school-name:  Zillah HS
+school-place: US, WA, Zillah
+ 
+cemetery-name: National Memorial Cemetery of Arizona
+cemetery-place: US, AZ, Phoenix
+

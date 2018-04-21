@@ -1,0 +1,11 @@
+name-last: LeMay
+name-first: Dick
+name-given: Richard Paul
+name-suffix: Sr.
+ 
+birth-date: 1938-08-28
+birth-place: US, OH, Cincinnati
+ 
+death-date: 2018-03-19
+death-place:  US, MO, Kansas City
+

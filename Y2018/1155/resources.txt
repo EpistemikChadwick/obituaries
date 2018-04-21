@@ -1,0 +1,9 @@
+source-title: Atlanta Journal-Constitution
+source-date: 2018-03-14
+source-url: https://www.legacy.com/obituaries/atlanta/obituary.aspx?page=lifestory&pid=188183080
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-12
+

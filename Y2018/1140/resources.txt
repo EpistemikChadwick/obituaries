@@ -1,0 +1,9 @@
+source-title: North Coast Journal
+source-date: 2018-03-08
+source-url: https://www.northcoastjournal.com/NewsBlog/archives/2018/03/08/former-crabs-infielder-killed-in-logging-accident
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-08
+

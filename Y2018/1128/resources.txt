@@ -1,0 +1,9 @@
+source-title: Kansas City Star
+source-date: 2018-03-01
+source-url: http://www.legacy.com/obituaries/kansascity/obituary.aspx?n=cameron-rex-jury&pid=188323931
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-04
+

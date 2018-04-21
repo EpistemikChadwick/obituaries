@@ -1,0 +1,9 @@
+source-title: StatesmanJournal
+source-date: 2018-03-06
+source-url: http://www.legacy.com/obituaries/statesmanjournal/obituary.aspx?n=edward-kraft&pid=188366623
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-06
+

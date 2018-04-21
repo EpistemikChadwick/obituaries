@@ -1,0 +1,18 @@
+name-last: Harding
+name-first: Norm
+name-given: Norman Dean
+name-nick: Stormin’ Norman
+ 
+birth-date: 1939-02-02
+birth-place: US, WA, Walla Walla
+ 
+death-date: 2018-03-17
+death-place: US, WA, Spokane Valley
+ 
+school-level: secondary
+school-name:  John R. Rogers HS
+school-place: US, WA, Spokane
+ 
+school-level: college
+school-name: Whitworth University
+

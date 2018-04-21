@@ -1,0 +1,16 @@
+name-last: Palantino
+name-first: Robert
+name-given: Robert J.
+ 
+birth-date: 1922-07-30
+birth-place: US, NY, Utica
+ 
+death-date: 2018-03-05
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, NY, Lee
+

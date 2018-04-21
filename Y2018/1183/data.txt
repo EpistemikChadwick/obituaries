@@ -1,0 +1,19 @@
+name-last: Sensenbrenner
+name-first: Dave
+name-given: David
+name-nick: Lefty
+ 
+birth-date: 1957-03-20
+ 
+death-date: 2018-03-17
+ 
+school-level: secondary
+school-name:  Castle HS
+school-place: US, IN, Newburgh
+ 
+school-level: college
+school-name: University of Southern Indiana
+ 
+cemetery-name: Rose Hill Cemetery
+cemetery-place: US, IN, Newburgh
+

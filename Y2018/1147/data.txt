@@ -1,0 +1,15 @@
+name-last: Arnerich
+name-first: Anthony
+name-nick: Lil
+ 
+death-date: 2018-03-09
+death-place:  US, CA, Alameda
+ 
+school-level: secondary
+school-name:  McClymonds HS
+school-place: US, CA, Oakland
+ 
+school-level: secondary
+school-name:  Oakland Technical HS
+school-place: US, CA, Oakland
+

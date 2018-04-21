@@ -1,0 +1,7 @@
+name-last: Stroughter
+name-first: Stephen
+name-given: Stephen Lewis
+ 
+death-date: 2018-03-06
+death-place:  US, CA, Fresno
+

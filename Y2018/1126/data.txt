@@ -1,0 +1,16 @@
+name-last: Dobson
+name-first: Jim
+name-given: James Winford
+name-nick: Dobber
+ 
+birth-date: 1939-04-02
+birth-place: US, OK, Oklahoma City
+ 
+death-date: 2018-02-26
+ 
+school-level: secondary
+school-name:  Capitol Hill HS
+school-place:  US, OK, Oklahoma City
+ 
+school-level: college
+school-name: Oklahoma State University

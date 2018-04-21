@@ -1,0 +1,13 @@
+name-last: Enold
+name-first: Jim
+name-given: James Milo
+ 
+birth-date: 1939-03-04
+ 
+death-date: 2018-03-20
+death-place:  US, OH, Leesville
+ 
+school-level: secondary
+school-name:  Conotton Valley HS
+school-place: US, OH, Bowerston
+

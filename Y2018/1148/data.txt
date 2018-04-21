@@ -1,0 +1,19 @@
+name-last: Scarpa
+name-first: Leo
+name-given: Elio
+ 
+birth-date: 1933-09-01
+birth-place: US, NJ, Jersey City
+ 
+death-date: 2018-03-10
+ 
+school-level: secondary
+school-name:  James J. Ferris HS
+school-place: US, NJ, Jersey City
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, NJ, Brielle
+

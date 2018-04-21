@@ -1,0 +1,8 @@
+source-title: Stewart Family Funeral Home
+source-date: 2018-03-22
+source-url: http://www.stewartfamilyfuneral.com/obituaries/Everett-Hall-3/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-22

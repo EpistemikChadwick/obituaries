@@ -1,0 +1,16 @@
+name-last: Jury
+name-first: Cam
+name-given: Cameron Rex
+ 
+birth-date: 1926-11-25
+birth-place: US, MI, Alpena
+ 
+death-date: 2018-02-26
+death-place:  US, MO, North Kansas City
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Resurrection Cemetery
+cemetery-place: US, MO, Kansas City
+

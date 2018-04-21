@@ -1,0 +1,12 @@
+name-last: Cotnoir
+name-first: Jerry
+name-given: Jerome
+ 
+birth-date: 1924
+ 
+death-date: 2018-02-16
+death-place:  CA, QC, Trois-Rivières
+ 
+cemetery-name: St. Michel Cemetery
+cemetery-place: CA, QC, Trois-Rivières
+

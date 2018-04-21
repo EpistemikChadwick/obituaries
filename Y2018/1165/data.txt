@@ -1,0 +1,10 @@
+name-last: Charles
+name-first: Ed
+name-given: Edwin Douglas
+ 
+birth-date: 1933-04-29
+birth-place: US, FL, Daytona Beach
+ 
+death-date: 2018-03-15
+death-place:  US, NY, Queens
+

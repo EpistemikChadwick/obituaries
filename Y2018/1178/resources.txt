@@ -1,0 +1,9 @@
+source-title: Pate Funeral Home
+source-date: 2018-03-23
+source-url: http://www.patefh.com/sitemaker/sites/HOBBSJ1/obit.cgi?user=91450370_RGarrison
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-23
+

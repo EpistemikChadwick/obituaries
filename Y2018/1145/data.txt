@@ -1,0 +1,16 @@
+name-last: Timmerman
+name-first: John
+name-given: John Albert
+name-suffix: Sr.
+ 
+birth-date: 1925-10-15
+birth-place: US, SC, Edgefield
+ 
+death-date: 2018-03-08
+ 
+school-level: college
+school-name: Clemson University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II

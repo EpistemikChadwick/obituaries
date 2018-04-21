@@ -1,0 +1,9 @@
+source-title: Dugan Funeral Chapel
+source-date: 2018-03-04
+source-url: http://www.duganchapel.com/obituaries/Vaughn-E-Hazen?obId=2975773#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-04
+

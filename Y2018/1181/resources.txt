@@ -1,0 +1,9 @@
+source-title: Gass Haney Funeral Home
+source-date: 2018-03-26
+source-url: http://www.gasshaneyfh.com/obituary.php?obitid=10236
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-26
+

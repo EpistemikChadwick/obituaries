@@ -1,0 +1,9 @@
+source-title: Guerrillero
+source-date: 2018-02-27
+source-url: http://www.guerrillero.cu/la-columna-de-osaba/3604-hasta-siempre-remberto-concepcion.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-11
+

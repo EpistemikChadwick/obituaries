@@ -1,0 +1,8 @@
+source-title: Strano & Feeley Funeral Home
+source-date: 2018-03-28
+source-url: http://www.stranofeeley.com/obituaries/George-Beck-7/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-28

@@ -1,0 +1,17 @@
+name-last: Troyer
+name-first: Bob
+name-given: Robert D.
+ 
+birth-date: 1932-06-08
+birth-place: US, OH, Walnut Creek
+ 
+death-date: 2018-03-16
+death-place:  US, OH, Walnut Creek
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. John’s United Church of Christ Cemetery
+cemetery-place: US, OH, Walnut Creek
+

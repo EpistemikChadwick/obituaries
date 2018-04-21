@@ -1,0 +1,9 @@
+source-title: Trident Society
+source-date: 2018-03-23
+source-url: http://www.legacy.com/obituaries/trident-society/obituary.aspx?n=Milton-Osteen&lc=2858&pid=187028874&mid=7609529
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-23
+

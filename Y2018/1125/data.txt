@@ -1,0 +1,12 @@
+name-last: Middlebrooks
+name-first: Al
+name-given: Claude Alfred
+name-suffix: Jr.
+ 
+birth-date: 1933-03-04
+ 
+death-date: 2018-02-25
+ 
+school-level: secondary
+school-name:  Jonesboro HS
+school-place: US, GA, Jonesboro

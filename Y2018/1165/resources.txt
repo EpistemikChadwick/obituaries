@@ -1,0 +1,8 @@
+source-title: New York Times
+source-date: 2018-03-15
+source-url: https://www.nytimes.com/2018/03/15/obituaries/ed-charles-a-mainstay-of-the-miracle-mets-dies-at-84.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-19

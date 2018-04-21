@@ -1,0 +1,19 @@
+name-last: Chartier
+name-first: Donald
+name-given: Donald A.
+ 
+birth-date: 1924-08-06
+birth-place: US, NH, Milford
+ 
+death-date: 2018-03-08
+ 
+meta-throws: Left
+ 
+school-level: secondary
+school-name:  Milford HS
+school-place: US, NH, Milford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+

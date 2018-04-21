@@ -1,0 +1,13 @@
+name-last: Stroughter
+name-first: Stephen
+name-given: Stephen Lewis
+ 
+birth-date: 1952-03-15
+ 
+death-date: 2018-03-06
+death-place:  US, CA, Fresno
+ 
+school-level: secondary
+school-name:  Redwood HS
+school-place: US, CA, Visalia
+

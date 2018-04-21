@@ -1,0 +1,14 @@
+name-last: Clark
+name-first: Wayne
+name-given: Wayne
+ 
+death-date: 2018-03-23
+death-place:  US, SC, Greenville
+ 
+school-level: secondary
+school-name:  J. L. Mann HS
+school-place: US, SC, Greenville
+ 
+cemetery-name: Resthaven Memorial Gardens
+cemetery-place: US, SC, Greenville
+

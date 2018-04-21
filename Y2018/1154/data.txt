@@ -1,0 +1,15 @@
+name-last: Henderson
+name-first: Billy
+ 
+birth-date: 1928-06-02
+ 
+death-date: 2018-02-14
+death-place:  US, GA, Athens
+ 
+school-level: secondary
+school-name:  Lanier HS
+school-place: US, GA, Macon
+ 
+school-level: college
+school-name: University of Georgia
+

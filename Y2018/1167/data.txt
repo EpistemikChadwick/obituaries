@@ -1,0 +1,14 @@
+name-last: Zeratsky
+name-first: Dick
+name-given: Richard J.
+ 
+birth-date: 1933-02-19
+birth-place: US, WI, Marinette
+ 
+death-date: 2018-03-18
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Nicolet Memorial Gardens
+cemetery-place: US, WI, Green Bay

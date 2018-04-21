@@ -1,0 +1,8 @@
+source-title: Orlando Sentinel
+source-date: 2018-02-28
+source-url: http://www.legacy.com/obituaries/orlandosentinel/obituary.aspx?n=harry-collias&pid=188312703
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-04

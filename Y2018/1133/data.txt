@@ -1,0 +1,12 @@
+name-last: Kuhlman
+name-first: Ronald
+name-given: Ronald Charles
+ 
+birth-date: 1935-11-20
+ 
+death-date: 2018-02-27
+death-place:  US, GA, Fort Oglethorpe
+ 
+military-country: US
+military-branch:  Air Force
+

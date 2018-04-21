@@ -1,0 +1,13 @@
+name-last: Cranshaw
+name-first: Bruce
+name-given: Bruce Raymond
+ 
+birth-date: 1937-07-29
+birth-place: US, RI, Central Falls
+ 
+death-date: 2018-03-04
+ 
+school-level: secondary
+school-name:  Cumberland HS
+school-place: US, RI, Cumberland
+

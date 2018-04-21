@@ -1,0 +1,9 @@
+name-last: Hicks
+name-first: Jim
+name-given: James A.
+ 
+birth-date: 1935-01-07
+birth-place: US, TX, Gainesville
+ 
+death-date: 2018-03-15
+

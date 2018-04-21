@@ -1,0 +1,11 @@
+name-last: Ervin
+name-first: Donald
+name-given: Donald F.
+ 
+birth-date: 1932-02-22
+ 
+death-date: 2018-02-24
+ 
+cemetery-name: Missouri Veterans Cemetery
+cemetery-place: US, MO, Springfield
+

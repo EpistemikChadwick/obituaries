@@ -1,0 +1,13 @@
+name-last: Sardinha
+name-first: John
+name-given: John Thomas
+ 
+birth-date: 1931-12-21
+birth-place: US, HI, Pu’unene
+ 
+death-date: 2018-02-19
+death-place:  US, HI, Kahului
+ 
+cemetery-name: Maui Memorial Park
+cemetery-place: US, HI, Wailuku
+

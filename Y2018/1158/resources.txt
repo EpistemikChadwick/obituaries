@@ -1,0 +1,9 @@
+source-title: Bakersfield Californian
+source-date: 2018-03-13
+source-url: http://www.legacy.com/obituaries/bakersfield/obituary.aspx?n=gerald-wayne-kammel&pid=188434105&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-13
+

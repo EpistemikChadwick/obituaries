@@ -1,0 +1,16 @@
+name-last: Gray
+name-first: Quinton
+name-given: Quinton E.
+ 
+birth-date: 1934-10-18
+birth-place: US, OK, Mangum
+ 
+death-date: 2018-03-20
+death-place:  US, FL, Jacksonville
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Jacksonville National Cemetery
+cemetery-place: US, FL, Jacksonville
+

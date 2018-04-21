@@ -1,0 +1,17 @@
+name-last: Heim
+name-first: Wayne
+name-given: Wayne Gordon
+ 
+birth-date: 1932-04-21
+birth-place: US, PA, East Prospect
+ 
+death-date: 2018-03-09
+ 
+school-level: secondary
+school-name:  Red Lion HS
+school-place: US, PA, Red Lion
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+

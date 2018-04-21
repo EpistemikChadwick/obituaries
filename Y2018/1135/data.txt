@@ -1,0 +1,16 @@
+name-last: Hazen
+name-first: Vaughn
+name-given: Vaughn E.
+ 
+birth-date: 1924-09-30
+ 
+death-date: 2018-02-22
+death-place:  US, NE, Fremont
+ 
+school-level: secondary
+school-name:  Omaha North HS
+school-place: US, NE, Omaha
+ 
+military-country: US
+military-branch:  Navy
+

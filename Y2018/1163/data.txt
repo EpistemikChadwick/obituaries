@@ -1,0 +1,12 @@
+name-last: Harding
+name-first: Norm
+ 
+death-date: 2018-03-17
+ 
+school-level: secondary
+school-name:  John R. Rogers HS
+school-place: US, WA, Spokane
+ 
+school-level: college
+school-name: Whitworth University
+

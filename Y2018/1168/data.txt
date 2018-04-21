@@ -1,0 +1,21 @@
+name-last: Newcom
+name-first: Max
+name-given: Maxwell Gordon
+ 
+birth-date: 1930-02-07
+birth-place: US, KY, Ohio County
+ 
+death-date: 2018-03-19
+death-place:  US, TX, Fort Worth
+ 
+school-level: secondary
+school-name:  Hartford HS
+school-place: US, KY, Hartford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Thornton Cemetery
+cemetery-place: US, TX, Thornton
+

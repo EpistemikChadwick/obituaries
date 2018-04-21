@@ -1,0 +1,20 @@
+name-last: Collias
+name-first: Harry
+name-given: Harry
+ 
+birth-date: 1926-02-19
+birth-place: US, MN, Minneapolis
+ 
+death-date: 2018-02-22
+death-place:  US, FL, Orlando
+ 
+school-level: college
+school-name: University of Minnesota
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Bay Pines National Cemetery
+cemetery-place: US, FL, Bay Pines
+ 

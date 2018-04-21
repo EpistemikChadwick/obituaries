@@ -1,0 +1,9 @@
+source-title: Salser & Dillard Funeral Chapel
+source-date: 2018-03-09
+source-url: http://www.salseranddillard.com/obituaries/Stephen-Stroughter/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-09
+

@@ -1,0 +1,9 @@
+source-title: National Cremation
+source-date: 2018-03-09
+source-url: http://www.legacy.com/obituaries/national-cremation/obituary.aspx?n=Fredrick-Henry&lc=5476&pid=188400559&mid=7783714&locale=en_US
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-09
+

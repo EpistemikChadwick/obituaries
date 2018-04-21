@@ -1,0 +1,9 @@
+source-title: Arizona Daily Star
+source-date: 2018-03-15
+source-url: http://www.legacy.com/obituaries/tucson/obituary.aspx?n=james-napier-nape&pid=188458237
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-16
+

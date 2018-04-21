@@ -1,0 +1,9 @@
+source-title: Rolla Daily New
+source-date: 2018-03-28
+source-url: http://www.legacy.com/obituaries/therolladailynews/obituary.aspx?n=james-eugene-sally-gene&pid=188585605&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-28
+

@@ -1,0 +1,9 @@
+source-title: Star-Telegram
+source-date: 2018-03-21
+source-url: http://www.legacy.com/obituaries/dfw/obituary.aspx?n=maxwell-gordon-newcom&pid=188512357
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-21
+

@@ -1,0 +1,20 @@
+name-last: Coey
+name-first: Garrett
+name-given: Garrett Delano
+ 
+birth-date: 1918-01-24
+birth-place: US, OH, Glouster
+ 
+death-date: 2018-03-25
+ 
+school-level: secondary
+school-name:  South HS
+school-place: US, OH, Akron
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Ohio Western Reserve National Cemetery
+cemetery-place: US, OH, Seville
+

@@ -1,0 +1,14 @@
+name-last: Fuzzard
+name-first: Wayne
+name-given: Wayne Scott
+ 
+birth-date: 1947-08-23
+birth-place: US, FL, Miami
+ 
+death-date: 2018-03-25
+death-place:  US, FL, Fort Pierce
+ 
+school-level: secondary
+school-name:  Dan McCarty HS
+school-place: US, FL, Fort Pierce
+

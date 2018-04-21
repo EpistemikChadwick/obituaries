@@ -1,0 +1,16 @@
+name-last: Binsack
+name-first:  Frank
+name-given: Frank C.
+ 
+death-date: 2018-03-17
+ 
+school-level: secondary
+school-name:  Aquinas Institute
+school-place: US, NY, Rochester
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Holy Ghost Cemetery
+cemetery-place:  US, NY, Rochester
+

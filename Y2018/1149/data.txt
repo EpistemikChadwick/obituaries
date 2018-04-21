@@ -1,0 +1,19 @@
+name-person: concepcion
+name-last: Concepcion
+name-first: Remberto
+name-matrilineal: Barrios
+
+birth-person: concepcion
+birth-date:  1935-02-21
+birth-place: CU, Pinar del Rio, San Luis
+
+death-person: concepcion
+death-date: 2018-02-10
+
+name-person: cueto
+name-last: Cueto
+name-first: Bert
+
+relationship-person1: concepcion
+relationship-person2: cueto
+relationship-type: cousin

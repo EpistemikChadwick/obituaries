@@ -1,0 +1,5 @@
+name-last: Raydon
+name-first: Curt
+ 
+death-date: 2018-03-03
+death-place:  US, TX, Sam Rayburn

@@ -1,0 +1,19 @@
+name-last: Schoonmaker
+name-first: Jerry
+name-given: Jerald Lee
+ 
+birth-date: 1933-12-14
+birth-place: US, MO, Seymour
+ 
+death-date: 2018-03-18
+ 
+school-level: secondary
+school-name:  Lebanon HS
+school-place: US, MO, Lebanon
+ 
+school-level: college
+school-name: University of Missouri
+ 
+cemetery-name: Calumet Park Cemetery
+cemetery-place: US, IN, Merillville
+

@@ -1,0 +1,10 @@
+name-last: Henderson
+name-first: Billy
+name-given: William Bradford
+ 
+death-date: 2018-02-14
+death-place:  US, GA, Athens
+ 
+cemetery-name: Macon Memorial Park
+cemetery-place: US, GA, Macon
+
