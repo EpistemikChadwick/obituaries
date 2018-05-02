@@ -1,0 +1,16 @@
+name-last: Saia
+name-first: Frank
+name-given: Francisco R.
+ 
+birth-date: 1935
+birth-place: US, MA, Cambridge
+ 
+death-date: 2018-04-10
+ 
+school-level: secondary
+school-name:  Cambridge Rindge and Latin School
+school-place: US, MA, Cambridge
+ 
+school-level: college
+school-name: Harvard University
+

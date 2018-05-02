@@ -1,0 +1,13 @@
+name-last: Baer
+name-first: Mim
+name-given: Raymond Daniel
+ 
+birth-date: 1927-10-29
+birth-place: US, PA, Millersburg
+ 
+death-date: 2018-04-17
+death-place:  US, PA, Duncannon
+ 
+cemetery-name: Davids Church Cemetery
+cemetery-place: US, PA, Millersburg
+

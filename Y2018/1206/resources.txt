@@ -1,0 +1,9 @@
+source-title: Cornerstone Funeral Home
+source-date: 2018-04-07
+source-url: http://www.cornerstonefuneralhomeandcremations.com/obituaries/William-Hootie-Bone/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-07
+

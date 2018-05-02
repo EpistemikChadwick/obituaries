@@ -1,0 +1,16 @@
+name-last: Girrens
+name-first: John
+name-given: John J.
+name-suffix: Jr.
+ 
+birth-date: 1926-10-14
+ 
+death-date: 2018-04-07
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mark Catholic Church Cemetery
+cemetery-place: US, KS, Colwich
+

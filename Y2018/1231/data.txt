@@ -1,0 +1,21 @@
+name-last: Hagadorn
+name-first: Dave
+name-given: David R.
+ 
+birth-date: 1949-07-08
+birth-place: US, NY, Hornell
+ 
+death-date: 2018-04-19
+death-place:  US, NY, Rochester
+ 
+school-level: secondary
+school-name:  Hornell HS
+school-place: US, NY, Hornell
+ 
+school-level: college
+school-name: Mansfield University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+

@@ -1,0 +1,17 @@
+name-last: Bone
+name-first: Eugene
+name-given: William Eugene
+name-nick: Hootie
+ 
+birth-date: 1928-06-07
+birth-place: US, NC, Nash County
+ 
+death-date: 2018-04-05
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Rocky Mount Memorial Park
+cemetery-place: US, NC, Rocky Mount
+

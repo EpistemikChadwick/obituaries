@@ -1,0 +1,18 @@
+name-last: Duffie
+name-first: John
+name-given: John Brown
+name-nick: Stretch
+ 
+birth-date: 1945-10-04
+birth-place: US, SC, Greenwood
+ 
+death-date: 2018-04-19
+death-place:  US, GA, Douglas
+ 
+school-level: secondary
+school-name:  Avondale HS
+school-place: US, GA, Avondale Estates
+ 
+school-level: college
+school-name: Brewton-Parker College
+

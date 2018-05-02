@@ -1,0 +1,20 @@
+name-last: Garland
+name-first: Myron
+name-given: Myron B.
+ 
+birth-date: 1934-11-10
+birth-place: US, IN, Beech Grove
+ 
+death-date: 2018-04-04
+death-place:  US, IN, Indianapolis
+ 
+school-level: secondary
+school-name:  Arsenal Technical HS
+school-place: US, IN, Indianapolis
+ 
+school-level: college
+school-name: Butler University
+ 
+military-country: US
+military-branch:  Army
+

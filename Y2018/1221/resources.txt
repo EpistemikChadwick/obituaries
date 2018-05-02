@@ -1,0 +1,9 @@
+source-title: Buffington-Reed Funeral Home
+source-date: 2018-04-15
+source-url: http://www.buffingtonreed.com/obituaries/Robert-Koppenhaver-3/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-15
+

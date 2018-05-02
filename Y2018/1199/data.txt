@@ -1,0 +1,6 @@
+name-last: Colpoys
+name-first: Donald
+name-given: Donald W.
+ 
+death-date: 2018-03-30
+

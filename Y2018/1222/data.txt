@@ -1,0 +1,17 @@
+name-last:  Robertson
+name-first: Bill
+name-given: William Wesley
+ 
+birth-place: US, MI, Alma
+ 
+death-date: 2018-03-26
+ 
+school-level: college
+school-name: Muskingum University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Jacksonville National Cemetery
+cemetery-place: US, FL, Jacksonville
+

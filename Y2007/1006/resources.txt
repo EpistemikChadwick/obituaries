@@ -1,0 +1,9 @@
+source-title: Andrew Vidinha obit
+source-file-name: Andrew Vidinha obit.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-19
+

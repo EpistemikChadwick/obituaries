@@ -1,0 +1,20 @@
+name-last: Griffith
+name-first: Reds
+name-given: Richard Howard
+ 
+birth-date: 1938-11-30
+birth-place: US, NJ, Trenton
+ 
+death-date: 2018-04-21
+death-place:  US, MD, Salisbury
+ 
+school-level: secondary
+school-name:  Mardela HS
+school-place: US, MD, Mardela Springs
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Sharptown Firemen’s Cemetery
+cemetery-place: US, MD, Sharptown
+

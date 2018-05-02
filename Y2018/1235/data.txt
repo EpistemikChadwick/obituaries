@@ -1,0 +1,14 @@
+name-last: Kinugasa
+name-first: Sachio
+name-given: Sachio
+name-nick: Iron Man
+ 
+birth-date: 1947
+birth-place: JP, Kyoto, Kyoto
+ 
+death-date: 2018-04-23
+ 
+school-level: secondary
+school-name:  Heian HS
+school-place: JP, Kyoto, Kyoto
+

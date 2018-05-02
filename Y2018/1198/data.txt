@@ -1,0 +1,9 @@
+name-last: Colpoys
+name-first: Don
+ 
+death-date: 2018-03-29
+ 
+school-level: secondary
+school-name:  Bishop Timon HS
+school-place: US, NY, Buffalo
+

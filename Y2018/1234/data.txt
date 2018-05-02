@@ -1,0 +1,25 @@
+name-last:  Johnson
+name-first: Burt
+name-given: Burton Franey
+ 
+birth-date: 1934-09-07
+birth-place: US, WA, Seattle
+ 
+death-date: 2018-04-16
+ 
+school-level: secondary
+school-name:  Santa Rosa HS
+school-place: US, CA, Santa Rosa
+ 
+school-level: college
+school-name: MiraCosta College
+ 
+school-level: college
+school-name: University of California, Berkeley
+ 
+school-level: college
+school-name: San Diego State University
+ 
+military-country: US
+military-branch:  Army
+

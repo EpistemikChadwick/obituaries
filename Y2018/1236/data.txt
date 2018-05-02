@@ -1,0 +1,17 @@
+name-last: Alusik
+name-first: George
+name-given: George J.
+ 
+birth-date: 1934-02-11
+birth-place: US, PA, Ashley
+ 
+death-date: 2018-04-20
+death-place:  US, NJ, Woodbridge
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: St. Gertrude Cemetery
+cemetery-place: US, NJ, Colonia
+

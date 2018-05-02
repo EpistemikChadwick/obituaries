@@ -1,0 +1,18 @@
+name-last: Angott
+name-first: Sammy
+name-given: Sammy C.
+name-suffix: Jr.
+ 
+birth-date: 1945-07-05
+birth-place: US, PA, Washington
+ 
+death-date: 2018-04-07
+death-place:  US, OH, Canton
+ 
+school-level: secondary
+school-name:  Central Catholic HS
+school-place: US, PA, Pittsburgh
+ 
+school-level: college
+school-name: Ohio University
+

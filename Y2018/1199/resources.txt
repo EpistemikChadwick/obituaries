@@ -1,0 +1,9 @@
+source-title: The Buffalo News
+source-date: 2018-04-01
+source-url: http://buffalonews.com/2018/04/01/colpoys-donald-w/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-02
+

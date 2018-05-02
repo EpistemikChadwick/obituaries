@@ -1,0 +1,18 @@
+name-last: Davis
+name-first: Sam
+name-given: Samuel Matthews
+ 
+birth-date: 1930-09-02
+birth-place: US, OK, Maud
+ 
+death-date: 2018-04-02
+ 
+school-level: college
+school-name: Louisiana State University
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-place: US, TX, Rosewood
+

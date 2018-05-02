@@ -1,0 +1,12 @@
+name-last: Tucker
+name-first: Gary
+name-given: Gary L.
+ 
+birth-date: 1951-11-11
+birth-place: US, GA, Moultrie
+ 
+death-date: 2018-04-11
+ 
+cemetery-name: Centro Asturiano Memorial Park Cemetery
+cemetery-place: US, FL, Tampa
+

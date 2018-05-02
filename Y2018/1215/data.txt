@@ -1,0 +1,16 @@
+name-last: Stamatis
+name-first: Harry
+name-given: Harry James
+ 
+birth-date: 1934-10-04
+birth-place: US, CA, San Francisco
+ 
+death-date: 2018-03-20
+ 
+school-level: secondary
+school-name:  Lowell HS
+school-place: US, CA, San Francisco
+ 
+military-country: US
+military-branch:  Army
+

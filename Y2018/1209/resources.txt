@@ -1,0 +1,9 @@
+source-title: Flanner Buchanan Funeral Home
+source-date: 2018-04-09
+source-url: https://flannerbuchanan.com/obit/myron-b-garland/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-09
+

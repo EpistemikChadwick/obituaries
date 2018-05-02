@@ -1,0 +1,9 @@
+source-title: The Republican
+source-date: 2018-04-13
+source-url: http://obits.masslive.com/obituaries/masslive/obituary.aspx?n=francisco-r-saia&pid=188716109
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-13
+

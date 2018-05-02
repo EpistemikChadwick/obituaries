@@ -1,0 +1,9 @@
+name-last: Klinkert
+name-first: Harold
+name-given: Harold P.
+ 
+death-date: 1978-03-20
+ 
+cemetery-name: Woodlawn Cemetery
+cemetery-place: US, IL, Clinton
+

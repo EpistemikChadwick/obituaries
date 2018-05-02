@@ -3,6 +3,7 @@ date,person,place,source
 1901-07-17,_subject,"US, NY, New York",Y1901/1001
 1906-02-18,_subject,"US, CA, Santa Cruz",Y1906/1001
 1907-09-01,_subject,"US, GA, Tybee Island",Y1907/1001
+1915,_subject,"US, IN, Evansville",Y1915/1001
 1917-08-02,_subject,"US, OH, Magnetic Springs",Y1917/1001
 ,_subject,"US, AR, Russellville",Y1918/1001
 1922-10-20,_subject,"US, PA, Philadelphia",Y1922/1001
@@ -173,6 +174,7 @@ date,person,place,source
 1978-02-06,_subject,"US, MD, Columbia",Y1978/1003
 1978-03-20,_subject,"US, IL, Clinton",Y1978/1004
 1978-02-07,_subject,,Y1978/1005
+1978-03-20,_subject,,Y1978/1006
 1979-09-16,_subject,"US, CA, Santa Cruz",Y1979/1001
 1979-02-19,_subject,,Y1979/1002
 1979-07-15,_subject,"US, OH, Cleveland",Y1979/1003
@@ -324,6 +326,7 @@ date,person,place,source
 2007-04-08,_subject,"MX, Sinaloa, Culiacan",Y2007/1003
 2007-03-11,_subject,,Y2007/1004
 2007,_subject,,Y2007/1005
+2007-10-07,_subject,,Y2007/1006
 2008-04-17,_subject,"DO,  San Pedro de Macoris,  San Pedro de Macoris",Y2008/1001
 2008-03-04,_subject,"MX, Veracruz, Xalapa",Y2008/1002
 2008-09-22,_subject,,Y2008/1003
@@ -2728,3 +2731,58 @@ date,person,place,source
 2018-03-16,_subject,,Y2018/1189
 2018-03-27,_subject,,Y2018/1190
 2018-03-27,_subject,"DO, , Santo Domingo",Y2018/1191
+2018-03-26,_subject,"US, MA, Haverhill",Y2018/1192
+2018-03-09,_subject,"US, CA, San Carlos",Y2018/1193
+2018-03-29,_subject,"US, NJ, Brick",Y2018/1194
+2018-03-29,_subject,"US, OH, Portsmouth",Y2018/1195
+2018-03-27,_subject,,Y2018/1196
+2018-03-17,_subject,"US, OR, Medford",Y2018/1197
+2018-03-29,_subject,,Y2018/1198
+2018-03-30,_subject,,Y2018/1199
+2018-04-01,_subject,"US, MI, Vestaburg",Y2018/1200
+2018-04-03,_subject,,Y2018/1201
+2018-04-02,_subject,"US, PA, Stroudsburg",Y2018/1202
+2018-03-24,_subject,"US, TX, San Antonio",Y2018/1203
+2018-04-04,_subject,"US, NY, LaGrangeville",Y2018/1204
+2018-04-04,_subject,"US, PA, Pottsville",Y2018/1205
+2018-04-05,_subject,,Y2018/1206
+2018-04-03,_subject,"US, TX, Austin",Y2018/1207
+2018-03-31,_subject,"US, WA, Yakima",Y2018/1208
+2018-04-04,_subject,"US, IN, Indianapolis",Y2018/1209
+2018-03-27,_subject,,Y2018/1210
+2018-04-02,_subject,,Y2018/1211
+2018-04-05,_subject,"US, NC, Greensboro",Y2018/1212
+2018-04-08,_subject,"US, PA, Wilkes-Barre",Y2018/1213
+2018-04-07,_subject,"US, OH, Canton",Y2018/1214
+2018-03-20,_subject,,Y2018/1215
+2018-04-10,_subject,,Y2018/1216
+2018-04-11,_subject,"US, TX, Canton",Y2018/1217
+2018-04-10,_subject,"US, GA, Lyons",Y2018/1218
+2018-04-07,_subject,"US, FL, Crystal River",Y2018/1219
+2018-04-07,_subject,,Y2018/1220
+2018-04-13,_subject,"US, PA, Danville",Y2018/1221
+2018-03-26,_subject,,Y2018/1222
+2018-04-12,_subject,,Y2018/1223
+2018-04-11,_subject,,Y2018/1224
+2018-04-15,_subject,"US, PA, Pittsburgh",Y2018/1225
+2018-03-29,_subject,,Y2018/1226
+2018-04-17,_subject,"US, PA, Duncannon",Y2018/1227
+2018-04-20,_subject,"US, MI, West Bloomfield Township",Y2018/1228
+2018-04-18,_subject,,Y2018/1229
+2018-04-16,_subject,,Y2018/1230
+2018-04-19,_subject,"US, NY, Rochester",Y2018/1231
+2018-04-19,_subject,"US, GA, Douglas",Y2018/1232
+2018-04-18,_subject,,Y2018/1233
+2018-04-16,_subject,,Y2018/1234
+2018-04-23,_subject,,Y2018/1235
+2018-04-20,_subject,"US, NJ, Woodbridge",Y2018/1236
+2018-04-23,_subject,"US, LA, Pearl River",Y2018/1237
+2018-04-21,_subject,"US, MD, Salisbury",Y2018/1238
+2018-04-11,_subject,,Y2018/1239
+2018-04-13,_subject,,Y2018/1240
+2018-04-23,_subject,"US, UT, Sandy",Y2018/1241
+2018-04-16,_subject,,Y2018/1242
+2018-04-24,_subject,"US, SC, Greenville",Y2018/1243
+2018-04-15,_subject,"US, MO, St. Louis",Y2018/1244
+2018-04-26,_subject,,Y2018/1245
+2018-04-07,_subject,,Y2018/1246

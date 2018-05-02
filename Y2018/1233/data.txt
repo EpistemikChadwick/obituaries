@@ -1,0 +1,9 @@
+name-last: Hope
+name-first: John
+
+death-date: 2018-04-18
+
+school-level: secondary
+school-name:  Stranahan HS
+school-place: US, FL, Fort Lauderdale
+

@@ -1,0 +1,9 @@
+source-title: The Buffalo News
+source-date: 2018-03-30
+source-url: http://buffalonews.com/2018/03/30/remembering-the-baseball-legacy-of-buffalos-don-colpoys/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-02
+ 

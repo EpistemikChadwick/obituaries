@@ -1,0 +1,9 @@
+name-last: Hottman
+name-first: Ken
+name-given: Kenneth Roger
+ 
+birth-date: 1948-05-05
+birth-place: US, CA, Stockton
+ 
+death-date: 2018-04-16
+

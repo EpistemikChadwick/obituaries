@@ -1,0 +1,21 @@
+name-last: Keenan
+name-first: Tom
+name-given: Thomas Victor
+ 
+birth-date: 1924-01-31
+birth-place: US, CT, Hartford
+ 
+death-date: 2018-04-15
+death-place:  US, MO, St. Louis
+ 
+school-level: secondary
+school-name:  Hartford Public HS
+school-place: US, CT, Hartford
+ 
+school-level: college
+school-name: Providence College
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

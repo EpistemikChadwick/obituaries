@@ -1,0 +1,14 @@
+name-last: Boemo
+name-first: Aldo
+name-given: Aldo
+ 
+birth-date: 1925-05-18
+birth-place: US, NJ, Union City
+ 
+death-date: 2018-03-29
+death-place:  US, NJ, Brick
+ 
+school-level: secondary
+school-name:  Emerson HS
+school-place: US, NJ, Union City
+

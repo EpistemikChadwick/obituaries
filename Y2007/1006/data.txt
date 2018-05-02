@@ -1,0 +1,9 @@
+name-last: Vidinha
+name-first: Andrew
+name-given: Andrew
+ 
+death-date: 2007-10-07
+ 
+cemetery-name: Kauai Veterans Cemetery
+cemetery-place: US, HI, Hanapepe
+

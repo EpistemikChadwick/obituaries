@@ -1,0 +1,17 @@
+name-last: Allabaugh
+name-first: Walter
+name-given: Walter F.
+ 
+birth-date: 1927-08-29
+birth-place: US, PA, Wilkes-Barre
+ 
+death-date: 2018-04-08
+death-place:  US, PA, Wilkes-Barre
+ 
+school-level: secondary
+school-name:  Meyers HS
+school-place: US, PA, Wilkes-Barre
+ 
+military-country: US
+military-branch:  Navy
+

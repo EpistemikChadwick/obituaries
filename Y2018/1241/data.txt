@@ -1,0 +1,21 @@
+name-last: Belko
+name-first: Gerry
+name-given: Gerald Frank
+name-suffix: Sr.
+ 
+birth-date: 1932-04-16
+birth-place: US, IN, Hobart
+ 
+death-date: 2018-04-23
+death-place:  US, UT, Sandy
+ 
+school-level: secondary
+school-name:  Hobart HS
+school-place: US, IN, Hobart
+ 
+school-level: college
+school-name: Idaho State University
+ 
+military-country: US
+military-branch:  Army
+

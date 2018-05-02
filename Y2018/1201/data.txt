@@ -1,0 +1,13 @@
+name-last: Greene
+name-first: Chief
+name-given: Donald Curtis
+ 
+birth-date: 1942-11-08
+birth-place: US, LA, Minden
+ 
+death-date: 2018-04-03
+ 
+school-level: secondary
+school-name:  Fair Park HS
+school-place: US, LA, Shreveport
+

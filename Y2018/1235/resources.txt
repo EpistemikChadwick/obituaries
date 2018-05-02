@@ -1,0 +1,9 @@
+source-title: Mainichi
+source-date: 2018-04-24
+source-url: http://mainichi.jp/english/articles/20180424/p2g/00m/0sp/062000c
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-24
+

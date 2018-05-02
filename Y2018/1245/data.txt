@@ -1,0 +1,17 @@
+name-last: Unke
+name-first: Ron
+ 
+birth-date: 1931-12-19
+ 
+death-date: 2018-04-26
+ 
+school-level: secondary
+school-name:  Wisconsin Lutheran HS
+school-place: US, WI, Milwaukee
+ 
+school-level: college
+school-name: University of Wisconsin at Madison
+ 
+cemetery-name: Arlington Park Cemetery
+cemetery-place: US, WI, Greenfield
+

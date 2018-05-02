@@ -1,0 +1,24 @@
+name-last: Watson
+name-first: Dan
+name-given: John Daniel
+ 
+birth-date: 1925-01-26
+birth-place: US, TX, Thorp Spring
+ 
+death-date: 2018-04-03
+death-place:  US, TX, Austin
+ 
+school-level: secondary
+school-name:  Austin HS
+school-place: US, TX, Austin
+ 
+school-level: college
+school-name: University of Texas at Austin
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Austin Memorial Park
+cemetery-place: US, TX, Austin
+

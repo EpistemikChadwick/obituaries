@@ -1,0 +1,8 @@
+source-title: Bradley & Son Funeral Home
+source-date: 2018-04-09
+source-url: https://bradleyfuneralhomes.com/david-costa/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-09

@@ -1,0 +1,8 @@
+name-last: Garton
+name-first: William
+name-given: William S.
+ 
+birth-date: 1928-08-22
+ 
+death-date: 2018-04-18
+

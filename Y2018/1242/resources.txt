@@ -1,0 +1,9 @@
+source-title:  Arizona Republic
+source-date: 2018-04-28
+source-url: https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=stanley-levis-patchell&pid=188862623
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-28
+

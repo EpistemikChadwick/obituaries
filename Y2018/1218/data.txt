@@ -1,0 +1,24 @@
+name-last: Davis
+name-first: Joe
+name-given: Joseph Porter
+ 
+birth-date: 1930-12-31
+birth-place: US, GA, Greensboro
+ 
+death-date: 2018-04-10
+death-place:  US, GA, Lyons
+ 
+school-level: secondary
+school-name:  Elberton HS
+school-place: US, GA, Elberton
+ 
+school-level: college
+school-name: South Georgia State College
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Collins Baptist Church Cemetery
+cemetery-place: US, GA, Collins
+

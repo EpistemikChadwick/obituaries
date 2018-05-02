@@ -1,0 +1,13 @@
+name-last: Lawrence
+name-first: Joey
+name-given: Joey Lee
+ 
+birth-date: 1934-12-01
+birth-place: US, VA, Wayneboro
+ 
+death-date: 2018-04-07
+ 
+school-level: secondary
+school-name:  Hampton HS
+school-place: US, VA, Hampton
+

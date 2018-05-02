@@ -1,0 +1,20 @@
+name-last: Carlson
+name-first: Walter
+name-given: Walter Charles
+ 
+birth-date: 1942-08-14
+birth-place: US, NY, New York
+ 
+death-date: 2018-04-11
+ 
+school-level: secondary
+school-name:  Jefferson HS
+school-place: US, CA, Daly City
+ 
+school-level: college
+school-name: College of San Mateo
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  Vietnam War
+

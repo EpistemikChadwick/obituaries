@@ -1,0 +1,18 @@
+name-last: Costa
+name-first: David
+name-given: David M.
+ 
+birth-date: 1936-10-13
+ 
+death-date: 2018-03-27
+ 
+school-level: secondary
+school-name:  Chatham HS
+school-place: US, NJ, Chatham
+ 
+military-country: US
+military-branch:  Marines
+ 
+cemetery-name: Fair Mount Cemetery
+cemetery-place: US, NJ, Chatham
+

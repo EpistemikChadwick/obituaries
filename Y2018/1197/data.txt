@@ -1,0 +1,16 @@
+name-last: Leptien
+name-first: Walter
+name-given: Walter
+ 
+birth-date: 1929-02-05
+ 
+death-date: 2018-03-17
+death-place:  US, OR, Medford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Eagle Point National Cemetery
+cemetery-place: US, OR, Eagle Point
+

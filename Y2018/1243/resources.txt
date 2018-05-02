@@ -1,0 +1,9 @@
+source-title: Sandifer Funeral Home
+source-date: 2018-04-28
+source-url: http://www.sandiferfuneralhome.com/obituaries/Marvin-Eugene-Rackley?obId=3067571#/obituaryInfo
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-28
+

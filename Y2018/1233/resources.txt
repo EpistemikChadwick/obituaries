@@ -1,0 +1,9 @@
+source-title: Sun-Sentinel
+source-date: 2018-04-19
+source-url: http://www.sun-sentinel.com/sports/highschool/baseball/broward/fl-sp-stranahan-pitcher-hope-20180419-story.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-23
+

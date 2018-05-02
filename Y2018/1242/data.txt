@@ -1,0 +1,9 @@
+name-last: Patchell
+name-first: Stan
+name-given: Stanley Levis
+ 
+birth-date: 1931-13-08
+birth-place: US, PA, Lansdale
+ 
+death-date: 2018-04-16
+

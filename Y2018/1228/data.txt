@@ -1,0 +1,21 @@
+name-last: Gottschalk
+name-first: Dave
+name-given: David George
+name-suffix: Sr.
+ 
+birth-date: 1931-03-28
+birth-place: US, MI, Detroit
+ 
+death-date: 2018-04-20
+death-place:  US, MI, West Bloomfield Township
+ 
+school-level: secondary
+school-name:  Redford HS
+school-place: US, MI, Detroit
+ 
+school-level: college
+school-name: Western Michigan University
+ 
+military-country: US
+military-branch:  Army
+

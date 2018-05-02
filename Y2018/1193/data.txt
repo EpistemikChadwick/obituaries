@@ -1,0 +1,20 @@
+name-last: Magnuson
+name-first: Jim
+name-given: John James
+ 
+birth-date: 1946-05-11
+birth-place: US, CA, San Carlos
+ 
+death-date: 2018-03-09
+death-place:  US, CA, San Carlos
+ 
+school-level: secondary
+school-name:  San Carlos HS
+school-place: US, CA, San Carlos
+ 
+school-level: college
+school-name: College of San Mateo
+ 
+school-level: college
+school-name: University of California, Berkeley
+

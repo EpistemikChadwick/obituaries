@@ -1,0 +1,10 @@
+name-last: Rackley
+name-first: Marv
+name-given: Marvin Eugene
+ 
+birth-date: 1920-07-25
+birth-place: US, SC, Oconee County
+ 
+death-date: 2018-04-24
+death-place:  US, SC, Greenville
+

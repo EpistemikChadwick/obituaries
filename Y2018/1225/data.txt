@@ -1,0 +1,14 @@
+name-last: Yarabinec
+name-first: Kevin
+name-given: Kevin Scott
+ 
+death-date: 2018-04-15
+death-place:  US, PA, Pittsburgh
+ 
+school-level: secondary
+school-name:  Sharpsville Area HS
+school-place: US, PA, Sharpsville
+ 
+school-level: college
+school-name: Youngstown State University
+

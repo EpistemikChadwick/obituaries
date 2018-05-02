@@ -1,0 +1,23 @@
+name-last: Reichert
+name-first: Paul
+name-given: Paul E.
+ 
+birth-date: 1923-08-09
+ 
+death-date: 2018-03-27
+ 
+school-level: secondary
+school-name:  Coldwater HS
+school-place: US, OH, Coldwater
+ 
+school-level: college
+school-name: St. Joseph’s College
+school-place: US, IN, Rensselaer
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, OH, Dayton
+

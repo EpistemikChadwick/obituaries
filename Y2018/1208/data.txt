@@ -1,0 +1,17 @@
+name-last: Roller
+name-first: Ron
+name-given: Ronald Robert
+ 
+birth-date: 1952-01-02
+birth-place: US, WA, Yakima
+ 
+death-date: 2018-03-31
+death-place:  US, WA, Yakima
+ 
+school-level: secondary
+school-name:  A. C. Davis HS
+school-place: US, WA, Yakima
+ 
+school-level: college
+school-name: Bellevue College
+

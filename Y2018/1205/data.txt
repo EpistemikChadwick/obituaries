@@ -1,0 +1,24 @@
+name-last: Wapinsky
+name-first: Joe
+name-given: Joseph F.
+ 
+birth-date: 1925-11-29
+birth-place: US, PA, St. Clair
+ 
+death-date: 2018-04-04
+death-place:  US, PA, Pottsville
+ 
+school-level: secondary
+school-name:  St. Clair HS
+school-place: US, PA, St. Clair
+ 
+school-level: college
+school-name:  George Washington University
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Indiantown Gap National Cemetery
+cemetery-place: US, PA, Annville
+

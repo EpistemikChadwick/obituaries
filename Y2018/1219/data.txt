@@ -1,0 +1,14 @@
+name-last: Knox
+name-first: Bill
+name-given: William
+ 
+birth-date: 1930-04-30
+birth-place: US, OH, Sugarcreek
+ 
+death-date: 2018-04-07
+death-place:  US, FL, Crystal River
+ 
+school-level: secondary
+school-name:  Newark HS
+school-place: US, OH, Newark
+

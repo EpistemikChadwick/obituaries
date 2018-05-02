@@ -1,0 +1,13 @@
+name-last: Chamness
+name-first: Ted
+name-given: Ted Lee
+ 
+birth-date: 1928-11-17
+birth-place: US, TX, Canton
+ 
+death-date: 2018-04-11
+death-place:  US, TX, Canton
+ 
+cemetery-name: High Cemetery
+cemetery-place: US, TX, Canton
+

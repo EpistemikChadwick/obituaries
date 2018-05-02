@@ -1,0 +1,8 @@
+name-last: Konopa
+name-first: Bob
+name-given: Robert John
+ 
+birth-date: 1961-08-08
+ 
+death-date: 2018-04-13
+

@@ -1,0 +1,20 @@
+name-last: Fetherman
+name-first: Alden
+name-given: Alden M.
+ 
+birth-date: 1934-11-06
+birth-place: US, PA, Stroudsburg
+ 
+death-date: 2018-04-02
+death-place:  US, PA, Stroudsburg
+ 
+school-level: secondary
+school-name:  Stroudsburg HS
+school-place: US, PA, Stroudsburg
+ 
+school-level: college
+school-name: Muhlenberg College
+ 
+military-country: US
+military-branch:  Air Force
+

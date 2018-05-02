@@ -1,0 +1,13 @@
+name-last: Myers
+name-first: Gene
+name-given: David
+ 
+birth-date: 1928-03-08
+birth-place: US, OH, Lawrence County
+ 
+death-date: 2018-03-29
+death-place:  US, OH, Portsmouth
+ 
+cemetery-name: Greenlawn Cemetery
+cemetery-place: US, OH, Portsmouth
+

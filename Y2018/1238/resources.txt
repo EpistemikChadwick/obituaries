@@ -1,0 +1,9 @@
+source-title: Short Funeral Home
+source-date: 2018-04-25
+source-url: http://www.shortfh.com/obituaries/Richard-Griffith-5/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-25
+

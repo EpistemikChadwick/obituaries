@@ -1,0 +1,17 @@
+name-last: Williamson
+name-first: Jack
+name-given: Jack
+ 
+birth-place: US, NC, Thomasville
+ 
+death-date: 2018-04-05
+death-place:  US, NC, Greensboro
+ 
+school-level: secondary
+school-name:  Thomasville HS
+school-place: US, NC, Thomasville
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+

@@ -1,0 +1,8 @@
+source-title: Funeral Home
+source-date: 2018-04-01
+source-url: https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=9257a7ab-e366-466b-9685-46f3badc317d&CFTOKEN=0&o_id=4732654&fh_id=14996
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-01

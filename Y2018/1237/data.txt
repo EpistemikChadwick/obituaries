@@ -1,0 +1,18 @@
+name-last: Fogg
+name-first: Floyd
+name-given: Floyd Collins
+ 
+death-date: 2018-04-23
+death-place:  US, LA, Pearl River
+ 
+school-level: secondary
+school-name:  Slidell HS
+school-place: US, LA, Slidell
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 
+cemetery-name: Forest Lawn Cemetery
+cemetery-place: US, LA, Slidell
+

@@ -1,0 +1,7 @@
+name-last: Cantley
+name-first: John
+name-nick: Smiling John
+ 
+death-date: 1915
+death-place:  US, IN, Evansville
+

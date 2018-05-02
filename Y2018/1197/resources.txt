@@ -1,0 +1,10 @@
+source-title: DignityMemorial.com
+source-date: 2018-04-02
+source-url: https://www.dignitymemorial.com/obituaries/medford-or/walter-leptien-7795189
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-02
+ 
+

@@ -1,0 +1,11 @@
+name-last: Samcoff
+name-first: Eddie
+ 
+birth-place: US, CA, Bryte
+ 
+death-date: 2018-03-29
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II
+ 

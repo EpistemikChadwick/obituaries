@@ -1,0 +1,21 @@
+name-last: Throop
+name-first: Rex
+name-given: Rex Earl
+ 
+birth-date: 1921-11-24
+birth-place: US, MI, Richland Township
+ 
+death-date: 2018-04-01
+death-place:  US, MI, Vestaburg
+ 
+school-level: secondary
+school-name:  Vestaburg HS
+school-place: US, MI, Vestaburg
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Richland Township Cemetery
+cemetery-place: US, MI, Vestaburg
+
