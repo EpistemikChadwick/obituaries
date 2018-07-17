@@ -1,0 +1,9 @@
+source-title: Firtion Adams Funeral Service
+source-date: 2018-05-18
+source-url: https://www.firtionadams.com/notices/Raymond-Arra
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-18
+

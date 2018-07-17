@@ -1,0 +1,9 @@
+source-title: Virginian Pilot
+source-date: 2018-05-24
+source-url: https://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=charles-alfred-walke&pid=189092602&fhid=15643
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-28
+ 

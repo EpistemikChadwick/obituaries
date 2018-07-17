@@ -1,0 +1,8 @@
+name-last: Ard
+name-first: Johnny
+ 
+birth-date: 1967-06-01
+birth-place: US, NV, Las Vegas
+ 
+death-date: 2018-05-03
+death-place:  US, GA, Valdosta

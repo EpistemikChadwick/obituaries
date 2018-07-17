@@ -1,0 +1,9 @@
+source-title: DignityMemorial.com
+source-date: 2018-05-13
+source-url: https://www.dignitymemorial.com/obituaries/baton-rouge-la/robert-batten-7848009
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-13
+

@@ -1,0 +1,9 @@
+source-title: John Syka Funeral Home
+source-date: 2018-05-29
+source-url: https://www.sykafuneralhome.com/notices/George-Kocak
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-29
+

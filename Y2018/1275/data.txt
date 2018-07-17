@@ -1,0 +1,13 @@
+name-last: Brown
+name-first: Roger
+name-given: Roger Dale
+ 
+birth-date: 1946-05-05
+birth-place: US, SC, Greer
+ 
+death-date: 2018-05-14
+death-place:  US, NC, Dallas
+ 
+military-country: US
+military-branch:  Army
+

@@ -1,0 +1,17 @@
+name-last: Arra
+name-first: Ray
+name-given: Raymond J.
+ 
+birth-date: 1941-01-17
+birth-place: US, MA, Boston
+ 
+death-date: 2018-05-17
+death-place:  US, MA, Westfield
+ 
+school-level: secondary
+school-name:  Needham HS
+school-place: US, MA, Needham
+ 
+school-level: college
+school-name: Westfield State University
+

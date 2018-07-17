@@ -1,0 +1,9 @@
+source-title: Clay Barnette Funeral Home
+source-date: 2018-05-19
+source-url: http://www.claybarnette.com/obituaries/Kenneth-Daves-2/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-19
+

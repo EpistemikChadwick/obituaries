@@ -1,0 +1,17 @@
+name-last: Stanek
+name-first: Al
+name-given: Albert W.
+ 
+birth-date: 1943-12-24
+birth-place: US, MA, Springfield
+ 
+death-date: 2018-05-08
+death-place: US, MA, Springfield
+ 
+school-level: secondary
+school-name:  Chicopee HS
+school-place: US, MA, Chicopee
+ 
+military-country: US
+military-branch:  Army
+

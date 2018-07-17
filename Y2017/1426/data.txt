@@ -1,0 +1,7 @@
+name-last: Heavener
+name-first: Reggie
+name-given: Reginald Arnold
+ 
+birth-date: 1938-05-30
+ 
+death-date: 2017-12-27

@@ -1,0 +1,6 @@
+name-last: Stevens
+name-first: Chuck
+ 
+death-date: 2018-05-28
+death-place:  US, CA, Long Beach
+

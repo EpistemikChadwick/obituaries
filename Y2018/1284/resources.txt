@@ -1,0 +1,9 @@
+source-title: Seattle Times
+source-date: 2018-05-20
+source-url: http://www.legacy.com/obituaries/seattletimes/obituary-print.aspx?n=hank-matsubu&pid=189061851
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-20
+

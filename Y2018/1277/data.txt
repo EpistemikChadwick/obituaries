@@ -1,0 +1,15 @@
+name-last: Yablon
+name-first: Nat
+name-given: Nathan Joseph
+name-nick: Frenchy
+ 
+birth-date: 1927-04-26
+birth-place: FR, , Paris
+ 
+death-date: 2018-05-14
+death-place:  US, TX, Houston
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

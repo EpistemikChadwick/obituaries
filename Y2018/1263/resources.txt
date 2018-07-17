@@ -1,0 +1,9 @@
+source-title: DignityMemorial.com
+source-date: 2018-05-11
+source-url: https://www.dignitymemorial.com/obituaries/bourne-ma/jason-smith-7842263
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-11
+ 

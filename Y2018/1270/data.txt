@@ -1,0 +1,21 @@
+name-last: Cox
+name-first: Dave
+name-given: David James
+ 
+birth-date: 1923-10-27
+birth-place: US, IL, Moline
+ 
+death-date: 2018-05-04
+death-place:  US, IL, East Moline
+ 
+school-level: secondary
+school-name:  Moline HS
+school-place: US, IL, Moline
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Rock Island National Cemetery
+cemetery-place: US, IL, Rock Island
+

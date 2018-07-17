@@ -1,0 +1,13 @@
+name-last: Ard
+name-first: Johnny
+ 
+death-date: 2018-05-03
+death-place:  US, GA, Valdosta
+ 
+school-level: secondary
+school-name:  Hemingway HS
+school-place: US, SC, Hemingway
+ 
+school-level: college
+school-name: Francis Marion University
+

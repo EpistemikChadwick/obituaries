@@ -1,0 +1,27 @@
+name-last: Holliday
+name-first: Sid
+name-given: Charles Burr
+name-nick: C.B.
+ 
+birth-date: 1929-08-29
+birth-place: US, TX, Dallas
+ 
+death-date: 2018-05-01
+ 
+school-level: secondary
+school-name:  Adamson HS
+school-place: US, TX, Dallas
+ 
+school-level: college
+school-name: Tyler Junior College
+ 
+school-level: college
+school-name: University of North Texas
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Dallas-Fort Worth National Cemetery
+cemetery-place: US, TX, Dallas
+

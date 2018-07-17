@@ -1,0 +1,8 @@
+source-title: Modesto Bee
+source-date: 2018-05-11
+source-url: http://www.legacy.com/obituaries/modestobee/obituary.aspx?n=lyle-v-willet&pid=188978935&fhid=24165
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-11

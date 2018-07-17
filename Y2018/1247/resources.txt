@@ -1,0 +1,8 @@
+source-title: Bollinger Funeral Home
+source-date: 2018-05-02
+source-url: https://bollingerfuneral.com/obituaries/pribish-thomas-v/
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-02

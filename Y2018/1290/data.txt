@@ -1,0 +1,13 @@
+name-last: Garcia
+name-first: Dave
+name-given: David
+ 
+birth-date: 1920-09-15
+birth-place: US, IL, East St. Louis
+ 
+death-date: 2018-05-21
+death-place:  US, CA, San Diego
+ 
+military-country: US
+military-branch:  World War II
+military-conflict:  Army

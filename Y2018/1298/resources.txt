@@ -1,0 +1,8 @@
+source-title: St. Louis Post-Dispatch
+source-date: 2018-05-30
+source-url: http://www.stltoday.com/sports/baseball/baseball-notes-stevens-mlb-s-oldest-living-player-and-a/article_031983bd-2168-519c-8153-62d0a1017431.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-30

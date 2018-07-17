@@ -1,0 +1,19 @@
+name-last: Rizzo
+name-first: Tom
+name-given: Thomas C.
+ 
+birth-date: 1965-08-21
+birth-place: US, MA, Pittsfield
+ 
+death-date: 2018-04-27
+death-place:  US, MA, Pittsfield
+ 
+school-level: secondary
+school-name:  Taconic HS
+school-place: US, MA, Pittsfield
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, MA, Pittsfield

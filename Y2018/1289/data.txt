@@ -1,0 +1,16 @@
+name-last: Mann
+name-first: Dave
+name-given: David Frederick
+ 
+birth-date: 1933-02-16
+ 
+death-date: 2018-05-14
+death-place:  US, WA, Seattle
+ 
+school-level: secondary
+school-name:  Sidney Miller HS
+school-place: US, MI, Detroit
+ 
+school-level: college
+school-name: Wayne State University
+

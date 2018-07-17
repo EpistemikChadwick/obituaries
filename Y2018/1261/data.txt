@@ -1,0 +1,13 @@
+name-last: Schomer
+name-first: Jack
+name-given: John H.
+ 
+birth-date: 1938-01-09
+birth-place: US, IL, Chicago
+ 
+death-date: 2018-05-08
+ 
+school-level: secondary
+school-name:  Jackson HS
+school-place: US, MI, Jackson
+

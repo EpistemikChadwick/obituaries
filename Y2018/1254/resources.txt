@@ -1,0 +1,9 @@
+source-title: Bates Funeral Chapel
+source-date: 2018-05-06
+source-url: http://www.batesfuneralchapel.com/obituaries/Dale-Heckenberg/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-06
+ 

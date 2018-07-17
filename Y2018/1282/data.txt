@@ -1,0 +1,15 @@
+name-last: McGonagle
+name-first: Ken
+name-given: Kenneth Ralph
+ 
+birth-place: US, WA, Seattle
+ 
+death-date: 2018-05-10
+ 
+school-level: secondary
+school-name:  Royalton HS
+school-place: US, MN, Royalton
+ 
+school-level: college
+school-name: University of Minnesota
+

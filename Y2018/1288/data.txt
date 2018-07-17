@@ -1,0 +1,26 @@
+name-last: Stanberry
+name-first: J.T.
+name-given: J.T.
+ 
+birth-date: 1933-05-17
+birth-place: US, OK, Big Cabin
+ 
+death-date: 2018-05-14
+death-place:  US, OK, Tulsa
+ 
+school-level: secondary
+school-name:  Big Cabin HS
+school-place: US, OK, Big Cabin
+ 
+school-level: college
+school-name: Northeastern Oklahoma A&M College
+ 
+school-level: college
+school-name: Wichita State University
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Graham Memorial Cemetery
+cemetery-place: US, OK, Pryor
+

@@ -1,0 +1,13 @@
+name-last: Walke
+name-first: Al
+name-given: Charles Alfred
+ 
+birth-date: 1944-08-11
+birth-place: US, VA, Princess Anne County
+ 
+death-date: 2018-05-18
+ 
+school-level: secondary
+school-name:  Union Kempsville HS
+school-place: US, VA, Virginia Beach
+

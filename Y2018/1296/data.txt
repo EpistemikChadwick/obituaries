@@ -1,0 +1,20 @@
+name-last: Kocak
+name-first: George
+name-given: George
+ 
+birth-date: 1936-05-22
+birth-place: US, PA, Ambridge
+ 
+death-date: 2018-05-27
+death-place:  US, PA, Cranberry Township
+ 
+school-level: secondary
+school-name:  Ambridge HS
+school-place: US, PA, Ambridge
+ 
+military-country: US
+military-branch:  Army
+ 
+cemetery-name: Economy Cemetery
+cemetery-place: US, PA, Economy
+

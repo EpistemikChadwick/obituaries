@@ -1,0 +1,8 @@
+source-title: Flynn & Son Funeral Home
+source-date: 2018-05-07
+source-url: http://www.flynnfuneral.com/obituary/william-bill-urbanski-jr
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-07

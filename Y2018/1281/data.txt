@@ -1,0 +1,17 @@
+name-last: Santana
+name-first: Julio
+name-given: Julio A.
+ 
+birth-date: 1937-05-01
+birth-place: CU, , Santiago
+ 
+death-date: 2018-05-16
+death-place:  US, OH, Walbridge
+ 
+school-level: secondary
+school-name:  Key West HS
+school-place: US, FL, Key West
+ 
+cemetery-name: Lake Township Cemetery
+cemetery-place: US, OH, Walbridge
+

@@ -1,0 +1,16 @@
+name-last: Wilkerson
+name-first: Pete
+name-given: Harvey Jefferson
+ 
+birth-date: 1960-10-24
+birth-place: US, TX, Gonzales
+ 
+death-date: 2018-05-10
+ 
+school-level: secondary
+school-name:  Gonzales HS
+school-place: US, TX, Gonzales
+ 
+school-level: college
+school-name: Coastal Bend College
+

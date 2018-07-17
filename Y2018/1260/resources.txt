@@ -1,0 +1,8 @@
+source-title: Shirley Brothers Funeral Home
+source-date: 2018-05-11
+source-url: http://www.shirleybrothers.com/obituaries/Harland-Mace/#!/Obituary
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-11

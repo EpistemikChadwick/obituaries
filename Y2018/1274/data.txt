@@ -1,0 +1,11 @@
+name-last: McConnell
+name-first: Jim
+name-given: Edward James
+name-suffix: Jr.
+ 
+birth-date: 1927-10-28
+birth-place: US, WA, Seattle
+ 
+death-date: 2018-05-12
+death-place:  US, GA, Johns Creek
+

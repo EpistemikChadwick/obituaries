@@ -1,0 +1,8 @@
+source-title: Dallas Morning News 
+source-date: 2018-05-06
+source-url: http://obits.dallasnews.com/obituaries/dallasmorningnews/obituary.aspx?n=charles-burr-holliday&pid=188937320&eid=sp_ommatch&eid=sp_ommatch
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-06

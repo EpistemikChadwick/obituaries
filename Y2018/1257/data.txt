@@ -1,0 +1,12 @@
+name-last: Cavasas
+name-first: Gary
+ 
+birth-date: 1943-01-23
+ 
+death-date: 2018-05-01
+ 
+school-level: college
+school-name: Texas A&M University
+ 
+cemetery-name: Forest Park Lawndale Cemetery
+cemetery-place: US, TX, Houston

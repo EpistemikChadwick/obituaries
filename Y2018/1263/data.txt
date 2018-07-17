@@ -1,0 +1,13 @@
+name-last: Smith
+name-first: Jay
+name-given: Jason Owen
+ 
+birth-date: 1984-07-12
+birth-place: US, MA, Falmouth
+ 
+death-date: 2018-05-05
+death-place:  US, MA, Sandwich
+ 
+school-level: secondary
+school-name:  Bourne HS
+school-place: US, MA, Bourne

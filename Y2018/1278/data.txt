@@ -1,0 +1,15 @@
+name-last: Daves
+name-first: Kenneth
+name-given: Kenneth Ray
+ 
+birth-date: 1934-09-22
+ 
+death-date: 2018-05-16
+death-place:  US, NC, Shelby
+ 
+school-level: college
+school-name: Appalachian State University
+ 
+military-country: US
+military-branch:  Army
+

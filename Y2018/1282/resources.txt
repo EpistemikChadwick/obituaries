@@ -1,0 +1,9 @@
+source-title: Chicago Tribune
+source-date: 2018-05-20
+source-url: https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=kenneth-ralph-mcgonagle&pid=189059490
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-20
+

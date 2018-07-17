@@ -1,0 +1,17 @@
+name-last: Mace
+name-first: Dale
+name-given: Harland Dale
+ 
+birth-date: 1937-06-08
+ 
+death-date: 2018-05-05
+ 
+school-level: secondary
+school-name:  Arsenal Technical HS
+school-place: US, IN, Indianapolis
+ 
+school-level: college
+school-name: University of Indianapolis
+ 
+cemetery-name: Washington Park East Cemetery
+cemetery-place: US, IN, Indianapolis

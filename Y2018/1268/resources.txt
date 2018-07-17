@@ -1,0 +1,9 @@
+source-title: Barry J. Farrell Funeral Home
+source-date: 2018-05-13
+source-url: http://www.barryjfarrellfuneralhome.com/notices/Albert-Stanek
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-11
+

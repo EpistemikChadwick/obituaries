@@ -1,0 +1,19 @@
+name-last: Johnson
+name-first: Andy
+ 
+birth-date: 1952-10-18
+birth-place: US, GA, Athens
+ 
+death-date: 2018-05-16
+death-place: US, GA, Athens
+ 
+school-level: secondary
+school-name:  Athens HS
+school-place: US, GA, Athens
+ 
+school-level: college
+school-name: University of Georgia
+ 
+cemetery-name: Oconee Hill Cemetery
+cemetery-place: US, GA, Athens
+

@@ -1,0 +1,13 @@
+name-last: Cunningham
+name-first: Gene
+name-given: Eugene Andrew
+name-suffix: Sr.
+ 
+birth-date: 1953-12-30
+birth-place: US, VA, Fredericksburg
+ 
+death-date: 2018-05-06
+ 
+school-level: college
+school-name: Norfolk State University
+

@@ -1,0 +1,24 @@
+name-last: Kelley
+name-first: Max
+name-given: Shirley Max
+ 
+birth-date: 1935-03-04
+birth-place: US, AL, Athens
+ 
+death-date: 2018-05-18
+death-place:  US, AL, Cullman
+ 
+school-level: secondary
+school-name:  Athens HS
+school-place: US, AL, Athens
+ 
+school-level: secondary
+school-name:  Cullman HS
+school-place: US, AL, Cullman
+ 
+school-level: college
+school-name: University of Alabama
+ 
+cemetery-name: Valhalla Memory Gardens
+cemetery-place: US, AL, Huntsville
+

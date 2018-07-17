@@ -1,0 +1,13 @@
+name-last: Bass
+name-first: Warriner
+name-given: Warriner L.
+name-nick: Yonnie
+ 
+birth-date: 1924-09-17
+ 
+death-date: 2018-05-14
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+

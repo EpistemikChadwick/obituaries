@@ -1,0 +1,12 @@
+name-last: Stanek
+name-first: Al
+ 
+death-date: 2018-05-08
+ 
+school-level: secondary
+school-name:  Chicopee HS
+school-place: US, MA, Chicopee
+ 
+military-country: US
+military-branch:  Army
+

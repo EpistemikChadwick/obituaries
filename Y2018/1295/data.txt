@@ -1,0 +1,13 @@
+name-last: Claypool
+name-first: Sam
+name-given: J. Sam
+ 
+birth-date: 1929-07-17
+birth-place: US, PA, Slate Lick
+ 
+death-date: 2018-05-24
+death-place:  US, PA, Indiana
+ 
+cemetery-name: Slate Lick Cemetery
+cemetery-place: US, PA, Slate Lick
+

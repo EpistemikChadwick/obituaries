@@ -1,0 +1,19 @@
+name-last: Batten
+name-first: Bob
+name-given: Robert Allen
+name-suffix: Sr.
+ 
+birth-date: 1923-12-24
+ 
+death-date: 2018-05-10
+ 
+school-level: college
+school-name: College of the Holy Cross
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Greenoaks Memorial Park
+cemetery-place: US, LA, Baton Rouge
+

@@ -1,0 +1,9 @@
+source-title: Gwinnett Daily Post
+source-date: 2018-05-16
+source-url: http://www.gwinnettdailypost.com/sports/former-uga-football-great-andy-johnson-dies/article_17dfe320-5921-11e8-8b0f-076e15008da5.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-19
+

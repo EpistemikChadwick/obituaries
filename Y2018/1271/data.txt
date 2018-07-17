@@ -1,0 +1,19 @@
+name-last: Wright
+name-first: Roy
+name-given: Roy Earl
+ 
+birth-date: 1933-09-26
+birth-place: US, OH, Buchtel
+ 
+death-date: 2018-05-05
+ 
+school-level: college
+school-name: Ohio University
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name:  Chattanooga National Cemetery
+cemetery-place: US, TN, Chattanooga
+

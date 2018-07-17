@@ -1,0 +1,20 @@
+name-last: Heckenberg
+name-first: Dale
+name-given: Dale Edward
+ 
+birth-date: 1922-11-07
+birth-place: US, IA, Eddyville
+ 
+death-date: 2018-05-04
+death-place:  US, IA, Pella
+ 
+school-level: secondary
+school-name:  Eddyville HS
+school-place: US, IA, Eddyville
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Henness Cemetery
+cemetery-place: US, IA, Givin
+

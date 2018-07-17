@@ -1,0 +1,9 @@
+source-title: McMillan Funeral Home
+source-date: 2018-05-21
+source-url: http://www.mcmillianfuneralhome.com/obituary/warriner-bass
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-21
+

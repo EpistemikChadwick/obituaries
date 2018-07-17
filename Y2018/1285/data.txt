@@ -1,0 +1,17 @@
+name-last: Gunning
+name-first: Ed
+name-given: Edward M.
+name-suffix: Sr.
+ 
+birth-date: 1934-12-05
+birth-place: US, MD, Baltimore
+ 
+death-date: 2018-05-13
+ 
+school-level: secondary
+school-name:  Southern HS
+school-place: US, MD, Baltimore
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, MD, Brooklyn Park
+

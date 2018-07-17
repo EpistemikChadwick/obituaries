@@ -1,0 +1,13 @@
+name-last: Wehunt
+name-first: Rex
+name-given: Rex Burnett
+ 
+birth-date: 1930-03-06
+birth-place: US, AR, Hot Springs
+ 
+death-date: 2018-04-02
+death-place:  US, TX, Mineola
+ 
+cemetery-name: Cunningham Cemetery
+cemetery-place: US, AR, Royal
+

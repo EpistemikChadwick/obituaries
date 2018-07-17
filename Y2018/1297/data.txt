@@ -1,0 +1,23 @@
+name-last: Greene
+name-first: Claude
+name-given: Henry Claude
+name-suffix: Jr.
+ 
+birth-date: 1929-12-02
+ 
+death-date: 2018-05-28
+death-place:  US, GA, Macon
+ 
+school-level: secondary
+school-name:  Lanier HS
+school-place: US, GA, Macon
+ 
+school-level: college
+school-name: University of South Carolina
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Riverside Cemetery
+cemetery-place: US, GA, Macon
+

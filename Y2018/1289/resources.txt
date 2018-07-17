@@ -1,0 +1,9 @@
+source-title: Chattanoogan.com
+source-date: 2018-05-23
+source-url: http://www.chattanoogan.com/2018/5/23/369270/Mann-David-Fredrick-Dalton.aspx
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-28
+

@@ -1,0 +1,15 @@
+name-last: Pribish
+name-first: Tom
+name-given: Thomas Vincent
+ 
+birth-date: 1926
+ 
+death-date: 2018-04-24
+death-place:  US, OH, Hinckley
+ 
+school-level: secondary
+school-name:  West Technical HS
+school-place: US, OH, Cleveland
+ 
+military-country: US
+military-branch:  Army

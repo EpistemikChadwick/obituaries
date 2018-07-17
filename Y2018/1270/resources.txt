@@ -1,0 +1,8 @@
+source-title: QCOnline.com
+source-date: 2018-05-08
+source-url: http://qconline.com/lifestyles/announcements/obituaries/david-cox/article_3411b343-b19d-5d66-9676-82c9ca654368.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-14

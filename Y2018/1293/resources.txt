@@ -1,0 +1,9 @@
+source-title: Baker Family Funeral Home
+source-date: 2018-05-28
+source-url: https://www.bakerfamilyfuneralhome.com/notices/Stuart-Komer
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-28
+

@@ -1,0 +1,9 @@
+source-title: New Gazette
+source-date: 2018-05-10
+source-url: http://www.news-gazette.com/sports/illini-sports/baseball/2018-05-10/former-illini-great-fletcher-passes-away.html
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-05-11
+

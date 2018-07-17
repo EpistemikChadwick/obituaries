@@ -1,0 +1,18 @@
+name-last: Urbanski
+name-first: Bill
+name-given: William J.
+name-suffix: Jr.
+ 
+birth-date: 1931-05-22
+birth-place: US, NJ, Perth Amboy
+ 
+death-date: 2018-05-06
+death-place:  US, NJ, Manahawkin
+ 
+school-level: secondary
+school-name:  Perth Amboy HS
+school-place: US, NJ, Perth Amboy
+ 
+cemetery-name: Holy Trinity Cemetery
+cemetery-place: US, NJ, Perth Amboy
+ 

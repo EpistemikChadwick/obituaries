@@ -1,0 +1,12 @@
+name-last: Morrissey
+name-first: Gerry
+name-given: Gerald J.
+ 
+death-date: 2018-05-02
+ 
+military-country: US
+military-branch:  Navy
+military-conflict: World War II
+ 
+cemetery-name: Massachusetts National Cemetery
+cemetery-place: US, MA, Bourne

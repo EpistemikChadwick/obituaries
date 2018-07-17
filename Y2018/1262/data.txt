@@ -1,0 +1,24 @@
+name-last: Willet
+name-first: Lyle
+name-given: Lyle V.
+ 
+birth-date: 1922-10-17
+birth-place: US, CA, Modesto
+ 
+death-date: 2018-05-06
+ 
+school-level: secondary
+school-name:  Modesto HS
+school-place: US, CA, Modesto
+ 
+school-level: college
+school-name: Modesto Junior College
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Acacia Memorial Park
+cemetery-place: US, CA, Modesto
+ 
+

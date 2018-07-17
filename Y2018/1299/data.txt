@@ -1,0 +1,15 @@
+name-last: Barker
+name-first: Buddy
+name-given: Raymond Herrell
+ 
+birth-date: 1936-03-12
+ 
+death-date: 2018-05-29
+ 
+school-level: secondary
+school-name:  Martinsburg HS
+school-place: US, WV, Martinsburg
+ 
+cemetery-name: Rosedale Cemetery
+cemetery-place: US, WV, Martinsburg
+

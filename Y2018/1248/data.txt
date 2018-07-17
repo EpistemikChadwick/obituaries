@@ -1,0 +1,19 @@
+name-last: Zanders
+name-first: Danny
+name-given: Danny Harold
+ 
+birth-date: 1928-08-08
+birth-place: US, IA, Malvern
+ 
+death-date: 2018-04-21
+death-place:  US, NE, Omaha
+ 
+school-level: secondary
+school-name:  Malvern HS
+school-place: US, IA, Malvern
+ 
+military-country: US
+military-conflict:  Korean War
+ 
+cemetery-name: Malvern Cemetery
+cemetery-place: US, IA, Malvern

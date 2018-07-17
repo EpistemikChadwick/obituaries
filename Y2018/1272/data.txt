@@ -1,0 +1,12 @@
+name-last: Quilici
+name-first: Frank
+ 
+birth-date: 1939-05-11
+birth-place: US, IL, Chicago
+ 
+death-date: 2018-05-14
+death-place:  US, MN, Burnsville
+ 
+school-level: college
+school-name: Western Michigan University
+

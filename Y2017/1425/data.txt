@@ -1,0 +1,7 @@
+name-last: Tippery
+name-first: Kenneth
+name-given: Kenneth
+ 
+birth-date: 1935-02-05
+ 
+death-date: 2017-11-28

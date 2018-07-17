@@ -1,0 +1,8 @@
+name-last: Fletcher
+name-first: Tom
+ 
+death-date: 2018-05-09
+death-place: US, IL, Danville
+ 
+school-level: college
+school-name: University of Illinois

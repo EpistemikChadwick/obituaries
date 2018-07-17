@@ -1,0 +1,13 @@
+name-last: Lackey
+name-first: Don
+name-given: Donald
+ 
+birth-date: 1932-08-21
+birth-place: US, IL, Paxton
+ 
+death-date: 2018-05-02
+death-place:  US, NE, Kearney
+ 
+military-country: US
+military-branch:  Army
+military-conflict: Korean War

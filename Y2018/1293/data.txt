@@ -1,0 +1,19 @@
+name-last: Komer
+name-first: Stu
+name-given: Stuart
+ 
+birth-date: 1926-03-23
+birth-place: US, MI, Detroit
+ 
+death-date: 2018-05-24
+death-place:  US, FL,
+ 
+school-level: college
+school-name: Ohio State University
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Temple B’nai Israel Cemetery
+cemetery-place: US, NY, Elmira
+
